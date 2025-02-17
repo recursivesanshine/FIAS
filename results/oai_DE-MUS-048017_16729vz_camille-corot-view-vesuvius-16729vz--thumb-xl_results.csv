@@ -1,0 +1,72 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_16729vz_camille-corot-view-vesuvius-16729vz--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_16729vz_camille-corot-view-vesuvius-16729vz--thumb-xl.csv
+
+== Keywords for Atmosphere: Sketch ==
+0.21	ease
+0.12	unrest
+0.12	tension
+0.11	freshness
+
+== Keywords for Atmosphere: Monochromatic ==
+0.05	tension
+0.04	unrest
+0.04	ease
+0.03	freshness
+
+== Keywords for Atmosphere: Expressive ==
+0.24	tension
+0.15	unrest
+0.15	freshness
+0.13	ease
+
+== Keywords for Atmosphere: Landscape ==
+0.13	unrest
+0.12	freshness
+0.10	ease
+0.07	tension
+
+== Keywords for Atmosphere: Architectural ==
+0.18	unrest
+0.12	tension
+0.09	ease
+0.06	freshness
+
+== Keywords for Atmosphere: Water ==
+0.41	freshness
+0.20	unrest
+0.19	ease
+0.13	tension
+
+== Keywords for Atmosphere: Mountain ==
+0.11	freshness
+0.06	tension
+0.04	ease
+0.04	unrest
+
+== Keywords for Atmosphere: Sky ==
+0.27	freshness
+0.16	ease
+0.15	unrest
+0.14	tension
+
+== Keywords for Emotion: Tranquil ==
+0.08	longing
+0.05	churning
+0.03	carefree
+
+== Keywords for Emotion: Serene ==
+0.36	carefree
+0.17	longing
+0.12	churning
+
+== Keywords for Emotion: Nostalgic ==
+0.04	longing
+0.04	churning
+0.01	carefree
+
+== Keywords for Emotion: Introspective ==
+0.14	longing
+0.09	churning
+0.05	carefree
+

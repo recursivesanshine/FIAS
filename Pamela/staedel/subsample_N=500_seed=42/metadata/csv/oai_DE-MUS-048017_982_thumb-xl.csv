@@ -1,0 +1,152 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Genre,genre
+motiv,Motiv,Kolosseum (Rom),Colosseum (Rome)
+motiv,Motiv,Rom,Rome
+motiv,Motiv,Ruine,ruin
+motiv,Motiv,Frau,woman
+motiv,Motiv,Kind,child
+motiv,Motiv,Mann,man
+motiv,Motiv,Personengruppe,group of people
+motiv,Motiv,Tier,animal
+bildelement,Bildelement,Architektur,architecture
+bildelement,Bildelement,Kolosseum (Rom),Colosseum (Rome)
+bildelement,Bildelement,Rom,Rome
+bildelement,Bildelement,Italien,Italy
+bildelement,Bildelement,Ruine,ruin
+bildelement,Bildelement,Rundbogen,round arch
+bildelement,Bildelement,Mauerwerk,masonry
+bildelement,Bildelement,Amphitheater,amphitheatre
+bildelement,Bildelement,Arkade,arcade
+bildelement,Bildelement,Stein,stone
+bildelement,Bildelement,Gras,grass
+bildelement,Bildelement,Buschwerk,shrubbery
+bildelement,Bildelement,Rasen,lawn
+bildelement,Bildelement,Wiese,meadow
+bildelement,Bildelement,Weg,route
+bildelement,Bildelement,Kreuz,cross
+bildelement,Bildelement,Holzkreuz,wooden cross
+bildelement,Bildelement,Arma Christi,instruments of the Passion
+bildelement,Bildelement,Speer,spear
+bildelement,Bildelement,Essigschwamm,Holy Sponge
+bildelement,Bildelement,Dornenkrone,crown of thorns
+bildelement,Bildelement,Sockel,base
+bildelement,Bildelement,Podest,platform
+bildelement,Bildelement,Gebet,prayer
+bildelement,Bildelement,Säule,column
+bildelement,Bildelement,Altar,altar
+bildelement,Bildelement,Stele,stele
+bildelement,Bildelement,Relief,relief
+bildelement,Bildelement,Sarkophag,sarcophagus
+bildelement,Bildelement,Fragment,fragment
+bildelement,Bildelement,Tribüne,platform
+bildelement,Bildelement,Mönch,monk
+bildelement,Bildelement,Pilger,pilgrim (male)
+bildelement,Bildelement,Pilgerin,pilgrim (female)
+bildelement,Bildelement,Pilgerstab,pilgrim's staff
+bildelement,Bildelement,Pilgerhut,pilgrim's hat
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Hund,dog
+bildelement,Bildelement,Bettler,beggar (male)
+bildelement,Bildelement,Bettlerin,beggar (female)
+bildelement,Bildelement,Musikinstrument,musical instrument
+bildelement,Bildelement,Kutte,frock
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Kopfbedeckung,head covering
+bildelement,Bildelement,Kapuze,hood
+bildelement,Bildelement,Buch,book
+bildelement,Bildelement,Kleid,dress
+bildelement,Bildelement,Schürze,apron
+bildelement,Bildelement,Geld,money
+bildelement,Bildelement,Tasche,bag
+bildelement,Bildelement,Kopftuch,headscarf
+bildelement,Bildelement,Schmuck,jewellery
+bildelement,Bildelement,Halskette,necklace
+bildelement,Bildelement,Ohrring,earring
+bildelement,Bildelement,Mantel,"coat, cloak"
+bildelement,Bildelement,Umhang,cloak
+bildelement,Bildelement,Vollbart,full beard
+bildelement,Bildelement,Greis,old man
+bildelement,Bildelement,Trinkgefäß,drinking vessel
+bildelement,Bildelement,Beutel,pouch
+bildelement,Bildelement,Holztür,wooden door
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Baum,tree
+bildelement,Bildelement,Vogel,bird
+bildelement,Bildelement,Wolke,cloud
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Basilika,basilica
+bildelement,Bildelement,Anhöhe,rise
+bildelement,Bildelement,Rede,speech
+bildelement,Bildelement,Gebetsgestus,gesture of prayer
+bildelement,Bildelement,Tonsur,tonsure
+bildelement,Bildelement,Ordenstracht,habit
+bildelement,Bildelement,Nonne,nun
+bildelement,Bildelement,Bewusstlosigkeit,unconsciousness
+bildelement,Bildelement,Dominikaner,Dominican (male)
+bildelement,Bildelement,Franziskaner,Franciscan
+bildelement,Bildelement,Kapuziner,Capuchin monk
+bildelement,Bildelement,Barfüßigkeit,barefootedness
+bildelement,Bildelement,Korb,basket
+bildelement,Bildelement,Säugling,infant
+bildelement,Bildelement,Laterne,lantern
+bildelement,Bildelement,Gläubige,believer
+bildelement,Bildelement,Predigt,sermon
+bildelement,Bildelement,Prediger,preacher
+bildelement,Bildelement,Kultstätte,cult site
+bildelement,Bildelement,Arena,arena
+bildelement,Bildelement,Vordergrund,foreground
+bildelement,Bildelement,Hintergrund,background
+bildelement,Bildelement,Mittelgrund,middle ground
+bildelement,Bildelement,Säulenstumpf,truncated column
+bildelement,Bildelement,Mimik,facial expression
+bildelement,Bildelement,Gestik,gesticulation
+bildelement,Bildelement,Geste,gesture
+bildelement,Bildelement,Betender,orans (male)
+bildelement,Bildelement,Betende,orans (female)
+bildelement,Bildelement,Schriftzeichen,"letter, character"
+bildelement,Bildelement,Bild-im-Bild,picture-in-picture
+bildelement,Bildelement,Kniender,kneeling man
+bildelement,Bildelement,Kniende,kneeling woman
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Hockender,crouching man
+bildelement,Bildelement,Stehender,standing man
+bildelement,Bildelement,Stehende,standing woman (standing people)
+bildelement,Bildelement,Mädchen,girl
+bildelement,Bildelement,Junge,boy
+bildelement,Bildelement,Weihwasserbecken,stoup
+bildelement,Bildelement,Dekolleté,décolleté
+bildelement,Bildelement,Bart,beard
+bildelement,Bildelement,Hundeleine,dog leash
+bildelement,Bildelement,Apsis,apse
+bildelement,Bildelement,Rückenfigur,figure seen from the back
+bildelement,Bildelement,Goldschmuck,gold jewellery
+assoziation,Assoziation,Pilgerreise,pilgrimage
+assoziation,Assoziation,Armut,poverty
+assoziation,Assoziation,Christentum,Christianity
+assoziation,Assoziation,Religion,religion
+assoziation,Assoziation,Glaube,belief
+assoziation,Assoziation,Gemeinschaft,"community, association"
+assoziation,Assoziation,Orden,order
+assoziation,Assoziation,Opfer (Religion),offering
+assoziation,Assoziation,Christliche Kirche,Christian church
+assoziation,Assoziation,Antike,antiquity
+assoziation,Assoziation,Heidentum,paganism
+assoziation,Assoziation,Bekehrung,conversion
+assoziation,Assoziation,Denkmal,memorial
+assoziation,Assoziation,Gedenkstätte,historical site
+assoziation,Assoziation,Theater,theatre
+assoziation,Assoziation,Kulisse,backdrop
+atmosphäre,Atmosphäre,Schwere,heaviness
+atmosphäre,Atmosphäre,Nüchternheit,sobriety
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Fülle,abundance
+atmosphäre,Atmosphäre,Kontemplation,contemplation
+emotion,Emotion,aufwühlend,churning
+emotion,Emotion,kühl,cool
+emotion,Emotion,befremdend,disconcerting
+emotion,Emotion,andächtig,devout
+emotion,Emotion,ernsthaft,earnestly

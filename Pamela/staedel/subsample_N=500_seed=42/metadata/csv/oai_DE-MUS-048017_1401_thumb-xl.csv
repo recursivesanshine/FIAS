@@ -1,0 +1,45 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Selbstporträt,self-portrait
+motiv,Motivgattung,Porträt,portrait
+motiv,Motiv,Mann,man
+motiv,Motiv,Künstlerporträt,artist portrait
+motiv,Motiv,Otto Scholderer,Otto Scholderer
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Künstlerporträt,artist portrait
+bildelement,Bildelement,Künstler,artist
+bildelement,Bildelement,Physiognomie,physiognomy
+bildelement,Bildelement,Blickkontakt,eye contact
+bildelement,Bildelement,Dialog,dialogue
+bildelement,Bildelement,Hüftbild,half-length portrait
+bildelement,Bildelement,Bart,beard
+bildelement,Bildelement,Vollbart,full beard
+bildelement,Bildelement,Gehrock,frock coat
+bildelement,Bildelement,Krawatte,cravat
+bildelement,Bildelement,Weste,vest
+bildelement,Bildelement,Hemd,shirt
+bildelement,Bildelement,Knopf,button
+bildelement,Bildelement,Kragen,collar
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Hose,trousers
+bildelement,Bildelement,Muster,pattern
+bildelement,Bildelement,Karomuster,checked pattern
+bildelement,Bildelement,Schmucknadel,ornamental pin
+bildelement,Bildelement,Knopfleiste,button facing
+bildelement,Bildelement,Lichtführung,lighting design
+bildelement,Bildelement,Gestik,gesticulation
+bildelement,Bildelement,Pose,pose
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+assoziation,Assoziation,Repräsentation,social image
+assoziation,Assoziation,Selbstbewusstsein,self-assurance
+assoziation,Assoziation,Wirklichkeit,reality
+assoziation,Assoziation,Charakterisierung,characterisation
+assoziation,Assoziation,Haltung (Mensch),posture
+assoziation,Assoziation,Lebensalter,age
+atmosphäre,Atmosphäre,Ehrfurcht,reverence
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Geheimnis,secret
+atmosphäre,Atmosphäre,Nachdenklichkeit,thoughtfulness
+emotion,Emotion,einsam,lonely
+emotion,Emotion,ernsthaft,earnestly
+emotion,Emotion,kühl,cool

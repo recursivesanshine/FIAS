@@ -1,0 +1,56 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_sg377_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_sg377_thumb-xl.csv
+
+== Keywords for Atmosphere: Post-Impressionist ==
+0.05	gaiety
+0.03	ease
+0.03	secret
+0.02	rigidity
+0.02	freshness
+0.01	abundance
+
+== Keywords for Atmosphere: Vibrant ==
+0.22	rigidity
+0.18	freshness
+0.17	gaiety
+0.16	abundance
+0.07	ease
+0.06	secret
+
+== Keywords for Atmosphere: Domestic ==
+0.15	gaiety
+0.10	ease
+0.10	secret
+0.08	abundance
+0.07	rigidity
+0.05	freshness
+
+== Keywords for Atmosphere: Traditional ==
+0.17	gaiety
+0.08	ease
+0.07	secret
+0.07	freshness
+0.05	abundance
+0.05	rigidity
+
+== Keywords for Emotion: Calm ==
+0.15	carefree
+0.13	joyful
+0.10	eerie
+
+== Keywords for Emotion: Serene ==
+0.36	carefree
+0.28	eerie
+0.11	joyful
+
+== Keywords for Emotion: Contemplative ==
+0.19	eerie
+0.08	carefree
+0.07	joyful
+
+== Keywords for Emotion: Nostalgic ==
+0.03	eerie
+0.03	joyful
+0.01	carefree
+

@@ -1,0 +1,96 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Genre,genre
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Mann,man
+motiv,Motiv,Frau,woman
+motiv,Motiv,Kind,child
+motiv,Motiv,Personengruppe,group of people
+motiv,Motiv,Tier,animal
+bildelement,Bildelement,Bauschaden,structural damage
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Fensterladen,shutter
+bildelement,Bildelement,Fensterglas,window glass
+bildelement,Bildelement,Bleiverglasung,leaded glass
+bildelement,Bildelement,Ferkel,piglet
+bildelement,Bildelement,Schürze,apron
+bildelement,Bildelement,Schüssel,dish
+bildelement,Bildelement,Hahn,rooster
+bildelement,Bildelement,Huhn,chicken
+bildelement,Bildelement,Henne,hen
+bildelement,Bildelement,Haus,house
+bildelement,Bildelement,Hemd,shirt
+bildelement,Bildelement,Heu,hay
+bildelement,Bildelement,Stroh,straw
+bildelement,Bildelement,Sense,scythe
+bildelement,Bildelement,Schleifstein,grindstone
+bildelement,Bildelement,Sitzender,seated man
+bildelement,Bildelement,Stehender,standing man
+bildelement,Bildelement,Stehende,standing woman (standing people)
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Mädchen,girl
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Mauerwerk,masonry
+bildelement,Bildelement,Wagenrad,cartwheel
+bildelement,Bildelement,Schornstein,chimney
+bildelement,Bildelement,Strohdach,straw roof
+bildelement,Bildelement,Korb,basket
+bildelement,Bildelement,Rauch,smoke
+bildelement,Bildelement,Hammer,hammer
+bildelement,Bildelement,Werkzeug,tool
+bildelement,Bildelement,Gras,grass
+bildelement,Bildelement,Ziegel,brick
+bildelement,Bildelement,Pfeife,pipe
+bildelement,Bildelement,Tonpfeife,pitchpipe
+bildelement,Bildelement,Dutt,bun
+bildelement,Bildelement,Tuch,cloth
+bildelement,Bildelement,Hund,dog
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Leiter,"ladder, leader"
+bildelement,Bildelement,Ei,egg
+bildelement,Bildelement,Löffel,spoon
+bildelement,Bildelement,Haube (Kopfbedeckung),bonnet
+bildelement,Bildelement,Gans,goose
+bildelement,Bildelement,Ente,duck
+bildelement,Bildelement,Barfüßigkeit,barefootedness
+bildelement,Bildelement,Holzscheit,log
+bildelement,Bildelement,Schubkarren,wheelbarrow
+bildelement,Bildelement,Fass,barrel
+bildelement,Bildelement,Brett,board
+bildelement,Bildelement,Eimer,bucket
+bildelement,Bildelement,Rechen,rake
+bildelement,Bildelement,Sichel,sickel
+bildelement,Bildelement,Stein,stone
+bildelement,Bildelement,Fachwerk,half-timbering
+bildelement,Bildelement,Wolke,cloud
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Weste,vest
+bildelement,Bildelement,Küken,chick
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Bauernhof,farmyard
+bildelement,Bildelement,Bügeleisen,flat iron
+bildelement,Bildelement,Rückenfigur,figure seen from the back
+bildelement,Bildelement,Vogel,bird
+bildelement,Bildelement,Rock,skirt
+bildelement,Bildelement,Mieder,bodice
+bildelement,Bildelement,Bluse,blouse
+bildelement,Bildelement,Schultertuch,shawl
+bildelement,Bildelement,Kopftuch,headscarf
+bildelement,Bildelement,Jacke,coat
+bildelement,Bildelement,Besen,broom
+bildelement,Bildelement,Hof (Architektur),courtyard
+bildelement,Bildelement,Stall,stall
+bildelement,Bildelement,Karren,cart
+bildelement,Bildelement,Raucher,smoker (male)
+bildelement,Bildelement,Tierfutter,animal food
+bildelement,Bildelement,Kessel,cauldron
+bildelement,Bildelement,Magd,maid
+bildelement,Bildelement,Bauer,"peasant, farmer (male)"
+bildelement,Bildelement,Bäuerin,"peasant, farmer (female)"
+bildelement,Bildelement,Wirtschaftsgebäude,farm building
+assoziation,Assoziation,Taube,dove
+assoziation,Assoziation,Taubenschlag,dovecote
+assoziation,Assoziation,Schmiede,smithy
+assoziation,Assoziation,Arbeit,work

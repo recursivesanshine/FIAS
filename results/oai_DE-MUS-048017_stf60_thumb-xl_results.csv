@@ -1,0 +1,638 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf60_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf60_thumb-xl.csv
+
+== Keywords for Atmosphere: Historical ==
+0.08	magnificence
+0.03	grandeur
+0.03	calm
+0.03	earnestness
+
+== Keywords for Atmosphere: Architectural ==
+0.16	grandeur
+0.12	magnificence
+0.05	earnestness
+0.05	calm
+
+== Keywords for Atmosphere: Ornate ==
+0.12	earnestness
+0.10	magnificence
+0.08	grandeur
+0.02	calm
+
+== Keywords for Atmosphere: Gothic ==
+0.17	magnificence
+0.11	grandeur
+0.09	earnestness
+0.06	calm
+
+== Keywords for Atmosphere: Urban ==
+0.13	magnificence
+0.11	grandeur
+0.06	earnestness
+0.05	calm
+
+== Keywords for Emotion: Majestic ==
+0.27	curious
+0.14	exciting
+0.07	even-tempered
+
+== Keywords for Emotion: Timeless ==
+0.07	even-tempered
+0.06	curious
+0.04	exciting
+
+== Keywords for Emotion: Nostalgic ==
+0.06	curious
+0.05	exciting
+0.02	even-tempered
+
+== Keywords for Emotion: Serene ==
+0.17	even-tempered
+0.10	curious
+0.08	exciting
+
+== Picture Elements: Gothic Architecture ==
+0.34	console (architecture)
+0.29	capital (architecture)
+0.27	Ghent
+0.20	volute
+0.17	gutter
+0.16	round arch
+0.16	niche
+0.15	shadow
+0.14	building
+0.14	bridle
+0.12	trefoil arch
+0.11	mirroring
+0.11	Old town hall (Ghent)
+0.11	placard
+0.10	deer
+0.10	oriel
+0.10	script
+0.10	blind arch
+0.10	portal
+0.10	Waterspout
+0.10	facade
+0.09	roof gutter
+0.09	tracery
+0.09	pole
+0.09	antlers
+0.08	chimney
+0.08	entrance
+0.08	support
+0.08	city
+0.07	pinnacle
+0.07	stair
+0.07	stair
+0.07	street
+0.07	baldachin
+0.07	light
+0.07	banister
+0.06	frieze
+0.06	plaza
+0.05	sky
+0.05	door
+0.05	wheel
+0.05	shield
+0.05	half-column
+0.05	decoration
+0.04	gemel window
+0.03	light reflection
+0.03	roof
+0.03	window
+0.03	ornament
+0.03	town hall
+0.03	window glass
+0.02	astragal window
+0.02	foliage
+0.02	striped pattern
+0.02	balcony
+0.02	wooden door
+"0.02	pitched roof, saddle roof"
+0.02	door opening
+0.02	street lamp
+0.02	roof tile
+0.01	movement (of the body)
+0.01	letter (typography)
+0.01	horse
+0.01	coach
+0.01	water
+0.01	paving stone
+"0.01	cover, blanket"
+0.01	doorknob
+0.01	floral ornament
+0.01	animal
+0.01	head (animal)
+
+== Picture Elements: Ornate Stonework ==
+0.49	roof tile
+0.43	floral ornament
+0.39	pinnacle
+0.38	paving stone
+0.27	street
+0.25	street lamp
+0.21	pole
+0.18	ornament
+0.17	striped pattern
+0.16	niche
+0.15	oriel
+0.13	stair
+0.13	stair
+0.12	volute
+0.12	decoration
+0.11	bridle
+0.08	script
+"0.08	cover, blanket"
+0.07	capital (architecture)
+0.07	shadow
+0.07	tracery
+0.06	shield
+0.06	Ghent
+0.05	console (architecture)
+0.04	building
+0.04	city
+0.04	letter (typography)
+0.04	deer
+"0.04	pitched roof, saddle roof"
+0.04	Waterspout
+0.04	animal
+0.04	window
+0.04	support
+0.04	light
+0.03	gutter
+0.03	antlers
+0.03	wheel
+0.03	chimney
+0.03	sky
+0.03	light reflection
+0.02	window glass
+0.02	movement (of the body)
+0.02	blind arch
+0.02	round arch
+0.02	entrance
+0.02	coach
+0.02	placard
+0.02	doorknob
+0.02	gemel window
+0.02	door
+0.02	banister
+0.02	portal
+0.02	head (animal)
+0.01	frieze
+0.01	baldachin
+0.01	balcony
+0.01	half-column
+0.01	astragal window
+0.01	foliage
+0.01	horse
+0.01	roof gutter
+0.01	town hall
+0.01	trefoil arch
+0.01	door opening
+0.01	roof
+0.01	facade
+0.01	Old town hall (Ghent)
+0.01	mirroring
+0.01	water
+0.01	wooden door
+0.01	plaza
+
+== Picture Elements: Pointed Arches ==
+0.43	pinnacle
+"0.40	pitched roof, saddle roof"
+0.35	round arch
+0.33	pole
+0.33	trefoil arch
+0.30	blind arch
+0.24	sky
+0.24	volute
+0.19	ornament
+0.18	striped pattern
+0.17	window
+0.16	wheel
+0.16	window glass
+0.15	antlers
+0.15	shadow
+0.15	shield
+0.14	animal
+0.13	bridle
+0.13	capital (architecture)
+0.12	script
+0.11	chimney
+0.11	door
+0.11	Waterspout
+0.11	building
+0.10	mirroring
+0.10	light
+0.09	console (architecture)
+0.09	decoration
+0.09	head (animal)
+0.09	deer
+0.09	street
+0.08	paving stone
+0.08	horse
+0.08	light reflection
+0.07	floral ornament
+0.07	tracery
+0.07	niche
+0.07	placard
+0.07	gemel window
+0.07	door opening
+0.07	Ghent
+0.06	gutter
+0.06	street lamp
+0.06	portal
+0.06	oriel
+0.06	support
+0.06	plaza
+0.06	foliage
+0.05	banister
+0.05	half-column
+0.05	city
+0.05	movement (of the body)
+0.04	roof tile
+0.04	stair
+0.04	stair
+0.04	roof
+0.04	baldachin
+0.04	astragal window
+0.04	entrance
+0.03	town hall
+0.03	coach
+0.03	frieze
+0.03	letter (typography)
+0.03	facade
+0.02	roof gutter
+0.02	water
+0.02	balcony
+0.02	wooden door
+"0.02	cover, blanket"
+0.01	Old town hall (Ghent)
+0.01	doorknob
+
+== Picture Elements: Steeply Pitched Roof ==
+"0.91	pitched roof, saddle roof"
+0.41	roof
+0.28	pinnacle
+0.23	paving stone
+0.23	roof tile
+0.21	roof gutter
+0.18	Waterspout
+0.10	volute
+0.08	door
+0.06	bridle
+0.06	script
+0.06	light
+0.06	pole
+0.05	building
+0.05	street lamp
+0.04	placard
+0.04	street
+0.04	window
+0.04	support
+0.03	sky
+0.03	shadow
+0.03	deer
+0.03	oriel
+0.03	shield
+0.03	window glass
+0.03	door opening
+0.02	striped pattern
+0.02	light reflection
+0.02	wheel
+0.02	chimney
+0.02	city
+0.02	gutter
+0.02	antlers
+0.02	entrance
+0.01	portal
+0.01	ornament
+0.01	mirroring
+0.01	wooden door
+0.01	niche
+0.01	gemel window
+0.01	baldachin
+0.01	banister
+0.01	decoration
+0.01	Ghent
+0.01	half-column
+0.01	tracery
+0.01	facade
+0.01	coach
+0.01	stair
+0.01	stair
+0.01	blind arch
+0.01	round arch
+0.01	frieze
+0.01	foliage
+0.01	astragal window
+0.01	water
+0.01	letter (typography)
+0.01	balcony
+0.01	town hall
+0.01	animal
+0.01	plaza
+0.01	trefoil arch
+0.01	floral ornament
+0.01	capital (architecture)
+0.01	horse
+0.01	movement (of the body)
+0.01	head (animal)
+0.01	console (architecture)
+0.01	Old town hall (Ghent)
+"0.01	cover, blanket"
+0.01	doorknob
+
+== Picture Elements: Corner Turrets ==
+0.21	tracery
+0.18	volute
+0.16	sky
+0.16	shadow
+0.15	floral ornament
+0.14	shield
+0.12	bridle
+0.11	mirroring
+0.11	ornament
+0.10	animal
+0.09	pinnacle
+0.08	wheel
+0.08	horse
+0.07	script
+0.07	oriel
+0.07	light
+0.07	head (animal)
+0.06	pole
+0.06	door
+0.06	antlers
+0.06	deer
+0.06	portal
+0.05	window
+0.05	window glass
+0.05	niche
+0.05	coach
+0.04	banister
+0.04	frieze
+0.04	round arch
+0.04	entrance
+0.04	Waterspout
+0.04	gutter
+0.04	decoration
+0.04	movement (of the body)
+0.04	placard
+0.04	striped pattern
+0.04	trefoil arch
+0.04	stair
+0.04	stair
+0.04	street
+0.04	light reflection
+0.03	Ghent
+0.03	city
+0.03	support
+0.02	foliage
+0.02	blind arch
+0.02	facade
+0.02	chimney
+0.02	gemel window
+0.02	door opening
+0.02	roof
+0.02	paving stone
+0.02	baldachin
+0.02	half-column
+0.02	roof tile
+"0.02	pitched roof, saddle roof"
+0.02	building
+0.02	balcony
+0.01	roof gutter
+0.01	astragal window
+0.01	town hall
+0.01	water
+0.01	street lamp
+0.01	plaza
+"0.01	cover, blanket"
+0.01	capital (architecture)
+0.01	letter (typography)
+0.01	console (architecture)
+0.01	wooden door
+0.01	doorknob
+0.01	Old town hall (Ghent)
+
+== Picture Elements: Horse-Drawn Carriage ==
+0.63	horse
+"0.34	pitched roof, saddle roof"
+0.24	bridle
+0.13	animal
+0.12	volute
+0.11	wheel
+0.10	portal
+0.10	head (animal)
+0.08	round arch
+0.08	pinnacle
+0.08	Waterspout
+0.06	pole
+0.06	deer
+0.06	script
+0.05	niche
+0.05	shield
+0.05	Ghent
+0.05	antlers
+0.05	decoration
+0.04	light
+0.04	shadow
+0.03	support
+0.03	door
+0.03	oriel
+0.03	street
+0.03	ornament
+0.03	foliage
+0.03	placard
+0.03	blind arch
+0.02	gutter
+0.02	tracery
+0.02	striped pattern
+0.02	building
+0.02	baldachin
+0.02	chimney
+0.02	half-column
+0.02	sky
+0.02	balcony
+0.02	roof
+0.01	mirroring
+0.01	entrance
+0.01	banister
+0.01	floral ornament
+0.01	city
+0.01	frieze
+0.01	movement (of the body)
+0.01	stair
+0.01	stair
+0.01	window
+0.01	light reflection
+0.01	wooden door
+0.01	town hall
+0.01	trefoil arch
+0.01	Old town hall (Ghent)
+0.01	door opening
+0.01	roof gutter
+0.01	water
+0.01	street lamp
+0.01	coach
+0.01	astragal window
+0.01	roof tile
+0.01	facade
+0.01	plaza
+0.01	gemel window
+0.01	letter (typography)
+0.01	window glass
+0.01	console (architecture)
+0.01	doorknob
+"0.01	cover, blanket"
+0.01	capital (architecture)
+0.01	paving stone
+
+== Picture Elements: Empty Street ==
+0.80	street
+0.43	street lamp
+0.25	bridle
+0.23	volute
+0.22	deer
+0.21	city
+0.20	placard
+0.19	antlers
+0.18	light
+0.17	script
+0.16	door
+0.16	oriel
+0.15	half-column
+0.15	light reflection
+0.15	gutter
+0.14	chimney
+0.13	niche
+0.13	Waterspout
+0.13	baldachin
+0.13	frieze
+0.11	Ghent
+0.11	wheel
+0.10	town hall
+0.09	support
+0.08	roof
+0.08	shield
+0.08	banister
+0.08	doorknob
+0.08	entrance
+0.08	portal
+0.08	tracery
+0.07	round arch
+0.07	pole
+0.07	window glass
+0.07	coach
+0.06	decoration
+0.06	gemel window
+0.06	window
+0.06	pinnacle
+0.06	letter (typography)
+0.05	sky
+0.05	shadow
+0.05	water
+0.05	Old town hall (Ghent)
+0.05	door opening
+0.04	stair
+0.04	stair
+0.04	ornament
+0.04	balcony
+0.04	roof gutter
+0.04	blind arch
+0.04	foliage
+0.04	trefoil arch
+0.03	plaza
+0.03	wooden door
+0.03	roof tile
+0.03	movement (of the body)
+0.03	facade
+0.03	astragal window
+0.03	building
+0.02	striped pattern
+0.02	mirroring
+0.02	paving stone
+"0.02	cover, blanket"
+0.02	floral ornament
+0.01	head (animal)
+0.01	capital (architecture)
+0.01	horse
+0.01	animal
+"0.01	pitched roof, saddle roof"
+0.01	console (architecture)
+
+== Picture Elements: Sepia Tone ==
+0.10	volute
+0.09	script
+0.09	bridle
+0.07	light
+0.06	deer
+0.06	portal
+0.05	niche
+0.05	shadow
+0.05	light reflection
+0.04	support
+0.04	oriel
+0.03	wheel
+0.03	street
+0.03	sky
+0.03	mirroring
+0.03	antlers
+0.03	door
+0.03	entrance
+0.03	pole
+0.03	placard
+0.03	pinnacle
+0.03	roof
+0.03	tracery
+0.02	banister
+0.02	shield
+0.02	letter (typography)
+0.02	frieze
+0.02	gutter
+0.02	Waterspout
+0.02	chimney
+0.02	blind arch
+0.02	window glass
+0.02	decoration
+0.02	stair
+0.02	stair
+0.02	ornament
+0.02	coach
+0.02	building
+0.02	street lamp
+0.02	baldachin
+0.02	Ghent
+0.02	half-column
+0.02	foliage
+0.02	city
+0.01	town hall
+0.01	window
+0.01	door opening
+0.01	trefoil arch
+0.01	round arch
+0.01	facade
+0.01	gemel window
+0.01	plaza
+0.01	water
+0.01	striped pattern
+0.01	roof gutter
+0.01	balcony
+0.01	roof tile
+0.01	movement (of the body)
+0.01	animal
+0.01	head (animal)
+0.01	floral ornament
+0.01	doorknob
+0.01	wooden door
+0.01	horse
+"0.01	pitched roof, saddle roof"
+0.01	astragal window
+"0.01	cover, blanket"
+0.01	Old town hall (Ghent)
+0.01	console (architecture)
+0.01	capital (architecture)
+0.01	paving stone
+

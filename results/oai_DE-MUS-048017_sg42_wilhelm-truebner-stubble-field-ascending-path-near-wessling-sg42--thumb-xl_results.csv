@@ -1,0 +1,132 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_sg42_wilhelm-truebner-stubble-field-ascending-path-near-wessling-sg42--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_sg42_wilhelm-truebner-stubble-field-ascending-path-near-wessling-sg42--thumb-xl.csv
+
+== Keywords for Atmosphere: Cloudy ==
+0.10	tension
+0.08	calm
+0.06	trust
+0.04	freshness
+0.02	harmony
+
+== Keywords for Atmosphere: Stormy ==
+0.10	tension
+0.05	calm
+0.03	trust
+0.02	freshness
+0.02	harmony
+
+== Keywords for Atmosphere: Rural ==
+0.12	tension
+0.08	freshness
+0.06	trust
+0.04	calm
+0.01	harmony
+
+== Keywords for Atmosphere: Impending Storm ==
+0.16	tension
+0.08	calm
+0.05	trust
+0.02	freshness
+0.02	harmony
+
+== Keywords for Emotion: Melancholy ==
+0.16	curious
+0.06	lonely
+0.06	even-tempered
+"0.02	soothing, calming"
+0.02	carefree
+
+== Keywords for Emotion: Serene ==
+0.36	carefree
+"0.23	soothing, calming"
+0.22	lonely
+0.17	even-tempered
+0.10	curious
+
+== Keywords for Emotion: Tranquil ==
+0.09	curious
+"0.05	soothing, calming"
+0.04	even-tempered
+0.03	lonely
+0.03	carefree
+
+== Keywords for Emotion: Somber ==
+0.13	curious
+0.04	lonely
+0.04	even-tempered
+0.02	carefree
+"0.02	soothing, calming"
+
+== Picture Elements: Winding Path ==
+0.20	Wessling
+0.15	route
+0.06	furrow
+0.06	building
+0.05	forest
+0.05	hill
+0.03	sky
+0.02	cloud
+0.02	house
+0.02	window
+
+== Picture Elements: Houses ==
+0.19	house
+0.09	building
+0.06	route
+0.06	Wessling
+0.05	hill
+0.04	furrow
+0.03	sky
+0.01	cloud
+0.01	window
+0.01	forest
+
+== Picture Elements: Field ==
+0.20	route
+0.16	furrow
+0.13	hill
+0.11	Wessling
+0.09	forest
+0.06	cloud
+0.06	sky
+0.05	house
+0.04	building
+0.04	window
+
+== Picture Elements: Tire Tracks ==
+0.17	route
+0.06	sky
+0.06	hill
+0.04	furrow
+0.04	Wessling
+0.04	cloud
+0.04	house
+0.02	window
+0.02	building
+0.01	forest
+
+== Picture Elements: Clouds ==
+0.85	cloud
+0.13	route
+0.09	sky
+0.06	Wessling
+0.06	furrow
+0.05	hill
+0.04	window
+0.03	forest
+0.03	house
+0.01	building
+
+== Picture Elements: Sky ==
+0.88	sky
+0.27	route
+0.17	furrow
+0.14	Wessling
+0.14	hill
+0.11	window
+0.11	cloud
+0.11	forest
+0.05	house
+0.03	building
+

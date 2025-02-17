@@ -1,0 +1,97 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Interieur,interior
+motiv,Motivgattung,Akt,nude
+motiv,Motivgattung,Historie,historical narration
+motiv,Motivgattung,Biblische Darstellung,Biblical portrayal
+motiv,Motivgattung,Mythologische Darstellung,mythological representation
+motiv,Motiv,Innenraum,interior space
+motiv,Motiv,Raum,space
+motiv,Motiv,Museum,museum
+motiv,Motiv,Künste,arts
+motiv,Motiv,Galleria degli Uffizi (Florenz),Galleria degli Uffizi (Florence)
+motiv,Motiv,Florenz,Florence
+motiv,Motiv,Italien,Italy
+motiv,Motiv,Madonna,Madonna
+motiv,Motiv,Jesuskind,Christ Child
+motiv,Motiv,Venus,Venus
+motiv,Motiv,Herkules,Hercules
+motiv,Motiv,Perseus,Perseus
+motiv,Motiv,Andromeda,Andromeda
+motiv,Motiv,Phineus (Sohn des Belos),Phineus (Sohn des Belos)
+motiv,Motiv,Antoninus Pius (Römischer Kaiser),Antoninus Pius (Roman emperor)
+motiv,Motiv,Nessos,Nessus
+motiv,Motiv,Maria Magdalena,Mary Magdalene
+motiv,Motiv,Jakobus der Ältere (Apostel),James the Elder (apostle)
+motiv,Motiv,Katharina von Alexandria (Heilige),Saint Catherine of Alexandria
+motiv,Motiv,Vibia Sabina,Vibia Sabina
+motiv,Motiv,Johannes der Täufer (Prophet),John the Baptist
+bildelement,Bildelement,Innenraum,interior space
+bildelement,Bildelement,Raum,space
+bildelement,Bildelement,Museum,museum
+bildelement,Bildelement,Künste,arts
+bildelement,Bildelement,Florenz,Florence
+bildelement,Bildelement,Italien,Italy
+bildelement,Bildelement,Gang (Architektur),corridor (architecture)
+bildelement,Bildelement,Korridor,hallway
+bildelement,Bildelement,Fußboden,floor
+bildelement,Bildelement,Fliesenboden,tile floor
+bildelement,Bildelement,Fliese,tile
+bildelement,Bildelement,Postament,pedestal
+bildelement,Bildelement,Säulenstumpf,truncated column
+bildelement,Bildelement,Basis,base
+bildelement,Bildelement,Büste,bust (sculpture)
+bildelement,Bildelement,Skulptur,sculpture
+bildelement,Bildelement,Pose,pose
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Mischwesen,hybrid
+bildelement,Bildelement,Gewand,garment
+bildelement,Bildelement,Nacktheit,nudity
+bildelement,Bildelement,Reihung,sequence
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Hocker,stool
+bildelement,Bildelement,Tisch,table
+bildelement,Bildelement,Vitrine,vitrine
+bildelement,Bildelement,Papier,paper
+bildelement,Bildelement,Stuhl,chair
+bildelement,Bildelement,Relief,relief
+bildelement,Bildelement,Bild-im-Bild,picture-in-picture
+bildelement,Bildelement,Gemälde,painting (artwork)
+bildelement,Bildelement,Rahmen,frame
+bildelement,Bildelement,Christliche Kunst,Christian art
+bildelement,Bildelement,Sammlung,collection
+bildelement,Bildelement,Präsentation,presentation
+bildelement,Bildelement,Decke (Architektur),ceiling
+bildelement,Bildelement,Deckenbalken,ceiling beams
+bildelement,Bildelement,Fries,frieze
+bildelement,Bildelement,Ornament,ornament
+bildelement,Bildelement,Pflanzenornament,floral ornament
+bildelement,Bildelement,Ornamentband,ornamental band
+bildelement,Bildelement,Wappen,coat of arms
+bildelement,Bildelement,Volute,volute
+bildelement,Bildelement,Kartusche,cartouche
+bildelement,Bildelement,Glocke,bell
+bildelement,Bildelement,Perspektive,perspective
+bildelement,Bildelement,Ferne,far distance
+bildelement,Bildelement,Fluchtpunkt,vanishing point
+bildelement,Bildelement,Bewegung (Körperbewegung),movement (of the body)
+bildelement,Bildelement,Deckenfresko,ceiling fresco
+bildelement,Bildelement,Mythologie,mythology
+assoziation,Assoziation,Dokument,document
+assoziation,Assoziation,Dokumentation,documentation
+assoziation,Assoziation,Antike,antiquity
+assoziation,Assoziation,Öffentlichkeit,public
+assoziation,Assoziation,Bildung,learning
+assoziation,Assoziation,Bildende Kunst,visual arts
+assoziation,Assoziation,Bildhauer,sculptor (male)
+assoziation,Assoziation,Herrscher,ruler (male)
+assoziation,Assoziation,Menschenleere,void of human beings
+assoziation,Assoziation,Macht,power
+assoziation,Assoziation,Repräsentation,social image
+atmosphäre,Atmosphäre,Fülle,abundance
+atmosphäre,Atmosphäre,Pracht,magnificence
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Erhabenheit,grandeur
+emotion,Emotion,andächtig,devout
+emotion,Emotion,ernsthaft,earnestly
+emotion,Emotion,neugierig,curious

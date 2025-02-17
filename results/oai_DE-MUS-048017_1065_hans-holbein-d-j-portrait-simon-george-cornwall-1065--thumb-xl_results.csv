@@ -1,0 +1,312 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_1065_hans-holbein-d-j-portrait-simon-george-cornwall-1065--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_1065_hans-holbein-d-j-portrait-simon-george-cornwall-1065--thumb-xl.csv
+
+== Keywords for Atmosphere: Historical ==
+0.03	grandeur
+0.03	calm
+0.03	earnestness
+0.02	secret
+0.02	lust
+0.01	thoughtfulness
+0.01	harmony
+
+== Keywords for Atmosphere: Noble ==
+0.13	earnestness
+0.11	grandeur
+0.08	secret
+0.06	thoughtfulness
+0.04	harmony
+0.03	lust
+0.02	calm
+
+== Keywords for Atmosphere: Refined ==
+0.15	calm
+0.11	grandeur
+0.11	thoughtfulness
+0.08	earnestness
+0.07	lust
+0.07	secret
+0.03	harmony
+
+== Keywords for Atmosphere: Elegant ==
+0.20	grandeur
+0.14	secret
+0.12	earnestness
+0.07	calm
+0.07	thoughtfulness
+0.06	lust
+0.05	harmony
+
+== Keywords for Emotion: Contemplative ==
+0.20	sensuous
+0.16	curious
+0.16	thoughtful
+0.15	even-tempered
+0.14	disconcerting
+0.04	safe and sound
+
+== Keywords for Emotion: Reserved ==
+0.11	even-tempered
+0.11	sensuous
+0.09	disconcerting
+0.08	curious
+0.04	thoughtful
+0.02	safe and sound
+
+== Keywords for Emotion: Dignified ==
+0.27	disconcerting
+0.25	sensuous
+0.15	curious
+0.11	even-tempered
+0.07	thoughtful
+0.01	safe and sound
+
+== Keywords for Emotion: Serene ==
+0.22	sensuous
+0.18	thoughtful
+0.17	even-tempered
+0.14	disconcerting
+0.10	curious
+0.10	safe and sound
+
+== Picture Elements: Man's Profile ==
+0.53	profile
+0.47	man
+0.06	bust (portrait)
+0.04	velvet
+0.04	doublet
+0.03	carnation
+0.03	shirt
+0.03	background
+0.03	shadow
+0.03	tondo
+0.03	beret
+0.02	pansy
+0.02	swan
+0.02	sleeve
+0.02	silk
+0.02	flesh colour
+0.02	cuff
+0.01	brooch
+0.01	physiognomy
+0.01	full beard
+0.01	medallion
+0.01	garment
+0.01	brocade
+0.01	bird's feather
+0.01	ostrich feather
+0.01	ornamental band
+0.01	fibula
+0.01	blossom
+
+== Picture Elements: Black Leather Jacket ==
+0.26	garment
+0.19	shirt
+0.17	sleeve
+0.14	profile
+0.13	shadow
+0.13	beret
+0.12	flesh colour
+0.11	carnation
+0.11	silk
+0.11	background
+0.10	doublet
+0.10	man
+0.08	bust (portrait)
+0.08	velvet
+0.08	medallion
+0.07	ornamental band
+0.07	tondo
+0.06	brooch
+0.04	swan
+0.04	cuff
+0.03	brocade
+0.02	pansy
+0.02	full beard
+0.01	physiognomy
+0.01	fibula
+0.01	ostrich feather
+0.01	blossom
+0.01	bird's feather
+
+== Picture Elements: White Shirt with Collar ==
+0.55	shirt
+0.32	sleeve
+0.17	profile
+0.16	flesh colour
+0.15	brocade
+0.10	background
+0.09	man
+0.09	doublet
+0.08	beret
+0.08	medallion
+0.08	shadow
+0.07	garment
+0.05	cuff
+0.05	brooch
+0.05	velvet
+0.05	ornamental band
+0.04	silk
+0.04	full beard
+0.04	swan
+0.04	carnation
+0.03	tondo
+0.02	pansy
+0.02	bust (portrait)
+0.01	physiognomy
+0.01	blossom
+0.01	ostrich feather
+0.01	fibula
+0.01	bird's feather
+
+== Picture Elements: Black Hat with Gold Embellishments ==
+0.23	garment
+0.11	profile
+0.10	background
+0.07	medallion
+0.06	doublet
+0.06	shadow
+0.05	man
+0.05	shirt
+0.04	beret
+0.04	sleeve
+0.04	flesh colour
+0.03	ornamental band
+0.03	tondo
+0.02	velvet
+0.02	brocade
+0.02	full beard
+0.02	brooch
+0.01	cuff
+0.01	swan
+0.01	carnation
+0.01	silk
+0.01	pansy
+0.01	bust (portrait)
+0.01	blossom
+0.01	ostrich feather
+0.01	bird's feather
+0.01	physiognomy
+0.01	fibula
+
+== Picture Elements: White Feather ==
+0.56	bird's feather
+0.55	ostrich feather
+0.15	flesh colour
+0.09	shadow
+0.09	doublet
+0.08	profile
+0.08	bust (portrait)
+0.08	silk
+0.07	shirt
+0.06	background
+0.06	garment
+0.05	cuff
+0.05	velvet
+0.05	carnation
+0.05	medallion
+0.05	man
+0.04	beret
+0.04	brooch
+0.03	pansy
+0.03	swan
+0.03	sleeve
+0.03	tondo
+0.02	ornamental band
+0.02	blossom
+0.02	fibula
+0.02	full beard
+0.02	brocade
+0.01	physiognomy
+
+== Picture Elements: Red Flower ==
+0.53	blossom
+0.12	flesh colour
+0.11	doublet
+0.10	garment
+0.10	medallion
+0.08	background
+0.08	shirt
+0.08	velvet
+0.08	shadow
+0.08	profile
+0.07	bust (portrait)
+0.07	carnation
+0.06	ornamental band
+0.06	beret
+0.05	silk
+0.05	pansy
+0.05	tondo
+0.04	man
+0.04	brooch
+0.03	bird's feather
+0.03	sleeve
+0.03	physiognomy
+0.03	cuff
+0.03	swan
+0.03	fibula
+0.02	brocade
+0.02	ostrich feather
+0.01	full beard
+
+== Picture Elements: Dark Blue Background ==
+0.56	background
+0.28	flesh colour
+0.19	shadow
+0.14	profile
+0.13	shirt
+0.13	doublet
+0.11	brooch
+0.11	velvet
+0.09	beret
+0.09	man
+0.08	silk
+0.07	tondo
+0.06	medallion
+0.06	bust (portrait)
+0.04	brocade
+0.04	cuff
+0.03	garment
+0.03	carnation
+0.03	sleeve
+0.03	swan
+0.03	physiognomy
+0.03	blossom
+0.03	ornamental band
+0.02	pansy
+0.02	full beard
+0.01	ostrich feather
+0.01	bird's feather
+0.01	fibula
+
+== Picture Elements: Aged Wooden Frame ==
+0.27	carnation
+0.26	brooch
+0.14	brocade
+0.10	shadow
+0.09	shirt
+0.09	profile
+0.08	doublet
+0.07	man
+0.07	medallion
+0.07	beret
+0.06	velvet
+0.06	tondo
+0.06	background
+0.05	sleeve
+0.04	bust (portrait)
+0.04	swan
+0.04	garment
+0.03	silk
+0.02	cuff
+0.02	pansy
+0.02	full beard
+0.01	ornamental band
+0.01	flesh colour
+0.01	fibula
+0.01	ostrich feather
+0.01	physiognomy
+0.01	blossom
+0.01	bird's feather
+

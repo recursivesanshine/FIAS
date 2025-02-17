@@ -1,0 +1,40 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Architektur,architecture
+motiv,Motiv,Säule,column
+motiv,Motiv,Erechtheion (Athen),Erechtheion (Athens)
+motiv,Motiv,Athen,Athens
+motiv,Motiv,Griechenland,Greece
+bildelement,Bildelement,Athen,Athens
+bildelement,Bildelement,Erechtheion (Athen),Erechtheion (Athens)
+bildelement,Bildelement,Griechenland,Greece
+bildelement,Bildelement,Architekturdetail,architectural detail
+bildelement,Bildelement,Säule,column
+bildelement,Bildelement,Kapitell,capital (architecture)
+bildelement,Bildelement,Kannelur,fluting
+bildelement,Bildelement,Ionische Ordnung,Ionic order
+bildelement,Bildelement,Ionisches Kapitell,Ionic capital
+bildelement,Bildelement,Muster,pattern
+bildelement,Bildelement,Ornament,ornament
+bildelement,Bildelement,Gebälk,timberwork
+bildelement,Bildelement,Balken,beam
+bildelement,Bildelement,Vordergrund,foreground
+bildelement,Bildelement,Hintergrund,background
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Stein,stone
+bildelement,Bildelement,Riss,crack
+bildelement,Bildelement,Pflanzenornament,floral ornament
+bildelement,Bildelement,Volute,volute
+bildelement,Bildelement,Kymation,cymatium
+bildelement,Bildelement,Perlstab,bead and reel
+bildelement,Bildelement,Bauschaden,structural damage
+assoziation,Assoziation,Fragment,fragment
+assoziation,Assoziation,Tempel,temple
+assoziation,Assoziation,Antike,antiquity
+assoziation,Assoziation,Dokumentation,documentation
+assoziation,Assoziation,Akropolis (Athen),Acropolis (Athens)
+atmosphäre,Atmosphäre,Ruhe,calm
+atmosphäre,Atmosphäre,Nüchternheit,sobriety
+atmosphäre,Atmosphäre,Pracht,magnificence
+emotion,Emotion,beruhigend,"soothing, calming"
+emotion,Emotion,ernsthaft,earnestly

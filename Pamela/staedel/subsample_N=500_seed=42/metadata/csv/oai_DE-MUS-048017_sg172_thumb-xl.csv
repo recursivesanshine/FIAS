@@ -1,0 +1,57 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Genre,genre
+motiv,Motiv,Straßenszene,street scene
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Amsterdam,Amsterdam
+motiv,Motiv,Mann,man
+motiv,Motiv,Frau,woman
+motiv,Motiv,Personengruppe,group of people
+bildelement,Bildelement,Menschenmenge,crowd of people
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Stehende,standing woman (standing people)
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Stehender,standing man
+bildelement,Bildelement,Rückenfigur,figure seen from the back
+bildelement,Bildelement,Rock,skirt
+bildelement,Bildelement,Bluse,blouse
+bildelement,Bildelement,Schürze,apron
+bildelement,Bildelement,Kopftuch,headscarf
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Hochsteckfrisur,updo
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Fassade,facade
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Tür,door
+bildelement,Bildelement,Oberlicht,skylight
+bildelement,Bildelement,Gasse,alley
+bildelement,Bildelement,Karren,cart
+bildelement,Bildelement,Obst,fruit
+bildelement,Bildelement,Gemüse,vegetable
+bildelement,Bildelement,Schaufenster,show window
+bildelement,Bildelement,Markt,market
+bildelement,Bildelement,Marktstand,market stall
+bildelement,Bildelement,Markttreiben,market bustle
+bildelement,Bildelement,Wagenrad,cartwheel
+bildelement,Bildelement,Marktfrau,market woman
+bildelement,Bildelement,Handel,trade
+bildelement,Bildelement,Ware,goods
+bildelement,Bildelement,Amsterdam,Amsterdam
+bildelement,Bildelement,Niederlande,Netherlands
+assoziation,Assoziation,Jude,Jew
+assoziation,Assoziation,Bewegung (Körperbewegung),movement (of the body)
+assoziation,Assoziation,Geschäftigkeit,hustle and bustle
+assoziation,Assoziation,Einkauf,purchase
+assoziation,Assoziation,Alltag,everyday life
+assoziation,Assoziation,Gesellschaft,society
+assoziation,Assoziation,Anonymität,anonymity
+assoziation,Assoziation,Impressionismus,Impressionism
+assoziation,Assoziation,Bäuerin,"peasant, farmer (female)"
+atmosphäre,Atmosphäre,Unruhe,unrest
+atmosphäre,Atmosphäre,Spannung,tension
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Schwere,heaviness
+emotion,Emotion,ernsthaft,earnestly
+emotion,Emotion,bedrückend,depressing
+emotion,Emotion,nachdenklich,thoughtful

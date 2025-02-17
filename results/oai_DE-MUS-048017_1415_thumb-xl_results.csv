@@ -1,0 +1,154 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_1415_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_1415_thumb-xl.csv
+
+== Keywords for Atmosphere: Dark ==
+0.30	heaviness
+0.29	calm
+0.20	earnestness
+0.18	thoughtfulness
+0.18	contemplation
+0.17	grandeur
+
+== Keywords for Atmosphere: Moody ==
+0.12	calm
+0.07	heaviness
+0.07	thoughtfulness
+0.05	grandeur
+0.03	contemplation
+0.02	earnestness
+
+== Keywords for Atmosphere: Somber ==
+0.06	grandeur
+0.06	heaviness
+0.05	thoughtfulness
+0.05	calm
+0.05	contemplation
+0.04	earnestness
+
+== Keywords for Atmosphere: Formal ==
+0.12	calm
+0.08	heaviness
+0.05	earnestness
+0.04	contemplation
+0.04	grandeur
+0.02	thoughtfulness
+
+== Keywords for Emotion: Contemplative ==
+0.16	cool
+0.15	even-tempered
+0.13	earnestly
+"0.04	soothing, calming"
+
+== Keywords for Emotion: Serious ==
+0.14	even-tempered
+0.12	cool
+0.12	earnestly
+"0.02	soothing, calming"
+
+== Keywords for Emotion: Introspective ==
+0.09	cool
+0.07	earnestly
+0.05	even-tempered
+"0.02	soothing, calming"
+
+== Picture Elements: Man ==
+0.88	man
+0.31	darkness
+0.21	light reflection
+0.20	eye contact
+"0.19	coat, cloak"
+0.18	three-quarter profile
+0.15	shadow
+0.14	suit
+0.14	flesh colour
+0.13	dialogue
+0.12	button
+0.10	goatee
+0.10	physiognomy
+0.10	bust (portrait)
+0.08	incident light
+0.08	jacket
+0.07	bandanna
+0.07	drape
+
+== Picture Elements: Dark Coat ==
+"0.75	coat, cloak"
+0.68	darkness
+0.36	shadow
+0.21	flesh colour
+0.16	incident light
+0.16	man
+0.15	light reflection
+0.14	bandanna
+0.11	three-quarter profile
+0.10	button
+0.10	suit
+0.09	dialogue
+0.09	jacket
+0.09	eye contact
+0.08	bust (portrait)
+0.07	goatee
+0.06	drape
+0.06	physiognomy
+
+== Picture Elements: White Cravat ==
+0.18	flesh colour
+"0.15	coat, cloak"
+0.05	shadow
+0.05	man
+0.04	button
+0.04	light reflection
+0.04	suit
+0.04	three-quarter profile
+0.03	darkness
+0.03	incident light
+0.02	drape
+0.02	dialogue
+0.02	bandanna
+0.02	goatee
+0.01	bust (portrait)
+0.01	eye contact
+0.01	jacket
+0.01	physiognomy
+
+== Picture Elements: Muted Brown Background ==
+0.08	suit
+0.08	man
+0.07	shadow
+0.07	light reflection
+0.06	three-quarter profile
+0.05	flesh colour
+0.05	button
+0.04	dialogue
+0.03	incident light
+0.03	bust (portrait)
+0.03	bandanna
+0.03	darkness
+0.02	jacket
+"0.02	coat, cloak"
+0.01	eye contact
+0.01	goatee
+0.01	physiognomy
+0.01	drape
+
+== Picture Elements: Soft Directional Lighting ==
+0.31	incident light
+0.19	light reflection
+0.16	shadow
+0.07	man
+0.06	darkness
+0.06	bandanna
+0.06	suit
+0.04	button
+0.04	three-quarter profile
+0.03	flesh colour
+0.03	dialogue
+0.02	bust (portrait)
+0.02	eye contact
+0.02	physiognomy
+"0.02	coat, cloak"
+0.02	drape
+0.01	goatee
+0.01	jacket
+

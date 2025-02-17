@@ -1,0 +1,94 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Genre,genre
+motiv,Motivgattung,Interieur,interior
+motiv,Motiv,Geschirr (Hausrat),dinnerware
+motiv,Motiv,Frau,woman
+motiv,Motiv,Personengruppe,group of people
+motiv,Motiv,Innenraum,interior space
+bildelement,Bildelement,Innenraum,interior space
+bildelement,Bildelement,Inneneinrichtung,interior furnishing
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Frauengruppe,group of women
+bildelement,Bildelement,Rückenfigur,figure seen from the back
+bildelement,Bildelement,Stehende,standing woman (standing people)
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Geschirr (Hausrat),dinnerware
+bildelement,Bildelement,Holztür,wooden door
+bildelement,Bildelement,Schlüssel,key
+bildelement,Bildelement,Türrahmen,door frame
+bildelement,Bildelement,Türöffnung,door opening
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Sprossenfenster,astragal window
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Blickkontakt,eye contact
+bildelement,Bildelement,Blickführung,guiding of one's gaze
+bildelement,Bildelement,Haube (Kopfbedeckung),bonnet
+bildelement,Bildelement,Kopftuch,headscarf
+bildelement,Bildelement,Schultertuch,shawl
+bildelement,Bildelement,Tuch,cloth
+bildelement,Bildelement,Kleid,dress
+bildelement,Bildelement,Schürze,apron
+bildelement,Bildelement,Rock,skirt
+bildelement,Bildelement,Jacke,coat
+bildelement,Bildelement,Damenschuh,woman's shoe
+bildelement,Bildelement,Absatzschuh,heeled shoe
+bildelement,Bildelement,Hausmantel,dressing gown
+bildelement,Bildelement,Korb,basket
+bildelement,Bildelement,Behälter,container
+bildelement,Bildelement,Topf,pot
+bildelement,Bildelement,Lebensmittel,groceries
+bildelement,Bildelement,Ei,egg
+bildelement,Bildelement,Fleisch,meat
+bildelement,Bildelement,Teller,plate
+bildelement,Bildelement,Lauchzwiebel,spring onion
+bildelement,Bildelement,Rettich,radish
+bildelement,Bildelement,Sellerie,celery
+bildelement,Bildelement,Möbel,furniture
+bildelement,Bildelement,Kommode,dresser
+bildelement,Bildelement,Schublade,drawer
+bildelement,Bildelement,Gemüse,vegetable
+bildelement,Bildelement,Stuhl,chair
+bildelement,Bildelement,Fliesenboden,tile floor
+bildelement,Bildelement,Regal,shelf
+bildelement,Bildelement,Essgeschirr,dinner service
+bildelement,Bildelement,Ofen,stove
+bildelement,Bildelement,Feuer,fire
+bildelement,Bildelement,Rauch,smoke
+bildelement,Bildelement,Glut,glow
+bildelement,Bildelement,Kohle,coal
+bildelement,Bildelement,Holzscheit,log
+bildelement,Bildelement,Brennholz,firewood
+bildelement,Bildelement,Kamin,"chimney, fireplace"
+bildelement,Bildelement,Vorhang,drapery
+bildelement,Bildelement,Krug,pitcher
+bildelement,Bildelement,Schöpfkelle,ladle
+bildelement,Bildelement,Sieb,strainer
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Lichtführung,lighting design
+bildelement,Bildelement,Lichteinfall,incident light
+bildelement,Bildelement,Lichtreflex,light reflection
+bildelement,Bildelement,Kücheneinrichtung,kitchen equipment
+bildelement,Bildelement,Küchengerät,kitchen utensil
+bildelement,Bildelement,Küche,kitchen
+bildelement,Bildelement,Silberteller,silver plate
+bildelement,Bildelement,Kupferkessel,copper kettle
+bildelement,Bildelement,Holzbank,wooden bench
+bildelement,Bildelement,Hocker,stool
+bildelement,Bildelement,Bottich,keg
+bildelement,Bildelement,Schale (Gefäß),dish
+bildelement,Bildelement,Schüssel,dish
+bildelement,Bildelement,Eimer,bucket
+bildelement,Bildelement,Haarband,hairband
+bildelement,Bildelement,Vordergrund,foreground
+bildelement,Bildelement,Hintergrund,background
+bildelement,Bildelement,Kohlebecken,brazier
+bildelement,Bildelement,Streifenmuster,striped pattern
+bildelement,Bildelement,Reflexion (Physik),reflection (light)
+assoziation,Assoziation,Magd,maid
+assoziation,Assoziation,Alltag,everyday life
+assoziation,Assoziation,Arbeit,work
+assoziation,Assoziation,Köchin,cook
+assoziation,Assoziation,Schmuck,jewellery
+assoziation,Assoziation,Halskette,necklace

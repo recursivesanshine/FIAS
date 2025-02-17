@@ -1,0 +1,264 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_sg172_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_sg172_thumb-xl.csv
+
+== Keywords for Atmosphere: Bustling ==
+0.08	heaviness
+0.07	tension
+0.06	unrest
+0.02	earnestness
+
+== Keywords for Atmosphere: Communal ==
+0.15	tension
+0.10	unrest
+0.09	earnestness
+0.05	heaviness
+
+== Keywords for Atmosphere: Historical ==
+0.05	unrest
+0.04	tension
+0.03	earnestness
+0.02	heaviness
+
+== Keywords for Atmosphere: Warm ==
+0.35	heaviness
+0.30	tension
+0.21	unrest
+0.20	earnestness
+
+== Keywords for Atmosphere: Dynamic ==
+0.23	tension
+0.22	heaviness
+0.11	unrest
+0.05	earnestness
+
+== Keywords for Emotion: Lively ==
+0.22	thoughtful
+0.11	depressing
+0.07	earnestly
+
+== Keywords for Emotion: Vibrant ==
+0.12	thoughtful
+0.05	depressing
+0.05	earnestly
+
+== Keywords for Emotion: Social ==
+0.25	thoughtful
+0.10	depressing
+0.07	earnestly
+
+== Keywords for Emotion: Energetic ==
+0.13	earnestly
+0.10	thoughtful
+0.03	depressing
+
+== Picture Elements: Market Cart ==
+0.68	cart
+0.66	cartwheel
+0.60	market bustle
+0.59	market stall
+0.54	market
+0.29	trade
+0.24	market woman
+0.19	hat
+0.15	updo
+0.14	apron
+0.14	door
+0.11	alley
+0.11	crowd of people
+0.11	man
+0.08	Netherlands
+0.06	skylight
+0.06	standing woman (standing people)
+0.05	vegetable
+0.05	woman
+0.05	group of people
+0.05	window
+0.05	blouse
+0.05	standing man
+0.04	show window
+0.04	Amsterdam
+0.04	building
+0.03	goods
+0.02	figure seen from the back
+0.02	fruit
+0.02	skirt
+0.02	facade
+0.01	seated woman
+0.01	headscarf
+
+== Picture Elements: Fresh Produce ==
+0.25	fruit
+0.24	hat
+0.23	updo
+0.19	market
+0.18	cart
+0.17	apron
+0.16	vegetable
+0.15	cartwheel
+0.15	man
+0.13	alley
+0.12	skylight
+0.12	door
+0.11	trade
+0.10	blouse
+0.10	woman
+0.09	market bustle
+0.08	Netherlands
+0.08	market stall
+0.08	window
+0.07	goods
+0.07	standing man
+0.06	facade
+0.06	show window
+0.06	skirt
+0.06	market woman
+0.06	Amsterdam
+0.06	crowd of people
+0.05	building
+0.05	group of people
+0.03	standing woman (standing people)
+0.03	headscarf
+0.02	seated woman
+0.02	figure seen from the back
+
+== Picture Elements: Figures in Period Attire ==
+0.39	figure seen from the back
+0.16	hat
+0.08	updo
+0.06	apron
+0.06	window
+0.05	group of people
+0.05	woman
+0.05	man
+0.05	cart
+0.05	show window
+0.04	blouse
+0.04	crowd of people
+0.03	building
+0.03	market
+0.03	market stall
+0.03	door
+0.03	alley
+0.03	standing man
+0.02	skylight
+0.02	standing woman (standing people)
+0.02	trade
+0.02	facade
+0.01	cartwheel
+0.01	fruit
+0.01	Netherlands
+0.01	skirt
+0.01	market bustle
+0.01	market woman
+0.01	seated woman
+0.01	vegetable
+0.01	goods
+0.01	headscarf
+0.01	Amsterdam
+
+== Picture Elements: Architectural Features ==
+0.15	hat
+0.15	building
+0.13	updo
+0.11	apron
+0.09	show window
+0.09	facade
+0.09	window
+0.07	cart
+0.07	blouse
+0.07	man
+0.06	door
+0.05	figure seen from the back
+0.05	alley
+0.04	cartwheel
+0.04	woman
+0.03	skylight
+0.03	crowd of people
+0.03	Netherlands
+0.03	standing man
+0.02	trade
+0.02	market
+0.02	vegetable
+0.02	standing woman (standing people)
+0.01	headscarf
+0.01	Amsterdam
+0.01	skirt
+0.01	goods
+0.01	group of people
+0.01	market stall
+0.01	fruit
+0.01	seated woman
+0.01	market bustle
+0.01	market woman
+
+== Picture Elements: Warm Color Palette ==
+0.28	hat
+0.16	updo
+0.12	blouse
+0.12	alley
+0.10	apron
+0.10	man
+0.09	cart
+0.08	door
+0.08	market
+0.08	woman
+0.06	trade
+0.06	window
+0.06	facade
+0.05	building
+0.05	vegetable
+0.04	group of people
+0.04	skylight
+0.04	show window
+0.04	crowd of people
+0.03	market stall
+0.03	cartwheel
+0.03	goods
+0.03	standing woman (standing people)
+0.02	standing man
+0.02	Netherlands
+0.02	figure seen from the back
+0.02	fruit
+0.02	market woman
+0.01	headscarf
+0.01	seated woman
+0.01	Amsterdam
+0.01	market bustle
+0.01	skirt
+
+== Picture Elements: Visible Brushstrokes ==
+0.11	hat
+0.10	updo
+0.08	door
+0.07	blouse
+0.07	vegetable
+0.07	man
+0.07	apron
+0.06	cart
+0.05	skylight
+0.04	alley
+0.04	woman
+0.03	facade
+0.03	cartwheel
+0.03	window
+0.03	trade
+0.03	building
+0.02	skirt
+0.02	group of people
+0.02	market
+0.02	show window
+0.02	standing man
+0.02	crowd of people
+0.01	Netherlands
+0.01	headscarf
+0.01	market stall
+0.01	standing woman (standing people)
+0.01	figure seen from the back
+0.01	fruit
+0.01	market woman
+0.01	market bustle
+0.01	goods
+0.01	seated woman
+0.01	Amsterdam
+

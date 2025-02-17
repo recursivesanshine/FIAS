@@ -1,0 +1,74 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Genre,genre
+motiv,Motiv,Gewalt,force
+motiv,Motiv,Frau,woman
+motiv,Motiv,Mann,man
+motiv,Motiv,Kind,child
+motiv,Motiv,Personengruppe,group of people
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Kleid,dress
+bildelement,Bildelement,Dekolleté,décolleté
+bildelement,Bildelement,Nacktheit,nudity
+bildelement,Bildelement,Barfüßigkeit,barefootedness
+bildelement,Bildelement,Hose,trousers
+bildelement,Bildelement,Hemd,shirt
+bildelement,Bildelement,Victor-Emanuel-Bart,Victor Emanuel beard
+bildelement,Bildelement,Schwert,sword
+bildelement,Bildelement,Waffe,weapon
+bildelement,Bildelement,Mimik,facial expression
+bildelement,Bildelement,Gestik,gesticulation
+bildelement,Bildelement,Schrei,scream
+bildelement,Bildelement,Gewalt,force
+bildelement,Bildelement,Kleinkind,toddler
+bildelement,Bildelement,Leichnam,corpse
+bildelement,Bildelement,Weibliche Tote,corpse (female)
+bildelement,Bildelement,Mord,murder
+bildelement,Bildelement,Verbrechen,crime
+bildelement,Bildelement,Kampf,combat
+bildelement,Bildelement,Mörder,murderer
+bildelement,Bildelement,Tod,death
+assoziation,Assoziation,Raub,robbery
+assoziation,Assoziation,Überfall,assault
+assoziation,Assoziation,Vergewaltigung,rape
+assoziation,Assoziation,Entführung,abduction
+assoziation,Assoziation,Mutter,mother
+assoziation,Assoziation,Macht,power
+assoziation,Assoziation,Machtlosigkeit,powerlessness
+assoziation,Assoziation,Unterdrückung,suppression
+assoziation,Assoziation,Sadismus,sadism
+assoziation,Assoziation,Inquisition,Inquisition
+assoziation,Assoziation,Staatsgewalt,government
+assoziation,Assoziation,Realismus,realism
+assoziation,Assoziation,Opfer (Straftat),victim
+assoziation,Assoziation,Gesellschaft,society
+assoziation,Assoziation,Gesellschaftskritik,social criticism
+assoziation,Assoziation,Machtmissbrauch,abuse of power
+assoziation,Assoziation,Terror,terror
+assoziation,Assoziation,Gewaltexzess,excessive force
+assoziation,Assoziation,Aggression,aggression
+assoziation,Assoziation,Armut,poverty
+assoziation,Assoziation,Folter,torture
+assoziation,Assoziation,Spanischer Unabhängigkeitskrieg (1807-1814),Spanish War of Independence
+assoziation,Assoziation,Aufstand,revolt
+assoziation,Assoziation,Soldat,soldier
+assoziation,Assoziation,Sexualmord,sexual murder
+assoziation,Assoziation,Grausamkeit,cruelty
+atmosphäre,Atmosphäre,Aggressivität,aggressiveness
+atmosphäre,Atmosphäre,Dramatik,drama
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Gefahr,danger
+atmosphäre,Atmosphäre,Leid,suffering
+atmosphäre,Atmosphäre,Schock,shock
+atmosphäre,Atmosphäre,Schmerz,pain
+atmosphäre,Atmosphäre,Schwere,heaviness
+atmosphäre,Atmosphäre,Verzweiflung,despair
+emotion,Emotion,aufwühlend,churning
+emotion,Emotion,beängstigend,alarming
+emotion,Emotion,bedrückend,depressing
+emotion,Emotion,ernsthaft,earnestly
+emotion,Emotion,nachdenklich,thoughtful
+emotion,Emotion,wütend,enraged
+emotion,Emotion,schockierend,shocking

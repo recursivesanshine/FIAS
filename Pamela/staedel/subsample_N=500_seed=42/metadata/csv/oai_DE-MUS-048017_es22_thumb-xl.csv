@@ -1,0 +1,119 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Landschaft,landscape
+motiv,Motivgattung,Genre,genre
+motiv,Motiv,Berg,mountain
+motiv,Motiv,Baumgruppe,copse
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Frau,woman
+motiv,Motiv,Kind,child
+motiv,Motiv,Mann,man
+motiv,Motiv,Personengruppe,group of people
+motiv,Motiv,Tier,animal
+bildelement,Bildelement,Tier,animal
+bildelement,Bildelement,Pferd,horse
+bildelement,Bildelement,Schimmel,white horse
+bildelement,Bildelement,Pferdegeschirr,harness
+bildelement,Bildelement,Zügel,rein
+bildelement,Bildelement,Gerte,riding crop
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Stehender,standing man
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Jacke,coat
+bildelement,Bildelement,Hemd,shirt
+bildelement,Bildelement,Mantel,"coat, cloak"
+bildelement,Bildelement,Sitzender,seated man
+bildelement,Bildelement,Kiepe,pannier
+bildelement,Bildelement,Bettler,beggar (male)
+bildelement,Bildelement,Reiter,horseman
+bildelement,Bildelement,Rückenfigur,figure seen from the back
+bildelement,Bildelement,Hutfeder,hat feather
+bildelement,Bildelement,Geste,gesture
+bildelement,Bildelement,Fingerzeig,pointer
+bildelement,Bildelement,Handgeste,hand gesture
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Rastender,man resting
+bildelement,Bildelement,Rastende,woman resting
+bildelement,Bildelement,Rast,rest
+bildelement,Bildelement,Kind,child
+bildelement,Bildelement,Kleinkind,toddler
+bildelement,Bildelement,Körperkontakt,physical contact
+bildelement,Bildelement,Gespräch,conversation
+bildelement,Bildelement,Blickkontakt,eye contact
+bildelement,Bildelement,Blickführung,guiding of one's gaze
+bildelement,Bildelement,Haube (Kopfbedeckung),bonnet
+bildelement,Bildelement,Bluse,blouse
+bildelement,Bildelement,Mieder,bodice
+bildelement,Bildelement,Rock,skirt
+bildelement,Bildelement,Schürze,apron
+bildelement,Bildelement,Kniebundhose,"knickerbockers, knee breeches"
+bildelement,Bildelement,Krug,pitcher
+bildelement,Bildelement,Stock,storey
+bildelement,Bildelement,Wanderstock,hiking stick
+bildelement,Bildelement,Herde,herd
+bildelement,Bildelement,Kuh,cow
+bildelement,Bildelement,Ziege,goat
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Giebel,gable
+bildelement,Bildelement,Dreiecksgiebel,triangular gable
+bildelement,Bildelement,Dach,roof
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Haus,house
+bildelement,Bildelement,Schornstein,chimney
+bildelement,Bildelement,Turm,tower
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Wolke,cloud
+bildelement,Bildelement,Horizont,horizon
+bildelement,Bildelement,Ferne,far distance
+bildelement,Bildelement,Fernblick,distant view
+bildelement,Bildelement,Aussicht,view
+bildelement,Bildelement,Anhöhe,rise
+bildelement,Bildelement,Berg,mountain
+bildelement,Bildelement,Hügel,hill
+bildelement,Bildelement,Hügellandschaft,hilly landscape
+bildelement,Bildelement,Baum,tree
+bildelement,Bildelement,Baumkrone,treetop
+bildelement,Bildelement,Baumstamm,tree trunk
+bildelement,Bildelement,Blatt,leaf
+bildelement,Bildelement,Laubbaum,deciduous tree
+bildelement,Bildelement,Baumruine,dead tree
+bildelement,Bildelement,Baumstumpf,stump
+bildelement,Bildelement,Wiese,meadow
+bildelement,Bildelement,Weide,pasture
+bildelement,Bildelement,Gras,grass
+bildelement,Bildelement,Pflanze,plant
+bildelement,Bildelement,Weg,route
+bildelement,Bildelement,Feldweg,dirt road
+bildelement,Bildelement,Hell-Dunkel-Kontrast,light-dark contrast
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Buschwerk,shrubbery
+bildelement,Bildelement,Dickicht,thicket
+bildelement,Bildelement,Baumgruppe,copse
+bildelement,Bildelement,Wald,forest
+bildelement,Bildelement,Stein,stone
+bildelement,Bildelement,Mauerwerk,masonry
+bildelement,Bildelement,Brücke,bridge
+bildelement,Bildelement,Rundbogen,round arch
+bildelement,Bildelement,Wasser,water
+bildelement,Bildelement,Bach,brook
+bildelement,Bildelement,Fels,rock
+bildelement,Bildelement,Gestein,stone
+bildelement,Bildelement,Planwagen,covered wagon
+bildelement,Bildelement,Plane,tarp
+bildelement,Bildelement,Wagenrad,cartwheel
+bildelement,Bildelement,Kirchturm,church tower
+bildelement,Bildelement,Kirche (Gebäude),church
+bildelement,Bildelement,Zaun,fence
+bildelement,Bildelement,Holzzaun,wood fence
+bildelement,Bildelement,Holzscheit,log
+bildelement,Bildelement,Feuer,fire
+bildelement,Bildelement,Rauch,smoke
+bildelement,Bildelement,Vordergrund,foreground
+bildelement,Bildelement,Mittelgrund,middle ground
+bildelement,Bildelement,Hintergrund,background
+assoziation,Assoziation,Kutscher,coachman
+assoziation,Assoziation,Uhr,clock
+assoziation,Assoziation,Sonnenuhr,sundial
+assoziation,Assoziation,Hohlweg,defile

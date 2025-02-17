@@ -1,0 +1,62 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_sg328_carl-spitzweg-widower-sg328--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_sg328_carl-spitzweg-widower-sg328--thumb-xl.csv
+
+== Keywords for Atmosphere: Serene ==
+0.22	hope
+0.17	mourning
+0.09	isolation
+0.08	melancholy
+
+== Keywords for Atmosphere: Contemplative ==
+0.12	melancholy
+0.11	hope
+0.07	isolation
+0.06	mourning
+
+== Keywords for Atmosphere: Lush ==
+0.19	hope
+0.18	mourning
+0.10	isolation
+0.08	melancholy
+
+== Keywords for Atmosphere: Classical ==
+0.11	isolation
+0.09	hope
+0.05	mourning
+0.04	melancholy
+
+== Keywords for Atmosphere: Dappled Light ==
+0.05	hope
+0.04	melancholy
+0.02	isolation
+0.02	mourning
+
+== Keywords for Emotion: Melancholy ==
+0.16	curious
+0.14	joyful
+0.09	thoughtful
+0.04	sad
+0.04	optimistic
+
+== Keywords for Emotion: Introspection ==
+0.25	thoughtful
+0.16	sad
+0.16	curious
+0.07	joyful
+0.04	optimistic
+
+== Keywords for Emotion: Solitude ==
+0.16	joyful
+0.16	sad
+0.13	optimistic
+0.11	thoughtful
+0.05	curious
+
+== Keywords for Emotion: Nostalgia ==
+0.04	sad
+0.03	curious
+0.02	joyful
+0.02	thoughtful
+0.01	optimistic
+

@@ -1,0 +1,52 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Stadtansicht,city view
+motiv,Motiv,Fenster,window
+motiv,Motiv,"Manhattan (New York, NY)","Manhattan (New York, NY)"
+motiv,Motiv,Hudson River,Hudson River
+motiv,Motiv,"Metropolitan Life Tower (New York, NY)","Metropolitan Life Tower (New York, NY)"
+motiv,Motiv,"40 Wall Street (New York, NY)","40 Wall Street (New York, NY)"
+motiv,Motiv,"Singer Building (New York, NY)","Singer Building (New York, NY)"
+motiv,Motiv,"Woolworth Building (New York, NY)","Woolworth Building (New York, NY)"
+motiv,Motiv,"New York, NY","New York, NY"
+motiv,Motiv,Schiff,ship
+motiv,Motiv,Gebäude,building
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Gitter,grille
+bildelement,Bildelement,Stadt,city
+bildelement,Bildelement,Stadtsilhouette,city silhouette
+bildelement,Bildelement,Schiff,ship
+bildelement,Bildelement,Hochhaus,high-rise
+bildelement,Bildelement,Gewässer,body of water
+bildelement,Bildelement,"New York, NY","New York, NY"
+bildelement,Bildelement,"Manhattan (New York, NY)","Manhattan (New York, NY)"
+bildelement,Bildelement,Hudson River,Hudson River
+bildelement,Bildelement,"Metropolitan Life Tower (New York, NY)","Metropolitan Life Tower (New York, NY)"
+bildelement,Bildelement,"Singer Building (New York, NY)","Singer Building (New York, NY)"
+bildelement,Bildelement,"Woolworth Building (New York, NY)","Woolworth Building (New York, NY)"
+bildelement,Bildelement,"40 Wall Street (New York, NY)","40 Wall Street (New York, NY)"
+bildelement,Bildelement,Häuserblock,block of buildings
+assoziation,Assoziation,"Ellis Island, NY","Ellis Island, NY"
+assoziation,Assoziation,Hafen,harbour
+assoziation,Assoziation,Ökonomie,economy
+assoziation,Assoziation,Raster,grid
+assoziation,Assoziation,Gefängnis,prison
+assoziation,Assoziation,Käfig,cage
+assoziation,Assoziation,Immigration,immigration
+assoziation,Assoziation,Emigration,emigration
+assoziation,Assoziation,Flucht,escape
+assoziation,Assoziation,Subjektivität,subjectivity
+assoziation,Assoziation,Freiheit,freedom
+assoziation,Assoziation,Film,film
+assoziation,Assoziation,Traum,dream
+assoziation,Assoziation,Sprossenfenster,astragal window
+atmosphäre,Atmosphäre,Beklemmung,oppression
+atmosphäre,Atmosphäre,Dramatik,drama
+atmosphäre,Atmosphäre,Monotonie,monotony
+atmosphäre,Atmosphäre,Nüchternheit,sobriety
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Schwere,heaviness
+emotion,Emotion,bedrückend,depressing
+emotion,Emotion,irritierend,annoying
+emotion,Emotion,einsam,lonely
+emotion,Emotion,melancholisch,melancholic 
+emotion,Emotion,ernsthaft,earnestly

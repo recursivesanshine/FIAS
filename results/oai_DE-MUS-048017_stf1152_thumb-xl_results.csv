@@ -1,0 +1,766 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf1152_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf1152_thumb-xl.csv
+
+== Keywords for Atmosphere: Gothic ==
+0.17	magnificence
+0.11	grandeur
+0.09	earnestness
+0.06	abundance
+
+== Keywords for Atmosphere: Historical ==
+0.08	magnificence
+0.03	grandeur
+0.03	earnestness
+0.02	abundance
+
+== Keywords for Atmosphere: Architectural ==
+0.16	grandeur
+0.12	magnificence
+0.05	earnestness
+0.04	abundance
+
+== Keywords for Atmosphere: Stone ==
+0.16	magnificence
+0.12	grandeur
+0.12	earnestness
+0.07	abundance
+
+== Keywords for Atmosphere: Arched ==
+0.19	grandeur
+0.15	magnificence
+0.09	earnestness
+0.08	abundance
+
+== Keywords for Atmosphere: Columns ==
+0.07	magnificence
+0.07	grandeur
+0.04	earnestness
+0.03	abundance
+
+== Keywords for Atmosphere: Fountain ==
+0.08	magnificence
+0.04	abundance
+0.04	grandeur
+0.02	earnestness
+
+== Keywords for Atmosphere: Courtyard ==
+0.13	grandeur
+0.07	magnificence
+0.04	earnestness
+0.02	abundance
+
+== Keywords for Emotion: Serene ==
+"0.23	soothing, calming"
+0.22	lonely
+0.17	even-tempered
+0.17	earnestly
+
+== Keywords for Emotion: Tranquil ==
+"0.05	soothing, calming"
+0.04	even-tempered
+0.03	lonely
+0.03	earnestly
+
+== Keywords for Emotion: Timeless ==
+0.16	earnestly
+0.11	lonely
+0.07	even-tempered
+"0.04	soothing, calming"
+
+== Keywords for Emotion: Majestic ==
+0.07	even-tempered
+0.04	lonely
+0.03	earnestly
+"0.01	soothing, calming"
+
+== Keywords for Emotion: Historic ==
+0.03	lonely
+0.03	earnestly
+0.03	even-tempered
+"0.01	soothing, calming"
+
+== Picture Elements: Arched Ceilings ==
+0.67	segmented arch
+0.63	pointed arch
+0.47	leaded glass
+0.45	round arch
+0.32	blind arch
+0.32	round-arched window
+0.25	coat of arms
+0.23	building
+0.18	architectural detail
+0.18	secular architecture
+0.18	arch
+0.15	frieze
+0.15	platform
+0.15	window opening
+0.13	ornament
+0.13	eyelet
+0.13	vase
+0.12	updo
+0.12	cross
+0.12	well
+0.12	weapon
+0.10	gable
+0.10	crochet
+0.10	pillar
+0.09	capital (architecture)
+0.09	window
+0.09	inner courtyard
+0.08	door
+0.07	cloth
+0.07	column
+0.07	loggia
+0.07	woman
+0.07	vault
+0.06	relief
+0.06	Florence
+0.06	palace
+0.05	corridor (architecture)
+0.05	sculpture
+0.05	banister
+0.05	hairstyle
+0.04	facade
+0.04	console (architecture)
+0.04	fresco
+0.04	bird
+0.04	base
+0.04	stair
+0.04	stair
+0.04	wreath
+0.03	Romanesque groined vault
+0.03	fluting
+0.03	keystone
+0.03	Italy
+0.03	grille
+0.02	nudity
+0.02	picture-in-picture
+0.02	arcade
+0.02	Segment gable
+0.02	lion
+0.01	quatrefoil
+0.01	masonry
+"0.01	parapet, balustrade"
+0.01	seated woman
+0.01	Palazzo del Bargello (Florence)
+0.01	pedestal (sculpture)
+0.01	garland
+0.01	Museo Nazionale del Bargello (Florence)
+0.01	animal
+0.01	barefootedness
+0.01	breast
+0.01	open stairway
+0.01	museum
+0.01	fountain basin
+0.01	lion's head
+0.01	wing (animal)
+
+== Picture Elements: Columns ==
+0.46	column
+0.13	cross
+0.12	segmented arch
+0.12	arch
+0.11	gable
+0.11	updo
+0.10	Segment gable
+0.10	round arch
+0.09	well
+0.09	Florence
+0.08	pointed arch
+0.08	vault
+0.08	loggia
+0.08	keystone
+0.07	vase
+0.05	quatrefoil
+0.05	arcade
+0.05	eyelet
+0.05	base
+0.05	palace
+0.05	door
+0.05	blind arch
+0.05	window
+0.05	ornament
+0.05	bird
+0.04	fresco
+0.04	round-arched window
+0.04	stair
+0.04	stair
+0.04	leaded glass
+0.04	crochet
+0.04	relief
+0.04	woman
+0.04	barefootedness
+0.04	cloth
+0.04	banister
+0.04	frieze
+0.04	platform
+0.04	building
+0.04	architectural detail
+0.04	pillar
+0.04	grille
+0.04	capital (architecture)
+0.04	lion
+0.03	secular architecture
+0.03	window opening
+0.03	nudity
+0.03	fluting
+0.03	console (architecture)
+0.03	picture-in-picture
+0.03	wreath
+0.03	corridor (architecture)
+0.03	Palazzo del Bargello (Florence)
+0.02	inner courtyard
+0.02	Italy
+0.02	garland
+0.02	open stairway
+0.02	facade
+0.02	weapon
+0.02	Museo Nazionale del Bargello (Florence)
+0.02	Romanesque groined vault
+0.02	masonry
+0.02	breast
+0.01	hairstyle
+0.01	seated woman
+"0.01	parapet, balustrade"
+0.01	animal
+0.01	coat of arms
+0.01	wing (animal)
+0.01	fountain basin
+0.01	pedestal (sculpture)
+0.01	lion's head
+0.01	sculpture
+0.01	museum
+
+== Picture Elements: Stone Floor ==
+0.62	keystone
+0.30	corridor (architecture)
+0.23	building
+0.21	well
+0.21	architectural detail
+0.20	arch
+0.19	updo
+0.18	cross
+0.17	sculpture
+0.16	door
+0.15	open stairway
+0.15	masonry
+0.15	platform
+0.15	gable
+0.15	weapon
+0.14	stair
+0.14	stair
+0.13	ornament
+0.13	Florence
+0.13	column
+0.12	vase
+0.12	facade
+0.12	crochet
+0.11	capital (architecture)
+0.11	base
+0.11	pointed arch
+0.11	round arch
+0.10	barefootedness
+0.10	inner courtyard
+0.10	banister
+0.10	wreath
+0.10	fresco
+0.10	vault
+0.09	nudity
+0.09	palace
+0.09	grille
+0.08	frieze
+0.07	cloth
+0.07	loggia
+0.07	woman
+0.07	secular architecture
+0.06	Romanesque groined vault
+0.06	segmented arch
+0.06	pillar
+0.05	leaded glass
+0.05	Segment gable
+0.05	lion
+0.05	pedestal (sculpture)
+0.05	arcade
+0.05	fluting
+0.05	picture-in-picture
+0.05	breast
+0.05	console (architecture)
+0.05	blind arch
+0.05	Italy
+0.04	relief
+0.04	museum
+0.04	eyelet
+0.04	coat of arms
+0.03	bird
+0.03	Palazzo del Bargello (Florence)
+0.03	quatrefoil
+0.03	window
+0.03	window opening
+0.02	Museo Nazionale del Bargello (Florence)
+0.02	seated woman
+0.02	hairstyle
+0.02	fountain basin
+0.02	animal
+"0.02	parapet, balustrade"
+0.01	round-arched window
+0.01	wing (animal)
+0.01	garland
+0.01	lion's head
+
+== Picture Elements: Central Fountain ==
+0.71	fountain basin
+0.24	Florence
+0.19	Palazzo del Bargello (Florence)
+0.17	Museo Nazionale del Bargello (Florence)
+0.11	arch
+0.11	wreath
+0.11	cross
+0.09	updo
+0.09	fresco
+0.09	sculpture
+0.08	gable
+0.08	well
+0.08	frieze
+0.07	column
+0.06	platform
+0.06	Segment gable
+0.05	pedestal (sculpture)
+0.05	corridor (architecture)
+0.05	picture-in-picture
+0.05	quatrefoil
+0.05	keystone
+0.04	vase
+0.04	vault
+0.04	pointed arch
+0.04	base
+0.04	ornament
+0.03	stair
+0.03	stair
+0.03	building
+0.03	palace
+0.03	loggia
+0.03	round arch
+0.03	lion
+0.03	relief
+0.03	facade
+0.03	door
+0.03	Italy
+0.03	barefootedness
+0.03	fluting
+0.03	capital (architecture)
+0.02	banister
+0.02	Romanesque groined vault
+0.02	arcade
+0.02	blind arch
+0.02	inner courtyard
+0.02	nudity
+0.02	open stairway
+0.02	crochet
+0.02	segmented arch
+0.02	eyelet
+0.02	bird
+0.02	woman
+0.01	pillar
+0.01	window
+0.01	cloth
+0.01	window opening
+0.01	lion's head
+0.01	architectural detail
+0.01	animal
+0.01	weapon
+0.01	grille
+0.01	masonry
+0.01	museum
+0.01	leaded glass
+0.01	hairstyle
+"0.01	parapet, balustrade"
+0.01	garland
+0.01	secular architecture
+0.01	console (architecture)
+0.01	wing (animal)
+0.01	breast
+0.01	coat of arms
+0.01	round-arched window
+0.01	seated woman
+
+== Picture Elements: Stone Walls ==
+0.75	keystone
+0.50	architectural detail
+0.47	arch
+0.47	inner courtyard
+0.46	well
+0.46	column
+0.44	updo
+0.43	building
+0.42	cross
+0.39	round arch
+0.39	platform
+0.37	weapon
+0.36	corridor (architecture)
+0.36	pointed arch
+0.35	capital (architecture)
+0.35	vase
+0.34	vault
+0.33	sculpture
+0.32	picture-in-picture
+0.32	gable
+0.31	door
+0.31	ornament
+0.30	facade
+0.29	woman
+0.28	base
+0.27	segmented arch
+0.27	fresco
+0.26	arcade
+0.26	masonry
+0.25	wreath
+0.25	open stairway
+0.24	frieze
+0.24	stair
+0.24	stair
+0.23	cloth
+0.22	pillar
+0.22	banister
+0.22	grille
+0.21	Florence
+0.21	crochet
+0.21	palace
+0.21	breast
+0.20	blind arch
+0.19	nudity
+0.19	lion
+0.18	loggia
+0.18	relief
+0.18	secular architecture
+0.17	Italy
+0.17	Segment gable
+0.17	window
+0.16	quatrefoil
+0.16	barefootedness
+0.16	museum
+0.16	window opening
+0.16	console (architecture)
+0.15	coat of arms
+0.15	leaded glass
+0.15	round-arched window
+0.15	eyelet
+0.14	hairstyle
+0.13	Romanesque groined vault
+0.13	bird
+0.12	seated woman
+0.11	animal
+0.11	fluting
+0.10	pedestal (sculpture)
+0.10	garland
+0.10	lion's head
+0.09	fountain basin
+0.09	wing (animal)
+"0.08	parapet, balustrade"
+0.07	Museo Nazionale del Bargello (Florence)
+0.06	Palazzo del Bargello (Florence)
+
+== Picture Elements: Staircase ==
+0.74	stair
+0.74	stair
+0.57	open stairway
+"0.29	parapet, balustrade"
+0.14	inner courtyard
+0.13	segmented arch
+0.11	leaded glass
+0.10	Romanesque groined vault
+0.09	capital (architecture)
+0.08	round-arched window
+0.08	pedestal (sculpture)
+0.08	corridor (architecture)
+0.08	wreath
+0.07	window
+0.07	window opening
+0.06	sculpture
+0.06	round arch
+0.06	cross
+0.06	ornament
+0.06	pointed arch
+0.05	Segment gable
+0.05	gable
+0.05	arch
+0.05	well
+0.05	Florence
+0.05	architectural detail
+0.05	platform
+0.04	updo
+0.04	column
+0.04	museum
+0.04	vault
+0.04	palace
+0.04	secular architecture
+0.04	eyelet
+0.04	hairstyle
+0.04	weapon
+0.03	bird
+0.03	door
+0.03	fluting
+0.03	blind arch
+0.03	crochet
+0.03	console (architecture)
+0.02	keystone
+0.02	cloth
+0.02	fountain basin
+0.02	picture-in-picture
+0.02	base
+0.02	coat of arms
+0.02	barefootedness
+0.02	relief
+0.02	banister
+0.02	building
+0.01	fresco
+0.01	Italy
+0.01	woman
+0.01	facade
+0.01	animal
+0.01	lion
+0.01	frieze
+0.01	wing (animal)
+0.01	masonry
+0.01	loggia
+0.01	vase
+0.01	Palazzo del Bargello (Florence)
+0.01	nudity
+0.01	breast
+0.01	Museo Nazionale del Bargello (Florence)
+0.01	pillar
+0.01	quatrefoil
+0.01	grille
+0.01	arcade
+0.01	lion's head
+0.01	seated woman
+0.01	garland
+
+== Picture Elements: Statue ==
+0.18	cross
+0.13	updo
+0.11	well
+0.10	gable
+0.10	vault
+0.08	Florence
+0.08	keystone
+0.07	platform
+0.07	arch
+0.07	column
+0.07	base
+0.07	wreath
+0.07	loggia
+0.07	Segment gable
+0.06	pointed arch
+0.05	capital (architecture)
+0.05	vase
+0.05	round arch
+0.05	relief
+0.04	quatrefoil
+0.04	segmented arch
+0.04	blind arch
+0.04	eyelet
+0.04	barefootedness
+0.04	corridor (architecture)
+0.04	ornament
+0.04	banister
+0.04	inner courtyard
+0.04	nudity
+0.04	architectural detail
+0.03	bird
+0.03	frieze
+0.03	weapon
+0.03	door
+0.03	secular architecture
+0.03	fresco
+0.03	woman
+0.03	animal
+0.03	picture-in-picture
+0.03	stair
+0.03	stair
+0.03	lion
+0.02	museum
+0.02	palace
+0.02	grille
+0.02	crochet
+0.02	coat of arms
+0.02	building
+0.02	fluting
+0.02	breast
+0.02	Italy
+0.02	pillar
+0.02	arcade
+0.02	facade
+0.02	garland
+0.02	console (architecture)
+0.02	cloth
+0.01	Museo Nazionale del Bargello (Florence)
+0.01	masonry
+0.01	Palazzo del Bargello (Florence)
+0.01	pedestal (sculpture)
+0.01	window
+0.01	leaded glass
+0.01	open stairway
+0.01	wing (animal)
+0.01	Romanesque groined vault
+0.01	seated woman
+"0.01	parapet, balustrade"
+0.01	sculpture
+0.01	fountain basin
+0.01	hairstyle
+0.01	round-arched window
+0.01	window opening
+0.01	lion's head
+
+== Picture Elements: Windows ==
+0.35	window opening
+0.33	window
+0.20	updo
+0.20	platform
+0.19	round-arched window
+0.19	well
+0.18	keystone
+0.17	cross
+0.17	door
+0.16	picture-in-picture
+0.15	arch
+0.14	gable
+0.12	open stairway
+0.12	loggia
+0.12	base
+0.11	vault
+0.11	Florence
+0.11	barefootedness
+0.11	column
+0.10	building
+0.10	eyelet
+0.09	fresco
+0.09	segmented arch
+0.09	vase
+0.09	frieze
+0.09	Segment gable
+0.09	pointed arch
+0.09	banister
+0.09	crochet
+0.08	secular architecture
+0.08	ornament
+0.08	round arch
+0.08	palace
+0.08	stair
+0.08	stair
+0.08	nudity
+0.07	leaded glass
+0.06	garland
+0.06	relief
+0.06	console (architecture)
+0.06	grille
+0.05	blind arch
+0.05	facade
+0.05	cloth
+0.05	Italy
+0.05	architectural detail
+0.04	bird
+0.04	wreath
+0.04	pillar
+0.04	lion
+0.04	arcade
+0.03	quatrefoil
+0.03	inner courtyard
+0.03	woman
+0.03	weapon
+0.03	fluting
+0.03	hairstyle
+0.03	corridor (architecture)
+0.02	sculpture
+0.02	masonry
+0.02	capital (architecture)
+0.02	pedestal (sculpture)
+0.02	Palazzo del Bargello (Florence)
+0.02	breast
+0.02	Romanesque groined vault
+0.02	seated woman
+0.01	coat of arms
+0.01	lion's head
+0.01	Museo Nazionale del Bargello (Florence)
+0.01	museum
+"0.01	parapet, balustrade"
+0.01	fountain basin
+0.01	animal
+0.01	wing (animal)
+
+== Picture Elements: Niches ==
+0.19	nudity
+0.14	well
+0.14	cloth
+0.13	cross
+0.13	updo
+0.13	sculpture
+0.13	crochet
+0.12	gable
+0.11	arch
+0.10	barefootedness
+0.10	door
+0.10	Florence
+0.09	picture-in-picture
+0.09	keystone
+0.09	vault
+0.09	eyelet
+0.09	column
+0.08	grille
+0.08	animal
+0.08	ornament
+0.08	woman
+0.07	loggia
+0.07	weapon
+0.07	wreath
+0.07	banister
+0.07	vase
+0.07	Segment gable
+0.06	palace
+0.06	relief
+0.06	segmented arch
+0.06	pedestal (sculpture)
+0.05	leaded glass
+0.05	quatrefoil
+0.05	hairstyle
+0.05	frieze
+0.05	arcade
+0.05	fresco
+0.05	lion
+0.05	bird
+0.05	blind arch
+0.04	platform
+0.04	open stairway
+0.04	pointed arch
+0.04	round arch
+0.04	breast
+0.04	base
+0.04	window
+0.04	stair
+0.04	stair
+0.04	building
+0.04	window opening
+0.04	facade
+0.04	Romanesque groined vault
+0.04	fluting
+0.03	Italy
+0.03	pillar
+0.03	inner courtyard
+0.03	wing (animal)
+0.02	seated woman
+0.02	architectural detail
+0.02	masonry
+0.02	coat of arms
+0.02	capital (architecture)
+0.01	garland
+0.01	console (architecture)
+0.01	fountain basin
+0.01	round-arched window
+0.01	museum
+0.01	corridor (architecture)
+0.01	secular architecture
+0.01	lion's head
+0.01	Palazzo del Bargello (Florence)
+0.01	Museo Nazionale del Bargello (Florence)
+"0.01	parapet, balustrade"
+

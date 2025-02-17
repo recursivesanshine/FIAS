@@ -1,0 +1,133 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Architektur,architecture
+motiv,Motiv,Innenraum,interior space
+motiv,Motiv,Mann,man
+motiv,Motiv,Frau,woman
+motiv,Motiv,Personengruppe,group of people
+motiv,Motiv,Engel,angel
+motiv,Motiv,Tier,animal
+motiv,Motiv,Venedig,Venice
+motiv,Motiv,Italien,Italy
+motiv,Motiv,Tod,Death
+motiv,Motiv,Antonio Canova,Antonio Canova
+motiv,Motiv,Caritas,Caritas
+motiv,Motiv,Immortalitas,Immortalitas
+motiv,Motiv,Santa Maria Gloriosa dei Frari (Venedig),Santa Maria Gloriosa dei Frari (Venedig)
+motiv,Motiv,"Denkmal für Antonio Canova, Santa Maria dei Frari (Venedig)","Denkmal für Antonio Canova, Santa Maria dei Frari (Venedig)"
+bildelement,Bildelement,Innenraum,interior space
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Engel,angel
+bildelement,Bildelement,Tier,animal
+bildelement,Bildelement,Venedig,Venice
+bildelement,Bildelement,Italien,Italy
+bildelement,Bildelement,Sakralbau,sacred building
+bildelement,Bildelement,Kirche (Gebäude),church
+bildelement,Bildelement,Decke (Architektur),ceiling
+bildelement,Bildelement,Kreuzgratgewölbe,Romanesque groined vault
+bildelement,Bildelement,Balken,beam
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Zwillingsfenster,gemel window
+bildelement,Bildelement,Ornament,ornament
+bildelement,Bildelement,Dekoration,decoration
+bildelement,Bildelement,Stern (Form),star (shape)
+bildelement,Bildelement,Muster,pattern
+bildelement,Bildelement,Kette (Zugmittel),chain (mechanical device)
+bildelement,Bildelement,Lampe,lamp
+bildelement,Bildelement,Volute,volute
+bildelement,Bildelement,Geländer,banister
+bildelement,Bildelement,Stufe,stair
+bildelement,Bildelement,Treppe,stair
+bildelement,Bildelement,Einfriedung,enclosure
+bildelement,Bildelement,Vorhang,drapery
+bildelement,Bildelement,Säule,column
+bildelement,Bildelement,Kapitell,capital (architecture)
+bildelement,Bildelement,Säulenordnung,column order
+bildelement,Bildelement,Basis,base
+bildelement,Bildelement,Sockel,base
+bildelement,Bildelement,Sockel,pedestal (sculpture)
+bildelement,Bildelement,Podest,platform
+bildelement,Bildelement,Leiter,"ladder, leader"
+bildelement,Bildelement,Kerzenleuchter,candlestick
+bildelement,Bildelement,Grab,"grave, tomb"
+bildelement,Bildelement,Grabmal,tomb monument
+bildelement,Bildelement,Denkmal,memorial
+bildelement,Bildelement,Doge,doge
+bildelement,Bildelement,Bildhauer,sculptor (male)
+bildelement,Bildelement,Atlant,Atlas (architecture)
+bildelement,Bildelement,Stehender,standing man
+bildelement,Bildelement,Stehende,standing woman (standing people)
+bildelement,Bildelement,Sitzender,seated man
+bildelement,Bildelement,Gebeugter,person bent over
+bildelement,Bildelement,Hochsteckfrisur,updo
+bildelement,Bildelement,Frisur,hairstyle
+bildelement,Bildelement,Locke,lock
+bildelement,Bildelement,Haarband,hairband
+bildelement,Bildelement,Kopftuch,headscarf
+bildelement,Bildelement,Helm,helmet
+bildelement,Bildelement,Adler,eagle
+bildelement,Bildelement,Flügel (Tier),wing (animal)
+bildelement,Bildelement,Kranz,wreath
+bildelement,Bildelement,Kleidung,clothing
+bildelement,Bildelement,Tunika,tunic
+bildelement,Bildelement,Umhang,cloak
+bildelement,Bildelement,Tuch,cloth
+bildelement,Bildelement,Gürteltuch,waist scarf
+bildelement,Bildelement,Faltenwurf,drape
+bildelement,Bildelement,Schließe,clasp
+bildelement,Bildelement,Sack,sack
+bildelement,Bildelement,Nacktheit,nudity
+bildelement,Bildelement,Barfüßigkeit,barefootedness
+bildelement,Bildelement,Fackel,torch (fire)
+bildelement,Bildelement,Flamme,flame
+bildelement,Bildelement,Blumengirlande,floral garland
+bildelement,Bildelement,Blume,flower
+bildelement,Bildelement,Blüte,blossom
+bildelement,Bildelement,Flügel (Engel),wing (angel)
+bildelement,Bildelement,Körperkontakt,physical contact
+bildelement,Bildelement,Evangelistensymbol,evangelist's symbol
+bildelement,Bildelement,Markuslöwe,Lion of St. Mark
+bildelement,Bildelement,Schweben,floating
+bildelement,Bildelement,Medaillon,medallion
+bildelement,Bildelement,Porträt,portrait
+bildelement,Bildelement,Relief,relief
+bildelement,Bildelement,Profil,profile
+bildelement,Bildelement,Bewegung (Körperbewegung),movement (of the body)
+bildelement,Bildelement,Pyramide,pyramid
+bildelement,Bildelement,Marmor,marble
+bildelement,Bildelement,Baustein,building stone
+bildelement,Bildelement,Schrift,script
+bildelement,Bildelement,Buchstabe,letter (typography)
+bildelement,Bildelement,Majuskel,majuscule
+bildelement,Bildelement,Inschrift,inscription
+bildelement,Bildelement,Gitter,grille
+bildelement,Bildelement,Zaun,fence
+bildelement,Bildelement,Band (Textilien),ribbon
+bildelement,Bildelement,Fliesenboden,tile floor
+bildelement,Bildelement,Fliese,tile
+bildelement,Bildelement,Lichtreflex,light reflection
+bildelement,Bildelement,Lichteinfall,incident light
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Kapelle,chapel
+bildelement,Bildelement,Andachtsbild,devotional image
+bildelement,Bildelement,Ungeheuer,behemoth
+assoziation,Assoziation,Balustrade,balustrade
+assoziation,Assoziation,Baluster (Architektur),baluster (architecture)
+assoziation,Assoziation,Rundfenster,oculus
+assoziation,Assoziation,Bogen (Waffe),bow (weapon)
+assoziation,Assoziation,Pfeil (Waffe),arrow
+assoziation,Assoziation,Trauerzug,funeral procession
+assoziation,Assoziation,Urne,urn
+assoziation,Assoziation,Fernrohr,telescope
+assoziation,Assoziation,Geschichte,history
+assoziation,Assoziation,Franziskaner,Franciscan
+assoziation,Assoziation,Altar,altar
+atmosphäre,Atmosphäre,Ehrfurcht,reverence
+atmosphäre,Atmosphäre,Erhabenheit,grandeur
+atmosphäre,Atmosphäre,Geheimnis,secret
+atmosphäre,Atmosphäre,Ruhe,calm
+emotion,Emotion,neugierig,curious
+emotion,Emotion,ernsthaft,earnestly
+emotion,Emotion,nachdenklich,thoughtful

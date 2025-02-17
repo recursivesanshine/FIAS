@@ -1,0 +1,150 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf3988_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf3988_thumb-xl.csv
+
+== Keywords for Atmosphere: Industrial ==
+0.15	monotony
+0.05	abundance
+0.05	sobriety
+
+== Keywords for Atmosphere: Mechanical ==
+0.19	monotony
+0.03	sobriety
+0.02	abundance
+
+== Keywords for Atmosphere: Processing ==
+0.26	monotony
+0.13	sobriety
+0.12	abundance
+
+== Keywords for Atmosphere: Agricultural ==
+0.07	monotony
+0.03	abundance
+0.02	sobriety
+
+== Keywords for Emotion: Efficiency ==
+0.07	cool
+"0.03	soothing, calming"
+
+== Keywords for Emotion: Orderliness ==
+"0.07	soothing, calming"
+0.05	cool
+
+== Keywords for Emotion: Productivity ==
+0.07	cool
+"0.02	soothing, calming"
+
+== Keywords for Emotion: Monotonous ==
+0.10	cool
+"0.03	soothing, calming"
+
+== Picture Elements: Conveyor Belt ==
+0.14	row
+0.13	rivet
+0.13	hinge
+0.11	background
+0.09	light reflection
+0.08	container
+0.08	machine
+0.06	sustenance
+0.05	perspective
+0.05	plum
+0.05	screw
+0.05	basket
+0.04	progeny
+0.04	image detail
+0.03	groove
+0.03	grille
+0.02	construction (technique)
+0.02	fruit
+0.01	wear and tear
+0.01	chain (mechanical device)
+
+== Picture Elements: Olives ==
+0.14	perspective
+0.12	sustenance
+0.09	fruit
+0.09	rivet
+0.08	container
+0.07	screw
+0.06	image detail
+0.06	machine
+0.05	progeny
+0.05	light reflection
+0.05	hinge
+0.05	row
+0.05	groove
+0.04	plum
+0.03	background
+0.03	basket
+0.02	chain (mechanical device)
+0.02	construction (technique)
+0.02	grille
+0.01	wear and tear
+
+== Picture Elements: Mechanical Components ==
+0.35	chain (mechanical device)
+0.20	machine
+0.11	hinge
+0.11	rivet
+0.09	perspective
+0.08	row
+0.07	container
+0.07	screw
+0.06	progeny
+0.05	construction (technique)
+0.05	plum
+0.05	background
+0.04	light reflection
+0.03	basket
+0.03	image detail
+0.03	sustenance
+0.02	grille
+0.01	groove
+0.01	fruit
+0.01	wear and tear
+
+== Picture Elements: Baskets ==
+0.54	basket
+0.13	chain (mechanical device)
+0.06	rivet
+0.05	background
+0.05	machine
+0.04	container
+0.04	perspective
+0.04	row
+0.03	light reflection
+0.03	image detail
+0.03	progeny
+0.03	sustenance
+0.03	plum
+0.03	hinge
+0.03	screw
+0.02	fruit
+0.01	construction (technique)
+0.01	wear and tear
+0.01	grille
+0.01	groove
+
+== Picture Elements: Industrial Setting ==
+0.15	perspective
+0.14	construction (technique)
+0.12	machine
+0.11	hinge
+0.10	row
+0.10	container
+0.09	rivet
+0.07	background
+0.07	sustenance
+0.06	screw
+0.06	progeny
+0.05	chain (mechanical device)
+0.05	plum
+0.05	image detail
+0.04	light reflection
+0.02	basket
+0.01	groove
+0.01	grille
+0.01	fruit
+0.01	wear and tear
+

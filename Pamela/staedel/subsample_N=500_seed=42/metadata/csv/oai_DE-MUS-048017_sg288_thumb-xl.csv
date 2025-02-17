@@ -1,0 +1,54 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Porträt,portrait
+motiv,Motivgattung,Genre,genre
+motiv,Motiv,Künstlerporträt,artist portrait
+motiv,Motiv,Max Slevogt,Max Slevogt
+motiv,Motiv,Mann,man
+motiv,Motiv,Tier,animal
+motiv,Motiv,Park,park
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Stehender,standing man
+bildelement,Bildelement,Rückenfigur,figure seen from the back
+bildelement,Bildelement,Ganzfigur,full figure
+bildelement,Bildelement,Verlorenes Profil,lost profile
+bildelement,Bildelement,Jacke,coat
+bildelement,Bildelement,Hose,trousers
+bildelement,Bildelement,Schuh,shoe
+bildelement,Bildelement,Herrenschuh,man's shoe
+bildelement,Bildelement,Schirmmütze,visored cap
+bildelement,Bildelement,Kopfbedeckung,head covering
+bildelement,Bildelement,Vogel,bird
+bildelement,Bildelement,Papagei,parrot
+bildelement,Bildelement,Papageienstange,parrot's perch
+bildelement,Bildelement,Staffelei,easel
+bildelement,Bildelement,Maler,painter
+bildelement,Bildelement,Künstler,artist
+bildelement,Bildelement,Porträtist,portraitist (male)
+bildelement,Bildelement,Malender,man painting
+bildelement,Bildelement,Bart,beard
+bildelement,Bildelement,Vollbart,full beard
+bildelement,Bildelement,Brille,glasses
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Arbeitskleidung,work clothes
+bildelement,Bildelement,Palette (Kunst),palette (art)
+bildelement,Bildelement,Modell,model (art)
+bildelement,Bildelement,Tierpfleger,animal keeper
+bildelement,Bildelement,Bild-im-Bild,picture-in-picture
+bildelement,Bildelement,Leinwand,canvas
+bildelement,Bildelement,Keilrahmen,stretcher
+bildelement,Bildelement,Baum,tree
+bildelement,Bildelement,Buschwerk,shrubbery
+bildelement,Bildelement,Strauch,shrub
+bildelement,Bildelement,Park,park
+bildelement,Bildelement,Garten,garden
+bildelement,Bildelement,Weg,route
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Sonnenflecken,sunspots
+atmosphäre,Atmosphäre,Frische,freshness
+atmosphäre,Atmosphäre,Geheimnis,secret
+atmosphäre,Atmosphäre,Harmonie,harmony
+atmosphäre,Atmosphäre,Ruhe,calm
+emotion,Emotion,ausgeglichen,even-tempered
+emotion,Emotion,beruhigend,"soothing, calming"
+emotion,Emotion,neugierig,curious

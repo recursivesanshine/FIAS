@@ -1,0 +1,122 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv
+
+== Keywords for Atmosphere: **Solitude:** The solitary figure and subdued background create a sense of quiet introspection. ==
+0.20	earnestness
+0.17	calm
+0.10	rigidity
+0.07	heaviness
+0.06	grandeur
+
+== Keywords for Atmosphere: **Elegance:** The intricate lace and ruff collar convey a sense of refined elegance. ==
+0.34	grandeur
+0.24	heaviness
+0.15	rigidity
+0.13	calm
+0.11	earnestness
+
+== Keywords for Atmosphere: **Historical:** The attire and style suggest a 17th-century European setting. ==
+0.22	earnestness
+0.14	grandeur
+0.13	heaviness
+0.05	calm
+0.02	rigidity
+
+== Keywords for Emotion: **Calm:** The woman's composed demeanor and the soft lighting evoke a serene atmosphere. ==
+0.24	thoughtful
+0.22	cool
+0.14	earnestly
+0.13	depressing
+
+== Keywords for Emotion: **Reflective:** The portrait's simplicity and the subject's direct gaze suggest contemplation. ==
+0.30	thoughtful
+0.19	depressing
+0.12	earnestly
+0.09	cool
+
+== Picture Elements: **Ruff Collar:** A prominent feature of the attire. ==
+0.65	lace cuff
+0.31	dress
+0.30	cartwheel ruff
+0.19	ring
+0.17	necklace
+0.06	gem
+0.06	pearl
+0.05	jewellery
+0.05	woman
+0.03	bonnet
+0.03	bracelet
+0.02	gold jewellery
+0.02	back of a chair
+0.01	ostrich feather
+0.01	gold chain
+
+== Picture Elements: **Lace Cuffs:** Adds to the elegance of the outfit. ==
+0.81	lace cuff
+0.49	necklace
+0.35	bracelet
+0.28	dress
+0.17	ring
+0.15	gem
+0.15	jewellery
+0.13	woman
+0.10	gold jewellery
+0.09	pearl
+0.08	bonnet
+0.08	cartwheel ruff
+0.06	ostrich feather
+0.06	gold chain
+0.03	back of a chair
+
+== Picture Elements: **Headdress:** Complements the overall style. ==
+0.63	dress
+0.16	necklace
+0.15	ring
+0.15	lace cuff
+0.13	jewellery
+0.10	gem
+0.09	woman
+0.06	gold jewellery
+0.04	bracelet
+0.02	pearl
+0.02	bonnet
+0.02	back of a chair
+0.01	gold chain
+0.01	ostrich feather
+0.01	cartwheel ruff
+
+== Picture Elements: **Rings:** Indicate status or personal significance. ==
+0.48	ring
+0.10	dress
+0.09	necklace
+0.08	lace cuff
+0.06	gem
+0.05	woman
+0.04	jewellery
+0.03	ostrich feather
+0.03	gold jewellery
+0.02	bracelet
+0.02	bonnet
+0.01	pearl
+0.01	gold chain
+0.01	cartwheel ruff
+0.01	back of a chair
+
+== Picture Elements: **Object in Hand:** Adds a narrative element to the composition. ==
+0.12	ring
+0.07	gem
+0.07	lace cuff
+0.06	back of a chair
+0.05	dress
+0.04	bracelet
+0.04	woman
+0.02	bonnet
+0.01	pearl
+0.01	necklace
+0.01	jewellery
+0.01	gold jewellery
+0.01	gold chain
+0.01	ostrich feather
+0.01	cartwheel ruff
+

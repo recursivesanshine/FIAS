@@ -1,0 +1,262 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf72_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf72_thumb-xl.csv
+
+== Keywords for Atmosphere: Historical ==
+0.08	magnificence
+0.03	calm
+0.02	sobriety
+
+== Keywords for Atmosphere: Architectural ==
+0.12	magnificence
+0.05	calm
+0.04	sobriety
+
+== Keywords for Atmosphere: Classical ==
+0.22	magnificence
+0.14	calm
+0.08	sobriety
+
+== Keywords for Atmosphere: Ancient ==
+0.17	magnificence
+0.09	calm
+0.03	sobriety
+
+== Keywords for Atmosphere: Weathered ==
+0.12	magnificence
+0.08	calm
+0.05	sobriety
+
+== Keywords for Atmosphere: Decay ==
+0.14	magnificence
+0.13	calm
+0.09	sobriety
+
+== Keywords for Emotion: Nostalgia ==
+0.05	earnestly
+"0.01	soothing, calming"
+
+== Keywords for Emotion: Grandeur ==
+0.07	earnestly
+"0.01	soothing, calming"
+
+== Keywords for Emotion: Timelessness ==
+0.12	earnestly
+"0.06	soothing, calming"
+
+== Keywords for Emotion: Melancholy ==
+0.04	earnestly
+"0.02	soothing, calming"
+
+== Keywords for Emotion: Reverence ==
+0.05	earnestly
+"0.01	soothing, calming"
+
+== Picture Elements: Column ==
+0.44	column
+0.14	volute
+0.12	Athens
+0.09	light
+0.09	beam
+0.08	crack
+0.08	Greece
+0.07	foreground
+0.07	stone
+0.07	Erechtheion (Athens)
+0.07	capital (architecture)
+0.06	cymatium
+0.06	background
+0.06	architectural detail
+0.06	floral ornament
+0.06	shadow
+0.05	pattern
+0.04	fluting
+0.04	ornament
+0.03	bead and reel
+0.03	structural damage
+0.03	timberwork
+0.01	Ionic capital
+0.01	Ionic order
+
+== Picture Elements: Fluted Shafts ==
+0.64	fluting
+0.18	volute
+0.15	beam
+0.14	floral ornament
+0.13	ornament
+0.11	stone
+0.09	shadow
+0.09	structural damage
+0.08	light
+0.08	pattern
+0.08	crack
+0.07	timberwork
+0.07	column
+0.07	Ionic capital
+0.07	background
+0.06	bead and reel
+0.05	cymatium
+0.04	Greece
+0.02	foreground
+0.02	Ionic order
+0.01	Athens
+0.01	architectural detail
+0.01	capital (architecture)
+0.01	Erechtheion (Athens)
+
+== Picture Elements: Ornate Capital ==
+0.55	Ionic capital
+0.33	capital (architecture)
+0.18	Erechtheion (Athens)
+0.15	volute
+0.14	floral ornament
+0.10	beam
+0.08	stone
+0.07	column
+0.07	Athens
+0.07	shadow
+0.06	light
+0.06	Ionic order
+0.05	crack
+0.05	background
+0.04	ornament
+0.04	cymatium
+0.04	Greece
+0.03	pattern
+0.02	foreground
+0.01	fluting
+0.01	architectural detail
+0.01	bead and reel
+0.01	structural damage
+0.01	timberwork
+
+== Picture Elements: Acanthus Leaves ==
+0.18	volute
+0.12	beam
+0.10	Greece
+0.10	light
+0.09	column
+0.09	background
+0.09	shadow
+0.07	foreground
+0.07	ornament
+0.06	crack
+0.06	stone
+0.05	cymatium
+0.05	pattern
+0.04	Erechtheion (Athens)
+0.03	fluting
+0.03	floral ornament
+0.03	Athens
+0.03	structural damage
+0.02	timberwork
+0.02	bead and reel
+0.01	Ionic order
+0.01	Ionic capital
+0.01	architectural detail
+0.01	capital (architecture)
+
+== Picture Elements: Scroll Motifs ==
+0.10	volute
+0.08	column
+0.07	pattern
+0.07	shadow
+0.05	Ionic capital
+0.04	beam
+0.04	stone
+0.03	light
+0.02	background
+0.02	crack
+0.02	Greece
+0.01	Ionic order
+0.01	Athens
+0.01	ornament
+0.01	Erechtheion (Athens)
+0.01	cymatium
+0.01	capital (architecture)
+0.01	bead and reel
+0.01	fluting
+0.01	timberwork
+0.01	architectural detail
+0.01	foreground
+0.01	structural damage
+0.01	floral ornament
+
+== Picture Elements: Stone Platform ==
+0.80	stone
+0.27	foreground
+0.25	volute
+0.18	capital (architecture)
+0.18	shadow
+0.18	light
+0.16	beam
+0.15	background
+0.15	column
+0.15	Athens
+0.14	architectural detail
+0.12	ornament
+0.11	pattern
+0.11	crack
+0.09	Greece
+0.09	Erechtheion (Athens)
+0.07	fluting
+0.07	structural damage
+0.06	cymatium
+0.06	timberwork
+0.03	Ionic capital
+0.03	bead and reel
+0.02	Ionic order
+0.01	floral ornament
+
+== Picture Elements: Weathering ==
+0.23	volute
+0.15	crack
+0.14	Greece
+0.14	foreground
+0.13	beam
+0.13	Athens
+0.12	column
+0.11	stone
+0.10	shadow
+0.10	pattern
+0.08	light
+0.08	cymatium
+0.08	timberwork
+0.08	background
+0.07	ornament
+0.07	structural damage
+0.07	Erechtheion (Athens)
+0.06	bead and reel
+0.06	fluting
+0.05	architectural detail
+0.04	capital (architecture)
+0.03	Ionic capital
+0.03	floral ornament
+0.02	Ionic order
+
+== Picture Elements: Damage ==
+0.59	structural damage
+0.28	volute
+0.23	Athens
+0.17	shadow
+0.16	light
+0.16	beam
+0.15	column
+0.15	crack
+0.14	foreground
+0.14	cymatium
+0.14	stone
+0.11	Greece
+0.07	pattern
+0.07	ornament
+0.07	background
+0.07	timberwork
+0.06	fluting
+0.05	Ionic capital
+0.05	bead and reel
+0.04	Erechtheion (Athens)
+0.04	Ionic order
+0.03	architectural detail
+0.02	floral ornament
+0.01	capital (architecture)
+

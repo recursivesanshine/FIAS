@@ -1,0 +1,100 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf3384_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf3384_thumb-xl.csv
+
+== Keywords for Atmosphere: Monochromatic ==
+0.08	calm
+0.04	rigidity
+0.02	sobriety
+
+== Keywords for Atmosphere: Aged ==
+0.12	calm
+0.06	sobriety
+0.04	rigidity
+
+== Keywords for Atmosphere: Intricate ==
+0.07	rigidity
+0.07	calm
+0.04	sobriety
+
+== Keywords for Atmosphere: Microscopic ==
+0.14	calm
+0.04	sobriety
+0.04	rigidity
+
+== Keywords for Atmosphere: Scientific ==
+0.06	sobriety
+0.06	calm
+0.02	rigidity
+
+== Keywords for Emotion: Mysterious ==
+0.34	curious
+0.03	cool
+
+== Keywords for Emotion: Intriguing ==
+0.45	curious
+0.07	cool
+
+== Keywords for Emotion: Historical ==
+0.07	curious
+0.01	cool
+
+== Keywords for Emotion: Scientific ==
+0.13	curious
+0.11	cool
+
+== Picture Elements: Circular and oval shapes ==
+0.40	shape
+0.15	detail
+0.15	structure
+0.10	compound
+0.09	cross section
+0.09	ebony
+0.08	close-up
+0.04	plant
+0.01	part of a plant
+
+== Picture Elements: Intricate patterns ==
+0.12	shape
+0.09	ebony
+0.08	detail
+0.07	structure
+0.05	compound
+0.03	cross section
+0.02	close-up
+0.02	plant
+0.01	part of a plant
+
+== Picture Elements: Monochromatic sepia tones ==
+0.09	ebony
+0.06	detail
+0.05	compound
+0.04	close-up
+0.04	shape
+0.03	part of a plant
+0.02	cross section
+0.01	plant
+0.01	structure
+
+== Picture Elements: Handwritten text ==
+0.22	ebony
+0.16	detail
+0.14	cross section
+0.10	compound
+0.10	close-up
+0.05	shape
+0.02	structure
+0.01	plant
+0.01	part of a plant
+
+== Picture Elements: Aged paper ==
+0.24	ebony
+0.15	detail
+0.13	cross section
+0.11	shape
+0.10	close-up
+0.09	compound
+0.05	structure
+0.04	plant
+0.01	part of a plant
+

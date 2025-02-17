@@ -1,0 +1,36 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Landschaft,landscape
+motiv,Motiv,Feld,field
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Weßling,Wessling
+bildelement,Bildelement,Furche (Landwirtschaft),furrow
+bildelement,Bildelement,Weg,route
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Haus,house
+bildelement,Bildelement,Wald,forest
+bildelement,Bildelement,Wolke,cloud
+bildelement,Bildelement,Hügel,hill
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Weßling,Wessling
+assoziation,Assoziation,Urlaub,holiday
+assoziation,Assoziation,Sommer,summer
+assoziation,Assoziation,Landwirtschaft,agriculture
+assoziation,Assoziation,Starnberger See,Lake Starnberg
+assoziation,Assoziation,Getreide,grain
+assoziation,Assoziation,Gewitter,thunderstorm
+assoziation,Assoziation,Wanderung,hike
+assoziation,Assoziation,Fruchtbarkeit,fertility
+assoziation,Assoziation,Erde,soil
+assoziation,Assoziation,en plein air,en plein air
+assoziation,Assoziation,Dorf,village
+atmosphäre,Atmosphäre,Frische,freshness
+atmosphäre,Atmosphäre,Vertrauen,trust
+atmosphäre,Atmosphäre,Ruhe,calm
+atmosphäre,Atmosphäre,Harmonie,harmony
+atmosphäre,Atmosphäre,Spannung,tension
+emotion,Emotion,ausgeglichen,even-tempered
+emotion,Emotion,beruhigend,"soothing, calming"
+emotion,Emotion,einsam,lonely
+emotion,Emotion,neugierig,curious
+emotion,Emotion,unbeschwert,carefree

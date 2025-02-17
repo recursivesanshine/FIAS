@@ -1,0 +1,97 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Architektur,architecture
+motiv,Motiv,Palazzo del Bargello (Florenz),Palazzo del Bargello (Florence)
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Florenz,Florence
+motiv,Motiv,Brunnen,well
+motiv,Motiv,Museo Nazionale del Bargello (Florenz),Museo Nazionale del Bargello (Florence)
+motiv,Motiv,Museum,museum
+motiv,Motiv,Frau,woman
+bildelement,Bildelement,Palazzo del Bargello (Florenz),Palazzo del Bargello (Florence)
+bildelement,Bildelement,Florenz,Florence
+bildelement,Bildelement,Italien,Italy
+bildelement,Bildelement,Museum,museum
+bildelement,Bildelement,Museo Nazionale del Bargello (Florenz),Museo Nazionale del Bargello (Florence)
+bildelement,Bildelement,Innenhof,inner courtyard
+bildelement,Bildelement,Palast,palace
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Fassade,facade
+bildelement,Bildelement,Mauerwerk,masonry
+bildelement,Bildelement,Tür,door
+bildelement,Bildelement,Gitter,grille
+bildelement,Bildelement,Fries,frieze
+bildelement,Bildelement,Pfeiler,pillar
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Fensteröffnung,window opening
+bildelement,Bildelement,Bleiverglasung,leaded glass
+bildelement,Bildelement,Segmentbogen,segmented arch
+bildelement,Bildelement,Säule,column
+bildelement,Bildelement,Konsole (Architektur),console (architecture)
+bildelement,Bildelement,Tier,animal
+bildelement,Bildelement,Löwe,lion
+bildelement,Bildelement,Wappen,coat of arms
+bildelement,Bildelement,Relief,relief
+bildelement,Bildelement,Ornament,ornament
+bildelement,Bildelement,Haken,crochet
+bildelement,Bildelement,Öse,eyelet
+bildelement,Bildelement,Blendbogen,blind arch
+bildelement,Bildelement,Architekturdetail,architectural detail
+bildelement,Bildelement,Bild-im-Bild,picture-in-picture
+bildelement,Bildelement,Skulptur,sculpture
+bildelement,Bildelement,Arkade,arcade
+bildelement,Bildelement,Gang (Architektur),corridor (architecture)
+bildelement,Bildelement,Bogen (Architektur),arch
+bildelement,Bildelement,Rundbogen,round arch
+bildelement,Bildelement,Spitzbogen,pointed arch
+bildelement,Bildelement,Treppe,stair
+bildelement,Bildelement,Stufe,stair
+bildelement,Bildelement,Vierpass,quatrefoil
+bildelement,Bildelement,Kranz,wreath
+bildelement,Bildelement,Kapitell,capital (architecture)
+bildelement,Bildelement,Kreuz,cross
+bildelement,Bildelement,Löwenkopf,lion's head
+bildelement,Bildelement,Girlande,garland
+bildelement,Bildelement,Vogel,bird
+bildelement,Bildelement,Flügel (Tier),wing (animal)
+bildelement,Bildelement,Waffe,weapon
+bildelement,Bildelement,Giebel,gable
+bildelement,Bildelement,Segmentgiebel,Segment gable
+bildelement,Bildelement,Brunnen,well
+bildelement,Bildelement,Brunnenbecken,fountain basin
+bildelement,Bildelement,Rundbogenfenster,round-arched window
+bildelement,Bildelement,Kannelur,fluting
+bildelement,Bildelement,Vase,vase
+bildelement,Bildelement,Podest,platform
+bildelement,Bildelement,Brüstung,"parapet, balustrade"
+bildelement,Bildelement,Geländer,banister
+bildelement,Bildelement,Nacktheit,nudity
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Barfüßigkeit,barefootedness
+bildelement,Bildelement,Brust,breast
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Tuch,cloth
+bildelement,Bildelement,Sockel,base
+bildelement,Bildelement,Sockel,pedestal (sculpture)
+bildelement,Bildelement,Frisur,hairstyle
+bildelement,Bildelement,Hochsteckfrisur,updo
+bildelement,Bildelement,Kreuzgratgewölbe,Romanesque groined vault
+bildelement,Bildelement,Gewölbe,vault
+bildelement,Bildelement,Fresko,fresco
+bildelement,Bildelement,Loggia,loggia
+bildelement,Bildelement,Profanarchitektur,secular architecture
+bildelement,Bildelement,Schlussstein,keystone
+bildelement,Bildelement,Freitreppe,open stairway
+assoziation,Assoziation,Reise,travel
+assoziation,Assoziation,Kultur,culture
+assoziation,Assoziation,Geschichte,history
+assoziation,Assoziation,Gefängnis,prison
+assoziation,Assoziation,Dokumentation,documentation
+assoziation,Assoziation,Sammlung,collection
+atmosphäre,Atmosphäre,Erhabenheit,grandeur
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Fülle,abundance
+atmosphäre,Atmosphäre,Pracht,magnificence
+emotion,Emotion,ausgeglichen,even-tempered
+emotion,Emotion,beruhigend,"soothing, calming"
+emotion,Emotion,einsam,lonely
+emotion,Emotion,ernsthaft,earnestly

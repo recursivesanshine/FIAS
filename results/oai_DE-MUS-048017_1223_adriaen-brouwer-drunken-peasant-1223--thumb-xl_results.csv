@@ -1,0 +1,52 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_1223_adriaen-brouwer-drunken-peasant-1223--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_1223_adriaen-brouwer-drunken-peasant-1223--thumb-xl.csv
+
+== Keywords for Atmosphere: Warmth ==
+0.14	heaviness
+0.11	oppression
+0.07	hopelessness
+0.06	isolation
+
+== Keywords for Atmosphere: Rustic ==
+0.07	oppression
+0.04	isolation
+0.03	hopelessness
+0.02	heaviness
+
+== Keywords for Atmosphere: Dimly lit ==
+0.12	heaviness
+0.09	oppression
+0.08	hopelessness
+0.07	isolation
+
+== Keywords for Atmosphere: Informal ==
+0.17	oppression
+0.09	isolation
+0.06	hopelessness
+0.06	heaviness
+
+== Keywords for Emotion: Distress ==
+0.72	depressing
+0.37	disconcerting
+0.34	disgusting
+0.03	earnestly
+
+== Keywords for Emotion: Surprise ==
+0.21	disconcerting
+0.19	disgusting
+0.07	earnestly
+0.05	depressing
+
+== Keywords for Emotion: Fatigue ==
+0.23	disgusting
+0.13	disconcerting
+0.04	earnestly
+0.03	depressing
+
+== Keywords for Emotion: Desperation ==
+0.19	disgusting
+0.15	depressing
+0.15	disconcerting
+0.01	earnestly
+

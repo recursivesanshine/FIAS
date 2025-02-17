@@ -1,0 +1,157 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf158_erich-salomon-new-york-view-manhatten-ellis-island-stf158--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf158_erich-salomon-new-york-view-manhatten-ellis-island-stf158--thumb-xl.csv
+
+== Keywords for Atmosphere: Monochromatic ==
+0.49	monotony
+0.08	oppression
+0.05	heaviness
+0.05	drama
+0.02	earnestness
+0.02	sobriety
+
+== Keywords for Atmosphere: Grid-like ==
+0.14	monotony
+0.13	oppression
+0.12	heaviness
+0.08	drama
+0.05	earnestness
+0.04	sobriety
+
+== Keywords for Atmosphere: Urban ==
+0.15	heaviness
+0.13	oppression
+0.08	monotony
+0.06	earnestness
+0.06	drama
+0.05	sobriety
+
+== Keywords for Atmosphere: Hazy ==
+0.23	heaviness
+0.09	monotony
+0.06	drama
+0.06	oppression
+0.04	sobriety
+0.02	earnestness
+
+== Keywords for Atmosphere: Sepia ==
+0.05	oppression
+0.04	sobriety
+0.04	monotony
+0.03	drama
+0.02	earnestness
+0.01	heaviness
+
+== Keywords for Emotion: Nostalgic ==
+0.08	melancholic 
+0.07	annoying
+0.04	depressing
+0.04	earnestly
+0.03	lonely
+
+== Keywords for Emotion: Serene ==
+0.22	lonely
+0.17	earnestly
+0.11	annoying
+0.10	depressing
+0.06	melancholic 
+
+== Keywords for Emotion: Melancholic ==
+0.98	melancholic 
+0.16	annoying
+0.07	depressing
+0.05	earnestly
+0.05	lonely
+
+== Keywords for Emotion: Reflective ==
+0.13	depressing
+0.09	annoying
+0.08	earnestly
+0.08	lonely
+0.05	melancholic 
+
+== Picture Elements: Grid-like window ==
+0.72	window
+0.14	high-rise
+0.12	city silhouette
+0.10	ship
+0.08	block of buildings
+0.07	city
+"0.05	Metropolitan Life Tower (New York, NY)"
+0.03	grille
+"0.03	Manhattan (New York, NY)"
+"0.03	Singer Building (New York, NY)"
+"0.02	40 Wall Street (New York, NY)"
+"0.02	Woolworth Building (New York, NY)"
+"0.02	New York, NY"
+0.01	body of water
+0.01	Hudson River
+
+== Picture Elements: Skyline ==
+0.12	ship
+0.07	high-rise
+0.07	city silhouette
+"0.05	Metropolitan Life Tower (New York, NY)"
+0.05	city
+0.04	window
+"0.02	40 Wall Street (New York, NY)"
+"0.02	New York, NY"
+0.02	block of buildings
+0.02	grille
+"0.02	Manhattan (New York, NY)"
+0.01	body of water
+"0.01	Singer Building (New York, NY)"
+0.01	Hudson River
+"0.01	Woolworth Building (New York, NY)"
+
+== Picture Elements: Sepia tone ==
+0.04	ship
+0.02	city silhouette
+0.01	city
+0.01	window
+0.01	grille
+"0.01	40 Wall Street (New York, NY)"
+"0.01	Metropolitan Life Tower (New York, NY)"
+0.01	high-rise
+"0.01	Manhattan (New York, NY)"
+"0.01	Singer Building (New York, NY)"
+0.01	block of buildings
+"0.01	New York, NY"
+"0.01	Woolworth Building (New York, NY)"
+0.01	body of water
+0.01	Hudson River
+
+== Picture Elements: Soft lighting ==
+0.18	window
+0.13	ship
+0.13	high-rise
+0.10	city
+0.09	grille
+0.09	block of buildings
+"0.08	Manhattan (New York, NY)"
+"0.08	40 Wall Street (New York, NY)"
+0.07	city silhouette
+"0.07	Metropolitan Life Tower (New York, NY)"
+"0.06	New York, NY"
+"0.06	Singer Building (New York, NY)"
+"0.05	Woolworth Building (New York, NY)"
+0.02	Hudson River
+0.01	body of water
+
+== Picture Elements: Urban setting ==
+0.52	city
+0.38	city silhouette
+"0.20	Manhattan (New York, NY)"
+"0.19	Metropolitan Life Tower (New York, NY)"
+0.16	high-rise
+0.13	block of buildings
+"0.08	New York, NY"
+"0.08	Woolworth Building (New York, NY)"
+"0.07	Singer Building (New York, NY)"
+0.06	window
+"0.06	40 Wall Street (New York, NY)"
+0.05	ship
+0.02	grille
+0.02	Hudson River
+0.01	body of water
+

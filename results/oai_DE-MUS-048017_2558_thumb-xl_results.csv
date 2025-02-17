@@ -1,0 +1,48 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_2558_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_2558_thumb-xl.csv
+
+== Keywords for Atmosphere: Chiaroscuro ==
+0.04	calm
+0.04	secret
+0.03	isolation
+0.02	contemplation
+
+== Keywords for Atmosphere: Tenebrism ==
+0.06	contemplation
+0.06	secret
+0.05	isolation
+0.02	calm
+
+== Keywords for Atmosphere: Still Life ==
+0.08	calm
+0.07	contemplation
+0.05	secret
+0.03	isolation
+
+== Keywords for Atmosphere: Baroque ==
+0.03	contemplation
+0.03	secret
+0.02	calm
+0.01	isolation
+
+== Keywords for Emotion: Tranquility ==
+"0.07	soothing, calming"
+0.07	thoughtful
+0.05	earnestly
+
+== Keywords for Emotion: Contemplation ==
+0.15	thoughtful
+0.10	earnestly
+"0.03	soothing, calming"
+
+== Keywords for Emotion: Nostalgia ==
+0.05	earnestly
+0.02	thoughtful
+"0.01	soothing, calming"
+
+== Keywords for Emotion: Abundance ==
+0.06	thoughtful
+0.02	earnestly
+"0.01	soothing, calming"
+

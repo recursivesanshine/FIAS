@@ -1,0 +1,284 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf1633-11_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf1633-11_thumb-xl.csv
+
+== Keywords for Atmosphere: Historical ==
+0.05	unrest
+0.02	abundance
+0.02	freshness
+
+== Keywords for Atmosphere: European ==
+0.12	freshness
+0.07	unrest
+0.04	abundance
+
+== Keywords for Atmosphere: Architectural ==
+0.18	unrest
+0.06	freshness
+0.04	abundance
+
+== Keywords for Atmosphere: Dense Vegetation ==
+0.19	freshness
+0.13	unrest
+0.06	abundance
+
+== Keywords for Atmosphere: Sepia-toned ==
+0.03	unrest
+0.02	freshness
+0.01	abundance
+
+== Keywords for Emotion: Nostalgic ==
+0.06	curious
+0.04	earnestly
+0.02	even-tempered
+
+== Keywords for Emotion: Serene ==
+0.17	even-tempered
+0.17	earnestly
+0.10	curious
+
+== Keywords for Emotion: Timeless ==
+0.16	earnestly
+0.07	even-tempered
+0.06	curious
+
+== Keywords for Emotion: Tranquil ==
+0.09	curious
+0.04	even-tempered
+0.03	earnestly
+
+== Picture Elements: Dense Vegetation ==
+0.34	gable
+0.34	plant
+0.30	dormer
+0.27	flowerpot
+0.24	cross
+0.24	garden
+0.22	conifer
+0.21	light
+0.20	copse
+0.19	fence
+0.18	birch
+0.17	leaf
+0.17	chimney
+0.16	slate
+0.14	Waterspout
+0.13	tree
+0.12	deciduous tree
+0.12	shrubs
+0.11	mural
+0.10	roof
+0.10	awning
+0.10	facade
+0.09	sky
+0.09	balcony
+0.09	shadow
+0.09	treetop
+0.08	shutter
+0.07	curtain
+0.06	Germany
+0.06	roof gutter
+0.05	tree trunk
+0.04	window
+0.04	building
+0.03	ridge turret
+"0.03	Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)"
+0.03	void of human beings
+0.02	Eckhardt'sche Haus
+0.02	hip roof
+0.02	Mansard roof
+0.01	Frankfurt am Main
+0.01	astragal window
+0.01	Kranichhof (Frankfurt am Main)
+0.01	roof tile
+0.01	window opening
+"0.01	pitched roof, saddle roof"
+
+== Picture Elements: Multi-storied Buildings ==
+0.47	building
+0.24	mural
+0.17	hip roof
+0.17	Mansard roof
+"0.13	pitched roof, saddle roof"
+0.13	cross
+"0.12	Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)"
+0.11	birch
+0.10	shadow
+0.08	sky
+0.08	gable
+0.08	Eckhardt'sche Haus
+0.08	light
+0.08	treetop
+0.08	fence
+0.07	chimney
+0.06	shutter
+0.06	Germany
+0.06	curtain
+0.06	Waterspout
+0.06	copse
+0.05	conifer
+0.05	balcony
+0.05	dormer
+0.04	roof
+0.04	facade
+0.04	window
+0.04	slate
+0.03	awning
+0.03	ridge turret
+0.03	tree
+0.03	Kranichhof (Frankfurt am Main)
+0.03	roof tile
+0.03	leaf
+0.02	flowerpot
+0.02	Frankfurt am Main
+0.02	window opening
+0.02	tree trunk
+0.02	shrubs
+0.02	plant
+0.02	garden
+0.01	roof gutter
+0.01	astragal window
+0.01	void of human beings
+0.01	deciduous tree
+
+== Picture Elements: Steep Roofs ==
+"0.70	pitched roof, saddle roof"
+0.57	roof
+0.53	hip roof
+0.50	roof gutter
+0.43	Mansard roof
+0.39	roof tile
+0.11	building
+0.08	gable
+0.08	cross
+0.07	window
+0.07	shrubs
+0.06	Waterspout
+0.06	treetop
+0.06	awning
+0.06	shadow
+0.06	light
+0.05	sky
+0.05	birch
+0.05	mural
+0.05	slate
+0.05	conifer
+0.04	leaf
+0.04	window opening
+0.04	fence
+0.04	curtain
+0.03	shutter
+0.03	plant
+0.03	copse
+0.03	tree
+0.02	facade
+0.02	dormer
+0.02	chimney
+"0.02	Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)"
+0.02	flowerpot
+0.02	Germany
+0.02	tree trunk
+0.02	garden
+0.01	astragal window
+0.01	ridge turret
+0.01	deciduous tree
+0.01	balcony
+0.01	Eckhardt'sche Haus
+0.01	void of human beings
+0.01	Frankfurt am Main
+0.01	Kranichhof (Frankfurt am Main)
+
+== Picture Elements: Dome and Cross ==
+0.50	cross
+0.31	dormer
+0.06	gable
+0.05	copse
+0.03	shadow
+0.03	building
+0.03	tree
+0.03	light
+0.03	birch
+0.02	Waterspout
+0.02	mural
+0.02	fence
+0.02	tree trunk
+0.02	sky
+0.02	shrubs
+0.02	slate
+0.02	leaf
+0.02	deciduous tree
+0.01	conifer
+0.01	awning
+0.01	void of human beings
+0.01	Germany
+0.01	plant
+0.01	shutter
+0.01	garden
+0.01	flowerpot
+0.01	chimney
+0.01	treetop
+0.01	curtain
+0.01	roof
+0.01	balcony
+0.01	window
+0.01	roof tile
+0.01	roof gutter
+0.01	window opening
+0.01	facade
+0.01	hip roof
+0.01	Kranichhof (Frankfurt am Main)
+0.01	Eckhardt'sche Haus
+"0.01	Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)"
+0.01	ridge turret
+"0.01	pitched roof, saddle roof"
+0.01	Frankfurt am Main
+0.01	astragal window
+0.01	Mansard roof
+
+== Picture Elements: Sepia Tone ==
+0.07	treetop
+0.07	light
+0.07	cross
+0.06	copse
+0.05	gable
+0.05	shadow
+0.04	birch
+0.04	awning
+0.04	slate
+0.03	sky
+0.03	conifer
+0.03	leaf
+0.03	dormer
+0.03	fence
+0.03	mural
+0.03	roof
+0.02	shutter
+0.02	Waterspout
+0.02	chimney
+0.02	flowerpot
+0.02	tree
+0.02	building
+0.02	window opening
+0.01	void of human beings
+0.01	window
+0.01	Germany
+0.01	curtain
+0.01	facade
+0.01	shrubs
+0.01	hip roof
+0.01	tree trunk
+0.01	plant
+0.01	roof gutter
+0.01	garden
+0.01	balcony
+0.01	roof tile
+0.01	ridge turret
+"0.01	Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)"
+0.01	deciduous tree
+"0.01	pitched roof, saddle roof"
+0.01	astragal window
+0.01	Eckhardt'sche Haus
+0.01	Kranichhof (Frankfurt am Main)
+0.01	Frankfurt am Main
+0.01	Mansard roof
+

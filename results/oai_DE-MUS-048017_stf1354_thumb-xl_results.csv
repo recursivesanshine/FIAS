@@ -1,0 +1,378 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf1354_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf1354_thumb-xl.csv
+
+== Keywords for Atmosphere: Classical ==
+0.22	magnificence
+0.19	grandeur
+0.10	earnestness
+0.08	abundance
+
+== Keywords for Atmosphere: Historical ==
+0.08	magnificence
+0.03	grandeur
+0.03	earnestness
+0.02	abundance
+
+== Keywords for Atmosphere: Grand ==
+0.77	grandeur
+0.19	magnificence
+0.11	abundance
+0.11	earnestness
+
+== Keywords for Atmosphere: Serene ==
+0.20	earnestness
+0.16	magnificence
+0.11	grandeur
+0.04	abundance
+
+== Keywords for Atmosphere: Luxurious ==
+0.33	grandeur
+0.20	magnificence
+0.12	abundance
+0.05	earnestness
+
+== Keywords for Emotion: Tranquil ==
+0.09	curious
+0.07	devout
+0.03	earnestly
+
+== Keywords for Emotion: Reverent ==
+0.32	devout
+0.13	curious
+0.05	earnestly
+
+== Keywords for Emotion: Nostalgic ==
+0.07	devout
+0.06	curious
+0.04	earnestly
+
+== Keywords for Emotion: Inspiring ==
+0.33	devout
+0.27	curious
+0.14	earnestly
+
+== Picture Elements: Ceiling frescoes ==
+0.97	ceiling fresco
+0.59	ceiling
+0.42	ceiling beams
+0.20	volute
+0.17	pose
+0.16	sequence
+0.14	presentation
+0.13	coat of arms
+0.13	frieze
+0.12	painting (artwork)
+0.11	Christian art
+0.11	tile
+0.10	cartouche
+0.09	arts
+0.08	collection
+0.08	paper
+0.08	floor
+0.06	vitrine
+0.06	tile floor
+0.06	ornament
+0.05	man
+0.05	museum
+0.05	table
+0.05	floral ornament
+0.05	garment
+0.05	stool
+0.04	Florence
+0.04	frame
+0.04	bell
+0.03	perspective
+0.03	relief
+0.03	woman
+0.03	Italy
+0.03	vanishing point
+0.03	sculpture
+0.03	chair
+0.02	base
+0.02	pedestal
+0.02	mythology
+0.02	window
+0.02	hallway
+0.01	corridor (architecture)
+0.01	truncated column
+0.01	hybrid
+0.01	nudity
+0.01	bust (sculpture)
+0.01	far distance
+0.01	space
+0.01	movement (of the body)
+0.01	ornamental band
+0.01	picture-in-picture
+0.01	interior space
+
+== Picture Elements: Statues ==
+0.25	volute
+0.20	arts
+0.18	pose
+0.16	presentation
+0.14	sequence
+0.14	floral ornament
+0.12	cartouche
+0.12	bell
+0.12	movement (of the body)
+0.12	hallway
+0.11	perspective
+0.10	painting (artwork)
+0.10	vanishing point
+0.10	man
+0.10	vitrine
+0.10	hybrid
+0.09	Florence
+0.09	pedestal
+0.09	base
+0.07	frame
+0.07	collection
+0.07	stool
+0.06	corridor (architecture)
+0.06	relief
+0.06	ornament
+0.06	truncated column
+0.06	picture-in-picture
+0.05	floor
+0.05	mythology
+0.04	nudity
+0.04	woman
+0.04	far distance
+0.04	frieze
+0.04	garment
+0.04	coat of arms
+0.04	table
+0.04	museum
+0.03	Italy
+0.03	sculpture
+0.03	paper
+0.03	ceiling
+0.03	chair
+0.03	ornamental band
+0.03	bust (sculpture)
+0.02	tile
+0.02	ceiling beams
+0.02	Christian art
+0.02	window
+0.01	tile floor
+0.01	space
+0.01	ceiling fresco
+0.01	interior space
+
+== Picture Elements: Paintings ==
+0.80	painting (artwork)
+0.50	sculpture
+0.36	pose
+0.36	pedestal
+0.34	bust (sculpture)
+0.29	paper
+0.28	volute
+0.27	ornament
+0.27	perspective
+0.26	presentation
+0.25	man
+0.24	cartouche
+0.23	arts
+0.23	Christian art
+0.23	ceiling beams
+0.23	bell
+0.22	stool
+0.21	picture-in-picture
+0.20	sequence
+0.20	tile floor
+0.20	frame
+0.20	hallway
+0.19	tile
+0.19	relief
+0.19	vitrine
+0.18	corridor (architecture)
+0.18	Florence
+0.17	floor
+0.17	coat of arms
+0.17	ceiling
+0.16	vanishing point
+0.16	floral ornament
+0.16	frieze
+0.15	woman
+0.15	garment
+0.13	ornamental band
+0.12	table
+0.12	hybrid
+0.12	Italy
+0.11	far distance
+0.11	collection
+0.11	movement (of the body)
+0.11	ceiling fresco
+0.11	chair
+0.10	nudity
+0.10	window
+0.09	space
+0.09	base
+0.08	museum
+0.07	mythology
+0.04	truncated column
+0.01	interior space
+
+== Picture Elements: Polished floor ==
+0.73	floor
+0.56	tile floor
+0.28	painting (artwork)
+0.22	pose
+0.22	vanishing point
+0.19	volute
+0.18	ornament
+0.17	tile
+0.16	stool
+0.16	ceiling
+0.13	ceiling beams
+0.13	frame
+0.13	sculpture
+0.12	sequence
+0.12	corridor (architecture)
+0.12	paper
+0.11	hallway
+0.11	bell
+0.10	man
+0.10	vitrine
+0.10	frieze
+0.10	arts
+0.09	chair
+0.09	pedestal
+0.09	presentation
+0.09	collection
+0.09	ceiling fresco
+0.08	perspective
+0.08	cartouche
+0.07	table
+0.07	garment
+0.07	nudity
+0.07	museum
+0.06	relief
+0.06	Florence
+0.05	Italy
+0.05	woman
+0.05	window
+0.05	base
+0.04	bust (sculpture)
+0.04	picture-in-picture
+0.04	ornamental band
+0.04	hybrid
+0.04	floral ornament
+0.03	coat of arms
+0.02	movement (of the body)
+0.02	mythology
+0.01	far distance
+0.01	Christian art
+0.01	truncated column
+0.01	space
+0.01	interior space
+
+== Picture Elements: Dark walls ==
+0.39	hallway
+0.38	pose
+0.38	volute
+0.31	sequence
+0.31	tile
+0.29	floor
+0.29	painting (artwork)
+0.28	corridor (architecture)
+0.26	space
+0.25	tile floor
+0.25	man
+0.24	stool
+0.23	far distance
+0.22	bell
+0.22	vitrine
+0.22	collection
+0.21	frame
+0.21	ceiling beams
+0.20	perspective
+0.20	cartouche
+0.19	ceiling
+0.19	nudity
+0.18	pedestal
+0.18	sculpture
+0.18	presentation
+0.17	arts
+0.17	paper
+0.16	vanishing point
+0.15	hybrid
+0.15	museum
+0.15	window
+0.15	interior space
+0.14	Florence
+0.13	chair
+0.12	picture-in-picture
+0.12	Italy
+0.12	table
+0.12	frieze
+0.12	woman
+0.12	garment
+0.11	mythology
+0.11	base
+0.09	bust (sculpture)
+0.08	ornament
+0.07	ceiling fresco
+0.06	coat of arms
+0.04	truncated column
+0.04	Christian art
+0.03	relief
+0.03	ornamental band
+0.02	movement (of the body)
+0.01	floral ornament
+
+== Picture Elements: Soft lighting ==
+0.30	perspective
+0.29	ceiling beams
+0.27	pose
+0.24	volute
+0.23	bell
+0.20	frieze
+0.20	painting (artwork)
+0.18	window
+0.18	hallway
+0.18	sequence
+0.18	Florence
+0.17	presentation
+0.17	picture-in-picture
+0.17	floor
+0.15	frame
+0.15	vitrine
+0.15	man
+0.14	cartouche
+0.14	arts
+0.14	tile
+0.12	pedestal
+0.12	hybrid
+0.12	stool
+0.12	ceiling
+0.12	woman
+0.11	paper
+0.11	tile floor
+0.09	collection
+0.09	table
+0.09	vanishing point
+0.09	nudity
+0.09	relief
+0.08	Italy
+0.08	chair
+0.07	floral ornament
+0.07	far distance
+0.07	space
+0.07	ornament
+0.07	base
+0.06	sculpture
+0.05	mythology
+0.04	garment
+0.04	ceiling fresco
+0.04	bust (sculpture)
+0.03	movement (of the body)
+0.02	corridor (architecture)
+0.02	coat of arms
+0.02	truncated column
+0.02	ornamental band
+0.01	interior space
+0.01	museum
+0.01	Christian art
+

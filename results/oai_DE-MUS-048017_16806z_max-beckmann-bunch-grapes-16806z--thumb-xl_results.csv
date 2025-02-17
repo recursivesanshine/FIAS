@@ -1,0 +1,260 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_16806z_max-beckmann-bunch-grapes-16806z--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_16806z_max-beckmann-bunch-grapes-16806z--thumb-xl.csv
+
+== Keywords for Atmosphere: Rustic ==
+0.08	intimacy
+0.07	secret
+0.05	thoughtfulness
+0.03	earnestness
+0.02	calm
+0.02	dream
+
+== Keywords for Atmosphere: Agricultural ==
+0.06	intimacy
+0.03	calm
+0.03	secret
+0.02	thoughtfulness
+0.02	earnestness
+0.01	dream
+
+== Keywords for Atmosphere: Vineyard ==
+0.05	intimacy
+0.04	thoughtfulness
+0.04	secret
+0.03	calm
+0.03	earnestness
+0.02	dream
+
+== Keywords for Atmosphere: Harvest ==
+0.05	secret
+0.05	thoughtfulness
+0.05	intimacy
+0.03	earnestness
+0.02	calm
+0.01	dream
+
+== Keywords for Emotion: Labor ==
+0.11	longing
+0.10	thoughtful
+0.07	annoying
+0.03	melancholic 
+
+== Keywords for Emotion: Tradition ==
+0.06	annoying
+0.06	thoughtful
+0.05	longing
+0.01	melancholic 
+
+== Keywords for Emotion: Bustling ==
+0.19	longing
+0.18	annoying
+0.06	thoughtful
+0.03	melancholic 
+
+== Keywords for Emotion: Historical ==
+0.16	longing
+0.07	annoying
+0.03	thoughtful
+0.02	melancholic 
+
+== Picture Elements: Donkey ==
+0.14	bridge
+0.05	physical contact
+0.05	shadow
+0.04	man
+0.04	mural
+0.04	placard
+0.03	progeny
+0.03	couple
+0.03	advertising column
+0.02	fruit
+0.02	horse-drawn carriage
+0.02	Old Testament
+0.02	building
+0.02	woman
+0.01	visored cap
+0.01	river
+0.01	seated man
+0.01	horse
+0.01	grape
+0.01	riding crop
+0.01	jacket
+0.01	seated woman
+"0.01	parapet, balustrade"
+
+== Picture Elements: Cart ==
+0.26	bridge
+0.19	visored cap
+0.15	placard
+0.14	mural
+0.12	man
+0.12	physical contact
+0.11	horse-drawn carriage
+0.11	progeny
+0.10	shadow
+0.09	couple
+0.08	advertising column
+0.06	Old Testament
+0.06	river
+0.06	building
+0.05	woman
+0.05	horse
+0.05	seated man
+0.04	fruit
+0.04	grape
+0.04	jacket
+0.03	seated woman
+"0.02	parapet, balustrade"
+0.02	riding crop
+
+== Picture Elements: Grapes ==
+0.75	grape
+0.20	mural
+0.11	bridge
+0.10	building
+0.09	placard
+0.08	progeny
+0.06	man
+0.06	shadow
+0.05	fruit
+0.04	visored cap
+0.04	river
+0.04	physical contact
+0.03	couple
+0.03	jacket
+0.03	advertising column
+0.02	horse-drawn carriage
+0.02	woman
+0.02	horse
+0.02	riding crop
+0.01	Old Testament
+"0.01	parapet, balustrade"
+0.01	seated man
+0.01	seated woman
+
+== Picture Elements: Figures ==
+0.23	bridge
+0.20	mural
+0.18	shadow
+0.15	placard
+0.12	progeny
+0.12	man
+0.11	visored cap
+0.10	couple
+0.08	horse-drawn carriage
+0.08	physical contact
+0.07	advertising column
+0.07	fruit
+0.07	Old Testament
+0.07	river
+0.06	woman
+0.06	building
+0.05	jacket
+0.04	horse
+0.04	riding crop
+0.04	grape
+0.03	seated woman
+0.02	seated man
+"0.02	parapet, balustrade"
+
+== Picture Elements: Wine Press ==
+0.06	bridge
+0.05	woman
+0.04	mural
+0.04	placard
+0.04	man
+0.03	river
+0.03	progeny
+0.02	fruit
+0.02	shadow
+0.02	couple
+0.02	seated woman
+0.01	grape
+0.01	advertising column
+0.01	horse
+0.01	building
+0.01	horse-drawn carriage
+0.01	physical contact
+0.01	jacket
+0.01	seated man
+0.01	visored cap
+0.01	Old Testament
+0.01	riding crop
+"0.01	parapet, balustrade"
+
+== Picture Elements: Whip ==
+0.40	man
+0.37	bridge
+0.37	progeny
+0.37	placard
+0.33	couple
+0.33	mural
+0.32	horse
+0.27	woman
+0.26	horse-drawn carriage
+0.24	grape
+0.21	river
+0.20	shadow
+0.19	jacket
+0.18	building
+0.17	Old Testament
+0.14	seated man
+0.13	fruit
+0.11	visored cap
+0.11	seated woman
+0.10	physical contact
+0.07	advertising column
+"0.05	parapet, balustrade"
+0.04	riding crop
+
+== Picture Elements: Wheels ==
+0.14	horse-drawn carriage
+0.13	riding crop
+0.13	bridge
+0.13	horse
+0.12	mural
+0.09	physical contact
+0.09	placard
+0.08	man
+0.07	building
+0.07	progeny
+0.06	fruit
+0.06	shadow
+0.04	river
+0.04	Old Testament
+0.03	grape
+0.03	advertising column
+0.03	woman
+0.03	visored cap
+0.02	couple
+0.02	jacket
+0.01	seated man
+0.01	seated woman
+"0.01	parapet, balustrade"
+
+== Picture Elements: Crosshatch Patterns ==
+0.09	bridge
+0.07	mural
+0.07	couple
+0.06	shadow
+0.05	horse
+0.05	man
+0.04	building
+0.04	progeny
+0.04	placard
+0.03	river
+0.02	physical contact
+0.02	visored cap
+0.02	woman
+0.02	jacket
+0.02	grape
+0.02	horse-drawn carriage
+0.01	advertising column
+0.01	fruit
+"0.01	parapet, balustrade"
+0.01	seated man
+0.01	seated woman
+0.01	riding crop
+0.01	Old Testament
+

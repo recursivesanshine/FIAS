@@ -1,0 +1,72 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_879_altobello-meloni-narcissus-fountain-879--thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_879_altobello-meloni-narcissus-fountain-879--thumb-xl.csv
+
+== Keywords for Atmosphere: Serene ==
+0.20	earnestness
+0.17	mourning
+0.17	thoughtfulness
+0.11	calm
+0.09	isolation
+0.08	melancholy
+0.03	harmony
+
+== Keywords for Atmosphere: Natural ==
+0.27	thoughtfulness
+0.26	isolation
+0.22	calm
+0.22	earnestness
+0.16	melancholy
+0.16	harmony
+0.10	mourning
+
+== Keywords for Atmosphere: Tranquil ==
+0.04	isolation
+0.04	thoughtfulness
+0.04	calm
+0.03	earnestness
+0.02	mourning
+0.01	melancholy
+0.01	harmony
+
+== Keywords for Atmosphere: Noble ==
+0.13	earnestness
+0.06	thoughtfulness
+0.05	melancholy
+0.04	harmony
+0.02	calm
+0.02	isolation
+0.01	mourning
+
+== Keywords for Emotion: Contemplative ==
+0.16	melancholic 
+0.16	thoughtful
+0.14	disconcerting
+0.08	lonely
+"0.04	soothing, calming"
+0.02	depressing
+
+== Keywords for Emotion: Introspective ==
+0.28	thoughtful
+0.10	disconcerting
+0.07	depressing
+0.05	lonely
+0.03	melancholic 
+"0.02	soothing, calming"
+
+== Keywords for Emotion: Peaceful ==
+"0.77	soothing, calming"
+0.67	thoughtful
+0.55	lonely
+0.20	melancholic 
+0.18	disconcerting
+0.07	depressing
+
+== Keywords for Emotion: Reflective ==
+0.15	disconcerting
+0.13	depressing
+0.12	thoughtful
+0.08	lonely
+"0.07	soothing, calming"
+0.05	melancholic 
+

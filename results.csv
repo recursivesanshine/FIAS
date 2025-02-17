@@ -1,0 +1,148 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_10083z_thumb-xl.txt
+CSV file: subsample100_seed=42/combinedoutput/oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl_combined_output.csv
+
+== Keywords for Atmosphere: Monochromatic ==
+0.08	calm
+0.07	grandeur
+0.05	heaviness
+0.04	rigidity
+0.02	earnestness
+
+== Keywords for Atmosphere: Delicate ==
+0.22	grandeur
+0.21	heaviness
+0.19	calm
+0.10	rigidity
+0.09	earnestness
+
+== Keywords for Atmosphere: Textured ==
+0.14	grandeur
+0.12	calm
+0.10	earnestness
+0.05	heaviness
+0.04	rigidity
+
+== Keywords for Atmosphere: Natural ==
+0.22	calm
+0.22	earnestness
+0.18	grandeur
+0.17	heaviness
+0.12	rigidity
+
+== Keywords for Atmosphere: Tranquil ==
+0.05	grandeur
+0.04	heaviness
+0.04	calm
+0.03	rigidity
+0.03	earnestness
+
+== Keywords for Emotion: Serene ==
+0.18	thoughtful
+0.18	cool
+0.17	earnestly
+0.10	depressing
+
+== Keywords for Emotion: Reflective ==
+0.13	depressing
+0.12	thoughtful
+0.08	earnestly
+0.08	cool
+
+== Keywords for Emotion: Nostalgic ==
+0.06	thoughtful
+0.04	depressing
+0.04	earnestly
+0.03	cool
+
+== Keywords for Emotion: Calm ==
+0.17	thoughtful
+0.14	cool
+0.13	depressing
+0.05	earnestly
+
+== Picture Elements: Hill or Mound ==
+0.13	gem
+0.08	ring
+0.07	bonnet
+0.04	dress
+0.04	lace cuff
+0.03	woman
+0.03	gold jewellery
+0.02	gold chain
+0.02	pearl
+0.02	necklace
+0.02	jewellery
+0.01	bracelet
+0.01	cartwheel ruff
+0.01	back of a chair
+0.01	ostrich feather
+
+== Picture Elements: Dense Foliage ==
+0.18	ostrich feather
+0.17	dress
+0.12	gem
+0.08	ring
+0.06	bonnet
+0.05	lace cuff
+0.03	bracelet
+0.02	woman
+0.02	necklace
+0.02	gold jewellery
+0.01	pearl
+0.01	jewellery
+0.01	gold chain
+0.01	cartwheel ruff
+0.01	back of a chair
+
+== Picture Elements: Pencil Sketch ==
+0.14	ring
+0.13	gem
+0.10	dress
+0.09	woman
+0.09	pearl
+0.09	bonnet
+0.05	back of a chair
+0.04	bracelet
+0.04	necklace
+0.02	jewellery
+0.02	cartwheel ruff
+0.01	lace cuff
+0.01	gold chain
+0.01	ostrich feather
+0.01	gold jewellery
+
+== Picture Elements: Monochromatic Palette ==
+0.13	jewellery
+0.12	gem
+0.11	bonnet
+0.08	ring
+0.07	necklace
+0.05	dress
+0.05	lace cuff
+0.03	gold jewellery
+0.03	woman
+0.03	bracelet
+0.03	pearl
+0.01	back of a chair
+0.01	ostrich feather
+0.01	gold chain
+0.01	cartwheel ruff
+
+== Picture Elements: Date Inscription ==
+0.15	gem
+0.12	ring
+0.05	bonnet
+0.05	woman
+0.04	dress
+0.04	pearl
+0.03	gold chain
+0.03	lace cuff
+0.02	gold jewellery
+0.02	necklace
+0.01	jewellery
+0.01	bracelet
+0.01	back of a chair
+0.01	cartwheel ruff
+0.01	ostrich feather
+

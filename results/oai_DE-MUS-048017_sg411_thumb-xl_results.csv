@@ -1,0 +1,280 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_sg411_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_sg411_thumb-xl.csv
+
+== Keywords for Atmosphere: Impressionistic ==
+0.11	ease
+0.07	calm
+0.03	freshness
+0.02	harmony
+
+== Keywords for Atmosphere: Rustic ==
+0.04	ease
+0.03	freshness
+0.02	calm
+0.02	harmony
+
+== Keywords for Atmosphere: Village ==
+0.06	calm
+0.05	freshness
+0.05	ease
+0.01	harmony
+
+== Keywords for Atmosphere: Thatched Roof ==
+0.05	ease
+0.03	freshness
+0.02	harmony
+0.01	calm
+
+== Keywords for Atmosphere: Church Spire ==
+0.07	calm
+0.06	freshness
+0.04	ease
+0.01	harmony
+
+== Keywords for Atmosphere: Cloudy Sky ==
+0.05	ease
+0.04	calm
+0.04	freshness
+0.01	harmony
+
+== Keywords for Emotion: Tranquil ==
+0.08	longing
+"0.05	soothing, calming"
+0.03	carefree
+0.03	optimistic
+
+== Keywords for Emotion: Serene ==
+0.36	carefree
+"0.23	soothing, calming"
+0.17	longing
+0.09	optimistic
+
+== Keywords for Emotion: Nostalgic ==
+"0.06	soothing, calming"
+0.04	longing
+0.02	optimistic
+0.01	carefree
+
+== Keywords for Emotion: Peaceful ==
+0.82	carefree
+"0.77	soothing, calming"
+0.56	longing
+0.14	optimistic
+
+== Picture Elements: Thatched Roof ==
+0.56	roof
+0.42	roof tile
+0.21	church tower
+0.16	wood cladding
+0.16	chicken
+0.07	route
+0.07	house
+0.06	sky
+0.06	farmhouse
+0.06	gable
+0.06	light
+0.05	tree
+0.05	chimney
+0.04	person
+0.04	shadow
+0.04	street
+0.04	blurring
+0.03	village
+0.03	light reflection
+0.01	archway
+0.01	village street
+0.01	cloud
+0.01	facade
+0.01	sunspots
+0.01	meadow
+
+== Picture Elements: Village Buildings ==
+0.72	village
+0.55	village street
+0.09	route
+0.07	church tower
+0.07	gable
+0.07	archway
+0.07	street
+0.06	wood cladding
+0.05	shadow
+0.05	person
+0.05	house
+0.05	farmhouse
+0.04	chimney
+0.04	light
+0.03	facade
+0.03	roof
+0.02	blurring
+0.02	sky
+0.02	light reflection
+0.02	tree
+0.01	roof tile
+0.01	sunspots
+0.01	meadow
+0.01	chicken
+0.01	cloud
+
+== Picture Elements: Church Spire ==
+0.70	church tower
+0.16	route
+0.16	sunspots
+0.10	gable
+0.10	light
+0.10	person
+0.09	shadow
+0.08	sky
+0.08	street
+0.07	chimney
+0.05	tree
+0.04	light reflection
+0.04	village
+0.03	archway
+0.03	house
+0.03	blurring
+0.03	village street
+0.03	roof
+0.02	cloud
+0.02	facade
+0.02	wood cladding
+0.02	chicken
+0.01	roof tile
+0.01	farmhouse
+0.01	meadow
+
+== Picture Elements: Dirt Road ==
+0.22	street
+0.20	village street
+0.20	route
+0.17	archway
+0.11	gable
+0.10	person
+0.07	light
+0.06	sky
+0.06	blurring
+0.05	tree
+0.05	house
+0.04	roof
+0.04	shadow
+0.04	farmhouse
+0.03	village
+0.03	chimney
+0.03	light reflection
+0.03	facade
+0.02	cloud
+0.02	chicken
+0.01	meadow
+0.01	church tower
+0.01	roof tile
+0.01	sunspots
+0.01	wood cladding
+
+== Picture Elements: Figures ==
+0.21	route
+0.19	gable
+0.18	shadow
+0.18	sky
+0.15	tree
+0.15	blurring
+0.15	archway
+0.14	street
+0.12	light reflection
+0.11	person
+0.11	light
+0.10	farmhouse
+0.09	house
+0.09	sunspots
+0.09	roof
+0.08	chimney
+0.07	village
+0.07	facade
+0.06	wood cladding
+0.05	roof tile
+0.05	cloud
+0.04	meadow
+0.04	chicken
+0.03	village street
+0.03	church tower
+
+== Picture Elements: Chickens ==
+0.64	chicken
+0.25	church tower
+0.21	chimney
+0.15	wood cladding
+0.10	route
+0.08	light
+0.07	gable
+0.07	farmhouse
+0.07	person
+0.07	sky
+0.07	blurring
+0.06	street
+0.05	shadow
+0.05	house
+0.05	tree
+0.04	village
+0.04	light reflection
+0.03	archway
+0.03	roof
+0.03	cloud
+0.02	village street
+0.02	sunspots
+0.02	meadow
+0.02	facade
+0.01	roof tile
+
+== Picture Elements: Trees ==
+0.36	tree
+0.20	route
+0.17	sky
+0.17	gable
+0.13	light
+0.13	blurring
+0.12	roof
+0.12	farmhouse
+0.11	shadow
+0.10	person
+0.10	light reflection
+0.10	church tower
+0.10	roof tile
+0.10	archway
+0.08	house
+0.07	street
+0.07	chimney
+0.06	cloud
+0.06	wood cladding
+0.06	sunspots
+0.05	meadow
+0.04	village
+0.04	chicken
+0.03	facade
+0.02	village street
+
+== Picture Elements: Sky ==
+0.88	sky
+0.27	route
+0.19	tree
+0.19	light
+0.18	roof
+0.17	light reflection
+0.15	sunspots
+0.15	blurring
+0.15	shadow
+0.13	gable
+0.13	person
+0.12	archway
+0.12	chimney
+0.11	cloud
+0.09	street
+0.05	church tower
+0.05	meadow
+0.05	house
+0.05	facade
+0.04	farmhouse
+0.04	wood cladding
+0.03	roof tile
+0.02	village
+0.02	chicken
+0.02	village street
+

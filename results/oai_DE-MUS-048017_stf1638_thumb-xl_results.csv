@@ -1,0 +1,198 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf1638_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf1638_thumb-xl.csv
+
+== Keywords for Atmosphere: Ancient ==
+0.09	calm
+0.04	ease
+0.02	freshness
+0.01	harmony
+
+== Keywords for Atmosphere: Historical ==
+0.03	ease
+0.03	calm
+0.02	freshness
+0.01	harmony
+
+== Keywords for Atmosphere: Overgrown ==
+0.19	calm
+0.15	freshness
+0.08	ease
+0.04	harmony
+
+== Keywords for Atmosphere: Weathered ==
+0.10	freshness
+0.08	calm
+0.06	ease
+0.02	harmony
+
+== Keywords for Atmosphere: Natural ==
+0.56	freshness
+0.25	ease
+0.22	calm
+0.16	harmony
+
+== Keywords for Emotion: Melancholy ==
+0.16	curious
+0.06	even-tempered
+"0.02	soothing, calming"
+
+== Keywords for Emotion: Nostalgia ==
+0.03	curious
+0.01	even-tempered
+"0.01	soothing, calming"
+
+== Keywords for Emotion: Timelessness ==
+"0.06	soothing, calming"
+0.06	even-tempered
+0.05	curious
+
+== Keywords for Emotion: Solitude ==
+"0.23	soothing, calming"
+0.11	even-tempered
+0.05	curious
+
+== Picture Elements: Stone Ruins ==
+0.16	shadow
+0.13	ruin
+0.11	niche
+0.09	mural
+0.09	light
+0.05	pillar
+0.05	decoration
+0.04	sunshine
+0.04	ornament
+0.04	building brick
+0.03	grass
+0.03	corridor (architecture)
+0.02	Gelnhausen
+0.02	sky
+0.02	Kaiserpfalz Gelnhausen (Gelnhausen)
+0.02	roof
+0.01	Germany
+"0.01	chimney, fireplace"
+0.01	relief
+0.01	roof tile
+0.01	shrubs
+0.01	capital (architecture)
+
+== Picture Elements: Decorative Panel ==
+0.85	decoration
+0.20	corridor (architecture)
+0.09	light
+0.09	ruin
+0.08	niche
+0.08	mural
+0.07	shadow
+0.06	capital (architecture)
+0.06	sky
+0.06	ornament
+0.05	roof
+0.04	shrubs
+0.04	grass
+0.04	Gelnhausen
+0.03	roof tile
+0.03	Germany
+0.03	pillar
+0.03	building brick
+0.02	Kaiserpfalz Gelnhausen (Gelnhausen)
+0.02	sunshine
+0.02	relief
+"0.02	chimney, fireplace"
+
+== Picture Elements: Archway ==
+0.68	corridor (architecture)
+0.60	capital (architecture)
+0.15	mural
+0.10	decoration
+0.07	sunshine
+0.07	niche
+0.06	ruin
+0.06	sky
+0.05	shadow
+0.05	shrubs
+0.04	ornament
+0.04	light
+0.03	grass
+0.03	building brick
+0.03	Kaiserpfalz Gelnhausen (Gelnhausen)
+0.02	Gelnhausen
+0.02	roof
+0.02	relief
+0.02	roof tile
+0.01	pillar
+0.01	Germany
+"0.01	chimney, fireplace"
+
+== Picture Elements: Vegetation ==
+0.14	grass
+0.13	niche
+0.11	decoration
+0.11	ruin
+0.09	mural
+0.09	light
+0.07	ornament
+0.06	sunshine
+0.06	sky
+0.05	roof
+0.04	shadow
+0.04	relief
+0.04	shrubs
+0.03	pillar
+0.03	Kaiserpfalz Gelnhausen (Gelnhausen)
+0.03	Gelnhausen
+0.02	Germany
+0.01	roof tile
+0.01	building brick
+"0.01	chimney, fireplace"
+0.01	corridor (architecture)
+0.01	capital (architecture)
+
+== Picture Elements: Sepia Tone ==
+0.07	sunshine
+0.07	light
+0.05	niche
+0.05	shadow
+0.04	ruin
+0.03	sky
+0.03	mural
+0.03	grass
+0.03	roof
+0.02	decoration
+0.02	ornament
+0.02	relief
+0.01	Germany
+0.01	pillar
+0.01	shrubs
+0.01	Gelnhausen
+0.01	roof tile
+0.01	building brick
+0.01	Kaiserpfalz Gelnhausen (Gelnhausen)
+0.01	corridor (architecture)
+0.01	capital (architecture)
+"0.01	chimney, fireplace"
+
+== Picture Elements: Catalog Number ==
+0.17	mural
+0.15	ruin
+0.15	niche
+0.11	light
+0.09	sky
+0.08	roof
+0.08	grass
+0.07	Gelnhausen
+0.06	pillar
+0.06	Germany
+0.05	shadow
+0.05	decoration
+0.05	sunshine
+0.05	ornament
+0.04	Kaiserpfalz Gelnhausen (Gelnhausen)
+0.04	shrubs
+0.03	capital (architecture)
+0.03	relief
+0.02	roof tile
+0.02	corridor (architecture)
+0.02	building brick
+"0.01	chimney, fireplace"
+

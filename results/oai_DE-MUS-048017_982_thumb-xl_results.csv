@@ -1,0 +1,60 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_982_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_982_thumb-xl.csv
+
+== Keywords for Atmosphere: Historical ==
+0.03	earnestness
+0.02	heaviness
+0.02	sobriety
+0.02	contemplation
+0.02	abundance
+
+== Keywords for Atmosphere: Ruined ==
+0.06	sobriety
+0.05	heaviness
+0.04	abundance
+0.04	contemplation
+0.03	earnestness
+
+== Keywords for Atmosphere: Overgrown ==
+0.42	heaviness
+0.14	abundance
+0.09	contemplation
+0.08	earnestness
+0.05	sobriety
+
+== Keywords for Atmosphere: Partly Cloudy ==
+0.13	heaviness
+0.06	abundance
+0.06	contemplation
+0.03	sobriety
+0.02	earnestness
+
+== Keywords for Emotion: Nostalgia ==
+0.06	devout
+0.05	earnestly
+0.05	churning
+0.04	disconcerting
+0.01	cool
+
+== Keywords for Emotion: Reverence ==
+0.28	devout
+0.16	disconcerting
+0.14	churning
+0.09	cool
+0.05	earnestly
+
+== Keywords for Emotion: Melancholy ==
+0.16	churning
+0.12	devout
+0.11	disconcerting
+0.07	cool
+0.04	earnestly
+
+== Keywords for Emotion: Tranquility ==
+0.10	churning
+0.09	disconcerting
+0.08	devout
+0.05	earnestly
+0.05	cool
+

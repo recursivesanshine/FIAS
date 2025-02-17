@@ -1,0 +1,40 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Stillleben,still life
+motiv,Motiv,Geschirr (Hausrat),dinnerware
+motiv,Motiv,Frucht,progeny
+bildelement,Bildelement,Frucht,progeny
+bildelement,Bildelement,Apfel,apple
+bildelement,Bildelement,Kastanie,chestnut tree
+bildelement,Bildelement,Teller,plate
+bildelement,Bildelement,Krug,pitcher
+bildelement,Bildelement,Ornament,ornament
+bildelement,Bildelement,Muster,pattern
+bildelement,Bildelement,Vase,vase
+bildelement,Bildelement,Kerze,candle
+bildelement,Bildelement,Flamme,flame
+bildelement,Bildelement,Kerzenleuchter,candlestick
+bildelement,Bildelement,Kerzenlicht,candlelight
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Brot,bread
+bildelement,Bildelement,Lichtreflex,light reflection
+bildelement,Bildelement,Schale (Biologie),husk
+bildelement,Bildelement,Deckelkrug,tankard
+bildelement,Bildelement,Steingut,earthenware
+bildelement,Bildelement,Zinnteller,pewter plate
+bildelement,Bildelement,Brett,board
+assoziation,Assoziation,Butter,butter
+assoziation,Assoziation,Mahlzeit,meal
+assoziation,Assoziation,Abend,evening
+assoziation,Assoziation,Abendessen,dinner
+assoziation,Assoziation,Einfachheit,simplicity
+assoziation,Assoziation,Tisch,table
+assoziation,Assoziation,Zimmer,room
+assoziation,Assoziation,Dunkelheit,darkness
+atmosphäre,Atmosphäre,Ruhe,calm
+atmosphäre,Atmosphäre,Kontemplation,contemplation
+atmosphäre,Atmosphäre,Isolation,isolation
+atmosphäre,Atmosphäre,Geheimnis,secret
+emotion,Emotion,beruhigend,"soothing, calming"
+emotion,Emotion,ernsthaft,earnestly
+emotion,Emotion,nachdenklich,thoughtful

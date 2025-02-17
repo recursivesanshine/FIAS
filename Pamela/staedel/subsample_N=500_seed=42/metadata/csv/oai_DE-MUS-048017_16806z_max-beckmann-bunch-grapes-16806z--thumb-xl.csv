@@ -1,0 +1,65 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Genre,genre
+motiv,Motivgattung,Stadtansicht,city view
+motiv,Motivgattung,Historie,historical narration
+motiv,Motivgattung,Biblische Darstellung,Biblical portrayal
+motiv,Motiv,Frucht,progeny
+motiv,Motiv,Frau,woman
+motiv,Motiv,Mann,man
+motiv,Motiv,Tier,animal
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Sitzender,seated man
+bildelement,Bildelement,Körperkontakt,physical contact
+bildelement,Bildelement,Schirmmütze,visored cap
+bildelement,Bildelement,Gerte,riding crop
+bildelement,Bildelement,Litfaßsäule,advertising column
+bildelement,Bildelement,Brücke,bridge
+bildelement,Bildelement,Mauer,mural
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Weintraube,grape
+bildelement,Bildelement,Obst,fruit
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Paar,couple
+bildelement,Bildelement,Jackett,jacket
+bildelement,Bildelement,Pferd,horse
+bildelement,Bildelement,Pferdewagen,horse-drawn carriage
+bildelement,Bildelement,Plakat,placard
+bildelement,Bildelement,Fluss,river
+bildelement,Bildelement,Brüstung,"parapet, balustrade"
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Frucht,progeny
+bildelement,Bildelement,Altes Testament,Old Testament
+assoziation,Assoziation,Fruchtbarkeit,fertility
+assoziation,Assoziation,Exil,exile
+assoziation,Assoziation,Kutscher,coachman
+assoziation,Assoziation,Flucht,escape
+assoziation,Assoziation,USA,USA
+assoziation,Assoziation,Ziellosigkeit,aimlessness
+assoziation,Assoziation,Zukunft,future
+assoziation,Assoziation,Utopie,utopia
+assoziation,Assoziation,Verheißung,promise
+assoziation,Assoziation,Ungewissheit,uncertainty
+assoziation,Assoziation,Hunger,hunger
+assoziation,Assoziation,Gleichnis,apologue
+assoziation,Assoziation,Symbol,symbol
+assoziation,Assoziation,Amsterdam,Amsterdam
+assoziation,Assoziation,Weltkrieg (1939-1945),World War II
+assoziation,Assoziation,Selbstunsicherheit,self-doubt
+assoziation,Assoziation,Schlaf,sleep
+assoziation,Assoziation,Vergangenheit,past
+assoziation,Assoziation,Weg,route
+assoziation,Assoziation,Schwerelosigkeit,weightlessness
+assoziation,Assoziation,Bewegung (Körperbewegung),movement (of the body)
+assoziation,Assoziation,Transport,transport
+assoziation,Assoziation,Surrealität,surreality
+atmosphäre,Atmosphäre,Geheimnis,secret
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Intimität,intimacy
+atmosphäre,Atmosphäre,Nachdenklichkeit,thoughtfulness
+atmosphäre,Atmosphäre,Ruhe,calm
+atmosphäre,Atmosphäre,Traum,dream
+emotion,Emotion,nachdenklich,thoughtful
+emotion,Emotion,sehnsüchtig,longing
+emotion,Emotion,irritierend,annoying
+emotion,Emotion,melancholisch,melancholic 

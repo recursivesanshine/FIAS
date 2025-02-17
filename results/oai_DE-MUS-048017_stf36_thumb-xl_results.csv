@@ -1,0 +1,559 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_stf36_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_stf36_thumb-xl.csv
+
+== Keywords for Atmosphere: Gothic ==
+0.13	reverence
+0.11	grandeur
+0.06	secret
+0.06	calm
+
+== Keywords for Atmosphere: Architectural ==
+0.16	grandeur
+0.14	reverence
+0.07	secret
+0.05	calm
+
+== Keywords for Atmosphere: Stone Sculptures ==
+0.11	reverence
+0.09	calm
+0.09	secret
+0.06	grandeur
+
+== Keywords for Atmosphere: Tranquil ==
+0.07	secret
+0.06	reverence
+0.05	grandeur
+0.04	calm
+
+== Keywords for Atmosphere: Historical ==
+0.10	reverence
+0.03	grandeur
+0.03	calm
+0.02	secret
+
+== Keywords for Emotion: Contemplative ==
+0.16	curious
+0.16	thoughtful
+0.13	earnestly
+
+== Keywords for Emotion: Reverent ==
+0.13	curious
+0.09	thoughtful
+0.05	earnestly
+
+== Keywords for Emotion: Serene ==
+0.18	thoughtful
+0.17	earnestly
+0.10	curious
+
+== Keywords for Emotion: Nostalgic ==
+0.06	thoughtful
+0.06	curious
+0.04	earnestly
+
+== Picture Elements: Gothic Arches ==
+0.41	behemoth
+0.23	shadow
+0.21	waist scarf
+0.19	volute
+0.16	profile
+0.16	doge
+0.15	clasp
+0.12	tunic
+0.12	script
+0.11	column
+0.11	updo
+0.11	angel
+0.10	building stone
+0.10	medallion
+0.10	cloth
+0.10	flame
+0.10	portrait
+0.10	window
+0.09	pattern
+0.09	enclosure
+0.09	beam
+0.09	hairstyle
+0.08	tile
+0.08	torch (fire)
+0.08	platform
+0.08	ornament
+0.08	lock
+0.08	flower
+0.08	base
+0.08	base
+0.08	column order
+0.08	fence
+0.08	tomb monument
+0.07	nudity
+0.07	banister
+0.07	wing (angel)
+0.07	chapel
+0.07	marble
+0.07	floating
+0.07	animal
+0.07	decoration
+0.06	wreath
+0.06	cloak
+0.06	pyramid
+0.06	gemel window
+0.06	man
+0.06	person bent over
+"0.06	grave, tomb"
+0.06	drapery
+0.05	light
+0.05	movement (of the body)
+0.05	devotional image
+0.05	sacred building
+0.05	Romanesque groined vault
+0.05	stair
+0.05	stair
+0.04	interior space
+0.04	eagle
+0.04	sack
+0.04	memorial
+0.03	helmet
+0.03	star (shape)
+0.03	wing (animal)
+0.03	ceiling
+0.03	Atlas (architecture)
+0.03	Venice
+0.03	grille
+0.03	woman
+0.03	blossom
+0.03	letter (typography)
+0.03	tile floor
+0.03	church
+0.03	capital (architecture)
+0.03	physical contact
+0.03	inscription
+0.03	light reflection
+0.02	lamp
+0.02	hairband
+0.02	chain (mechanical device)
+0.02	ribbon
+0.02	group of people
+0.02	standing man
+0.02	pedestal (sculpture)
+0.02	sculptor (male)
+0.02	drape
+0.02	barefootedness
+0.02	Italy
+0.02	incident light
+0.02	majuscule
+0.02	clothing
+"0.02	ladder, leader"
+0.01	relief
+0.01	standing woman (standing people)
+0.01	candlestick
+0.01	headscarf
+0.01	evangelist's symbol
+0.01	Lion of St. Mark
+0.01	seated man
+0.01	floral garland
+
+== Picture Elements: Stone Sculptures ==
+0.58	building stone
+0.54	sculptor (male)
+0.44	pedestal (sculpture)
+0.24	capital (architecture)
+0.23	volute
+0.22	decoration
+0.18	doge
+0.16	portrait
+0.16	shadow
+0.15	profile
+0.15	updo
+0.15	pattern
+0.15	marble
+0.15	ornament
+0.14	ceiling
+0.13	clasp
+0.12	memorial
+0.12	beam
+0.12	lock
+0.12	flame
+0.12	man
+0.11	fence
+0.11	tomb monument
+0.11	tile
+0.11	script
+0.11	flower
+0.11	medallion
+0.10	Atlas (architecture)
+0.10	helmet
+0.10	relief
+0.10	light
+0.09	movement (of the body)
+0.09	sack
+0.09	platform
+0.09	person bent over
+0.09	enclosure
+0.08	floating
+0.08	banister
+0.08	pyramid
+0.07	stair
+0.07	stair
+0.07	waist scarf
+0.07	woman
+0.07	ribbon
+0.07	devotional image
+0.07	column
+0.07	drapery
+0.06	grille
+0.06	angel
+0.06	base
+0.06	base
+0.06	Venice
+0.06	lamp
+0.06	tunic
+0.06	cloak
+0.06	chapel
+0.06	wreath
+0.06	tile floor
+0.06	hairstyle
+0.05	cloth
+0.05	physical contact
+0.05	Romanesque groined vault
+0.05	standing man
+0.05	star (shape)
+0.05	Lion of St. Mark
+0.05	inscription
+0.05	nudity
+0.04	Italy
+0.04	church
+0.04	light reflection
+0.04	column order
+0.04	sacred building
+0.04	interior space
+0.03	majuscule
+0.03	headscarf
+0.03	behemoth
+0.03	gemel window
+0.03	group of people
+0.02	torch (fire)
+0.02	window
+0.02	barefootedness
+0.02	eagle
+0.02	letter (typography)
+"0.02	grave, tomb"
+0.02	drape
+0.02	incident light
+0.02	candlestick
+0.02	seated man
+0.02	hairband
+0.02	clothing
+0.02	blossom
+0.02	animal
+0.01	standing woman (standing people)
+0.01	chain (mechanical device)
+0.01	wing (angel)
+0.01	evangelist's symbol
+0.01	wing (animal)
+0.01	floral garland
+"0.01	ladder, leader"
+
+== Picture Elements: Checkered Floor ==
+0.49	floating
+0.46	tile floor
+0.14	waist scarf
+0.10	script
+0.10	volute
+0.10	sacred building
+0.09	enclosure
+0.09	doge
+0.09	clasp
+0.08	tile
+0.07	lock
+0.07	beam
+0.07	updo
+0.07	flame
+0.06	man
+0.06	fence
+0.06	candlestick
+0.06	profile
+0.06	portrait
+0.06	stair
+0.06	stair
+0.06	decoration
+0.05	pattern
+0.05	shadow
+0.05	column
+0.05	ceiling
+0.05	cloak
+0.05	flower
+0.05	marble
+0.05	light
+0.05	platform
+0.05	cloth
+0.05	building stone
+0.05	ribbon
+0.04	banister
+0.04	sack
+0.04	light reflection
+0.04	physical contact
+0.04	wreath
+0.04	medallion
+0.03	torch (fire)
+0.03	tunic
+0.03	behemoth
+0.03	lamp
+0.03	capital (architecture)
+0.03	chain (mechanical device)
+0.03	angel
+0.03	drapery
+0.03	person bent over
+0.03	base
+0.03	base
+0.03	ornament
+0.03	nudity
+0.03	column order
+0.03	chapel
+0.02	pyramid
+0.02	barefootedness
+0.02	group of people
+0.02	eagle
+0.02	animal
+0.02	grille
+0.02	Romanesque groined vault
+0.02	window
+0.02	standing man
+0.02	church
+0.02	incident light
+0.02	helmet
+0.02	hairband
+0.02	woman
+0.02	Italy
+"0.01	grave, tomb"
+0.01	gemel window
+0.01	devotional image
+"0.01	ladder, leader"
+0.01	sculptor (male)
+0.01	movement (of the body)
+0.01	drape
+0.01	memorial
+0.01	inscription
+0.01	hairstyle
+0.01	seated man
+0.01	Venice
+0.01	pedestal (sculpture)
+0.01	clothing
+0.01	interior space
+0.01	majuscule
+0.01	star (shape)
+0.01	relief
+0.01	blossom
+0.01	headscarf
+0.01	letter (typography)
+0.01	standing woman (standing people)
+0.01	tomb monument
+0.01	wing (animal)
+0.01	wing (angel)
+0.01	Atlas (architecture)
+0.01	Lion of St. Mark
+0.01	evangelist's symbol
+0.01	floral garland
+
+== Picture Elements: Metal Railing ==
+0.23	behemoth
+0.13	volute
+0.09	cloak
+0.08	clasp
+0.07	floating
+0.07	doge
+0.07	movement (of the body)
+0.06	flame
+0.06	updo
+0.06	platform
+0.06	medallion
+0.05	portrait
+0.05	lock
+0.05	profile
+0.05	script
+0.05	helmet
+0.05	enclosure
+0.04	beam
+0.04	marble
+0.04	man
+0.04	shadow
+0.04	fence
+0.04	ornament
+0.04	base
+0.04	base
+0.04	pyramid
+0.04	tunic
+0.03	column
+0.03	light
+0.03	stair
+0.03	stair
+0.03	flower
+0.03	person bent over
+0.03	pattern
+0.03	sack
+0.02	banister
+0.02	decoration
+0.02	drapery
+0.02	Romanesque groined vault
+0.02	angel
+0.02	building stone
+0.02	devotional image
+0.02	inscription
+0.02	tile
+0.02	column order
+0.02	torch (fire)
+0.02	nudity
+0.02	star (shape)
+0.02	memorial
+0.02	physical contact
+0.02	standing man
+0.02	majuscule
+0.02	sculptor (male)
+0.02	group of people
+0.02	woman
+0.02	church
+0.01	drape
+0.01	ribbon
+0.01	wreath
+0.01	pedestal (sculpture)
+0.01	Venice
+0.01	Italy
+0.01	ceiling
+0.01	lamp
+0.01	chain (mechanical device)
+0.01	cloth
+0.01	clothing
+0.01	grille
+0.01	hairband
+"0.01	ladder, leader"
+0.01	gemel window
+0.01	wing (angel)
+0.01	eagle
+0.01	chapel
+0.01	barefootedness
+0.01	light reflection
+0.01	relief
+0.01	hairstyle
+0.01	window
+0.01	headscarf
+0.01	waist scarf
+0.01	tile floor
+0.01	blossom
+0.01	letter (typography)
+0.01	incident light
+"0.01	grave, tomb"
+0.01	animal
+0.01	standing woman (standing people)
+0.01	tomb monument
+0.01	sacred building
+0.01	capital (architecture)
+0.01	seated man
+0.01	candlestick
+0.01	wing (animal)
+0.01	interior space
+0.01	Lion of St. Mark
+0.01	evangelist's symbol
+0.01	Atlas (architecture)
+0.01	floral garland
+
+== Picture Elements: Natural Light ==
+0.76	light
+0.69	light reflection
+0.62	incident light
+0.48	portrait
+0.45	beam
+0.44	updo
+0.42	flame
+0.39	volute
+0.37	clasp
+0.35	doge
+0.32	floating
+0.30	flower
+0.26	relief
+0.26	cloak
+0.25	lamp
+0.24	tunic
+0.24	wreath
+0.24	helmet
+0.22	lock
+0.21	sack
+0.21	man
+0.21	script
+0.21	drapery
+0.20	enclosure
+0.20	pyramid
+0.19	stair
+0.19	stair
+0.19	fence
+0.19	ribbon
+0.19	movement (of the body)
+0.18	hairstyle
+0.18	banister
+0.18	hairband
+0.17	marble
+0.16	nudity
+0.16	angel
+0.16	base
+0.16	base
+0.16	barefootedness
+0.15	profile
+0.15	pattern
+0.15	column
+0.15	decoration
+0.15	platform
+0.14	ceiling
+0.14	shadow
+0.14	medallion
+0.14	grille
+0.14	chapel
+0.14	tile
+0.13	woman
+0.13	ornament
+0.13	torch (fire)
+0.12	window
+0.12	pedestal (sculpture)
+0.12	blossom
+0.12	person bent over
+0.12	standing man
+0.12	gemel window
+0.12	column order
+0.11	sculptor (male)
+0.11	standing woman (standing people)
+0.10	clothing
+0.10	animal
+0.10	physical contact
+0.10	group of people
+0.10	church
+0.09	chain (mechanical device)
+0.09	inscription
+0.09	memorial
+0.09	candlestick
+0.08	tile floor
+0.08	cloth
+0.08	drape
+0.08	Venice
+0.07	eagle
+0.07	building stone
+0.07	majuscule
+0.07	Italy
+0.07	devotional image
+0.07	wing (angel)
+0.06	wing (animal)
+0.06	waist scarf
+0.06	star (shape)
+0.06	headscarf
+0.05	behemoth
+"0.05	ladder, leader"
+0.04	evangelist's symbol
+0.04	letter (typography)
+0.04	Lion of St. Mark
+0.04	floral garland
+0.04	seated man
+0.04	sacred building
+0.03	tomb monument
+0.03	interior space
+0.03	Romanesque groined vault
+"0.02	grave, tomb"
+0.01	capital (architecture)
+0.01	Atlas (architecture)
+

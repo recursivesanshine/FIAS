@@ -1,0 +1,72 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Architektur,architecture
+motiv,Motivgattung,Landschaft,landscape
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Frankfurt am Main,Frankfurt am Main
+motiv,Motiv,Deutschland,Germany
+motiv,Motiv,"Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)","Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)"
+motiv,Motiv,Kranichhof (Frankfurt am Main),Kranichhof (Frankfurt am Main)
+motiv,Motiv,Eckhardt'sche Haus,Eckhardt'sche Haus
+motiv,Motiv,Baumgruppe,copse
+bildelement,Bildelement,Frankfurt am Main,Frankfurt am Main
+bildelement,Bildelement,Deutschland,Germany
+bildelement,Bildelement,"Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)","Cronstetten Stift (Rossmarkt 17, Frankfurt am Main)"
+bildelement,Bildelement,Kranichhof (Frankfurt am Main),Kranichhof (Frankfurt am Main)
+bildelement,Bildelement,Eckhardt'sche Haus,Eckhardt'sche Haus
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Baumgruppe,copse
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Dach,roof
+bildelement,Bildelement,Satteldach,"pitched roof, saddle roof"
+bildelement,Bildelement,Walmdach,hip roof
+bildelement,Bildelement,Mansarddach,Mansard roof
+bildelement,Bildelement,Dachgaube,dormer
+bildelement,Bildelement,Dachreiter,ridge turret
+bildelement,Bildelement,Dachziegel,roof tile
+bildelement,Bildelement,Schiefer,slate
+bildelement,Bildelement,Giebel,gable
+bildelement,Bildelement,Schornstein,chimney
+bildelement,Bildelement,Kreuz,cross
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Sprossenfenster,astragal window
+bildelement,Bildelement,Fensterladen,shutter
+bildelement,Bildelement,Markise,awning
+bildelement,Bildelement,Fensteröffnung,window opening
+bildelement,Bildelement,Fassade,facade
+bildelement,Bildelement,Balkon,balcony
+bildelement,Bildelement,Blumentopf,flowerpot
+bildelement,Bildelement,Gardine,curtain
+bildelement,Bildelement,Pflanze,plant
+bildelement,Bildelement,Mauer,mural
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Baum,tree
+bildelement,Bildelement,Baumstamm,tree trunk
+bildelement,Bildelement,Baumkrone,treetop
+bildelement,Bildelement,Gebüsch,shrubs
+bildelement,Bildelement,Blatt,leaf
+bildelement,Bildelement,Zaun,fence
+bildelement,Bildelement,Dachrinne,roof gutter
+bildelement,Bildelement,Garten,garden
+bildelement,Bildelement,Menschenleere,void of human beings
+bildelement,Bildelement,Fallrohr,Waterspout
+bildelement,Bildelement,Birke,birch
+bildelement,Bildelement,Laubbaum,deciduous tree
+bildelement,Bildelement,Nadelbaum,conifer
+assoziation,Assoziation,Dokument,document
+assoziation,Assoziation,Sommer,summer
+assoziation,Assoziation,Wärme,warmth
+assoziation,Assoziation,Stiftung,foundation
+assoziation,Assoziation,Frauenstift,Frauenstift
+assoziation,Assoziation,Stifterin,donor
+assoziation,Assoziation,Religion,religion
+assoziation,Assoziation,Glaube,belief
+assoziation,Assoziation,Adel,nobility
+assoziation,Assoziation,Patriziat,aristocracy
+assoziation,Assoziation,Gesellschaft,society
+atmosphäre,Atmosphäre,Unruhe,unrest
+atmosphäre,Atmosphäre,Frische,freshness
+atmosphäre,Atmosphäre,Fülle,abundance
+emotion,Emotion,ausgeglichen,even-tempered
+emotion,Emotion,neugierig,curious
+emotion,Emotion,ernsthaft,earnestly

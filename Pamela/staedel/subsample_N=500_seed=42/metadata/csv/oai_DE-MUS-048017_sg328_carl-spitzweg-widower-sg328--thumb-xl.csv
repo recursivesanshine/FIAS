@@ -1,0 +1,55 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Genre,genre
+motiv,Motiv,Mann,man
+motiv,Motiv,Frau,woman
+motiv,Motiv,Personengruppe,group of people
+motiv,Motiv,Park,park
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Sitzender,seated man
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Medaillon,medallion
+bildelement,Bildelement,Zylinder (Kopfbedeckung),top hat
+bildelement,Bildelement,Halstuch,bandanna
+bildelement,Bildelement,Frack,tailcoat
+bildelement,Bildelement,Knickerbocker,plus-fours
+bildelement,Bildelement,Taschentuch,handkerchief
+bildelement,Bildelement,Bild,image
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Rückenfigur,figure seen from the back
+bildelement,Bildelement,Schulter,shoulder
+bildelement,Bildelement,Kleid,dress
+bildelement,Bildelement,Stola,stole
+bildelement,Bildelement,Hutfeder,hat feather
+bildelement,Bildelement,Hutband,hatband
+bildelement,Bildelement,Hochsteckfrisur,updo
+bildelement,Bildelement,Halskette,necklace
+bildelement,Bildelement,Bank,bench
+bildelement,Bildelement,Brüstung,"parapet, balustrade"
+bildelement,Bildelement,Skulptur,sculpture
+bildelement,Bildelement,Sockel,pedestal (sculpture)
+bildelement,Bildelement,Sonnenschein,sunshine
+bildelement,Bildelement,Baum,tree
+bildelement,Bildelement,Pflanze,plant
+bildelement,Bildelement,Pflasterstein,paving stone
+bildelement,Bildelement,Statue,statue
+bildelement,Bildelement,Blick (Mensch),"look, gaze"
+bildelement,Bildelement,Spaziergang,walk
+bildelement,Bildelement,Park,park
+assoziation,Assoziation,Marmor,marble
+assoziation,Assoziation,Brücke,bridge
+assoziation,Assoziation,Biedermeier,Biedermeier
+assoziation,Assoziation,Romantik,romanticism
+assoziation,Assoziation,Sehnsucht,longing
+assoziation,Assoziation,Bürgertum,bourgeoisie
+assoziation,Assoziation,Ambivalenz,ambivalence
+assoziation,Assoziation,Satire,satire
+assoziation,Assoziation,Koketterie,coquetry
+atmosphäre,Atmosphäre,Hoffnung,hope
+atmosphäre,Atmosphäre,Trauer,mourning
+atmosphäre,Atmosphäre,Melancholie,melancholy
+atmosphäre,Atmosphäre,Isolation,isolation
+emotion,Emotion,optimistisch,optimistic
+emotion,Emotion,nachdenklich,thoughtful
+emotion,Emotion,neugierig,curious
+emotion,Emotion,traurig,sad
+emotion,Emotion,freudig,joyful

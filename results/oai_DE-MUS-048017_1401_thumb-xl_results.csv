@@ -1,0 +1,272 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_1401_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_1401_thumb-xl.csv
+
+== Keywords for Atmosphere: Formal ==
+0.11	secret
+0.11	reverence
+0.05	earnestness
+0.02	thoughtfulness
+
+== Keywords for Atmosphere: Historical ==
+0.10	reverence
+0.03	earnestness
+0.02	secret
+0.01	thoughtfulness
+
+== Keywords for Atmosphere: Classic ==
+0.13	reverence
+0.12	thoughtfulness
+0.08	secret
+0.06	earnestness
+
+== Keywords for Atmosphere: Portraiture ==
+0.19	reverence
+0.08	secret
+0.05	earnestness
+0.04	thoughtfulness
+
+== Keywords for Emotion: Serious ==
+0.12	cool
+0.12	earnestly
+0.12	lonely
+
+== Keywords for Emotion: Reflective ==
+0.08	earnestly
+0.08	lonely
+0.08	cool
+
+== Keywords for Emotion: Dignified ==
+0.13	lonely
+0.08	cool
+0.07	earnestly
+
+== Keywords for Emotion: Composed ==
+0.12	cool
+0.07	lonely
+0.04	earnestly
+
+== Picture Elements: Man ==
+0.88	man
+0.35	gesticulation
+0.29	hat
+0.26	pose
+0.23	trousers
+0.20	eye contact
+0.18	artist
+0.18	vest
+0.18	light
+0.15	shirt
+0.15	artist portrait
+0.15	shadow
+0.13	cravat
+0.13	collar
+0.13	dialogue
+0.13	full beard
+0.12	button
+0.11	beard
+0.10	physiognomy
+0.09	checked pattern
+0.08	pattern
+0.07	button facing
+0.07	lighting design
+0.07	half-length portrait
+0.05	ornamental pin
+0.03	frock coat
+
+== Picture Elements: Dark Coat ==
+0.62	frock coat
+0.36	shadow
+0.31	hat
+0.30	pose
+0.22	vest
+0.21	shirt
+0.21	cravat
+0.19	gesticulation
+0.18	collar
+0.16	light
+0.16	man
+0.15	pattern
+0.14	artist
+0.12	trousers
+0.11	artist portrait
+0.11	lighting design
+0.11	checked pattern
+0.10	button
+0.10	beard
+0.09	dialogue
+0.09	eye contact
+0.06	physiognomy
+0.06	half-length portrait
+0.06	ornamental pin
+0.05	button facing
+0.05	full beard
+
+== Picture Elements: Light Vest ==
+0.56	light
+0.38	lighting design
+0.33	vest
+0.32	hat
+0.29	pose
+0.29	trousers
+0.27	shirt
+0.17	man
+0.14	cravat
+0.13	artist
+0.13	gesticulation
+0.13	pattern
+0.13	button
+0.12	shadow
+0.11	collar
+0.11	dialogue
+0.10	ornamental pin
+0.10	artist portrait
+0.09	frock coat
+0.09	checked pattern
+0.08	eye contact
+0.08	physiognomy
+0.07	button facing
+0.06	half-length portrait
+0.06	beard
+0.03	full beard
+
+== Picture Elements: Patterned Trousers ==
+0.75	trousers
+0.59	pattern
+0.48	checked pattern
+0.20	pose
+0.17	vest
+0.17	hat
+0.16	collar
+0.16	shirt
+0.14	gesticulation
+0.13	frock coat
+0.13	lighting design
+0.11	shadow
+0.11	artist
+0.10	man
+0.07	ornamental pin
+0.07	button
+0.07	light
+0.06	cravat
+0.03	button facing
+0.03	artist portrait
+0.03	dialogue
+0.02	beard
+0.02	half-length portrait
+0.01	full beard
+0.01	eye contact
+0.01	physiognomy
+
+== Picture Elements: Pendant ==
+0.24	hat
+0.24	pose
+0.18	ornamental pin
+0.16	vest
+0.16	artist
+0.16	light
+0.16	man
+0.13	gesticulation
+0.13	collar
+0.12	shadow
+0.11	shirt
+0.10	pattern
+0.09	artist portrait
+0.07	beard
+0.07	cravat
+0.07	button
+0.06	trousers
+0.06	lighting design
+0.06	eye contact
+0.05	checked pattern
+0.05	dialogue
+0.04	frock coat
+0.03	physiognomy
+0.03	button facing
+0.03	half-length portrait
+0.02	full beard
+
+== Picture Elements: Hat ==
+0.69	hat
+0.23	pose
+0.22	vest
+0.19	gesticulation
+0.19	shadow
+0.18	man
+0.17	shirt
+0.17	light
+0.16	collar
+0.13	trousers
+0.12	beard
+0.11	cravat
+0.09	button
+0.09	pattern
+0.09	eye contact
+0.09	checked pattern
+0.08	full beard
+0.07	physiognomy
+0.07	dialogue
+0.07	frock coat
+0.07	ornamental pin
+0.06	artist
+0.06	artist portrait
+0.05	lighting design
+0.05	button facing
+0.05	half-length portrait
+
+== Picture Elements: Simple Background ==
+0.37	light
+0.31	pose
+0.25	vest
+0.24	shirt
+0.23	hat
+0.19	man
+0.18	artist
+0.16	button
+0.16	artist portrait
+0.14	pattern
+0.14	shadow
+0.13	collar
+0.13	checked pattern
+0.12	dialogue
+0.11	half-length portrait
+0.10	button facing
+0.10	physiognomy
+0.09	lighting design
+0.09	gesticulation
+0.09	eye contact
+0.08	frock coat
+0.08	trousers
+0.06	ornamental pin
+0.06	cravat
+0.06	beard
+0.02	full beard
+
+== Picture Elements: Artist's Signature ==
+0.60	artist
+0.43	artist portrait
+0.24	pose
+0.22	hat
+0.17	man
+0.17	vest
+0.16	shirt
+0.13	gesticulation
+0.13	half-length portrait
+0.11	light
+0.11	pattern
+0.10	ornamental pin
+0.09	button
+0.07	shadow
+0.06	lighting design
+0.06	cravat
+0.06	collar
+0.05	checked pattern
+0.05	dialogue
+0.04	button facing
+0.03	frock coat
+0.03	beard
+0.03	trousers
+0.02	eye contact
+0.02	full beard
+0.02	physiognomy
+

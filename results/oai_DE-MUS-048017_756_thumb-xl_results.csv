@@ -1,0 +1,260 @@
+Matching Results
+Text file: Pamela/staedel/out/oai_DE-MUS-048017_756_thumb-xl.txt
+CSV file: Pamela/staedel/subsample_N=500_seed=42/metadata/csv/oai_DE-MUS-048017_756_thumb-xl.csv
+
+== Picture Elements: Man ==
+0.88	man
+0.78	standing man
+0.22	script
+0.20	eye contact
+"0.19	coat, cloak"
+0.18	symbol
+0.18	three-quarter profile
+0.18	ring
+0.14	ruff
+0.14	beret
+0.13	collar
+0.13	dialogue
+0.12	column
+0.11	beard
+0.11	plinth
+0.10	platform
+0.10	physiognomy
+0.10	half-figure
+0.09	dragon
+0.09	fluting
+0.09	letter (typography)
+"0.08	letter, character"
+0.08	lace
+0.06	majuscule
+0.06	tablecloth
+0.06	lace cuff
+0.05	table
+0.03	book
+0.02	interior space
+0.01	Victor Emanuel beard
+
+== Picture Elements: Dark Robe ==
+0.16	ruff
+0.15	ring
+0.15	lace
+0.13	script
+0.13	beret
+0.12	man
+0.11	beard
+0.11	symbol
+0.10	dragon
+0.09	column
+0.09	lace cuff
+0.08	collar
+0.08	dialogue
+0.08	platform
+0.07	three-quarter profile
+0.07	standing man
+"0.07	coat, cloak"
+0.07	plinth
+0.06	Victor Emanuel beard
+0.05	half-figure
+0.04	table
+0.04	eye contact
+0.03	book
+0.03	tablecloth
+"0.03	letter, character"
+0.02	majuscule
+0.02	letter (typography)
+0.01	fluting
+0.01	interior space
+0.01	physiognomy
+
+== Picture Elements: White Ruffled Collar ==
+0.60	ruff
+0.57	collar
+"0.40	coat, cloak"
+0.28	lace cuff
+0.26	lace
+0.14	ring
+0.10	script
+0.09	symbol
+0.08	column
+0.07	man
+0.06	standing man
+0.06	platform
+0.06	three-quarter profile
+0.05	table
+0.04	beret
+0.03	Victor Emanuel beard
+0.03	plinth
+0.03	dialogue
+"0.03	letter, character"
+0.02	beard
+0.02	eye contact
+0.02	half-figure
+0.02	dragon
+0.01	tablecloth
+0.01	fluting
+0.01	letter (typography)
+0.01	interior space
+0.01	book
+0.01	physiognomy
+0.01	majuscule
+
+== Picture Elements: Black Cap ==
+"0.24	coat, cloak"
+0.19	symbol
+0.19	man
+0.18	beret
+0.17	ring
+0.17	script
+0.15	standing man
+0.15	collar
+0.14	beard
+0.14	three-quarter profile
+0.13	column
+0.12	lace
+0.12	tablecloth
+0.12	plinth
+0.11	ruff
+"0.11	letter, character"
+0.10	dialogue
+0.09	platform
+0.09	eye contact
+0.08	table
+0.08	majuscule
+0.07	lace cuff
+0.07	dragon
+0.05	physiognomy
+0.05	letter (typography)
+0.05	half-figure
+0.04	book
+0.03	fluting
+0.02	interior space
+0.01	Victor Emanuel beard
+
+== Picture Elements: Table ==
+0.91	table
+0.70	tablecloth
+0.20	three-quarter profile
+0.17	column
+0.16	script
+0.13	symbol
+0.12	ring
+0.12	platform
+0.12	dialogue
+0.11	dragon
+0.10	plinth
+0.10	beret
+0.10	eye contact
+0.10	ruff
+0.10	book
+0.10	lace
+0.09	man
+0.09	half-figure
+0.08	physiognomy
+"0.08	coat, cloak"
+0.06	standing man
+0.05	letter (typography)
+0.05	majuscule
+0.05	collar
+0.04	beard
+0.04	fluting
+0.04	lace cuff
+"0.03	letter, character"
+0.02	interior space
+0.01	Victor Emanuel beard
+
+== Picture Elements: Books ==
+0.61	book
+0.12	three-quarter profile
+0.10	ruff
+0.10	platform
+0.10	plinth
+0.10	symbol
+0.09	beret
+0.09	table
+0.09	lace
+0.09	ring
+0.08	dragon
+"0.08	coat, cloak"
+0.08	tablecloth
+0.07	column
+0.07	script
+0.07	man
+0.06	collar
+0.06	standing man
+0.05	half-figure
+0.04	physiognomy
+0.04	dialogue
+0.04	eye contact
+0.04	majuscule
+0.03	lace cuff
+"0.03	letter, character"
+0.02	letter (typography)
+0.02	beard
+0.01	fluting
+0.01	interior space
+0.01	Victor Emanuel beard
+
+== Picture Elements: Classical Column ==
+0.46	column
+0.15	symbol
+0.15	table
+0.15	script
+0.12	ring
+0.11	plinth
+0.09	man
+0.09	letter (typography)
+0.09	three-quarter profile
+0.08	ruff
+0.07	standing man
+0.06	lace
+0.06	dialogue
+0.05	tablecloth
+0.05	platform
+0.04	dragon
+0.04	beret
+0.04	half-figure
+"0.04	letter, character"
+0.03	lace cuff
+0.02	collar
+0.02	book
+0.02	eye contact
+0.02	interior space
+0.02	majuscule
+0.02	beard
+0.01	physiognomy
+"0.01	coat, cloak"
+0.01	fluting
+0.01	Victor Emanuel beard
+
+== Picture Elements: Inscribed Text ==
+0.24	script
+0.15	symbol
+0.14	ring
+"0.14	letter, character"
+0.13	column
+0.13	letter (typography)
+0.12	dialogue
+0.12	book
+0.11	platform
+0.10	man
+0.10	ruff
+0.09	beret
+0.09	table
+0.09	lace
+0.08	three-quarter profile
+0.06	dragon
+0.05	plinth
+"0.05	coat, cloak"
+0.04	eye contact
+0.04	interior space
+0.04	tablecloth
+0.04	fluting
+0.03	lace cuff
+0.03	collar
+0.03	standing man
+0.03	beard
+0.03	half-figure
+0.02	majuscule
+0.02	physiognomy
+0.01	Victor Emanuel beard
+

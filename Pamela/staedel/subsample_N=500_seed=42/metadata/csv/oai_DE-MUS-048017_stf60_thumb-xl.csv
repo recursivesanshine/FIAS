@@ -1,0 +1,88 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Architektur,architecture
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Tier,animal
+motiv,Motiv,Gent,Ghent
+motiv,Motiv,Altes Rathaus (Gent),Old town hall (Ghent)
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Gent,Ghent
+bildelement,Bildelement,Altes Rathaus (Gent),Old town hall (Ghent)
+bildelement,Bildelement,Stadt,city
+bildelement,Bildelement,Tier,animal
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Dach,roof
+bildelement,Bildelement,Satteldach,"pitched roof, saddle roof"
+bildelement,Bildelement,Dachziegel,roof tile
+bildelement,Bildelement,Schornstein,chimney
+bildelement,Bildelement,Dachrinne,roof gutter
+bildelement,Bildelement,Fallrohr,Waterspout
+bildelement,Bildelement,Stange,pole
+bildelement,Bildelement,Fries,frieze
+bildelement,Bildelement,Fassade,facade
+bildelement,Bildelement,Rathaus,town hall
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Sprossenfenster,astragal window
+bildelement,Bildelement,Zwillingsfenster,gemel window
+bildelement,Bildelement,Fensterglas,window glass
+bildelement,Bildelement,Spiegelung,mirroring
+bildelement,Bildelement,Lichtreflex,light reflection
+bildelement,Bildelement,Dreipassbogen,trefoil arch
+bildelement,Bildelement,Rundbogen,round arch
+bildelement,Bildelement,Blendbogen,blind arch
+bildelement,Bildelement,Nische,niche
+bildelement,Bildelement,Baldachin,baldachin
+bildelement,Bildelement,Konsole (Architektur),console (architecture)
+bildelement,Bildelement,Halbsäule,half-column
+bildelement,Bildelement,Kapitell,capital (architecture)
+bildelement,Bildelement,Stütze,support
+bildelement,Bildelement,Maßwerk,tracery
+bildelement,Bildelement,Ornament,ornament
+bildelement,Bildelement,Dekoration,decoration
+bildelement,Bildelement,Pflanzenornament,floral ornament
+bildelement,Bildelement,Blattwerk,foliage
+bildelement,Bildelement,Volute,volute
+bildelement,Bildelement,Balkon,balcony
+bildelement,Bildelement,Geländer,banister
+bildelement,Bildelement,Tür,door
+bildelement,Bildelement,Holztür,wooden door
+bildelement,Bildelement,Plakat,placard
+bildelement,Bildelement,Schrift,script
+bildelement,Bildelement,Buchstabe,letter (typography)
+bildelement,Bildelement,Stufe,stair
+bildelement,Bildelement,Treppe,stair
+bildelement,Bildelement,Eingang (Architektur),entrance
+bildelement,Bildelement,Türöffnung,door opening
+bildelement,Bildelement,Portal,portal
+bildelement,Bildelement,Kopf (Tier),head (animal)
+bildelement,Bildelement,Hirsch,deer
+bildelement,Bildelement,Geweih,antlers
+bildelement,Bildelement,Schild,shield
+bildelement,Bildelement,Straßenlaterne,street lamp
+bildelement,Bildelement,Kutsche,coach
+bildelement,Bildelement,Rad,wheel
+bildelement,Bildelement,Türknauf,doorknob
+bildelement,Bildelement,Pferd,horse
+bildelement,Bildelement,Zaumzeug,bridle
+bildelement,Bildelement,Decke (Textilien),"cover, blanket"
+bildelement,Bildelement,Streifenmuster,striped pattern
+bildelement,Bildelement,Bewegung (Körperbewegung),movement (of the body)
+bildelement,Bildelement,Pflasterstein,paving stone
+bildelement,Bildelement,Rinne,gutter
+bildelement,Bildelement,Wasser,water
+bildelement,Bildelement,Vorplatz,plaza
+bildelement,Bildelement,Straße,street
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Fiale,pinnacle
+bildelement,Bildelement,Erker,oriel
+assoziation,Assoziation,Geschichte,history
+assoziation,Assoziation,Reise,travel
+assoziation,Assoziation,Spätgotik,Late Gothic
+assoziation,Assoziation,Politik,politics
+atmosphäre,Atmosphäre,Erhabenheit,grandeur
+atmosphäre,Atmosphäre,Ernsthaftigkeit,earnestness
+atmosphäre,Atmosphäre,Pracht,magnificence
+atmosphäre,Atmosphäre,Ruhe,calm
+emotion,Emotion,ausgeglichen,even-tempered
+emotion,Emotion,begeisternd,exciting
+emotion,Emotion,neugierig,curious

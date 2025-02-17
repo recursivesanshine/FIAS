@@ -1,0 +1,153 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Stadtansicht,city view
+motiv,Motivgattung,Architektur,architecture
+motiv,Motiv,Straßenszene,street scene
+motiv,Motiv,Liebfrauenberg (Frankfurt am Main),Liebfrauenberg (Frankfurt am Main)
+motiv,Motiv,Liebfrauenbrunnen (Frankfurt am Main),Liebfrauenbrunnen (Frankfurt am Main)
+motiv,Motiv,Haus Paradies und Krimmvogel (Frankfurt am Main),Haus Paradies und Krimmvogel (Frankfurt am Main)
+motiv,Motiv,Neue Kräme (Frankfurt am Main),Neue Kräme (Frankfurt am Main)
+motiv,Motiv,Sankt Nikolai (Frankfurt am Main),Sankt Nikolai (Frankfurt am Main)
+motiv,Motiv,Frankfurt am Main,Frankfurt am Main
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Brunnen,well
+motiv,Motiv,Frau,woman
+motiv,Motiv,Kind,child
+motiv,Motiv,Mann,man
+motiv,Motiv,Personengruppe,group of people
+motiv,Motiv,Tier,animal
+bildelement,Bildelement,Liebfrauenberg (Frankfurt am Main),Liebfrauenberg (Frankfurt am Main)
+bildelement,Bildelement,Liebfrauenbrunnen (Frankfurt am Main),Liebfrauenbrunnen (Frankfurt am Main)
+bildelement,Bildelement,Haus Paradies und Krimmvogel (Frankfurt am Main),Haus Paradies und Krimmvogel (Frankfurt am Main)
+bildelement,Bildelement,Sankt Nikolai (Frankfurt am Main),Sankt Nikolai (Frankfurt am Main)
+bildelement,Bildelement,Frankfurt am Main,Frankfurt am Main
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Wolke,cloud
+bildelement,Bildelement,Markttreiben,market bustle
+bildelement,Bildelement,Markt,market
+bildelement,Bildelement,Straßenszene,street scene
+bildelement,Bildelement,Straße,street
+bildelement,Bildelement,Platz,square (architecture)
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Haus,house
+bildelement,Bildelement,Häuserblock,block of buildings
+bildelement,Bildelement,Dachgaube,dormer
+bildelement,Bildelement,Erker,oriel
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Sprossenfenster,astragal window
+bildelement,Bildelement,Halbsäule,half-column
+bildelement,Bildelement,Kannelur,fluting
+bildelement,Bildelement,Pilaster,pilaster
+bildelement,Bildelement,Dach,roof
+bildelement,Bildelement,Ornament,ornament
+bildelement,Bildelement,Laterne,lantern
+bildelement,Bildelement,Globus,globe
+bildelement,Bildelement,Musikinstrument,musical instrument
+bildelement,Bildelement,Violine,violin
+bildelement,Bildelement,Marktstand,market stall
+bildelement,Bildelement,Papier,paper
+bildelement,Bildelement,Verkäufer,salesman
+bildelement,Bildelement,Kaufmann,merchant
+bildelement,Bildelement,Holztisch,wooden table
+bildelement,Bildelement,Gefäß,vessel
+bildelement,Bildelement,Tuch,cloth
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Stehender,standing man
+bildelement,Bildelement,Gehrock,frock coat
+bildelement,Bildelement,Hemd,shirt
+bildelement,Bildelement,Wams,doublet
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Kopfbedeckung,head covering
+bildelement,Bildelement,Dreispitz,tricorne
+bildelement,Bildelement,Schuh,shoe
+bildelement,Bildelement,Perücke,wig
+bildelement,Bildelement,Schleife,bow
+bildelement,Bildelement,Band (Textilien),ribbon
+bildelement,Bildelement,Schnallenschuh,buckled shoe
+bildelement,Bildelement,Fassade,facade
+bildelement,Bildelement,Pflasterstein,paving stone
+bildelement,Bildelement,Gehstock,cane
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Stehende,standing woman (standing people)
+bildelement,Bildelement,Korb,basket
+bildelement,Bildelement,Kleid,dress
+bildelement,Bildelement,Rock,skirt
+bildelement,Bildelement,Schürze,apron
+bildelement,Bildelement,Haube (Kopfbedeckung),bonnet
+bildelement,Bildelement,Schultertuch,shawl
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Kutsche,coach
+bildelement,Bildelement,Pferd,horse
+bildelement,Bildelement,Kutscher,coachman
+bildelement,Bildelement,Sitzender,seated man
+bildelement,Bildelement,Peitsche,whip
+bildelement,Bildelement,Gerte,riding crop
+bildelement,Bildelement,Gepäck,"luggage, baggage"
+bildelement,Bildelement,Bach,brook
+bildelement,Bildelement,Rinne,gutter
+bildelement,Bildelement,Kind,child
+bildelement,Bildelement,Bündel,bundle
+bildelement,Bildelement,Ware,goods
+bildelement,Bildelement,Obst,fruit
+bildelement,Bildelement,Gemüse,vegetable
+bildelement,Bildelement,Salatkopf,head of lettuce
+bildelement,Bildelement,Kniende,kneeling woman
+bildelement,Bildelement,Sitzende,seated woman
+bildelement,Bildelement,Hütte,hut
+bildelement,Bildelement,Esel,donkey
+bildelement,Bildelement,Reitsattel,riding saddle
+bildelement,Bildelement,Zaumzeug,bridle
+bildelement,Bildelement,Hahn,rooster
+bildelement,Bildelement,Huhn,chicken
+bildelement,Bildelement,Krug,pitcher
+bildelement,Bildelement,Geschirr (Hausrat),dinnerware
+bildelement,Bildelement,Verkaufsstand,sales stand
+bildelement,Bildelement,Brunnen,well
+bildelement,Bildelement,Springbrunnen,fountain
+bildelement,Bildelement,Brunnenbecken,fountain basin
+bildelement,Bildelement,Wasserbecken,water basin
+bildelement,Bildelement,Wasser,water
+bildelement,Bildelement,Wasserstrahl,water jet
+bildelement,Bildelement,Skulptur,sculpture
+bildelement,Bildelement,Helm,helmet
+bildelement,Bildelement,Blattkranz,carved wreath
+bildelement,Bildelement,Relief,relief
+bildelement,Bildelement,Rauch,smoke
+bildelement,Bildelement,Holztür,wooden door
+bildelement,Bildelement,Eingang (Architektur),entrance
+bildelement,Bildelement,Stufe,stair
+bildelement,Bildelement,Fass,barrel
+bildelement,Bildelement,Kiste,crate
+bildelement,Bildelement,Gespräch,conversation
+bildelement,Bildelement,Geste,gesture
+bildelement,Bildelement,Fachwerk,half-timbering
+bildelement,Bildelement,Fachwerkhaus,half-timber structure
+bildelement,Bildelement,Blickkontakt,eye contact
+bildelement,Bildelement,Blickführung,guiding of one's gaze
+bildelement,Bildelement,Staffage,staffage
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Perspektive,perspective
+bildelement,Bildelement,Dachrinne,roof gutter
+bildelement,Bildelement,Gardine,curtain
+bildelement,Bildelement,Fassadenmalerei,facade painting
+bildelement,Bildelement,Ionisches Kapitell,Ionic capital
+bildelement,Bildelement,Butzenscheibe,bullseye pane
+bildelement,Bildelement,Glas (Trinkgefäß),drinking glass
+bildelement,Bildelement,Karaffe,carafe
+bildelement,Bildelement,Plane,tarp
+bildelement,Bildelement,Pflanzenornament,floral ornament
+bildelement,Bildelement,Gitter,grille
+bildelement,Bildelement,Zopf,plait
+bildelement,Bildelement,Absatzschuh,heeled shoe
+bildelement,Bildelement,Kniestrumpf,knee sock
+bildelement,Bildelement,Justaucorps,juste-au-corps
+bildelement,Bildelement,Sack,sack
+bildelement,Bildelement,Blumenkohl,cauliflower
+bildelement,Bildelement,Holzhaus,wooden house
+bildelement,Bildelement,Porzellan,porcelain
+bildelement,Bildelement,Bembel,bembel (Hessian earthenware jug)
+bildelement,Bildelement,Schüssel,dish
+bildelement,Bildelement,Steingut,earthenware
+bildelement,Bildelement,Teller,plate
+bildelement,Bildelement,Tasse,cup
+bildelement,Bildelement,Marktplatz,Market place

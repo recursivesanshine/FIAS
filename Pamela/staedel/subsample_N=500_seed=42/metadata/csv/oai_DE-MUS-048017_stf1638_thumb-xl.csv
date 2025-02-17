@@ -1,0 +1,43 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Architektur,architecture
+motiv,Motiv,Ruine,ruin
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Kaiserpfalz Gelnhausen (Gelnhausen),Kaiserpfalz Gelnhausen (Gelnhausen)
+motiv,Motiv,Gelnhausen,Gelnhausen
+motiv,Motiv,Deutschland,Germany
+bildelement,Bildelement,Gelnhausen,Gelnhausen
+bildelement,Bildelement,Kaiserpfalz Gelnhausen (Gelnhausen),Kaiserpfalz Gelnhausen (Gelnhausen)
+bildelement,Bildelement,Deutschland,Germany
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Dach,roof
+bildelement,Bildelement,Dachziegel,roof tile
+bildelement,Bildelement,Ruine,ruin
+bildelement,Bildelement,Mauer,mural
+bildelement,Bildelement,Mauerstein,building brick
+bildelement,Bildelement,Kamin,"chimney, fireplace"
+bildelement,Bildelement,Ornament,ornament
+bildelement,Bildelement,Dekoration,decoration
+bildelement,Bildelement,Pfeiler,pillar
+bildelement,Bildelement,Kapitell,capital (architecture)
+bildelement,Bildelement,Gebüsch,shrubs
+bildelement,Bildelement,Gang (Architektur),corridor (architecture)
+bildelement,Bildelement,Nische,niche
+bildelement,Bildelement,Gras,grass
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Sonnenschein,sunshine
+bildelement,Bildelement,Relief,relief
+assoziation,Assoziation,Dokument,document
+assoziation,Assoziation,Dokumentation,documentation
+assoziation,Assoziation,Architekturdetail,architectural detail
+assoziation,Assoziation,Momentaufnahme,snapshot in time
+assoziation,Assoziation,Bildausschnitt,image detail
+assoziation,Assoziation,Geschichte,history
+assoziation,Assoziation,Erinnerung,remembrance
+atmosphäre,Atmosphäre,Ruhe,calm
+atmosphäre,Atmosphäre,Harmonie,harmony
+atmosphäre,Atmosphäre,Frische,freshness
+atmosphäre,Atmosphäre,Leichtigkeit,ease
+emotion,Emotion,ausgeglichen,even-tempered
+emotion,Emotion,beruhigend,"soothing, calming"
+emotion,Emotion,neugierig,curious
