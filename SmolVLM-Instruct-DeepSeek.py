@@ -37,7 +37,7 @@ def process_image(image_path):
     image_filename = os.path.splitext(os.path.basename(image_path))[0]
 
     # Create input messages
-    user_prompt = "Give an objective description of the image"
+    user_prompt = "Give an objective description of the image."
     messages = [
         {
             "role": "user",
