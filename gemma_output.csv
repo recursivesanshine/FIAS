@@ -1,4 +1,4 @@
-Description
+Description,summary
 "User:<image>Give a detailed description of the image.
 Assistant: The image depicts a portrait of a woman, likely painted in the 17th or 18th century, given the style and details of the painting. The woman is seated in a chair, facing the viewer with a serene expression on her face. She is dressed in a dark, possibly black, gown with intricate white lace detailing around the neckline and sleeves. The gown is adorned with various accessories, including a white ruffled collar and a white lace-edged cuffs. Her hair is pulled back into a bun, and she is wearing a white cap or headscarf that covers her hairline.
 
@@ -8,4 +8,5 @@ The painting style is characterized by meticulous detail and attention to realis
 
 The overall impression of the portrait is one of beauty, elegance, and timelessness, reflecting the high regard for art and beauty during the Renaissance and Baroque periods. The woman's serene expression and the careful attention to detail in the painting suggest that she was a respected and valued individual in her society.
 
-In summary, the image depicts a portrait of a woman, likely from the 17th or 18th century, dressed in a dark gown with intricate white lace detailing, seated in a chair with a serene expression on her face. The background is dark with a gradient from lighter to darker shades, and the woman's posture is relaxed with her hands resting on her lap. The painting style is characterized by meticulous detail and attention to realism, with a focus on beauty, elegance, and timelessness."
+In summary, the image depicts a portrait of a woman, likely from the 17th or 18th century, dressed in a dark gown with intricate white lace detailing, seated in a chair with a serene expression on her face. The background is dark with a gradient from lighter to darker shades, and the woman's posture is relaxed with her hands resting on her lap. The painting style is characterized by meticulous detail and attention to realism, with a focus on beauty, elegance, and timelessness.","Summarize the following text in 125 characters: User:<image>Give a detailed description of the image.
+Assistant: The image de"
