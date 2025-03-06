@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a pencil drawing of a person wearing a hat. The person is smiling and has a cheerful expression. The drawing is done in a realistic style, with attention to detail in the person's features and clothing. The person is wearing a hat with a wide brim and a tall crown. The hat is decorated with a small ornament or badge on the front. The person's hair is short and curly, and they have a small nose and closed eyes. The person is wearing a shirt with a high collar and a long, wide-sleeved jacket. The shirt is white and the jacket is gray. The person is standing in front of a plain background, which is not detailed. The drawing is done in a light, sketchy style, with the lines varying in thickness and darkness.
+
+Output:
+Summary:
+"pencil drawing of a person wearing a hat . person is smiling and has a cheerful expression . drawing is done in a realistic s."
+
+**Keywords for Atmosphere:**
+curly, detailed, high, key, long, plain, realistic, short, sketchy, small, tall, wide
+
+**Keywords for Emotion:**
+cheerful, closed, gray, light, white
+
+**Elements of the Picture:**
+a cheerful expression, a hat, a high collar, a pencil drawing, a person, a plain background, a realistic style, a shirt, a small nose, a small ornament, a tall crown, a wide brim, closed eyes, key words, the drawing, the front, the hat, the image, the jacket, the lines, the motifs, the person, the persons features, the persons hair, the shirt
+
+----------------------------------------

@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a drawing of an old man's face. The drawing is done in a realistic style, with attention to detail. The man's face is wrinkled and has a long, bushy beard. His hair is gray and he has a prominent nose. The background of the drawing is plain, with no other objects or scenery. The drawing is signed by Giotto, and the date is 1672.
+
+Output:
+Summary:
+"the drawing is of an old man's face . give key words to describe the motifs . the background is plain, with no other objects."
+
+**Keywords for Atmosphere:**
+bushy, key, long, old, plain, prominent, realistic
+
+**Keywords for Emotion:**
+gray
+
+**Elements of the Picture:**
+a drawing, a prominent nose, a realistic style, his hair, key words, no other objects, the background, the date, the drawing, the image, the mans face, the motifs
+
+----------------------------------------

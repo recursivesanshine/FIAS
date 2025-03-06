@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a sketch of a landscape. The foreground shows a hill with a few trees. The trees are depicted with a few branches and leaves. The hill is depicted with a few lines to show its elevation. The background shows a few more trees. The trees are depicted with a few branches and leaves. The background is depicted with a few lines to show its elevation.
+
+Output:
+Summary:
+"user:imageDescribe the image with details and give key words to describe the motifs . the foreground shows a hill with a few."
+
+**Keywords for Atmosphere:**
+key
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+a few branches, a few lines, a few trees, a hill, a landscape, a sketch, its elevation, key words, the background, the foreground, the hill, the image, the motifs, the trees
+
+----------------------------------------

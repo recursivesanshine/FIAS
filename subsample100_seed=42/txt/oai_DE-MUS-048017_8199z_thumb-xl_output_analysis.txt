@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a sketch of a person walking in a field. The person is wearing a hat and is walking towards the right side of the image. The field is surrounded by trees. The trees are tall and have a few branches. The ground is covered with grass. The sky is clear.
+
+Output:
+Summary:
+"user:image Describe the image with details and give key words to describe the motifs . image is a sketch of a person walking."
+
+**Keywords for Atmosphere:**
+clear, key, tall
+
+**Keywords for Emotion:**
+right
+
+**Elements of the Picture:**
+a few branches, a field, a hat, a person, a sketch, key words, the field, the ground, the image, the motifs, the person, the right side, the sky, the trees
+
+----------------------------------------

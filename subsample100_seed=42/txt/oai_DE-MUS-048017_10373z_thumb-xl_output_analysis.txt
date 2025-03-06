@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a black and white sketch of a cityscape. The drawing is done in a minimalist style, with simple lines and shapes. The cityscape is composed of a few buildings and trees. The buildings are depicted as simple rectangles with a few details, such as windows and doors. The trees are depicted as simple lines with a few details, such as leaves and branches. The drawing is done in a light, sketchy style, with a few details and a focus on the overall composition. The image is not very detailed, but it captures the essence of the cityscape.
+
+Output:
+Summary:
+"sketch of a cityscape is done in a minimalist style, with simple lines and shapes . buildings and trees are depicted as simpl."
+
+**Keywords for Atmosphere:**
+black, detailed, key, minimalist, overall, simple, sketchy
+
+**Keywords for Emotion:**
+light, white
+
+**Elements of the Picture:**
+a cityscape, a few buildings, a few details, a focus, a minimalist style, key words, simple lines, simple rectangles, the buildings, the cityscape, the drawing, the essence, the image, the motifs, the overall composition, the trees
+
+----------------------------------------

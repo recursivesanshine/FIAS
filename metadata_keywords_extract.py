@@ -55,65 +55,61 @@ def load_and_extract_from_xml(file_path: str) -> Dict[str, List[Tuple[str, str, 
     
     return {}
 
-def save_to_csv(output_file_path: str, data_by_keyword: Dict[str, List[Tuple[str, str, str]]]) -> None:
+def save_combined_to_csv(output_file_path: str, combined_data: Dict[str, List[Tuple[str, str, str]]]) -> None:
     """
-    Save extracted data to a single CSV file, categorized by keyword.
+    Save combined data to a single CSV file, categorized by keyword.
 
     Args:
         output_file_path (str): Path to the output CSV file.
-        data_by_keyword (Dict[str, List[Tuple[str, str, str]]]): Data organized by keyword.
+        combined_data (Dict[str, List[Tuple[str, str, str]]]): Combined data organized by keyword.
     """
     try:
-        if not any(data_by_keyword.values()):  # Skip if there are no matching results
-            logging.info(f"No matching results found. Skipping file: {output_file_path}")
-            return
-
         with open(output_file_path, 'w', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
             writer.writerow(["Keyword", "Concept ID", "German Term", "English Term"])
 
-            for keyword, rows in data_by_keyword.items():
+            for keyword, rows in combined_data.items():
                 for row in rows:
                     writer.writerow([keyword] + list(row))
 
-        logging.info(f"Results saved to {output_file_path}")
+        logging.info(f"Combined results saved to {output_file_path}")
     except Exception as e:
         logging.error(f"Error saving to CSV file: {e}")
 
-def process_xml_file(file_path: str) -> None:
+def process_xml_files(input_path: str) -> None:
     """
-    Process a single XML file to extract data and save to a CSV file.
+    Process all XML files in a directory or a single XML file to extract data and save to a combined CSV file.
 
     Args:
-        file_path (str): Path to the XML file.
+        input_path (str): Path to the XML file or directory containing XML files.
     """
-    # Derive the base name of the XML file (without extension)
-    base_name = os.path.splitext(os.path.basename(file_path))[0]
-    
-    # Define the output CSV file path using the base name
-    output_csv_path = f"{os.path.join(os.path.dirname(file_path), base_name)}.csv"
-    
-    # Load and extract data from the XML file
-    data_by_keyword = load_and_extract_from_xml(file_path)
-    
-    if not any(data_by_keyword.values()):  # Skip if there are no matching results
-        logging.info(f"No matching results found in {file_path}. Skipping.")
+    combined_data = {keyword: [] for keyword in KEYWORDS}
+
+    if os.path.isdir(input_path):
+        # Process all XML files in the specified folder
+        for file_name in os.listdir(input_path):
+            if file_name.endswith('.xml'):
+                file_path = os.path.join(input_path, file_name)
+                data_by_keyword = load_and_extract_from_xml(file_path)
+                for keyword, data in data_by_keyword.items():
+                    combined_data[keyword].extend(data)
+        output_csv_path = os.path.join(input_path, "metadata_keyword_extract_complete.csv")
+    elif os.path.isfile(input_path) and input_path.endswith('.xml'):
+        # Process a single XML file
+        data_by_keyword = load_and_extract_from_xml(input_path)
+        for keyword, data in data_by_keyword.items():
+            combined_data[keyword].extend(data)
+        output_csv_path = os.path.join(os.path.dirname(input_path), "metadata_keyword_extract_complete.csv")
+    else:
+        logging.error("Invalid input path. Please provide a path to a directory or an XML file.")
         return
     
-    # Log processing details for each keyword
-    for keyword in KEYWORDS:
-        logging.info(f"Processing keyword: {keyword} in file: {os.path.basename(file_path)}")
-        concept_ids = [row[0] for row in data_by_keyword[keyword]]
-        terms = [(row[1], row[2]) for row in data_by_keyword[keyword]]
-        
-        if concept_ids and terms:
-            logging.info(f"Concept IDs for '{keyword}': {concept_ids}")
-            logging.info(f"Terms for '{keyword}': {terms}")
-        else:
-            logging.warning(f"No data found for keyword: {keyword} in file: {os.path.basename(file_path)}")
-    
-    # Save combined data into a CSV file named after the XML file
-    save_to_csv(output_csv_path, data_by_keyword)
+    # Remove duplicate entries
+    for keyword in combined_data:
+        combined_data[keyword] = list(set(combined_data[keyword]))
+
+    # Save combined data to a CSV file
+    save_combined_to_csv(output_csv_path, combined_data)
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
@@ -122,14 +118,4 @@ if __name__ == "__main__":
     
     input_path = sys.argv[1]
     
-    if os.path.isdir(input_path):
-        # Process all XML files in the specified folder
-        for file_name in os.listdir(input_path):
-            if file_name.endswith('.xml'):
-                file_path = os.path.join(input_path, file_name)
-                process_xml_file(file_path)
-    elif os.path.isfile(input_path) and input_path.endswith('.xml'):
-        # Process a single XML file
-        process_xml_file(input_path)
-    else:
-        logging.error("Invalid input path. Please provide a path to a directory or an XML file.")
+    process_xml_files(input_path)

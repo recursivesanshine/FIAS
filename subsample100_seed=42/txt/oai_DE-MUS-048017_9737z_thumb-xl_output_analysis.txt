@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a drawing of a house and trees. The drawing is done in pencil and is on a white background. The drawing is labeled as "2." and is dated "10 Juli 1857."
+
+Output:
+Summary:
+"user:imageDescribe the image with details and give key words to describe the motifs . the drawing is done in pencil and is on."
+
+**Keywords for Atmosphere:**
+key
+
+**Keywords for Emotion:**
+white
+
+**Elements of the Picture:**
+10 juli, a drawing, a house, a white background, key words, the drawing, the image, the motifs
+
+----------------------------------------

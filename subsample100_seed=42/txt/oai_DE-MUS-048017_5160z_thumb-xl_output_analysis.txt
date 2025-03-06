@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a pencil drawing of a mosque. The mosque is depicted with a large dome and a tall minaret. The dome is round and has a pointed top. The minaret is tall and has a square base. The mosque is surrounded by trees and there is a cemetery in front of it. The drawing is done in a realistic style and the artist has used shading to create depth and texture.
+
+Output:
+Summary:
+"the image is a pencil drawing of a mosque . the mosque is depicted with a large dome and a tall minaret . give key words to d."
+
+**Keywords for Atmosphere:**
+key, large, pointed, realistic, round, square, tall
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+a cemetery, a large dome, a mosque, a pencil drawing, a pointed top, a realistic style, a square base, a tall minaret, key words, the artist, the dome, the drawing, the image, the minaret, the mosque, the motifs
+
+----------------------------------------

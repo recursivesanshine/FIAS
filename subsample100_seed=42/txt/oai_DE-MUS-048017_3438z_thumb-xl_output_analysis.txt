@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a pencil drawing of a woman kneeling on the ground. The woman is wearing a long dress and a headscarf. She is looking down at her hands, which are holding a small object. The background is a simple landscape with trees and hills. The drawing is done in a realistic style, with fine lines and shading to create depth and texture.
+
+Output:
+Summary:
+"the image is a pencil drawing of a woman kneeling on the ground . the woman is wearing a long dress and a headscarf . give ke."
+
+**Keywords for Atmosphere:**
+fine, key, long, realistic, simple, small
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+a headscarf, a long dress, a pencil drawing, a realistic style, a simple landscape, a small object, a woman, fine lines, her hands, key words, the background, the drawing, the ground, the image, the motifs, the woman
+
+----------------------------------------

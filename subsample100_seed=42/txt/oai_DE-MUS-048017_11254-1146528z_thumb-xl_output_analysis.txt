@@ -1,0 +1,28 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image depicts three handwritten sketches arranged vertically on a beige-colored background. The sketches are all in black ink and appear to be drawn with a pen or pencil. The top sketch is the largest and features a detailed drawing of a tree with a large, thick trunk and a few branches extending upwards. The tree is positioned in the center of the sketch, and its branches are spread out in a wide, fan-like shape. The tree has a few leaves, which are depicted as small, simple shapes. The top sketch also includes some text written in cursive handwriting, which is partially obscured but appears to be a date or a name.
+
+The middle sketch is slightly smaller than the top one and features a more abstract drawing of a tree. The tree is depicted with a few simple lines and shapes, and it is oriented in a vertical direction. The tree has a few branches extending upwards, but they are not as detailed as those in the top sketch. The middle sketch also includes some text written in cursive handwriting, which is partially obscured but appears to be a date or a name.
+
+The bottom sketch is the smallest and features a simple drawing of a tree. The tree is depicted with a few simple lines and shapes, and it is oriented in a vertical direction. The tree has a few branches extending upwards, but they are not as detailed as those in the top and middle sketches. The bottom sketch also includes some text written in cursive handwriting, which is partially obscured but appears to be a date or a name.
+
+The overall style of the sketches is simple and minimalistic, with a focus on linework and basic shapes. The sketches are arranged in a vertical format, with the top sketch being the largest and the bottom sketch being the smallest. The sketches are all drawn in black ink, and the background is a beige color, which provides a neutral contrast to the black ink.
+
+The text in the sketches is written in cursive handwriting and appears to be a date or a name. The handwriting is neat and legible, and it is consistent throughout all three sketches. The text is written in a sans-serif font, which is a common choice for handwritten notes.
+
+The overall aesthetic of the image is clean and simple, with a focus on the linework and basic shapes of the sketches. The sketches are well-executed and appear to be drawn with precision. The use of a neutral background helps to make the sketches stand out
+
+Output:
+Summary:
+"image depicts three handwritten sketches arranged vertically on a beige-colored background . the sketches are all in black in."
+
+**Keywords for Atmosphere:**
+abstract, basic, beige, black, clean, common, consistent, cursive, detailed, handwritten, key, large, legible, middle, minimalistic, neat, neutral, overall, simple, small, thick, vertical, wide
+
+**Keywords for Emotion:**
+like
+
+**Elements of the Picture:**
+a beige color, a beigecolored background, a common choice, a date, a detailed drawing, a few branches, a few leaves, a focus, a name, a neutral background, a neutral contrast, a pen, a sansserif font, a simple drawing, a tree, a vertical direction, a vertical format, all three sketches, basic shapes, black ink, cursive handwriting, handwritten notes, its branches, key words, small simple shapes, some text, the background, the black ink, the bottom sketch, the center, the handwriting, the image, the linework, the middle sketch, the motifs, the overall aesthetic, the overall style, the sketch, the sketches, the text, the top one, the top sketch, the tree, the use, three handwritten sketches
+
+----------------------------------------

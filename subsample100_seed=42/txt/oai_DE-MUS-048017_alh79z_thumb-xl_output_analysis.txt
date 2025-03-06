@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a drawing of a woman sitting on a chair. The woman is depicted with a serious expression on her face. She is wearing a dress with a collar and a skirt. The dress has a pleated skirt. The woman is sitting on a chair with a high back and armrests. The chair is made of wood and has a simple design. The woman is sitting in a relaxed position with her hands resting on the chair. The background is a solid color, which is a light brown. The drawing is done in a minimalist style, with simple lines and shapes. The artist has used a limited number of colors, primarily black and white. The drawing is not very detailed, but it captures the essence of the woman's figure and her relaxed posture.
+
+Output:
+Summary:
+"a drawing of a woman sitting on a chair captures the essence of the woman's figure . the drawing is done in a minimalist styl."
+
+**Keywords for Atmosphere:**
+black, detailed, high, key, limited, minimalist, simple, solid
+
+**Keywords for Emotion:**
+light, pleated, relaxed, white
+
+**Elements of the Picture:**
+a chair, a collar, a drawing, a dress, a high back, a light brown, a limited number, a minimalist style, a pleated skirt, a relaxed position, a serious expression, a simple design, a skirt, a solid color, a woman, her face, her hands, her relaxed posture, key words, simple lines, the artist, the background, the chair, the drawing, the dress, the essence, the image, the motifs, the woman, the womans figure
+
+----------------------------------------

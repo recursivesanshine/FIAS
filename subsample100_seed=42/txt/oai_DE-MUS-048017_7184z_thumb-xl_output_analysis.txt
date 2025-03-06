@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a drawing of two people, one of whom is lying down. The person lying down is being held by the other person. The person holding the other person is wearing a helmet.
+
+Output:
+Summary:
+"Describe the image with details and give key words to describe the motifs . the image is a drawing of two people, one of whom."
+
+**Keywords for Atmosphere:**
+key
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+a drawing, a helmet, key words, the image, the motifs, the other person, the person, two people
+
+----------------------------------------

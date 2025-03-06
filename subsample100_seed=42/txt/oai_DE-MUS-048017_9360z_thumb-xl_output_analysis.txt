@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image depicts a simple drawing of a house and a tree. The drawing is done in a minimalist style, with a few lines capturing the essence of the scene. The house is positioned in the center of the image, with a door and a window visible. The door is arched and the window is rectangular. The house is surrounded by a few trees, which are depicted with simple lines. The trees are positioned in the background, adding depth to the image. The ground is depicted with a few lines, suggesting grass or a similar surface. The overall composition is simple and uncluttered, focusing on the main elements of the house and the trees. The drawing is done in a light, sketchy style, with a few details that add to the overall impression of the scene.
+
+Output:
+Summary:
+"image depicts a simple drawing of a house and a tree . the drawing is done in a minimalist style . give key words to describe."
+
+**Keywords for Atmosphere:**
+key, main, minimalist, overall, rectangular, similar, simple, sketchy, uncluttered
+
+**Keywords for Emotion:**
+light
+
+**Elements of the Picture:**
+a door, a few details, a few lines, a few trees, a house, a minimalist style, a similar surface, a simple drawing, a tree, a window, key words, simple lines, the background, the center, the door, the drawing, the essence, the ground, the house, the image, the main elements, the motifs, the overall composition, the overall impression, the scene, the trees, the window
+
+----------------------------------------

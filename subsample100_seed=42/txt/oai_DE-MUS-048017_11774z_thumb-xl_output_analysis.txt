@@ -1,0 +1,18 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a black and white drawing of a landscape. The drawing is done in a realistic style, with fine lines and shading to create depth and texture. The foreground of the drawing is dominated by a large, rocky outcrop, which is covered in a variety of vegetation, including grass, shrubs, and small trees. The outcrop is situated in a valley, with a river running through it. The river is depicted as a thin line, with a few small waves visible. The background of the drawing is dominated by a forest, with tall, straight trees. The trees are depicted in a simple, stylized manner, with a few branches visible. The sky is depicted as a simple, flat area, with no clouds or other details. The drawing is signed by the artist, "Konigsberg 6. Dez. 1824," which is likely the date and location of the drawing.
+
+Output:
+Summary:
+"the drawing is done in a realistic style, with fine lines and shading . the foreground is dominated by a large, rocky outcrop."
+
+**Keywords for Atmosphere:**
+black, fine, flat, key, large, outcrop, realistic, rocky, simple, small, straight, tall, thin, visible
+
+**Keywords for Emotion:**
+likely, white
+
+**Elements of the Picture:**
+a few branches, a forest, a landscape, a realistic style, a river, a thin line, a valley, a variety, fine lines, key words, no clouds, other details, small trees, tall straight trees, the artist, the background, the date, the drawing, the foreground, the image, the motifs, the outcrop, the river, the sky, the trees
+
+----------------------------------------
