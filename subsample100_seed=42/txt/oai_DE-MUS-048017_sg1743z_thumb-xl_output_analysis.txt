@@ -33,6 +33,6 @@ active, adventurous, calm, common, cultural, detailed, handwritten, historical, 
 intricate, personal, right
 
 **Elements of the Picture:**
-a boat, a common mode, a detailed description, a few barrels, a focus, a handwritten signature, a journey, a large barrel, a moment, a pencil drawing, a personal touch, a rocky coastline, a scene, a serene environment, a smaller barrel, a time, a traditional style, analysis, conclusion, key words, other items, possibly tools, several individuals, several objects, several people, small waves, the background, the boat, the drawing, the essence, the handwritten signature, the image, the individuals, the journey, the motifs, the people, the right side, the scene, the setting, the traditional clothing, the water, this signature, traditional clothing, various activities
+analysis, background, boat, common mode, conclusion, detailed description, drawing, essence, few barrels, focus, handwritten signature, image, individuals, journey, key words, large barrel, moment, motifs, other items, pencil drawing, people, personal touch, possibly tools, right side, rocky coastline, scene, serene environment, setting, several individuals, several objects, several people, small waves, smaller barrel, this signature, time, traditional clothing, traditional style, various activities, water
 
 ----------------------------------------

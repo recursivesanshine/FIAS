@@ -1,0 +1,12324 @@
+Cross Encoded Summary
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_5160z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+-- Query: large --
+
+-- Query: pointed --
+
+-- Query: realistic --
+
+-- Query: round --
+
+-- Query: square --
+
+-- Query: tall --
+0.58	heaviness
+
+
+== Keywords for Emotion ==
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: cemetery --
+
+-- Query: dome --
+0.50	Rome
+
+-- Query: drawing --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: large dome --
+0.68	Rome
+
+-- Query: minaret --
+
+-- Query: mosque --
+
+-- Query: motifs --
+
+-- Query: pencil drawing --
+
+-- Query: pointed top --
+0.51	edging
+
+-- Query: realistic style --
+
+-- Query: square base --
+
+-- Query: tall minaret --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1227_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: bygone --
+
+-- Query: central --
+
+-- Query: cloudy --
+
+-- Query: common --
+
+-- Query: daily --
+
+-- Query: dark --
+
+-- Query: detailed --
+
+-- Query: everyday --
+
+-- Query: historical --
+
+-- Query: integral --
+
+-- Query: key --
+
+-- Query: lively --
+
+-- Query: modest --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: rustic --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: thatched --
+
+-- Query: traditional --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: blue --
+
+-- Query: charming --
+
+-- Query: joyful --
+0.97	joyful
+
+-- Query: light --
+0.53	carefree
+
+-- Query: overall --
+
+-- Query: pink --
+
+-- Query: red --
+
+-- Query: right --
+
+-- Query: rural --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: 17th century --
+
+-- Query: background --
+0.85	background
+
+-- Query: blue shirt --
+0.60	shirt
+
+-- Query: bygone era --
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: central focus --
+
+-- Query: chimney --
+0.98	chimney
+0.73	chimney, fireplace
+
+-- Query: connection --
+
+-- Query: daily life --
+
+-- Query: dancers --
+0.68	dancing couple
+0.65	dance
+
+-- Query: dancing --
+0.77	dancing couple
+0.77	dance
+0.60	man dancing
+0.56	woman dancing
+
+-- Query: essence --
+
+-- Query: everyday activities --
+
+-- Query: faces --
+
+-- Query: five individuals --
+0.52	group of people
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: group --
+0.68	group of people
+
+-- Query: house --
+0.88	house
+0.74	farmhouse
+
+-- Query: image --
+
+-- Query: its rustic charm --
+
+-- Query: joyful expressions --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: lively atmosphere --
+
+-- Query: lively dance --
+0.66	dance
+0.54	man dancing
+0.52	dancing couple
+0.51	woman dancing
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: medium --
+
+-- Query: mix --
+
+-- Query: modest house --
+0.66	house
+
+-- Query: motifs --
+
+-- Query: oil paints --
+
+-- Query: others --
+
+-- Query: overall ambiance --
+
+-- Query: overall mood --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: pink dress --
+0.58	dress
+
+-- Query: red hat --
+0.58	hat
+0.57	close-fitting cap
+
+-- Query: right --
+
+-- Query: roof --
+0.95	roof
+0.74	roof tile
+
+-- Query: rural area --
+
+-- Query: rural life --
+
+-- Query: rural scene --
+
+-- Query: scene --
+
+-- Query: semi --
+
+-- Query: setting --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small chimney --
+0.92	chimney
+0.91	chimney, fireplace
+
+-- Query: such activities --
+
+-- Query: such historical artworks --
+
+-- Query: thatched roof --
+0.75	straw roof
+
+-- Query: traditional attire --
+
+-- Query: use --
+
+-- Query: white apron --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+-- Query: womans hand --
+0.68	hand gesture
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg141z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: detailed --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: main --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: simple --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: uncluttered --
+
+
+== Keywords for Emotion ==
+-- Query: rural --
+
+
+== Elements of the Picture ==
+-- Query: center --
+0.60	middle ground
+
+-- Query: church --
+0.66	church tower
+
+-- Query: clouds --
+0.82	cloud
+
+-- Query: drawing --
+
+-- Query: fine lines --
+
+-- Query: grass --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: main focus --
+
+-- Query: motifs --
+
+-- Query: other buildings --
+
+-- Query: other vegetation --
+
+-- Query: overall composition --
+
+-- Query: pencil drawing --
+
+-- Query: realistic style --
+
+-- Query: rural scene --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: tall steeple --
+0.53	belt buckle
+
+-- Query: their shape --
+
+-- Query: trees --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9300z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: arched --
+
+-- Query: architectural --
+
+-- Query: common --
+
+-- Query: conical --
+
+-- Query: detailed --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: lookout --
+
+-- Query: main --
+
+-- Query: medieval --
+
+-- Query: neutral --
+
+-- Query: pointed --
+
+-- Query: realistic --
+
+-- Query: rectangular --
+
+-- Query: small --
+
+-- Query: sturdy --
+
+-- Query: typical --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: dimensional --
+
+-- Query: likely --
+
+-- Query: peaked --
+
+
+== Elements of the Picture ==
+-- Query: 15 aug matthiessen --
+
+-- Query: architectural details --
+0.74	archway
+
+-- Query: artist --
+
+-- Query: building --
+0.79	building
+
+-- Query: common feature --
+
+-- Query: conical roof --
+0.53	straw roof
+
+-- Query: details --
+
+-- Query: doorway --
+0.71	wooden door
+
+-- Query: drawing --
+
+-- Query: entrance --
+
+-- Query: essence --
+
+-- Query: few branches --
+
+-- Query: fine lines --
+
+-- Query: harmonious composition --
+
+-- Query: historical building --
+
+-- Query: image --
+
+-- Query: its architectural features --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: likely a castle --
+
+-- Query: location --
+
+-- Query: main focus --
+
+-- Query: medieval architecture --
+
+-- Query: motifs --
+
+-- Query: neutral background --
+0.62	background
+
+-- Query: peaked roof --
+0.55	straw roof
+
+-- Query: pencil drawing --
+
+-- Query: pointed arch --
+0.74	archway
+
+-- Query: realistic style --
+
+-- Query: rectangular tower --
+
+-- Query: roof --
+0.95	roof
+0.74	roof tile
+
+-- Query: scene --
+
+-- Query: series --
+
+-- Query: shadows --
+0.61	meadow
+
+-- Query: small window --
+0.85	window
+
+-- Query: structure --
+0.50	straw roof
+
+-- Query: sturdy appearance --
+
+-- Query: threedimensional appearance --
+
+-- Query: top --
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: tower --
+0.64	church tower
+
+-- Query: tree --
+0.94	tree
+
+-- Query: visible stonework --
+
+-- Query: walls --
+
+-- Query: way --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_14978z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: common --
+
+-- Query: connected --
+
+-- Query: daytime --
+
+-- Query: detailed --
+
+-- Query: essential --
+
+-- Query: everyday --
+
+-- Query: historical --
+
+-- Query: immediate --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: long --
+
+-- Query: main --
+
+-- Query: manual --
+
+-- Query: natural --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: traditional --
+
+
+== Keywords for Emotion ==
+-- Query: rural --
+
+-- Query: single --
+0.72	carefree
+
+
+== Elements of the Picture ==
+-- Query: 2 characteristics --
+
+-- Query: 4 objects --
+
+-- Query: 5 analysis --
+
+-- Query: background --
+0.85	background
+
+-- Query: basket --
+0.98	basket
+
+-- Query: cart --
+0.65	cartwheel ruff
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: children --
+
+-- Query: childrens clothing --
+
+-- Query: common style --
+
+-- Query: community --
+
+-- Query: detailed background --
+0.71	background
+
+-- Query: detailed description --
+
+-- Query: drawing --
+
+-- Query: essential elements --
+
+-- Query: everyday life --
+
+-- Query: family --
+
+-- Query: few trees --
+0.63	tree
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: four children --
+
+-- Query: handle --
+
+-- Query: her hair --
+
+-- Query: her head --
+
+-- Query: historical illustration --
+
+-- Query: image --
+
+-- Query: immediate surroundings --
+
+-- Query: kerchief --
+
+-- Query: key words --
+
+-- Query: lack --
+
+-- Query: large amount --
+
+-- Query: line drawing --
+
+-- Query: long dress --
+0.66	dress
+
+-- Query: long dresses --
+0.51	dress
+
+-- Query: main elements --
+
+-- Query: main figure --
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: natural backdrop --
+
+-- Query: possibly some flowers --
+
+-- Query: presence --
+
+-- Query: rural aesthetic --
+
+-- Query: rural scene --
+
+-- Query: rural setting --
+
+-- Query: sack --
+
+-- Query: scene --
+
+-- Query: simple cart --
+0.54	cartwheel ruff
+
+-- Query: simple landscape --
+
+-- Query: single wheel --
+0.59	cartwheel ruff
+
+-- Query: sky --
+0.87	sky
+
+-- Query: time --
+
+-- Query: traditional dress --
+0.67	dress
+
+-- Query: traditional folk art --
+
+-- Query: traditional outfit --
+
+-- Query: traditional style --
+
+-- Query: various items --
+
+-- Query: vegetation --
+
+-- Query: viewer --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9737z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+
+== Keywords for Emotion ==
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: 10 juli --
+
+-- Query: drawing --
+
+-- Query: house --
+0.88	house
+0.74	farmhouse
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: white background --
+0.59	background
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2306z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: aesthetic --
+
+-- Query: central --
+
+-- Query: deciduous --
+
+-- Query: detailed --
+
+-- Query: diffused --
+
+-- Query: early --
+
+-- Query: earthy --
+
+-- Query: essential --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: historical --
+
+-- Query: horizontal --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: late --
+
+-- Query: natural --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: realistic --
+
+-- Query: rustic --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: soft --
+
+-- Query: sturdy --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: thick --
+
+-- Query: traditional --
+
+-- Query: visible --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: european --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: likely --
+
+-- Query: lush --
+
+-- Query: proud --
+
+-- Query: relevant --
+
+-- Query: rural --
+
+-- Query: tranquil --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: background --
+0.85	background
+
+-- Query: central focus --
+
+-- Query: colors --
+
+-- Query: deciduous tree --
+0.65	tree
+
+-- Query: deciduous trees --
+0.63	tree
+
+-- Query: early autumn --
+
+-- Query: either early morning --
+
+-- Query: environment --
+
+-- Query: essential elements --
+
+-- Query: fall --
+
+-- Query: fence --
+
+-- Query: fine detailed brushstrokes --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: full bloom --
+
+-- Query: gabled roof --
+0.58	straw roof
+
+-- Query: grass --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: historical charm --
+
+-- Query: horizontal boards --
+
+-- Query: house --
+0.88	house
+0.74	farmhouse
+
+-- Query: image --
+
+-- Query: its full canopy --
+
+-- Query: its leaves --
+
+-- Query: its trunk --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: large tree --
+0.76	tree
+
+-- Query: late afternoon --
+
+-- Query: late summer --
+
+-- Query: light --
+0.76	light
+0.70	light reflection
+0.69	incident light
+0.68	reflection (light)
+
+-- Query: light tone --
+0.61	light
+0.56	light reflection
+0.55	reflection (light)
+0.54	incident light
+
+-- Query: many landscapes --
+
+-- Query: motifs --
+
+-- Query: natural beauty --
+
+-- Query: natural elements --
+
+-- Query: overall atmosphere --
+
+-- Query: realistic style --
+
+-- Query: relevant knowledge --
+
+-- Query: rural landscape --
+
+-- Query: rustic charm --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: serene landscape --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small bushes --
+
+-- Query: sturdy trunk --
+
+-- Query: surrounding environment --
+
+-- Query: symbolizing strength --
+
+-- Query: textures --
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: tree --
+0.94	tree
+
+-- Query: wooden posts --
+0.63	wood cladding
+0.58	wooden door
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8928-910694z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: clean --
+0.66	freshness
+
+-- Query: decorative --
+
+-- Query: detailed --
+
+-- Query: different --
+
+-- Query: easy --
+
+-- Query: essential --
+
+-- Query: key --
+
+-- Query: minimal --
+
+-- Query: minimalist --
+
+-- Query: overall --
+
+-- Query: second --
+
+-- Query: similar --
+
+-- Query: simple --
+
+-- Query: uncluttered --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+-- Query: subject --
+
+
+== Elements of the Picture ==
+-- Query: architectural element --
+0.76	archway
+
+-- Query: base --
+
+-- Query: building --
+0.79	building
+
+-- Query: column --
+
+-- Query: decorative element --
+
+-- Query: detailed drawing --
+
+-- Query: different drawing --
+
+-- Query: dr phil --
+
+-- Query: dr prof dr --
+
+-- Query: drawing --
+
+-- Query: drawings --
+
+-- Query: easy identification --
+
+-- Query: essential features --
+
+-- Query: first sheet --
+
+-- Query: focus --
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: key words --
+
+-- Query: minimal shading --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: overall composition --
+
+-- Query: possibly a capital --
+
+-- Query: roof --
+0.95	roof
+0.74	roof tile
+
+-- Query: second sheet --
+
+-- Query: similar level --
+
+-- Query: simple lines --
+
+-- Query: sketch --
+
+-- Query: structure --
+0.50	straw roof
+
+-- Query: subject --
+
+-- Query: subject matter --
+
+-- Query: surrounding environment --
+
+-- Query: text --
+
+-- Query: third sheet --
+0.69	three-quarter profile
+
+-- Query: three sheets --
+0.57	three-quarter profile
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11030z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: arched --
+
+-- Query: architectural --
+
+-- Query: basic --
+
+-- Query: clean --
+0.66	freshness
+
+-- Query: clear --
+
+-- Query: handwritten --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: minimal --
+
+-- Query: minimalist --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: precise --
+
+-- Query: rectangular --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: slight --
+
+-- Query: small --
+
+-- Query: solid --
+
+-- Query: stylized --
+
+-- Query: uncluttered --
+
+-- Query: wild --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+-- Query: right --
+
+-- Query: rounded --
+
+
+== Elements of the Picture ==
+-- Query: another room --
+
+-- Query: architectural details --
+0.74	archway
+
+-- Query: basic shapes --
+
+-- Query: building --
+0.79	building
+
+-- Query: castle --
+
+-- Query: contrast --
+
+-- Query: date --
+
+-- Query: doorway --
+0.71	wooden door
+
+-- Query: drawing --
+
+-- Query: entrance --
+
+-- Query: essence --
+
+-- Query: focus --
+
+-- Query: form --
+
+-- Query: forts entrance --
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: key words --
+
+-- Query: likely a castle --
+
+-- Query: lines --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: outline --
+
+-- Query: overall effect --
+
+-- Query: pencil drawing --
+
+-- Query: piet hein --
+
+-- Query: plants --
+
+-- Query: rounded top --
+
+-- Query: scene --
+
+-- Query: shading --
+
+-- Query: signature --
+
+-- Query: simple rounded shapes --
+
+-- Query: slight arch --
+0.70	archway
+0.51	light
+
+-- Query: some plants --
+
+-- Query: stone wall --
+
+-- Query: structure --
+0.50	straw roof
+
+-- Query: stylized font --
+
+-- Query: top --
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: two rectangular windows --
+0.61	window
+
+-- Query: window --
+0.93	window
+
+-- Query: windows --
+0.93	window
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8668z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: cursive --
+
+-- Query: dense --
+
+-- Query: detailed --
+
+-- Query: good --
+
+-- Query: key --
+
+-- Query: minimalist --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: soft --
+
+-- Query: thin --
+
+-- Query: uncluttered --
+
+
+== Keywords for Emotion ==
+-- Query: beautiful --
+0.54	carefree
+
+-- Query: delicate --
+
+-- Query: evocative --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: artists ability --
+
+-- Query: artists signature --
+
+-- Query: artists skill --
+
+-- Query: background --
+0.85	background
+
+-- Query: date --
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: few leaves --
+
+-- Query: forest --
+
+-- Query: forest scene --
+
+-- Query: good example --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: lightcolored paper --
+
+-- Query: lines --
+
+-- Query: minimalist approach --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: natural scene --
+
+-- Query: outline --
+
+-- Query: overall composition --
+
+-- Query: pencil drawing --
+
+-- Query: sense --
+
+-- Query: simple lines --
+
+-- Query: testament --
+
+-- Query: their branches --
+
+-- Query: thin delicate lines --
+
+-- Query: this date --
+
+-- Query: trees --
+
+-- Query: use --
+
+-- Query: viewer --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_bib2472i35a_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: architectural --
+
+-- Query: basic --
+
+-- Query: key --
+
+-- Query: plain --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+
+== Keywords for Emotion ==
+-- Query: likely --
+
+
+== Elements of the Picture ==
+-- Query: arch --
+0.75	archway
+
+-- Query: architectural elements --
+0.77	archway
+
+-- Query: background --
+0.85	background
+
+-- Query: basic shapes --
+
+-- Query: column --
+
+-- Query: drawing --
+
+-- Query: identification code --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: no additional details --
+
+-- Query: numbers --
+
+-- Query: section --
+
+-- Query: sequence --
+
+-- Query: wall --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8600z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: detailed --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: lifelike --
+
+-- Query: low --
+
+-- Query: medieval --
+
+-- Query: realistic --
+
+-- Query: rectangular --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: typical --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: grand --
+
+-- Query: likely --
+
+-- Query: right --
+
+-- Query: rural --
+
+-- Query: semi --
+
+-- Query: valuable --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: artwork --
+
+-- Query: building --
+0.79	building
+
+-- Query: details --
+
+-- Query: doors --
+0.64	wooden door
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: fine lines --
+
+-- Query: glimpse --
+
+-- Query: hill --
+
+-- Query: historical documentation --
+
+-- Query: historical representation --
+
+-- Query: image --
+
+-- Query: its architectural style --
+
+-- Query: key words --
+
+-- Query: level surface --
+
+-- Query: low wall --
+
+-- Query: many historical buildings --
+
+-- Query: medieval architecture --
+
+-- Query: medieval building --
+0.50	building
+
+-- Query: motifs --
+
+-- Query: name --
+
+-- Query: past --
+
+-- Query: pencil drawing --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: presence --
+
+-- Query: raised area --
+
+-- Query: realistic style --
+
+-- Query: several windows --
+0.76	window
+0.54	leaded glass
+
+-- Query: signature --
+
+-- Query: simple design --
+
+-- Query: small panes --
+
+-- Query: some trees --
+0.83	tree
+
+-- Query: structure --
+0.50	straw roof
+
+-- Query: surrounding area --
+
+-- Query: this embankment --
+
+-- Query: time --
+
+-- Query: valuable piece --
+
+-- Query: walls --
+
+-- Query: windows --
+0.93	window
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg537z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: detailed --
+
+-- Query: key --
+
+-- Query: loose --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: present --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+
+== Keywords for Emotion ==
+
+== Elements of the Picture ==
+-- Query: animals --
+
+-- Query: background --
+0.85	background
+
+-- Query: details --
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: group --
+0.68	group of people
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: loose lines --
+
+-- Query: motifs --
+
+-- Query: overall composition --
+
+-- Query: pencil drawing --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: scene --
+
+-- Query: sketchy style --
+
+-- Query: some standing --
+0.57	group of people
+0.54	standing woman (standing people)
+0.51	standing man
+
+-- Query: various poses --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_7335z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: black --
+
+-- Query: bulbous --
+
+-- Query: cartoonish --
+
+-- Query: cursive --
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: humorous --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: left --
+
+-- Query: open --
+
+-- Query: overall --
+
+-- Query: plain --
+
+-- Query: simple --
+
+-- Query: straightforward --
+
+-- Query: traditional --
+
+-- Query: upright --
+
+
+== Keywords for Emotion ==
+-- Query: exaggerated --
+
+-- Query: hearted --
+
+-- Query: ornate --
+
+-- Query: right --
+
+-- Query: thoughtful --
+0.98	thoughtful
+
+-- Query: whimsical --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: black ink --
+
+-- Query: book --
+
+-- Query: conversation --
+
+-- Query: cursive script --
+
+-- Query: exaggerated features --
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: focus --
+
+-- Query: high collar --
+0.68	stand-up collar
+0.59	necklace
+
+-- Query: his face --
+
+-- Query: his lap --
+
+-- Query: his left hand --
+0.63	hand gesture
+
+-- Query: his right hand --
+0.70	hand gesture
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: lighthearted tone --
+0.63	light
+0.57	light reflection
+0.55	reflection (light)
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: men --
+0.58	man
+
+-- Query: middle --
+0.83	middle ground
+
+-- Query: motifs --
+
+-- Query: mustache --
+
+-- Query: no additional details --
+
+-- Query: outlines --
+
+-- Query: overall composition --
+
+-- Query: overall style --
+
+-- Query: right --
+
+-- Query: schitzy girl --
+
+-- Query: schitzy gutlaus --
+
+-- Query: sketch --
+
+-- Query: suit --
+0.83	suit
+0.57	suit of armour
+
+-- Query: text --
+
+-- Query: their clothing --
+
+-- Query: their expressions --
+
+-- Query: their interactions --
+0.55	group of people
+
+-- Query: these words --
+
+-- Query: thoughtful expression --
+
+-- Query: top --
+
+-- Query: two men --
+
+-- Query: wideopen mouth --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2432z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: clear --
+
+-- Query: detailed --
+
+-- Query: easy --
+
+-- Query: herbivorous --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: long --
+
+-- Query: muscular --
+
+-- Query: natural --
+
+-- Query: notable --
+
+-- Query: plain --
+
+-- Query: pointed --
+
+-- Query: prominent --
+
+-- Query: realistic --
+
+-- Query: round --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: small --
+
+-- Query: social --
+
+-- Query: sturdy --
+
+-- Query: thick --
+
+-- Query: typical --
+
+-- Query: upright --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: grassy --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: like --
+
+-- Query: particular --
+
+-- Query: relevant --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: any particular hurry --
+
+-- Query: back --
+0.79	figure seen from the back
+0.56	back of a chair
+
+-- Query: background --
+0.85	background
+
+-- Query: clear view --
+
+-- Query: conclusion --
+
+-- Query: cow --
+
+-- Query: cows body --
+
+-- Query: cows ears --
+
+-- Query: cows eyes --
+
+-- Query: cows head --
+
+-- Query: cows legs --
+
+-- Query: cows maneuverability --
+0.55	lace cuff
+
+-- Query: cows position --
+
+-- Query: cows posture --
+0.59	lace cuff
+
+-- Query: cows tail --
+
+-- Query: detailed description --
+
+-- Query: drawing --
+
+-- Query: farm fields --
+0.53	farmhouse
+
+-- Query: few lines --
+
+-- Query: focus --
+
+-- Query: fur ears --
+
+-- Query: grassy surface --
+
+-- Query: image --
+
+-- Query: its face --
+
+-- Query: its features --
+
+-- Query: key words --
+
+-- Query: large herbivorous mammals --
+
+-- Query: left --
+
+-- Query: light color --
+0.56	light reflection
+0.55	light
+0.53	incident light
+0.51	reflection (light)
+
+-- Query: motifs --
+
+-- Query: natural environment --
+
+-- Query: no additional elements --
+
+-- Query: other vegetation --
+
+-- Query: realistic style --
+
+-- Query: relevant knowledge --
+
+-- Query: sketchy style --
+
+-- Query: social animals --
+
+-- Query: their milk --
+
+-- Query: thick coat --
+0.73	coat
+0.70	coat, cloak
+
+-- Query: viewer --
+
+-- Query: visible hooves --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_bib2472ii152f_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: cursive --
+
+-- Query: detailed --
+
+-- Query: exact --
+
+-- Query: foreign --
+
+-- Query: handwritten --
+
+-- Query: identifiable --
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: middle --
+
+-- Query: possible --
+
+-- Query: small --
+
+
+== Keywords for Emotion ==
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: additional context --
+
+-- Query: book --
+
+-- Query: bottom --
+
+-- Query: bottom center --
+
+-- Query: cursive script --
+
+-- Query: detailed description --
+
+-- Query: drawing --
+
+-- Query: exact language --
+
+-- Query: foreign language --
+
+-- Query: handwritten note --
+
+-- Query: icon --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: logo --
+
+-- Query: middle center --
+0.89	middle ground
+
+-- Query: middle left --
+0.62	middle ground
+
+-- Query: middle right --
+0.71	middle ground
+
+-- Query: motifs --
+
+-- Query: page --
+
+-- Query: passage --
+
+-- Query: quote --
+
+-- Query: small drawing --
+
+-- Query: symbol --
+
+-- Query: text --
+
+-- Query: top center --
+
+-- Query: top right corner --
+
+-- Query: various words --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2934z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: adventurous --
+
+-- Query: clear --
+
+-- Query: cold --
+
+-- Query: cultural --
+
+-- Query: detailed --
+
+-- Query: different --
+
+-- Query: distinct --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: modern --
+
+-- Query: mountainous --
+
+-- Query: multiple --
+
+-- Query: muted --
+
+-- Query: natural --
+
+-- Query: realistic --
+
+-- Query: traditional --
+
+-- Query: vast --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: dynamic --
+
+-- Query: rugged --
+
+
+== Elements of the Picture ==
+-- Query: 17th century --
+
+-- Query: 3 mountains --
+0.54	Montserrat (mountain)
+
+-- Query: 4 foreground --
+
+-- Query: analysis --
+
+-- Query: artwork --
+
+-- Query: background --
+0.85	background
+
+-- Query: brush strokes --
+
+-- Query: clear delineation --
+
+-- Query: clothing style --
+
+-- Query: cold climate --
+
+-- Query: conclusion --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_alh79z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: detailed --
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: key --
+
+-- Query: limited --
+
+-- Query: minimalist --
+
+-- Query: simple --
+
+-- Query: solid --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+-- Query: pleated --
+
+-- Query: relaxed --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: chair --
+0.91	chair
+0.68	back of a chair
+
+-- Query: collar --
+0.78	stand-up collar
+
+-- Query: drawing --
+
+-- Query: dress --
+0.91	dress
+
+-- Query: essence --
+
+-- Query: her face --
+
+-- Query: her hands --
+
+-- Query: her relaxed posture --
+0.58	gesture
+
+-- Query: high back --
+0.64	figure seen from the back
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: light brown --
+
+-- Query: limited number --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: pleated skirt --
+0.54	skirt
+
+-- Query: relaxed position --
+
+-- Query: serious expression --
+
+-- Query: simple design --
+
+-- Query: simple lines --
+
+-- Query: skirt --
+0.96	skirt
+
+-- Query: solid color --
+0.50	flesh colour
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+-- Query: womans figure --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_10903z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: central --
+
+-- Query: clear --
+
+-- Query: dense --
+
+-- Query: great --
+
+-- Query: key --
+
+-- Query: minimalist --
+
+-- Query: natural --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: serene --
+
+-- Query: slender --
+
+-- Query: small --
+
+-- Query: soft --
+
+-- Query: straight --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: textured --
+
+-- Query: thick --
+
+-- Query: vast --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: delicate --
+
+-- Query: intricate --
+
+-- Query: overall --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: blur --
+0.75	blurring
+0.51	blouse
+
+-- Query: central focus --
+
+-- Query: cluster --
+
+-- Query: dense forest --
+0.54	foreground
+
+-- Query: drawing --
+
+-- Query: few knots --
+
+-- Query: few leaves --
+
+-- Query: few trunks --
+
+-- Query: forest --
+
+-- Query: forest scene --
+
+-- Query: great detail --
+
+-- Query: image --
+
+-- Query: impression --
+
+-- Query: key words --
+
+-- Query: leaves --
+0.51	coat, cloak
+
+-- Query: medium --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: natural beauty --
+
+-- Query: overall mood --
+
+-- Query: pencil drawing --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: their silhouettes --
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: tranquil beauty --
+
+-- Query: trees --
+
+-- Query: trunks --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg392z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: calm --
+0.98	calm
+
+-- Query: cloudy --
+
+-- Query: dark --
+
+-- Query: earthy --
+
+-- Query: grayish --
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: minimalist --
+
+-- Query: minimalistic --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: present --
+
+-- Query: recreational --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: tall --
+0.58	heaviness
+
+
+== Keywords for Emotion ==
+-- Query: brown --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: rugged --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: 3 mountains --
+0.54	Montserrat (mountain)
+
+-- Query: analysis --
+
+-- Query: background --
+0.85	background
+
+-- Query: boat --
+
+-- Query: body --
+
+-- Query: colors --
+
+-- Query: few lines --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: image --
+
+-- Query: its shape --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: left side --
+
+-- Query: more detail --
+
+-- Query: motifs --
+
+-- Query: mountains --
+0.58	Montserrat (mountain)
+
+-- Query: natural beauty --
+
+-- Query: overall style --
+
+-- Query: right --
+
+-- Query: rugged mountains --
+0.56	Montserrat (mountain)
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: serene landscape --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small boat --
+
+-- Query: some areas --
+
+-- Query: some darker clouds --
+0.69	darkness
+0.67	cloud
+
+-- Query: tranquil spot --
+
+-- Query: water --
+0.71	water
+0.70	body of water
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11774z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: flat --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: outcrop --
+
+-- Query: realistic --
+
+-- Query: rocky --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: straight --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: thin --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: likely --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: date --
+
+-- Query: drawing --
+
+-- Query: few branches --
+
+-- Query: fine lines --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: forest --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: motifs --
+
+-- Query: no clouds --
+0.54	cloud
+
+-- Query: other details --
+
+-- Query: outcrop --
+
+-- Query: realistic style --
+
+-- Query: river --
+0.86	river
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small trees --
+0.76	tree
+
+-- Query: tall straight trees --
+0.69	tree
+
+-- Query: thin line --
+
+-- Query: trees --
+
+-- Query: valley --
+
+-- Query: variety --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8102z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: balanced --
+
+-- Query: focal --
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: key --
+
+-- Query: mature --
+
+-- Query: middle --
+
+-- Query: natural --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: prominent --
+
+-- Query: realistic --
+
+-- Query: robust --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: sturdy --
+
+-- Query: thick --
+
+-- Query: wide --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+-- Query: lush --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: branches --
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: depiction --
+
+-- Query: drawing --
+
+-- Query: focal point --
+
+-- Query: frame --
+0.85	frame
+
+-- Query: full canopy --
+
+-- Query: image --
+
+-- Query: impression --
+
+-- Query: intricate details --
+
+-- Query: its natural beauty --
+
+-- Query: its trunk --
+
+-- Query: key words --
+
+-- Query: leaves --
+0.51	coat, cloak
+
+-- Query: mature tree --
+0.66	tree
+
+-- Query: motifs --
+
+-- Query: natural setting --
+
+-- Query: neutral background --
+0.62	background
+
+-- Query: overall composition --
+
+-- Query: overall form --
+
+-- Query: park --
+
+-- Query: pencil drawing --
+
+-- Query: possibly a forest --
+0.54	foreground
+
+-- Query: prominent bulge --
+0.63	edging
+
+-- Query: realism --
+
+-- Query: realistic style --
+
+-- Query: surrounding environment --
+
+-- Query: thick trunk --
+
+-- Query: top --
+
+-- Query: tree --
+0.94	tree
+
+-- Query: trees bark --
+
+-- Query: trunk --
+
+-- Query: use --
+
+-- Query: viewers eye --
+0.57	eye contact
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_33763d_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: circular --
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: key --
+
+-- Query: long --
+
+-- Query: plain --
+
+
+== Keywords for Emotion ==
+-- Query: right --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: candle --
+
+-- Query: circular platform --
+
+-- Query: her head --
+
+-- Query: her right hand --
+0.66	hand gesture
+
+-- Query: high collar --
+0.68	stand-up collar
+0.59	necklace
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: long dress --
+0.66	dress
+
+-- Query: motifs --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+-- Query: wreath --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1712_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: classical --
+
+-- Query: common --
+
+-- Query: dark --
+
+-- Query: elaborate --
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: historical --
+
+-- Query: indicative --
+
+-- Query: key --
+
+-- Query: long --
+
+-- Query: old --
+
+-- Query: overall --
+
+-- Query: prominent --
+
+-- Query: serene --
+
+-- Query: similar --
+
+-- Query: slight --
+
+-- Query: typical --
+
+-- Query: wavy --
+
+
+== Keywords for Emotion ==
+-- Query: dramatic --
+
+-- Query: intricate --
+
+-- Query: noble --
+
+-- Query: relaxed --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: armor --
+0.79	suit of armour
+0.59	armour
+
+-- Query: background --
+0.85	background
+
+-- Query: breastplate --
+0.74	breastplate (armour)
+
+-- Query: classical painting --
+
+-- Query: common accessory --
+
+-- Query: common attire --
+
+-- Query: dark background --
+0.72	darkness
+0.71	background
+
+-- Query: dramatic effect --
+
+-- Query: elaborate armor --
+0.63	suit of armour
+
+-- Query: elaborate attire --
+
+-- Query: eyes --
+0.67	eye contact
+
+-- Query: face --
+
+-- Query: focus --
+
+-- Query: hair --
+
+-- Query: helmet --
+
+-- Query: high level --
+
+-- Query: hilt --
+
+-- Query: historical figure --
+
+-- Query: historical period --
+
+-- Query: image --
+
+-- Query: intricate designs --
+0.56	fabric
+
+-- Query: key words --
+
+-- Query: long wavy curls --
+
+-- Query: motifs --
+
+-- Query: one hand --
+0.76	hand gesture
+
+-- Query: overall aesthetic --
+
+-- Query: overall style --
+
+-- Query: period --
+
+-- Query: portrait --
+0.65	half-length portrait
+0.52	bust (portrait)
+
+-- Query: prominent feature --
+
+-- Query: relaxed pose --
+
+-- Query: setting --
+
+-- Query: shoulder guards --
+
+-- Query: similar patterns --
+
+-- Query: slight smile --
+0.74	smile
+0.60	light
+
+-- Query: subject --
+
+-- Query: subjects attire --
+
+-- Query: subjects face --
+
+-- Query: subjects hair --
+
+-- Query: suit --
+0.83	suit
+0.57	suit of armour
+
+-- Query: sword --
+
+-- Query: viewer --
+
+-- Query: visor --
+
+-- Query: way --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8810z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: clear --
+
+-- Query: corridor --
+
+-- Query: decorative --
+
+-- Query: detailed --
+
+-- Query: elegant --
+
+-- Query: far --
+
+-- Query: flat --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: legible --
+
+-- Query: long --
+
+-- Query: minimalist --
+
+-- Query: overall --
+
+-- Query: polished --
+
+-- Query: rectangular --
+
+-- Query: responsible --
+
+-- Query: similar --
+
+-- Query: simple --
+
+-- Query: soft --
+
+-- Query: spaced --
+
+-- Query: unadorned --
+
+
+== Keywords for Emotion ==
+-- Query: individual --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: likely --
+
+-- Query: visual --
+
+
+== Elements of the Picture ==
+-- Query: another material --
+
+-- Query: arches --
+
+-- Query: architectural details --
+0.74	archway
+
+-- Query: architectural elements --
+0.77	archway
+
+-- Query: architectural firm --
+0.79	archway
+
+-- Query: bottom --
+
+-- Query: ceiling --
+
+-- Query: corridor --
+
+-- Query: decorative details --
+
+-- Query: design --
+
+-- Query: detailed sketch --
+
+-- Query: end --
+
+-- Query: far end --
+0.71	far distance
+
+-- Query: floor --
+
+-- Query: focus --
+
+-- Query: hallway --
+
+-- Query: image --
+
+-- Query: its architectural features --
+
+-- Query: its length --
+
+-- Query: key words --
+
+-- Query: large window --
+0.78	window
+
+-- Query: light --
+0.76	light
+0.70	light reflection
+0.69	incident light
+0.68	reflection (light)
+
+-- Query: lightcolored material --
+0.52	light reflection
+0.50	light
+
+-- Query: lighting --
+0.67	incident light
+0.64	reflection (light)
+0.51	light reflection
+
+-- Query: long hallway --
+
+-- Query: motifs --
+
+-- Query: name --
+
+-- Query: overall structure --
+
+-- Query: overall style --
+
+-- Query: possibly marble --
+
+-- Query: rectangular opening --
+
+-- Query: reference --
+
+-- Query: reference point --
+
+-- Query: sense --
+
+-- Query: series --
+
+-- Query: simple frame --
+0.86	frame
+
+-- Query: sketch --
+
+-- Query: text --
+
+-- Query: use --
+
+-- Query: viewer --
+
+-- Query: visual appeal --
+
+-- Query: walls --
+
+-- Query: window --
+0.93	window
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15828cz_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: central --
+
+-- Query: common --
+
+-- Query: detailed --
+
+-- Query: elaborate --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: left --
+
+-- Query: low --
+
+-- Query: military --
+
+-- Query: plain --
+
+-- Query: realistic --
+
+
+== Keywords for Emotion ==
+-- Query: bent --
+
+-- Query: feather --
+
+-- Query: likely --
+
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: air --
+
+-- Query: another sketch --
+
+-- Query: background --
+0.85	background
+
+-- Query: battle --
+
+-- Query: beheading --
+
+-- Query: bench --
+
+-- Query: book --
+
+-- Query: breastplate --
+0.74	breastplate (armour)
+
+-- Query: central figure --
+
+-- Query: civilian --
+
+-- Query: common punishment --
+
+-- Query: cup --
+
+-- Query: direction --
+
+-- Query: dress --
+0.91	dress
+
+-- Query: elaborate feather decorations --
+0.59	ostrich feather
+
+-- Query: feathered helmet --
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: fine lines --
+
+-- Query: form --
+
+-- Query: helmet --
+
+-- Query: her hair --
+
+-- Query: her right hand --
+0.66	hand gesture
+
+-- Query: high level --
+
+-- Query: his attire --
+
+-- Query: his right hand --
+0.70	hand gesture
+
+-- Query: historical event --
+
+-- Query: horse --
+
+-- Query: image --
+
+-- Query: its front legs --
+
+-- Query: its hind legs --
+
+-- Query: key words --
+
+-- Query: larger narrative --
+
+-- Query: left --
+
+-- Query: left sketch --
+
+-- Query: lower class --
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: member --
+
+-- Query: military campaign --
+
+-- Query: military officer --
+
+-- Query: military outfit --
+
+-- Query: motifs --
+
+-- Query: no additional details --
+
+-- Query: noose --
+
+-- Query: page --
+
+-- Query: past --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: possibly a hanging --
+
+-- Query: possibly a peasant --
+0.61	peasant, farmer (male)
+0.59	peasant, farmer (female)
+
+-- Query: presence --
+
+-- Query: process --
+
+-- Query: realistic style --
+
+-- Query: rearing horse --
+
+-- Query: scene --
+
+-- Query: series --
+
+-- Query: servant --
+
+-- Query: several sketches --
+
+-- Query: shirt --
+0.80	shirt
+
+-- Query: sketches --
+
+-- Query: soldier --
+
+-- Query: sword --
+
+-- Query: their body --
+
+-- Query: their head --
+
+-- Query: their neck --
+0.80	necklace
+
+-- Query: these sketches --
+
+-- Query: viewer --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9286z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: accurate --
+
+-- Query: balanced --
+
+-- Query: central --
+
+-- Query: decorative --
+
+-- Query: detailed --
+
+-- Query: different --
+
+-- Query: elaborate --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: focal --
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: low --
+
+-- Query: multiple --
+
+-- Query: overall --
+
+-- Query: plain --
+
+-- Query: pointed --
+
+-- Query: realistic --
+
+-- Query: rectangular --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: typical --
+
+-- Query: vertical --
+
+
+== Keywords for Emotion ==
+-- Query: floral --
+
+-- Query: gothic --
+
+-- Query: illegible --
+
+-- Query: intricate --
+
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: balanced composition --
+
+-- Query: central section --
+
+-- Query: date --
+
+-- Query: details --
+
+-- Query: different design --
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: fine lines --
+
+-- Query: focal point --
+
+-- Query: frame --
+0.85	frame
+
+-- Query: gothic architecture --
+
+-- Query: gothicstyle window --
+0.67	window
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: intricate patterns --
+
+-- Query: key words --
+
+-- Query: left section --
+
+-- Query: light --
+0.76	light
+0.70	light reflection
+0.69	incident light
+0.68	reflection (light)
+
+-- Query: motifs --
+
+-- Query: multiple vertical sections --
+
+-- Query: other decorative elements --
+
+-- Query: overall composition --
+
+-- Query: pencil drawing --
+
+-- Query: plain background --
+0.61	background
+
+-- Query: pointed arch --
+0.74	archway
+
+-- Query: realistic style --
+
+-- Query: rectangular frame --
+0.69	frame
+
+-- Query: right section --
+
+-- Query: series --
+
+-- Query: shadows --
+0.61	meadow
+
+-- Query: signature --
+
+-- Query: simpler design --
+
+-- Query: these motifs --
+
+-- Query: top --
+
+-- Query: two smaller sections --
+
+-- Query: vertical orientation --
+
+-- Query: viewer --
+
+-- Query: window --
+0.93	window
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11254-1146528z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: abstract --
+
+-- Query: basic --
+
+-- Query: beige --
+
+-- Query: black --
+
+-- Query: clean --
+0.66	freshness
+
+-- Query: common --
+
+-- Query: consistent --
+
+-- Query: cursive --
+
+-- Query: detailed --
+
+-- Query: handwritten --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: legible --
+
+-- Query: middle --
+
+-- Query: minimalistic --
+
+-- Query: neat --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: thick --
+
+-- Query: vertical --
+
+-- Query: wide --
+
+
+== Keywords for Emotion ==
+-- Query: like --
+
+
+== Elements of the Picture ==
+-- Query: all three sketches --
+
+-- Query: background --
+0.85	background
+
+-- Query: basic shapes --
+
+-- Query: beige color --
+
+-- Query: beigecolored background --
+
+-- Query: black ink --
+
+-- Query: bottom sketch --
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: common choice --
+
+-- Query: cursive handwriting --
+
+-- Query: date --
+
+-- Query: detailed drawing --
+
+-- Query: few branches --
+
+-- Query: few leaves --
+
+-- Query: focus --
+
+-- Query: handwriting --
+
+-- Query: handwritten notes --
+
+-- Query: image --
+
+-- Query: its branches --
+
+-- Query: key words --
+
+-- Query: linework --
+
+-- Query: middle sketch --
+0.63	middle ground
+
+-- Query: motifs --
+
+-- Query: name --
+
+-- Query: neutral background --
+0.62	background
+
+-- Query: neutral contrast --
+
+-- Query: overall aesthetic --
+
+-- Query: overall style --
+
+-- Query: pen --
+
+-- Query: sansserif font --
+
+-- Query: simple drawing --
+
+-- Query: sketch --
+
+-- Query: sketches --
+
+-- Query: small simple shapes --
+
+-- Query: some text --
+
+-- Query: text --
+
+-- Query: three handwritten sketches --
+
+-- Query: top one --
+
+-- Query: top sketch --
+
+-- Query: tree --
+0.94	tree
+
+-- Query: use --
+
+-- Query: vertical direction --
+
+-- Query: vertical format --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_801vz_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: central --
+
+-- Query: detailed --
+
+-- Query: different --
+
+-- Query: digital --
+
+-- Query: fitting --
+
+-- Query: forested --
+
+-- Query: handwritten --
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: legible --
+
+-- Query: long --
+
+-- Query: loose --
+
+-- Query: natural --
+
+-- Query: occupational --
+
+-- Query: sketchy --
+
+-- Query: small --
+
+-- Query: social --
+
+-- Query: textual --
+
+-- Query: traditional --
+
+-- Query: upper --
+
+
+== Keywords for Emotion ==
+-- Query: personal --
+
+-- Query: right --
+
+-- Query: rural --
+
+-- Query: serene --
+0.50	soothing, calming
+
+
+== Elements of the Picture ==
+-- Query: 3 analysis --
+0.66	three-quarter profile
+
+-- Query: activities --
+
+-- Query: additional figures --
+
+-- Query: artist --
+
+-- Query: artistic style --
+
+-- Query: artists notes --
+
+-- Query: artwork --
+
+-- Query: backdrop --
+0.60	figure seen from the back
+
+-- Query: background --
+0.85	background
+
+-- Query: barrel --
+0.78	Inn, tavern
+
+-- Query: basket --
+0.98	basket
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: central figure --
+
+-- Query: collection --
+
+-- Query: community --
+
+-- Query: conclusion --
+
+-- Query: detailed depiction --
+
+-- Query: detailed description --
+
+-- Query: different activities --
+
+-- Query: environment --
+
+-- Query: glimpse --
+
+-- Query: group --
+0.68	group of people
+
+-- Query: handwritten text --
+
+-- Query: image --
+
+-- Query: individuals --
+
+-- Query: initials --
+
+-- Query: key words --
+
+-- Query: log --
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: name --
+
+-- Query: natural elements --
+
+-- Query: natural environment --
+
+-- Query: natural landscape --
+
+-- Query: natural setting --
+
+-- Query: other objects --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: presence --
+
+-- Query: range --
+
+-- Query: scene --
+
+-- Query: serene expression --
+
+-- Query: setting --
+
+-- Query: several logs --
+
+-- Query: several other individuals --
+0.57	group of people
+
+-- Query: sketchy style --
+
+-- Query: small signature --
+
+-- Query: some handwritten text --
+
+-- Query: textual elements --
+
+-- Query: their face --
+
+-- Query: their interactions --
+0.55	group of people
+
+-- Query: these figures --
+
+-- Query: this person --
+0.65	person
+
+-- Query: this text --
+
+-- Query: variety --
+
+-- Query: various activities --
+
+-- Query: various objects --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_16235z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: key --
+
+-- Query: short --
+
+-- Query: slender --
+
+-- Query: tall --
+0.58	heaviness
+
+
+== Keywords for Emotion ==
+-- Query: rounded --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: brush --
+
+-- Query: brush strokes --
+
+-- Query: drawing --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: sense --
+
+-- Query: trees --
+
+-- Query: variety --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_bib2472iv10a_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: abstract --
+
+-- Query: additional --
+
+-- Query: black --
+
+-- Query: clear --
+
+-- Query: difficult --
+
+-- Query: flat --
+
+-- Query: fluid --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: minimalist --
+
+-- Query: neutral --
+
+-- Query: realistic --
+
+-- Query: simple --
+
+-- Query: smooth --
+0.64	freshness
+0.52	calm
+
+-- Query: solid --
+
+-- Query: specific --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: brown --
+
+-- Query: careful --
+0.75	carefree
+
+-- Query: facial --
+
+-- Query: human --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: standalone --
+0.53	carefree
+
+
+== Elements of the Picture ==
+-- Query: additional elements --
+
+-- Query: any specific context --
+
+-- Query: background --
+0.85	background
+
+-- Query: black lines --
+
+-- Query: canvas --
+
+-- Query: cap --
+0.75	close-fitting cap
+
+-- Query: drawing --
+
+-- Query: facial features --
+0.84	facial expression
+
+-- Query: flat surface --
+
+-- Query: focus --
+
+-- Query: human facial features --
+0.65	facial expression
+0.51	smile
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: lack --
+
+-- Query: larger work --
+
+-- Query: likely a male --
+0.56	standing man
+0.51	man
+0.50	patrician (male)
+
+-- Query: lines --
+
+-- Query: minimalist drawing --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: no clear indication --
+
+-- Query: no other objects --
+
+-- Query: part --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: persons expression --
+
+-- Query: persons face --
+
+-- Query: persons hair --
+
+-- Query: persons head --
+
+-- Query: possibly a piece --
+
+-- Query: realistic style --
+
+-- Query: right --
+
+-- Query: sketch --
+
+-- Query: standalone piece --
+
+-- Query: study --
+
+-- Query: their ears --
+
+-- Query: their face --
+
+-- Query: their forehead --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2499z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: aggressive --
+
+-- Query: choppy --
+
+-- Query: clear --
+
+-- Query: easy --
+
+-- Query: key --
+
+-- Query: legible --
+
+-- Query: lively --
+
+-- Query: main --
+
+-- Query: overall --
+
+-- Query: plain --
+
+-- Query: playful --
+
+-- Query: short --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+
+== Keywords for Emotion ==
+-- Query: dynamic --
+
+-- Query: engaging --
+
+-- Query: likely --
+
+
+== Elements of the Picture ==
+-- Query: air --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: book --
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: fight --
+
+-- Query: fur --
+
+-- Query: goats --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: main focus --
+
+-- Query: medium --
+
+-- Query: midst --
+0.64	middle ground
+
+-- Query: motifs --
+
+-- Query: no additional details --
+
+-- Query: overall composition --
+
+-- Query: page number --
+
+-- Query: piece --
+
+-- Query: playful chase --
+
+-- Query: reference number --
+
+-- Query: sense --
+
+-- Query: short choppy strokes --
+
+-- Query: simple lines --
+
+-- Query: sketch --
+
+-- Query: sketchy style --
+
+-- Query: text --
+
+-- Query: their bodies --
+
+-- Query: their forms --
+
+-- Query: their legs --
+
+-- Query: top --
+
+-- Query: two goats --
+0.59	goatee
+
+-- Query: way --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9861z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: central --
+
+-- Query: detailed --
+
+-- Query: fashioned --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: flat --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: neutral --
+
+-- Query: old --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: rectangular --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: small --
+
+-- Query: sturdy --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: ajar --
+
+-- Query: light --
+0.53	carefree
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: beams --
+
+-- Query: building --
+0.79	building
+
+-- Query: central entrance --
+
+-- Query: chimney --
+0.98	chimney
+0.73	chimney, fireplace
+
+-- Query: door --
+0.73	wooden door
+
+-- Query: drawing --
+
+-- Query: entrance --
+
+-- Query: essence --
+
+-- Query: fine details --
+
+-- Query: historical building --
+
+-- Query: image --
+
+-- Query: its architectural style --
+
+-- Query: its side --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: motifs --
+
+-- Query: overall texture --
+
+-- Query: pencil drawing --
+
+-- Query: rectangular shape --
+
+-- Query: ridge --
+
+-- Query: roof --
+0.95	roof
+0.74	roof tile
+
+-- Query: sense --
+
+-- Query: series --
+
+-- Query: shutter --
+
+-- Query: simple lines --
+
+-- Query: simple rectangular shapes --
+
+-- Query: structure --
+0.50	straw roof
+
+-- Query: sturdy appearance --
+
+-- Query: window sill --
+0.70	window
+
+-- Query: windows --
+0.93	window
+
+-- Query: wooden beams --
+0.77	wood cladding
+0.69	wooden door
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11863z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+-- Query: realistic --
+
+-- Query: tall --
+0.58	heaviness
+
+
+== Keywords for Emotion ==
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: drawing --
+
+-- Query: hill --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: many branches --
+
+-- Query: motifs --
+
+-- Query: pencil drawing --
+
+-- Query: realistic style --
+
+-- Query: trees --
+
+-- Query: two trees --
+0.70	tree
+
+-- Query: white background --
+0.59	background
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15156z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: high --
+0.52	heaviness
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: left --
+
+-- Query: long --
+
+-- Query: open --
+
+-- Query: realistic --
+
+-- Query: small --
+
+
+== Keywords for Emotion ==
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: beard --
+0.62	full beard
+
+-- Query: belt --
+0.95	belt
+0.86	belt buckle
+
+-- Query: candle --
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: door --
+0.73	wooden door
+
+-- Query: hat --
+0.60	hat
+
+-- Query: headdress --
+0.75	dress
+
+-- Query: her hair --
+
+-- Query: her neck --
+0.69	necklace
+
+-- Query: her right --
+
+-- Query: her right hand --
+0.66	hand gesture
+
+-- Query: her waist --
+0.55	belt
+0.53	sheath
+0.53	sheath
+
+-- Query: high collar --
+0.68	stand-up collar
+0.59	necklace
+
+-- Query: his left hand --
+0.63	hand gesture
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: lamp --
+
+-- Query: large object --
+
+-- Query: large vase --
+
+-- Query: long beard --
+0.82	full beard
+
+-- Query: long dress --
+0.66	dress
+
+-- Query: long robe --
+
+-- Query: long skirt --
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: motifs --
+
+-- Query: necklace --
+0.95	necklace
+0.56	stand-up collar
+0.55	lace cuff
+
+-- Query: pencil drawing --
+
+-- Query: pot --
+0.50	sunspots
+
+-- Query: realistic style --
+
+-- Query: small object --
+
+-- Query: tree --
+0.94	tree
+
+-- Query: viewer --
+
+-- Query: wall --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1721z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: aesthetic --
+
+-- Query: calm --
+0.98	calm
+
+-- Query: central --
+
+-- Query: common --
+
+-- Query: dark --
+
+-- Query: decorative --
+
+-- Query: determined --
+
+-- Query: distinct --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: medieval --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: possible --
+
+-- Query: social --
+
+-- Query: specific --
+
+-- Query: violent --
+
+
+== Keywords for Emotion ==
+-- Query: blue --
+
+-- Query: brown --
+
+-- Query: defensive --
+
+-- Query: domestic --
+
+-- Query: floral --
+
+-- Query: green --
+
+-- Query: human --
+
+-- Query: intense --
+
+-- Query: likely --
+
+-- Query: noble --
+
+-- Query: religious --
+
+-- Query: right --
+
+-- Query: valuable --
+
+-- Query: vivid --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: attire --
+
+-- Query: background --
+0.85	background
+
+-- Query: beard --
+0.62	full beard
+
+-- Query: blue cape --
+
+-- Query: bottom --
+
+-- Query: bow --
+
+-- Query: brown cape --
+
+-- Query: bum 12 mai --
+
+-- Query: central figure --
+
+-- Query: chain --
+0.80	gold chain
+0.57	stand-up collar
+0.53	bonnet
+0.52	gesture
+
+-- Query: characters --
+
+-- Query: clothing --
+
+-- Query: common activities --
+
+-- Query: crown --
+
+-- Query: decorative border --
+
+-- Query: decorative elements --
+
+-- Query: defensive stance --
+
+-- Query: distinct attire --
+
+-- Query: floral motifs --
+
+-- Query: frame --
+0.85	frame
+
+-- Query: gesture --
+0.91	gesture
+
+-- Query: green tunic --
+0.67	tunic (uniform)
+
+-- Query: her expression --
+
+-- Query: her left hand --
+0.58	hand gesture
+
+-- Query: her right hand --
+0.66	hand gesture
+
+-- Query: his expression --
+0.55	facial expression
+
+-- Query: his left hand --
+0.63	hand gesture
+
+-- Query: his posture --
+0.53	gesture
+
+-- Query: his right hand --
+0.70	hand gesture
+
+-- Query: historical context --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: medieval life --
+
+-- Query: medievalstyle depiction --
+
+-- Query: medievalstyle painting --
+
+-- Query: motifs --
+
+-- Query: natural setting --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: right --
+
+-- Query: social roles --
+
+-- Query: specific date --
+
+-- Query: staff --
+
+-- Query: support --
+
+-- Query: sword --
+
+-- Query: target --
+
+-- Query: text --
+
+-- Query: three human figures --
+0.60	three-quarter profile
+
+-- Query: time --
+
+-- Query: vivid depiction --
+
+-- Query: white cape --
+
+-- Query: white dress --
+0.71	dress
+
+-- Query: white sleeves --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+-- Query: womans dress --
+0.65	dress
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_14673vz_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+
+== Keywords for Emotion ==
+-- Query: right --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: hat --
+0.60	hat
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: sketch --
+
+-- Query: stick --
+
+-- Query: their right hand --
+0.71	hand gesture
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3438z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: fine --
+0.51	freshness
+
+-- Query: key --
+
+-- Query: long --
+
+-- Query: realistic --
+
+-- Query: simple --
+
+-- Query: small --
+
+
+== Keywords for Emotion ==
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: drawing --
+
+-- Query: fine lines --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: headscarf --
+
+-- Query: her hands --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: long dress --
+0.66	dress
+
+-- Query: motifs --
+
+-- Query: pencil drawing --
+
+-- Query: realistic style --
+
+-- Query: simple landscape --
+
+-- Query: small object --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2272z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: abstract --
+
+-- Query: cloudy --
+
+-- Query: dark --
+
+-- Query: dense --
+
+-- Query: detailed --
+
+-- Query: effective --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: overcast --
+
+-- Query: realistic --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: untamed --
+
+-- Query: visible --
+
+-- Query: wild --
+
+
+== Keywords for Emotion ==
+-- Query: grassy --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: nostalgic --
+
+-- Query: warm --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: clouds --
+0.82	cloud
+
+-- Query: darker tones --
+0.68	darkness
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: forest --
+
+-- Query: grass --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: motifs --
+
+-- Query: natural beauty --
+
+-- Query: overall composition --
+
+-- Query: overall impression --
+
+-- Query: realistic style --
+
+-- Query: sepia tone --
+
+-- Query: shrubs --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: their branches --
+
+-- Query: trees --
+
+-- Query: use --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_13702z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: cartoonish --
+
+-- Query: humorous --
+
+-- Query: key --
+
+-- Query: long --
+
+-- Query: loose --
+
+-- Query: satirical --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: unadorned --
+
+
+== Keywords for Emotion ==
+-- Query: exaggerated --
+
+-- Query: serene --
+0.50	soothing, calming
+
+
+== Elements of the Picture ==
+-- Query: back --
+0.79	figure seen from the back
+0.56	back of a chair
+
+-- Query: background --
+0.85	background
+
+-- Query: dress standing --
+0.78	dress
+0.50	standing woman (standing people)
+0.50	standing man
+
+-- Query: exaggerated features --
+
+-- Query: few details --
+
+-- Query: front --
+0.53	figure seen from the back
+
+-- Query: group --
+0.68	group of people
+
+-- Query: hat --
+0.60	hat
+
+-- Query: her face --
+
+-- Query: his face --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: likely a family --
+
+-- Query: line --
+
+-- Query: long coat --
+0.73	coat
+0.66	coat, cloak
+
+-- Query: long dress --
+0.66	dress
+
+-- Query: loose lines --
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: motifs --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: serene expression --
+
+-- Query: serious expression --
+
+-- Query: sketch --
+
+-- Query: sketchy style --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_17313z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: calm --
+0.98	calm
+
+-- Query: calming --
+0.80	calm
+
+-- Query: dark --
+
+-- Query: diverse --
+
+-- Query: evident --
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: key --
+
+-- Query: moderate --
+
+-- Query: muted --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: soft --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: dynamic --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: tranquil --
+
+-- Query: warm --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: background --
+0.85	background
+
+-- Query: boat --
+
+-- Query: body --
+
+-- Query: calming backdrop --
+0.54	chimney, fireplace
+
+-- Query: conclusion --
+
+-- Query: darker shade --
+0.63	darkness
+
+-- Query: depiction --
+
+-- Query: diverse forest --
+
+-- Query: drawing --
+
+-- Query: dynamic element --
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: gradient --
+
+-- Query: high level --
+
+-- Query: horizon --
+
+-- Query: image --
+
+-- Query: its reflection --
+0.74	light reflection
+0.67	reflection (light)
+
+-- Query: key words --
+
+-- Query: lake --
+
+-- Query: landscape --
+
+-- Query: light blue --
+
+-- Query: likely a river --
+0.78	river
+
+-- Query: medium --
+
+-- Query: moderate amount --
+0.51	middle ground
+
+-- Query: motifs --
+
+-- Query: muted colors --
+
+-- Query: natural beauty --
+
+-- Query: natural elements --
+
+-- Query: natural setting --
+
+-- Query: overall composition --
+
+-- Query: possibly people --
+0.72	group of people
+
+-- Query: presence --
+
+-- Query: realism --
+
+-- Query: river --
+0.86	river
+
+-- Query: scene --
+
+-- Query: scenery --
+
+-- Query: sense --
+
+-- Query: serene landscape --
+
+-- Query: several trees --
+0.70	tree
+
+-- Query: sketch --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: soft lines --
+
+-- Query: some activity --
+
+-- Query: some figures --
+
+-- Query: sun --
+
+-- Query: their natural forms --
+
+-- Query: these figures --
+
+-- Query: top --
+
+-- Query: trees --
+
+-- Query: use --
+
+-- Query: variety --
+
+-- Query: warm glow --
+0.70	glove
+
+-- Query: water --
+0.71	water
+0.70	body of water
+
+-- Query: way --
+
+-- Query: wooded area --
+0.81	wood cladding
+0.62	wooden door
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11716-1187944z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: architectural --
+
+-- Query: bygone --
+
+-- Query: detailed --
+
+-- Query: flat --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: medium --
+
+-- Query: natural --
+
+-- Query: outcrop --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: preliminary --
+
+-- Query: rectangular --
+
+-- Query: rocky --
+
+-- Query: ruined --
+
+-- Query: serene --
+
+-- Query: sketchy --
+
+-- Query: small --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+-- Query: likely --
+
+-- Query: rural --
+
+-- Query: subject --
+
+
+== Elements of the Picture ==
+-- Query: 3 details --
+0.73	three-quarter profile
+
+-- Query: additional notes --
+
+-- Query: artists name --
+
+-- Query: bottom drawing --
+
+-- Query: bygone era --
+
+-- Query: drawing --
+
+-- Query: drawings --
+
+-- Query: essence --
+
+-- Query: fallen tower --
+
+-- Query: flat surface --
+
+-- Query: hill --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: large cracks --
+
+-- Query: motifs --
+
+-- Query: natural landscapes --
+
+-- Query: preliminary sketches --
+
+-- Query: rectangular base --
+
+-- Query: rocky outcrop --
+
+-- Query: roof --
+0.95	roof
+0.74	roof tile
+
+-- Query: ruined structure --
+
+-- Query: ruined structures --
+
+-- Query: series --
+
+-- Query: small tower --
+
+-- Query: some trees --
+0.83	tree
+
+-- Query: top drawing --
+
+-- Query: tower --
+0.64	church tower
+
+-- Query: two drawings --
+
+-- Query: walls --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_6913z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: atmospheric --
+
+-- Query: bare --
+
+-- Query: central --
+
+-- Query: cold --
+
+-- Query: dense --
+
+-- Query: effective --
+
+-- Query: key --
+
+-- Query: leafless --
+
+-- Query: main --
+
+-- Query: meticulous --
+
+-- Query: minimalist --
+
+-- Query: muted --
+
+-- Query: overall --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: stark --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: beautiful --
+0.54	carefree
+
+-- Query: evocative --
+
+-- Query: intricate --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: powerful --
+0.58	longing
+
+
+== Elements of the Picture ==
+-- Query: any visible clouds --
+0.57	cloud
+
+-- Query: background --
+0.85	background
+
+-- Query: central focus --
+
+-- Query: distance --
+0.72	far distance
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: forest --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: group --
+0.68	group of people
+
+-- Query: image --
+
+-- Query: intricate patterns --
+
+-- Query: key words --
+
+-- Query: lack --
+
+-- Query: layer --
+
+-- Query: main subject --
+
+-- Query: meticulous attention --
+
+-- Query: more trees --
+0.71	tree
+
+-- Query: motifs --
+
+-- Query: other atmospheric elements --
+
+-- Query: overall composition --
+
+-- Query: pencil sketch --
+
+-- Query: realism --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: snow --
+
+-- Query: snowcovered ground --
+
+-- Query: stark beauty --
+
+-- Query: suggestion --
+
+-- Query: tall bare trees --
+0.66	tree
+
+-- Query: texture --
+
+-- Query: their bark --
+
+-- Query: their branches --
+
+-- Query: their trunks --
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: trees --
+
+-- Query: use --
+
+-- Query: viewer --
+
+-- Query: way --
+
+-- Query: winter forest --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1743z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: active --
+
+-- Query: adventurous --
+
+-- Query: calm --
+0.98	calm
+
+-- Query: common --
+
+-- Query: cultural --
+
+-- Query: detailed --
+
+-- Query: handwritten --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: mythological --
+
+-- Query: rocky --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: traditional --
+
+-- Query: visible --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+-- Query: personal --
+
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: background --
+0.85	background
+
+-- Query: boat --
+
+-- Query: common mode --
+
+-- Query: conclusion --
+
+-- Query: detailed description --
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: few barrels --
+
+-- Query: focus --
+
+-- Query: handwritten signature --
+
+-- Query: image --
+
+-- Query: individuals --
+
+-- Query: journey --
+
+-- Query: key words --
+
+-- Query: large barrel --
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: other items --
+
+-- Query: pencil drawing --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: personal touch --
+0.58	physical contact
+
+-- Query: possibly tools --
+
+-- Query: right side --
+
+-- Query: rocky coastline --
+
+-- Query: scene --
+
+-- Query: serene environment --
+
+-- Query: setting --
+
+-- Query: several individuals --
+0.63	group of people
+
+-- Query: several objects --
+
+-- Query: several people --
+0.66	group of people
+
+-- Query: small waves --
+
+-- Query: smaller barrel --
+
+-- Query: this signature --
+
+-- Query: time --
+
+-- Query: traditional clothing --
+
+-- Query: traditional style --
+
+-- Query: various activities --
+
+-- Query: water --
+0.71	water
+0.70	body of water
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg377_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: alive --
+
+-- Query: casual --
+
+-- Query: cylindrical --
+
+-- Query: diffused --
+
+-- Query: everyday --
+
+-- Query: glossy --
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: key --
+
+-- Query: metallic --
+
+-- Query: overall --
+
+-- Query: round --
+
+-- Query: similar --
+
+-- Query: small --
+
+-- Query: smooth --
+0.64	freshness
+0.52	calm
+
+-- Query: soft --
+
+-- Query: traditional --
+
+
+== Keywords for Emotion ==
+-- Query: blue --
+
+-- Query: bright --
+
+-- Query: colorful --
+
+-- Query: floral --
+
+-- Query: green --
+
+-- Query: intricate --
+
+-- Query: japanese --
+
+-- Query: likely --
+
+-- Query: pink --
+
+-- Query: pleasing --
+
+-- Query: red --
+
+-- Query: unique --
+
+-- Query: vibrant --
+
+-- Query: visual --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: apple --
+0.90	apple
+
+-- Query: arrangement --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: basket --
+0.98	basket
+
+-- Query: beauty --
+
+-- Query: bottle --
+
+-- Query: bright colors --
+
+-- Query: curtain --
+
+-- Query: doll --
+0.88	doll
+
+-- Query: dolls --
+0.76	doll
+
+-- Query: each doll --
+0.70	doll
+
+-- Query: everyday objects --
+
+-- Query: floral pattern --
+
+-- Query: green apple --
+0.73	apple
+
+-- Query: image --
+
+-- Query: intricate patterns --
+
+-- Query: its vibrant colors --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: metallic finish --
+
+-- Query: middle --
+0.83	middle ground
+
+-- Query: motifs --
+
+-- Query: overall composition --
+
+-- Query: piece --
+
+-- Query: pink curtain --
+
+-- Query: right --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: setting --
+
+-- Query: similar container --
+
+-- Query: small basket --
+0.88	basket
+
+-- Query: table --
+0.85	table
+0.66	tablecloth
+
+-- Query: tablecloth --
+0.97	tablecloth
+0.62	table
+
+-- Query: three dolls --
+0.56	doll
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: traditional japanese attire --
+
+-- Query: unique expression --
+
+-- Query: use --
+
+-- Query: various items --
+
+-- Query: vibrant colors --
+
+-- Query: visual appeal --
+
+-- Query: water bottle --
+0.59	water
+0.50	body of water
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11465z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: clear --
+
+-- Query: cursive --
+
+-- Query: detailed --
+
+-- Query: effective --
+
+-- Query: formal --
+
+-- Query: good --
+
+-- Query: key --
+
+-- Query: limited --
+
+-- Query: loose --
+
+-- Query: low --
+
+-- Query: minimalistic --
+
+-- Query: mountainous --
+
+-- Query: overall --
+
+-- Query: overcast --
+
+-- Query: quick --
+
+-- Query: similar --
+
+-- Query: simple --
+
+
+== Keywords for Emotion ==
+-- Query: expressive --
+
+-- Query: pleasing --
+
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: 20th may --
+
+-- Query: artist --
+
+-- Query: cursive script --
+
+-- Query: date --
+
+-- Query: details --
+
+-- Query: essence --
+
+-- Query: eye --
+0.73	eye contact
+
+-- Query: few lines --
+
+-- Query: focus --
+
+-- Query: good example --
+
+-- Query: image --
+
+-- Query: johann sebastian bach --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: limited number --
+
+-- Query: medium --
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: mountainous landscape --
+0.59	Montserrat (mountain)
+
+-- Query: mountains --
+0.58	Montserrat (mountain)
+
+-- Query: objects --
+
+-- Query: overall composition --
+
+-- Query: pencil --
+
+-- Query: pencil sketch --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: signature --
+
+-- Query: similar tool --
+0.55	pitcher
+
+-- Query: sketch --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: their shape --
+
+-- Query: type --
+
+-- Query: use --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_10373z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: detailed --
+
+-- Query: key --
+
+-- Query: minimalist --
+
+-- Query: overall --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: buildings --
+0.76	building
+
+-- Query: cityscape --
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: few buildings --
+
+-- Query: few details --
+
+-- Query: focus --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: overall composition --
+
+-- Query: simple lines --
+
+-- Query: simple rectangles --
+
+-- Query: trees --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_12903z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: fine --
+0.51	freshness
+
+-- Query: key --
+
+-- Query: realistic --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: gray --
+
+-- Query: leafy --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: peaked --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: date --
+
+-- Query: drawing --
+
+-- Query: few branches --
+
+-- Query: few clouds --
+0.54	cloud
+
+-- Query: fine lines --
+
+-- Query: house --
+0.88	house
+0.74	farmhouse
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: peaked roof --
+0.55	straw roof
+
+-- Query: pencil drawing --
+
+-- Query: realistic style --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small chimney --
+0.92	chimney
+0.91	chimney, fireplace
+
+-- Query: small house --
+0.74	house
+0.64	farmhouse
+
+-- Query: trees --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9360z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+-- Query: main --
+
+-- Query: minimalist --
+
+-- Query: overall --
+
+-- Query: rectangular --
+
+-- Query: similar --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: uncluttered --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: door --
+0.73	wooden door
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: few details --
+
+-- Query: few lines --
+
+-- Query: few trees --
+0.63	tree
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: house --
+0.88	house
+0.74	farmhouse
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: main elements --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: overall composition --
+
+-- Query: overall impression --
+
+-- Query: scene --
+
+-- Query: similar surface --
+
+-- Query: simple drawing --
+
+-- Query: simple lines --
+
+-- Query: tree --
+0.94	tree
+
+-- Query: trees --
+
+-- Query: window --
+0.93	window
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9421z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: artistic --
+
+-- Query: clear --
+
+-- Query: dense --
+
+-- Query: different --
+
+-- Query: early --
+
+-- Query: framed --
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: key --
+
+-- Query: late --
+
+-- Query: long --
+
+-- Query: low --
+
+-- Query: narrow --
+
+-- Query: natural --
+
+-- Query: outdoor --
+
+-- Query: overall --
+
+-- Query: pale --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: present --
+
+-- Query: realistic --
+
+-- Query: scattered --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: beautiful --
+0.54	carefree
+
+-- Query: blue --
+
+-- Query: green --
+
+-- Query: leafy --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: likely --
+
+-- Query: lush --
+
+-- Query: ornate --
+
+-- Query: pleasing --
+
+-- Query: right --
+
+-- Query: tranquil --
+
+-- Query: valuable --
+
+-- Query: welcome --
+
+
+== Elements of the Picture ==
+-- Query: any home --
+
+-- Query: artist --
+
+-- Query: bark --
+
+-- Query: beauty --
+
+-- Query: clear day --
+0.52	route
+
+-- Query: dense cluster --
+
+-- Query: depiction --
+
+-- Query: different textures --
+
+-- Query: either early morning --
+
+-- Query: focus --
+
+-- Query: frame --
+0.85	frame
+
+-- Query: framed painting --
+0.53	frame
+
+-- Query: grass --
+
+-- Query: green shades --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: late afternoon --
+
+-- Query: leaves --
+0.51	coat, cloak
+
+-- Query: motifs --
+
+-- Query: natural beauty --
+
+-- Query: natural colors --
+
+-- Query: natural elements --
+
+-- Query: natural landscape --
+
+-- Query: no people --
+
+-- Query: one side --
+
+-- Query: overall atmosphere --
+
+-- Query: overall effect --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: path --
+
+-- Query: realistic style --
+
+-- Query: scene --
+
+-- Query: signature --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: still life --
+
+-- Query: trees --
+
+-- Query: valuable piece --
+
+-- Query: variety --
+
+-- Query: way --
+
+-- Query: welcome addition --
+
+-- Query: wooden fence --
+0.63	wood cladding
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_4965z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: central --
+
+-- Query: decorative --
+
+-- Query: detailed --
+
+-- Query: key --
+
+-- Query: linear --
+
+-- Query: plain --
+
+-- Query: thin --
+
+-- Query: unadorned --
+
+
+== Keywords for Emotion ==
+-- Query: delicate --
+
+-- Query: floral --
+
+-- Query: illustrative --
+
+-- Query: intricate --
+
+
+== Elements of the Picture ==
+-- Query: animal figures --
+
+-- Query: background --
+0.85	background
+
+-- Query: book --
+
+-- Query: bottom --
+
+-- Query: decorative piece --
+
+-- Query: drawing --
+
+-- Query: floral motif --
+
+-- Query: floral pattern --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: linear style --
+
+-- Query: lines --
+
+-- Query: motifs --
+
+-- Query: other decorative elements --
+
+-- Query: their legs --
+
+-- Query: triangular figure --
+
+-- Query: two animal figures --
+
+-- Query: variety --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_16462z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: cloudy --
+
+-- Query: key --
+
+-- Query: nude --
+
+-- Query: open --
+
+-- Query: realistic --
+
+-- Query: thin --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: relaxed --
+
+
+== Elements of the Picture ==
+-- Query: 19th century --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: bed --
+
+-- Query: blanket --
+
+-- Query: curtain --
+
+-- Query: her arm --
+0.59	armour
+
+-- Query: her head --
+
+-- Query: her side --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: nude woman --
+0.56	woman
+
+-- Query: pencil drawing --
+
+-- Query: realistic style --
+
+-- Query: relaxed pose --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: thin fabric --
+
+-- Query: thin nightgown --
+
+-- Query: window --
+0.93	window
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15130z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: bold --
+
+-- Query: dark --
+
+-- Query: detailed --
+
+-- Query: focal --
+
+-- Query: key --
+
+-- Query: open --
+
+-- Query: overall --
+
+-- Query: plain --
+
+-- Query: sinister --
+
+-- Query: thick --
+
+-- Query: wide --
+
+
+== Keywords for Emotion ==
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: beard --
+0.62	full beard
+
+-- Query: demon --
+
+-- Query: demons expression --
+
+-- Query: demons face --
+
+-- Query: face --
+
+-- Query: focal point --
+
+-- Query: fur --
+
+-- Query: image --
+
+-- Query: its eyes --
+0.59	eye contact
+
+-- Query: its mouth --
+
+-- Query: key words --
+
+-- Query: lines --
+
+-- Query: motifs --
+
+-- Query: mouth --
+
+-- Query: no other objects --
+
+-- Query: overall style --
+
+-- Query: scream --
+
+-- Query: screaming expression --
+0.50	facial expression
+
+-- Query: sense --
+
+-- Query: skin --
+0.59	skin fold
+
+-- Query: texture --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_5195z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: abstract --
+
+-- Query: black --
+
+-- Query: complex --
+
+-- Query: detailed --
+
+-- Query: different --
+
+-- Query: diverse --
+
+-- Query: geometric --
+
+-- Query: interconnected --
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: middle --
+
+-- Query: multiple --
+
+-- Query: symmetrical --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+-- Query: red --
+
+-- Query: right --
+
+-- Query: white --
+
+-- Query: yellow --
+
+
+== Elements of the Picture ==
+-- Query: bottom center section --
+
+-- Query: bottom left section --
+
+-- Query: colors --
+
+-- Query: detailed description --
+
+-- Query: different sections --
+
+-- Query: frame --
+0.85	frame
+
+-- Query: image --
+
+-- Query: interconnected geometric shapes --
+
+-- Query: interconnected shapes --
+
+-- Query: key words --
+
+-- Query: motif --
+
+-- Query: motifs --
+
+-- Query: multiple points --
+
+-- Query: page --
+
+-- Query: series --
+
+-- Query: shapes --
+
+-- Query: sketchbook --
+
+-- Query: some elements --
+
+-- Query: star --
+
+-- Query: stylized representation --
+
+-- Query: symmetrical pattern --
+
+-- Query: various motifs --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8674z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: castle --
+
+-- Query: central --
+
+-- Query: handwritten --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: rectangular --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: small --
+
+-- Query: steep --
+
+-- Query: thick --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: canvas --
+
+-- Query: castle --
+
+-- Query: central tower --
+
+-- Query: date --
+
+-- Query: drawing --
+
+-- Query: few details --
+
+-- Query: hill --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: large building --
+0.64	building
+
+-- Query: lightcolored background --
+0.58	background
+0.52	light reflection
+
+-- Query: motifs --
+
+-- Query: pencil drawing --
+
+-- Query: piece --
+
+-- Query: several smaller towers --
+
+-- Query: simple lines --
+
+-- Query: steep roofs --
+0.58	straw roof
+
+-- Query: their shape --
+
+-- Query: walls --
+
+-- Query: windows --
+0.93	window
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_6020z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: calm --
+0.98	calm
+
+-- Query: clear --
+
+-- Query: dense --
+
+-- Query: healthy --
+0.60	freshness
+0.58	calm
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: long --
+
+-- Query: mature --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: primary --
+
+-- Query: serene --
+
+-- Query: shallow --
+
+-- Query: short --
+
+-- Query: small --
+
+-- Query: smooth --
+0.64	freshness
+0.52	calm
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: thriving --
+
+-- Query: typical --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: dynamic --
+
+-- Query: gentle --
+
+-- Query: green --
+
+-- Query: lush --
+
+-- Query: picturesque --
+
+-- Query: terri --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: basket --
+0.98	basket
+
+-- Query: body --
+
+-- Query: both women --
+0.58	standing woman (standing people)
+
+-- Query: bottom --
+
+-- Query: clear day --
+0.52	route
+
+-- Query: dog --
+
+-- Query: dynamic element --
+
+-- Query: few clouds --
+0.54	cloud
+
+-- Query: few rocks --
+
+-- Query: few trees --
+0.63	tree
+
+-- Query: foliage --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: gentle slope --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: group --
+0.68	group of people
+
+-- Query: head coverings --
+
+-- Query: higher elevation --
+
+-- Query: hill --
+
+-- Query: horizon --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: left side --
+
+-- Query: light --
+0.76	light
+0.70	light reflection
+0.69	incident light
+0.68	reflection (light)
+
+-- Query: long dress --
+0.66	dress
+
+-- Query: middle --
+0.83	middle ground
+
+-- Query: mosscovered boulders --
+
+-- Query: motifs --
+
+-- Query: mountain --
+0.69	Montserrat (mountain)
+
+-- Query: natural aesthetic --
+
+-- Query: natural beauty --
+
+-- Query: natural elements --
+
+-- Query: natural environment --
+
+-- Query: no visible waves --
+
+-- Query: one woman --
+0.75	woman
+0.53	standing woman (standing people)
+
+-- Query: overall atmosphere --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: primary focus --
+
+-- Query: region --
+
+-- Query: river --
+0.86	river
+
+-- Query: road --
+
+-- Query: scene --
+
+-- Query: series --
+
+-- Query: shorter dress --
+0.63	dress
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small breed --
+
+-- Query: small hound --
+
+-- Query: small plants --
+
+-- Query: small waterfall --
+0.52	body of water
+
+-- Query: trees --
+
+-- Query: two women --
+0.57	standing woman (standing people)
+0.50	woman
+
+-- Query: variety --
+
+-- Query: various activities --
+
+-- Query: water --
+0.71	water
+0.70	body of water
+
+-- Query: waterfall --
+0.54	water
+0.51	body of water
+
+-- Query: waters surface --
+0.69	body of water
+0.69	water
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_14282z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: central --
+
+-- Query: circular --
+
+-- Query: effective --
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: loose --
+
+-- Query: medium --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: rough --
+
+-- Query: short --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: thoughtful --
+0.77	thoughtfulness
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: contemplative --
+
+-- Query: expressive --
+
+-- Query: facial --
+
+-- Query: human --
+
+-- Query: intricate --
+
+-- Query: male --
+
+-- Query: overall --
+
+-- Query: semi --
+
+-- Query: unique --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: central figure --
+
+-- Query: collection --
+
+-- Query: conclusion --
+
+-- Query: essence --
+
+-- Query: face --
+
+-- Query: faces --
+
+-- Query: frame --
+0.85	frame
+
+-- Query: gathering --
+
+-- Query: group --
+0.68	group of people
+
+-- Query: hair --
+
+-- Query: his expression --
+0.55	facial expression
+
+-- Query: his eyes --
+0.51	eye contact
+
+-- Query: human faces --
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: key words --
+
+-- Query: left side --
+
+-- Query: male face --
+0.51	standing man
+
+-- Query: medium --
+
+-- Query: motifs --
+
+-- Query: nose --
+
+-- Query: overall composition --
+
+-- Query: overall expression --
+
+-- Query: range --
+
+-- Query: semicircular formation --
+
+-- Query: serious expression --
+
+-- Query: several other faces --
+
+-- Query: sketches --
+
+-- Query: subjects --
+
+-- Query: surrounding faces --
+
+-- Query: these faces --
+
+-- Query: unique expressions --
+
+-- Query: various expressions --
+
+-- Query: viewer --
+
+-- Query: viewers attention --
+
+-- Query: visible facial features --
+0.63	facial expression
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1415_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: dark --
+
+-- Query: effective --
+
+-- Query: formal --
+
+-- Query: indistinct --
+
+-- Query: introspective --
+
+-- Query: key --
+
+-- Query: overall --
+
+-- Query: primary --
+
+-- Query: refined --
+
+-- Query: simple --
+
+-- Query: textured --
+
+-- Query: thoughtful --
+0.77	thoughtfulness
+
+-- Query: typical --
+
+-- Query: visible --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: contemplative --
+
+-- Query: facial --
+
+-- Query: likely --
+
+-- Query: rich --
+
+
+== Elements of the Picture ==
+-- Query: 19th century --
+
+-- Query: additional elements --
+
+-- Query: artwork --
+
+-- Query: background --
+0.85	background
+
+-- Query: focus --
+
+-- Query: formal style --
+
+-- Query: his facial expression --
+0.78	facial expression
+0.52	smile
+
+-- Query: his hair --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: likely oil paints --
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: medium --
+
+-- Query: motifs --
+
+-- Query: no visible objects --
+
+-- Query: oil paints --
+
+-- Query: overall composition --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: period --
+
+-- Query: portrait --
+0.65	half-length portrait
+0.52	bust (portrait)
+
+-- Query: primary focus --
+
+-- Query: side --
+
+-- Query: style --
+
+-- Query: subject --
+
+-- Query: subjects face --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_alh91z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: black --
+
+-- Query: central --
+
+-- Query: cursive --
+
+-- Query: dark --
+
+-- Query: devoid --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: left --
+
+-- Query: middle --
+
+-- Query: minimalistic --
+
+-- Query: mountainous --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: rocky --
+
+-- Query: rough --
+
+-- Query: sharp --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: stark --
+
+-- Query: uneven --
+
+
+== Keywords for Emotion ==
+-- Query: human --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: monochromatic --
+
+-- Query: peaked --
+
+-- Query: rugged --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: any human presence --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: black ink --
+
+-- Query: blackandwhite drawing --
+
+-- Query: building --
+0.79	building
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: central mountain --
+0.70	Montserrat (mountain)
+
+-- Query: clouds --
+0.82	cloud
+
+-- Query: cursive style --
+
+-- Query: darker areas --
+0.77	darkness
+
+-- Query: few branches --
+
+-- Query: few clouds --
+0.54	cloud
+
+-- Query: few windows --
+0.64	window
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: lighter areas --
+
+-- Query: lowerleft corner --
+
+-- Query: middle ground --
+0.98	middle ground
+
+-- Query: motifs --
+
+-- Query: mountain --
+0.69	Montserrat (mountain)
+
+-- Query: mountainous landscape --
+0.59	Montserrat (mountain)
+
+-- Query: mountains --
+0.58	Montserrat (mountain)
+
+-- Query: mountains surface --
+0.54	Montserrat (mountain)
+
+-- Query: natural beauty --
+
+-- Query: overall style --
+
+-- Query: peaked roof --
+0.55	straw roof
+
+-- Query: ruggedness --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: several other mountains --
+0.51	Montserrat (mountain)
+
+-- Query: several trees --
+0.70	tree
+
+-- Query: sharp peaks --
+
+-- Query: signature --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: smaller mountains --
+0.56	Montserrat (mountain)
+
+-- Query: stark contrast --
+
+-- Query: these mountains --
+0.64	Montserrat (mountain)
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: trees --
+
+-- Query: use --
+
+-- Query: various shades --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1717z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: agricultural --
+
+-- Query: clear --
+
+-- Query: fed --
+
+-- Query: healthy --
+0.60	freshness
+0.58	calm
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: modest --
+
+-- Query: overall --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: productive --
+
+-- Query: rustic --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: temperate --
+
+-- Query: thatched --
+
+-- Query: thriving --
+
+-- Query: traditional --
+
+-- Query: typical --
+
+-- Query: visible --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: blue --
+
+-- Query: brown --
+
+-- Query: close --
+
+-- Query: grassy --
+
+-- Query: green --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: likely --
+
+-- Query: lush --
+
+-- Query: relevant --
+
+-- Query: rural --
+
+-- Query: semi --
+
+-- Query: white --
+
+-- Query: yellow --
+
+
+== Elements of the Picture ==
+-- Query: agricultural purposes --
+
+-- Query: analysis --
+
+-- Query: animals --
+
+-- Query: area --
+
+-- Query: background --
+0.85	background
+
+-- Query: bundle --
+
+-- Query: clear day --
+0.52	route
+
+-- Query: close connection --
+
+-- Query: community --
+
+-- Query: conclusion --
+
+-- Query: cows --
+
+-- Query: dirt path --
+
+-- Query: environment --
+
+-- Query: farming tools --
+
+-- Query: fence --
+
+-- Query: field --
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: gradient --
+
+-- Query: grassy area --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: healthy trees --
+0.77	tree
+
+-- Query: house --
+0.88	house
+0.74	farmhouse
+
+-- Query: image --
+
+-- Query: importance --
+
+-- Query: key words --
+
+-- Query: large bundle --
+
+-- Query: likely a painting --
+
+-- Query: livestock farming --
+
+-- Query: lush greenery --
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: one person --
+0.73	person
+
+-- Query: other agricultural materials --
+
+-- Query: other person --
+0.56	person
+
+-- Query: other vegetation --
+
+-- Query: overall atmosphere --
+
+-- Query: pasture --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: possibly a farmhouse --
+0.94	farmhouse
+0.62	house
+
+-- Query: presence --
+
+-- Query: relevant knowledge --
+
+-- Query: rural life --
+
+-- Query: rural scene --
+
+-- Query: rural settings --
+
+-- Query: rural traditions --
+
+-- Query: several people --
+0.66	group of people
+
+-- Query: simple dwelling --
+0.58	house
+
+-- Query: simplicity --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small homestead --
+
+-- Query: some form --
+
+-- Query: some light clouds --
+0.67	cloud
+
+-- Query: surrounding environment --
+
+-- Query: temperate climate --
+
+-- Query: thatched roof --
+0.75	straw roof
+
+-- Query: these aspects --
+
+-- Query: traditional way --
+
+-- Query: tranquility --
+
+-- Query: trees --
+
+-- Query: two cows --
+
+-- Query: two people --
+0.57	group of people
+
+-- Query: variety --
+
+-- Query: wooden fence --
+0.63	wood cladding
+
+-- Query: wooden walls --
+0.84	wood cladding
+0.68	wooden door
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9279z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: circular --
+
+-- Query: classical --
+
+-- Query: decorative --
+
+-- Query: horizontal --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: left --
+
+-- Query: middle --
+
+-- Query: small --
+
+
+== Keywords for Emotion ==
+-- Query: close --
+
+-- Query: right --
+
+-- Query: semi --
+
+
+== Elements of the Picture ==
+-- Query: arches --
+
+-- Query: architectural details --
+0.74	archway
+
+-- Query: artist --
+
+-- Query: classical style --
+
+-- Query: columns --
+
+-- Query: decorative capitals --
+
+-- Query: drawing --
+
+-- Query: focus --
+
+-- Query: horizontal beams --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: left edge --
+
+-- Query: leftmost arch --
+0.65	archway
+
+-- Query: leftmost column --
+
+-- Query: middle arch --
+0.77	middle ground
+0.66	archway
+
+-- Query: motifs --
+
+-- Query: pencil drawing --
+
+-- Query: right edge --
+
+-- Query: rightmost --
+
+-- Query: rightmost column --
+
+-- Query: row --
+
+-- Query: series --
+
+-- Query: three arches --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_67993ad_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: key --
+
+-- Query: plain --
+
+
+== Keywords for Emotion ==
+-- Query: right --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: cigarette --
+
+-- Query: hat --
+0.60	hat
+
+-- Query: his face --
+
+-- Query: his right hand --
+0.70	hand gesture
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: motifs --
+
+-- Query: no other object --
+
+-- Query: serious expression --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_167633z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: abstract --
+
+-- Query: black --
+
+-- Query: curved --
+
+-- Query: detailed --
+
+-- Query: different --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: left --
+
+-- Query: long --
+
+-- Query: overall --
+
+-- Query: quick --
+
+-- Query: round --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: squatting --
+
+
+== Keywords for Emotion ==
+-- Query: bent --
+
+-- Query: recognizable --
+
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: black ink --
+
+-- Query: body --
+
+-- Query: bottom right drawing --
+
+-- Query: chain --
+0.80	gold chain
+0.57	stand-up collar
+0.53	bonnet
+0.52	gesture
+
+-- Query: collage --
+
+-- Query: conclusion --
+
+-- Query: detailed description --
+
+-- Query: drawings --
+
+-- Query: each drawing --
+
+-- Query: few lines --
+
+-- Query: figure --
+0.66	figure seen from the back
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: four different drawings --
+
+-- Query: head --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: overall impression --
+
+-- Query: quick sketches --
+
+-- Query: side --
+
+-- Query: squatting position --
+
+-- Query: this drawing --
+
+-- Query: various figures --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11066-1125360z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: architectural --
+
+-- Query: beige --
+
+-- Query: classical --
+
+-- Query: clean --
+0.66	freshness
+
+-- Query: detailed --
+
+-- Query: elegant --
+
+-- Query: essential --
+
+-- Query: key --
+
+-- Query: minimalist --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: primary --
+
+-- Query: second --
+
+-- Query: small --
+
+-- Query: thin --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+
+== Elements of the Picture ==
+-- Query: additional information --
+
+-- Query: architectural element --
+0.76	archway
+
+-- Query: backrest --
+0.70	figure seen from the back
+
+-- Query: beige background --
+
+-- Query: bottom --
+
+-- Query: capital --
+
+-- Query: caption --
+
+-- Query: captions --
+
+-- Query: chair --
+0.91	chair
+0.68	back of a chair
+
+-- Query: drawings --
+
+-- Query: each drawing --
+
+-- Query: essence --
+
+-- Query: essential details --
+
+-- Query: essential elements --
+
+-- Query: first drawing --
+
+-- Query: focus --
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: key words --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: name --
+
+-- Query: neutral backdrop --
+
+-- Query: neutral background --
+0.62	background
+
+-- Query: overall aesthetic --
+
+-- Query: possibly a column --
+
+-- Query: second drawing --
+
+-- Query: subject --
+
+-- Query: subjects --
+
+-- Query: thin lines --
+
+-- Query: top --
+
+-- Query: type --
+
+-- Query: use --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1738z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: abundant --
+0.69	abundance
+
+-- Query: classical --
+
+-- Query: cloudy --
+
+-- Query: dark --
+
+-- Query: effective --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: long --
+
+-- Query: modest --
+
+-- Query: muted --
+
+-- Query: natural --
+
+-- Query: old --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: similar --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: soft --
+
+-- Query: subtle --
+
+-- Query: temperate --
+
+-- Query: thatched --
+
+-- Query: traditional --
+
+-- Query: typical --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: human --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: rural --
+
+-- Query: semi --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: beauty --
+
+-- Query: bottom --
+
+-- Query: clouds --
+0.82	cloud
+
+-- Query: day --
+
+-- Query: dg willis --
+
+-- Query: fence --
+
+-- Query: few houses --
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: genre --
+
+-- Query: gown --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: hint --
+
+-- Query: houses --
+0.86	house
+0.71	farmhouse
+
+-- Query: human figures --
+
+-- Query: image --
+
+-- Query: interaction --
+
+-- Query: its ability --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: location --
+
+-- Query: medium --
+
+-- Query: middle --
+0.83	middle ground
+
+-- Query: motifs --
+
+-- Query: overall composition --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: piece --
+
+-- Query: possibly a book --
+
+-- Query: possibly a dress --
+0.77	dress
+
+-- Query: realistic manner --
+
+-- Query: right --
+
+-- Query: scene --
+
+-- Query: setting --
+
+-- Query: similar material --
+
+-- Query: similar technique --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small object --
+
+-- Query: soft muted tones --
+
+-- Query: some barrels --
+
+-- Query: subtle brushstrokes --
+
+-- Query: temperate climate --
+
+-- Query: text --
+
+-- Query: thatched roofs --
+0.75	straw roof
+
+-- Query: their interaction --
+
+-- Query: their natural environment --
+
+-- Query: this painting --
+
+-- Query: this type --
+
+-- Query: three figures --
+0.82	three-quarter profile
+
+-- Query: traditional clothing --
+
+-- Query: trees --
+
+-- Query: typical example --
+
+-- Query: use --
+
+-- Query: variety --
+
+-- Query: visible brushstrokes --
+
+-- Query: way --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3749z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: calm --
+0.98	calm
+
+-- Query: clear --
+
+-- Query: cloudy --
+
+-- Query: common --
+
+-- Query: conducive --
+
+-- Query: different --
+
+-- Query: fair --
+
+-- Query: good --
+
+-- Query: key --
+
+-- Query: muted --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: overcast --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: realistic --
+
+-- Query: recreational --
+
+-- Query: serene --
+
+-- Query: small --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: beautiful --
+0.54	carefree
+
+-- Query: fluffy --
+
+-- Query: gentle --
+
+-- Query: human --
+
+-- Query: relevant --
+
+-- Query: tranquil --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: beauty --
+
+-- Query: boats --
+
+-- Query: body --
+
+-- Query: calm waters --
+0.57	body of water
+
+-- Query: clear visibility --
+
+-- Query: clouds --
+0.82	cloud
+
+-- Query: cloudy sky --
+0.66	sky
+0.65	cloud
+
+-- Query: common bodies --
+
+-- Query: conclusion --
+
+-- Query: different purposes --
+
+-- Query: different sizes --
+
+-- Query: drawing --
+
+-- Query: few boats --
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: gentle ripples --
+
+-- Query: good visibility --
+
+-- Query: human activity --
+
+-- Query: image --
+
+-- Query: its surface --
+
+-- Query: key words --
+
+-- Query: light --
+0.76	light
+0.70	light reflection
+0.69	incident light
+0.68	reflection (light)
+
+-- Query: many parts --
+
+-- Query: middle --
+0.83	middle ground
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: muted colors --
+
+-- Query: natural world --
+
+-- Query: overall scene --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: peaceful atmosphere --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: presence --
+
+-- Query: realism --
+
+-- Query: realistic style --
+
+-- Query: recreational activities --
+
+-- Query: relevant knowledge --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: serene atmosphere --
+
+-- Query: serene environment --
+
+-- Query: serene landscape --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: some boats --
+
+-- Query: their presence --
+
+-- Query: their sails --
+
+-- Query: these activities --
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: use --
+
+-- Query: water --
+0.71	water
+0.70	body of water
+
+-- Query: weather --
+
+-- Query: world --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_7058z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: balanced --
+
+-- Query: clean --
+0.66	freshness
+
+-- Query: compacted --
+
+-- Query: detailed --
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: muted --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: polished --
+
+-- Query: prominent --
+
+-- Query: realistic --
+
+-- Query: serene --
+
+-- Query: soft --
+
+-- Query: uneven --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: brown --
+
+-- Query: delicate --
+
+-- Query: gray --
+
+-- Query: intricate --
+
+-- Query: lush --
+
+-- Query: rugged --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: artist --
+
+-- Query: artwork --
+
+-- Query: background --
+0.85	background
+
+-- Query: bark --
+
+-- Query: compacted earth --
+
+-- Query: detailed depiction --
+
+-- Query: dirt path --
+
+-- Query: essence --
+
+-- Query: feeling --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: forest --
+
+-- Query: forest elements --
+
+-- Query: forest floor --
+
+-- Query: forest scene --
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: larger mountain --
+0.69	Montserrat (mountain)
+
+-- Query: lush foliage --
+
+-- Query: manmade path --
+0.53	man
+
+-- Query: medium --
+
+-- Query: motifs --
+
+-- Query: natural beauty --
+
+-- Query: natural elements --
+
+-- Query: natural grandeur --
+
+-- Query: overall composition --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: path --
+
+-- Query: possibly a part --
+
+-- Query: prominent feature --
+
+-- Query: realism --
+
+-- Query: rock --
+
+-- Query: rocks --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: serene forest --
+
+-- Query: texture --
+
+-- Query: their branches --
+
+-- Query: trees --
+
+-- Query: underbrush --
+
+-- Query: use --
+
+-- Query: variety --
+
+-- Query: various shades --
+
+-- Query: various sizes --
+
+-- Query: way --
+
+-- Query: white border --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9720z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: beige --
+
+-- Query: cursive --
+
+-- Query: detailed --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: overall --
+
+-- Query: prominent --
+
+-- Query: realistic --
+
+-- Query: rectangular --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: spaced --
+
+-- Query: thin --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+-- Query: personal --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: 11th month --
+
+-- Query: 30th day --
+
+-- Query: artist --
+
+-- Query: bottom --
+
+-- Query: building --
+0.79	building
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: cursive script --
+
+-- Query: depth --
+
+-- Query: detailed representation --
+
+-- Query: door --
+0.73	wooden door
+
+-- Query: drawing --
+
+-- Query: each side --
+
+-- Query: edges --
+0.87	edging
+
+-- Query: front --
+0.53	figure seen from the back
+
+-- Query: image --
+
+-- Query: its architectural features --
+
+-- Query: its features --
+
+-- Query: key words --
+
+-- Query: large door --
+0.53	wooden door
+
+-- Query: motifs --
+
+-- Query: outlines --
+
+-- Query: overall structure --
+
+-- Query: page --
+
+-- Query: paper --
+
+-- Query: pencil drawing --
+
+-- Query: personal touch --
+0.58	physical contact
+
+-- Query: piece --
+
+-- Query: prominent features --
+
+-- Query: rectangular shape --
+
+-- Query: signature --
+
+-- Query: thin lines --
+
+-- Query: two more windows --
+0.71	window
+0.55	leaded glass
+
+-- Query: two windows --
+0.74	window
+
+-- Query: twostory building --
+0.52	building
+
+-- Query: viewer --
+
+-- Query: white border --
+
+-- Query: windows --
+0.93	window
+
+-- Query: year --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3170z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: characteristic --
+
+-- Query: clear --
+
+-- Query: detailed --
+
+-- Query: dutch --
+
+-- Query: earthy --
+
+-- Query: easy --
+
+-- Query: key --
+
+-- Query: loose --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: quiet --
+
+-- Query: serene --
+
+-- Query: sewing --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: traditional --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: blue --
+
+-- Query: brown --
+
+-- Query: domestic --
+
+-- Query: expressive --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: pink --
+
+-- Query: right --
+
+-- Query: yellow --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: baby --
+
+-- Query: background --
+0.85	background
+
+-- Query: connection --
+
+-- Query: cradle --
+
+-- Query: desire --
+
+-- Query: domestic life --
+
+-- Query: domestic setting --
+
+-- Query: domestic tranquility --
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: focus --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: loose expressive lines --
+
+-- Query: motifs --
+
+-- Query: overall atmosphere --
+
+-- Query: overall composition --
+
+-- Query: past --
+
+-- Query: piece --
+
+-- Query: quiet moment --
+
+-- Query: right --
+
+-- Query: right wears --
+
+-- Query: rustic setting --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: simple earthy colors --
+
+-- Query: simpler way --
+
+-- Query: sketchy style --
+
+-- Query: traditional dutch art --
+
+-- Query: traditional dutch clothing --
+
+-- Query: two women --
+0.57	standing woman (standing people)
+0.50	woman
+
+-- Query: use --
+
+-- Query: variety --
+
+-- Query: wall --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+-- Query: women --
+0.79	woman
+0.73	standing woman (standing people)
+
+-- Query: wooden cradle --
+0.64	wood cladding
+0.53	wooden door
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_5146z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: arched --
+
+-- Query: architectural --
+
+-- Query: conical --
+
+-- Query: decorative --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: future --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: main --
+
+-- Query: minimal --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: rectangular --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: spaced --
+
+-- Query: spherical --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: traditional --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+-- Query: likely --
+
+-- Query: minaret --
+
+-- Query: religious --
+
+-- Query: right --
+
+-- Query: semi --
+
+-- Query: visual --
+
+
+== Elements of the Picture ==
+-- Query: arched windows --
+0.71	window
+
+-- Query: architectural details --
+0.74	archway
+
+-- Query: artist --
+
+-- Query: building --
+0.79	building
+
+-- Query: buildings design --
+0.71	building
+
+-- Query: buildings structure --
+0.78	building
+0.58	straw roof
+
+-- Query: conical roof --
+0.53	straw roof
+
+-- Query: date --
+
+-- Query: decorative pattern --
+
+-- Query: domes --
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: fine lines --
+
+-- Query: focus --
+
+-- Query: future generations --
+
+-- Query: grandeur --
+
+-- Query: historical context --
+
+-- Query: historical mosque --
+
+-- Query: historical site --
+
+-- Query: image --
+
+-- Query: intricate patterns --
+
+-- Query: its architectural features --
+
+-- Query: its rectangular shape --
+
+-- Query: its significance --
+
+-- Query: key words --
+
+-- Query: larger structure --
+
+-- Query: left --
+
+-- Query: likely a mosque --
+
+-- Query: likely decorative elements --
+
+-- Query: main building --
+0.61	building
+
+-- Query: minaret --
+
+-- Query: minimal shading --
+
+-- Query: motifs --
+
+-- Query: no visible frames --
+
+-- Query: other elements --
+
+-- Query: overall composition --
+
+-- Query: pencil drawing --
+
+-- Query: perception --
+
+-- Query: realistic style --
+
+-- Query: religious building --
+
+-- Query: series --
+
+-- Query: signature --
+
+-- Query: simple design --
+
+-- Query: site --
+
+-- Query: small window --
+0.85	window
+
+-- Query: structure --
+0.50	straw roof
+
+-- Query: their surface --
+
+-- Query: top --
+
+-- Query: traditional style --
+
+-- Query: visual record --
+
+-- Query: walls --
+
+-- Query: windows --
+0.93	window
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3459z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: balanced --
+
+-- Query: clear --
+
+-- Query: fashioned --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: focal --
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: natural --
+
+-- Query: old --
+
+-- Query: overall --
+
+-- Query: pleasant --
+
+-- Query: pointed --
+
+-- Query: prominent --
+
+-- Query: realistic --
+
+-- Query: serene --
+
+-- Query: tall --
+0.58	heaviness
+
+
+== Keywords for Emotion ==
+-- Query: european --
+
+-- Query: rural --
+
+-- Query: semi --
+
+
+== Elements of the Picture ==
+-- Query: architectural styles --
+0.70	archway
+
+-- Query: background --
+0.85	background
+
+-- Query: buildings --
+0.76	building
+
+-- Query: church tower --
+0.98	church tower
+
+-- Query: drawing --
+
+-- Query: europeanstyle town --
+
+-- Query: few branches --
+
+-- Query: few clouds --
+0.54	cloud
+
+-- Query: few patches --
+
+-- Query: fine lines --
+
+-- Query: focal point --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: image --
+
+-- Query: its face --
+
+-- Query: key words --
+
+-- Query: large clock --
+
+-- Query: large windows --
+0.72	window
+
+-- Query: mix --
+
+-- Query: motifs --
+
+-- Query: overall composition --
+
+-- Query: pencil drawing --
+
+-- Query: pleasant day --
+
+-- Query: pointed steeple --
+0.56	belt buckle
+
+-- Query: realistic style --
+
+-- Query: several buildings --
+0.53	building
+
+-- Query: sky --
+0.87	sky
+
+-- Query: town --
+
+-- Query: trees --
+
+-- Query: viewer --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8563z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: basic --
+
+-- Query: key --
+
+-- Query: main --
+
+-- Query: minimalist --
+
+-- Query: neutral --
+
+-- Query: realistic --
+
+-- Query: rectangular --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: basic shapes --
+
+-- Query: bench --
+
+-- Query: drawing --
+
+-- Query: few branches --
+
+-- Query: few lines --
+
+-- Query: focus --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: main focus --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: realistic manner --
+
+-- Query: realistic style --
+
+-- Query: trees --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3252z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: clear --
+
+-- Query: effective --
+
+-- Query: everyday --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: natural --
+
+-- Query: notable --
+
+-- Query: overall --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: realistic --
+
+-- Query: rustic --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: soft --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: thatched --
+
+-- Query: traditional --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: airy --
+
+-- Query: leafy --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: rural --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: basket --
+0.98	basket
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: everyday activities --
+
+-- Query: everyday life --
+
+-- Query: few clouds --
+0.54	cloud
+
+-- Query: few houses --
+
+-- Query: few people --
+
+-- Query: fine detail --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: horizon --
+
+-- Query: houses --
+0.86	house
+0.71	farmhouse
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: lake --
+
+-- Query: large tree --
+0.76	tree
+
+-- Query: light pencil --
+
+-- Query: motifs --
+
+-- Query: natural beauty --
+
+-- Query: objects --
+
+-- Query: overall atmosphere --
+
+-- Query: overall composition --
+
+-- Query: pencil drawing --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: realistic style --
+
+-- Query: river --
+0.86	river
+
+-- Query: rural scene --
+
+-- Query: rustic appearance --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small village --
+0.76	village
+0.62	village street
+
+-- Query: textures --
+
+-- Query: thatched roofs --
+0.75	straw roof
+
+-- Query: traditional clothing --
+
+-- Query: trees --
+
+-- Query: two people --
+0.57	group of people
+
+-- Query: village --
+0.92	village
+0.68	village street
+
+-- Query: wooden bench --
+
+-- Query: wooden walls --
+0.84	wood cladding
+0.68	wooden door
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_7184z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+
+== Keywords for Emotion ==
+
+== Elements of the Picture ==
+-- Query: drawing --
+
+-- Query: helmet --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: other person --
+0.56	person
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: two people --
+0.57	group of people
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_7377z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: bare --
+
+-- Query: calm --
+0.98	calm
+
+-- Query: deep --
+
+-- Query: distant --
+
+-- Query: early --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: flat --
+
+-- Query: harsh --
+
+-- Query: key --
+
+-- Query: late --
+
+-- Query: left --
+
+-- Query: modern --
+
+-- Query: muted --
+
+-- Query: natural --
+
+-- Query: overcast --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: realistic --
+
+-- Query: rustic --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: soft --
+
+-- Query: thatched --
+
+-- Query: twisted --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: blue --
+
+-- Query: contemplative --
+
+-- Query: fluffy --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: overall --
+
+-- Query: peaceful --
+0.73	carefree
+0.68	soothing, calming
+0.51	joyful
+
+-- Query: rural --
+
+
+== Elements of the Picture ==
+-- Query: absence --
+
+-- Query: analysis --
+
+-- Query: artist --
+
+-- Query: artists use --
+
+-- Query: background --
+0.85	background
+
+-- Query: beauty --
+
+-- Query: blend --
+0.66	blurring
+0.52	blouse
+
+-- Query: boat --
+
+-- Query: body --
+
+-- Query: buryir --
+
+-- Query: buryir region --
+
+-- Query: clouds --
+0.82	cloud
+
+-- Query: conclusion --
+
+-- Query: connection --
+
+-- Query: deep connection --
+
+-- Query: deep respect --
+
+-- Query: early winter --
+
+-- Query: entrance --
+
+-- Query: environment --
+
+-- Query: fine detail --
+
+-- Query: flat body --
+
+-- Query: flat plain --
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: harsh weather conditions --
+
+-- Query: house --
+0.88	house
+0.74	farmhouse
+
+-- Query: image --
+
+-- Query: its hull --
+
+-- Query: its rustic charm --
+
+-- Query: its surroundings --
+
+-- Query: key words --
+
+-- Query: late autumn --
+
+-- Query: left --
+
+-- Query: light breeze --
+0.57	light
+0.52	light reflection
+
+-- Query: modern conveniences --
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: muted colors --
+
+-- Query: natural beauty --
+
+-- Query: overall mood --
+
+-- Query: realistic detail --
+
+-- Query: realistic style --
+
+-- Query: running water --
+0.72	body of water
+0.64	water
+
+-- Query: rural landscape --
+
+-- Query: sense --
+
+-- Query: serene landscape --
+
+-- Query: several trees --
+0.70	tree
+
+-- Query: signature --
+
+-- Query: simple lifestyle --
+
+-- Query: simplicity --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: small boat --
+
+-- Query: soft brushstrokes --
+
+-- Query: surrounding landscape --
+
+-- Query: thatched roof --
+0.75	straw roof
+
+-- Query: their branches --
+
+-- Query: trees --
+
+-- Query: variety --
+
+-- Query: walls --
+
+-- Query: water --
+0.71	water
+0.70	body of water
+
+-- Query: wooden fence --
+0.63	wood cladding
+
+-- Query: wooden planks --
+0.68	wood cladding
+0.62	wooden door
+
+-- Query: wooden structure --
+0.79	wood cladding
+0.73	wooden door
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_14073z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: black --
+
+-- Query: central --
+
+-- Query: clear --
+
+-- Query: detailed --
+
+-- Query: direct --
+
+-- Query: effective --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: flat --
+
+-- Query: key --
+
+-- Query: leisurely --
+
+-- Query: long --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: short --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: standard --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: subject --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: any additional elements --
+
+-- Query: background --
+0.85	background
+
+-- Query: board --
+
+-- Query: central focus --
+
+-- Query: chessboard --
+
+-- Query: coat --
+0.91	coat
+0.86	coat, cloak
+
+-- Query: collar --
+0.78	stand-up collar
+
+-- Query: detailed sketch --
+
+-- Query: essence --
+
+-- Query: fine lines --
+
+-- Query: focus --
+
+-- Query: grid --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: leisurely activity --
+
+-- Query: long coat --
+0.73	coat
+0.66	coat, cloak
+
+-- Query: motifs --
+
+-- Query: neck --
+0.92	necklace
+
+-- Query: other flat surface --
+
+-- Query: other objects --
+
+-- Query: overall composition --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: persons hair --
+
+-- Query: pieces --
+
+-- Query: realistic style --
+
+-- Query: seated position --
+0.59	seated man
+
+-- Query: simplicity --
+
+-- Query: small beard --
+0.56	full beard
+
+-- Query: squares --
+
+-- Query: standard configuration --
+
+-- Query: subject matter --
+
+-- Query: table --
+0.85	table
+0.66	tablecloth
+
+-- Query: their body --
+
+-- Query: their corresponding values --
+
+-- Query: their eyes --
+0.56	eye contact
+
+-- Query: their head --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15250z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: different --
+
+-- Query: key --
+
+-- Query: left --
+
+-- Query: second --
+
+
+== Keywords for Emotion ==
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: drawing --
+
+-- Query: first figure --
+0.52	figure seen from the back
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: left side --
+
+-- Query: middle --
+0.83	middle ground
+
+-- Query: motifs --
+
+-- Query: right side --
+
+-- Query: second figure --
+
+-- Query: stick --
+
+-- Query: third figure --
+0.80	three-quarter profile
+
+-- Query: three different figures --
+0.65	three-quarter profile
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11880-1196036z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: architectural --
+
+-- Query: clean --
+0.66	freshness
+
+-- Query: clear --
+
+-- Query: complex --
+
+-- Query: consistent --
+
+-- Query: curved --
+
+-- Query: detailed --
+
+-- Query: different --
+
+-- Query: industrial --
+
+-- Query: interior --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: minimal --
+
+-- Query: minimalist --
+
+-- Query: minimalistic --
+
+-- Query: natural --
+
+-- Query: neutral --
+
+-- Query: overall --
+
+-- Query: plain --
+
+-- Query: second --
+
+-- Query: separate --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: straight --
+
+-- Query: traditional --
+
+-- Query: uncluttered --
+
+-- Query: urban --
+
+-- Query: useful --
+
+-- Query: varied --
+
+
+== Keywords for Emotion ==
+-- Query: reminiscent --
+
+-- Query: rural --
+
+-- Query: subject --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: book --
+
+-- Query: both sketches --
+
+-- Query: bottom page --
+
+-- Query: clear focus --
+0.53	light
+0.51	hat
+
+-- Query: consistent style --
+
+-- Query: curved shapes --
+
+-- Query: design --
+
+-- Query: different landscape --
+
+-- Query: drawings --
+
+-- Query: few lines --
+
+-- Query: few structures --
+
+-- Query: first sketch --
+
+-- Query: focus --
+
+-- Query: image --
+
+-- Query: interior design --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: lines --
+
+-- Query: message --
+
+-- Query: minimal shading --
+
+-- Query: minimalist approach --
+
+-- Query: minimalist style --
+
+-- Query: minimalistic nature --
+
+-- Query: mix --
+
+-- Query: motifs --
+
+-- Query: neutral color --
+
+-- Query: neutral colors --
+
+-- Query: overall layout --
+
+-- Query: possibly some buildings --
+0.69	building
+
+-- Query: preference --
+
+-- Query: second sketch --
+
+-- Query: separate page --
+
+-- Query: simple lines --
+
+-- Query: simple structures --
+
+-- Query: simplicity --
+
+-- Query: sketch --
+
+-- Query: sketches --
+
+-- Query: straight lines --
+
+-- Query: structures --
+
+-- Query: subject matter --
+
+-- Query: this sketch --
+
+-- Query: top page --
+
+-- Query: traditional drawing techniques --
+
+-- Query: two sketches --
+
+-- Query: urban planning --
+
+-- Query: use --
+
+-- Query: various contexts --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3885z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: bushy --
+
+-- Query: key --
+
+-- Query: long --
+
+-- Query: old --
+
+-- Query: plain --
+
+-- Query: prominent --
+
+-- Query: realistic --
+
+
+== Keywords for Emotion ==
+-- Query: gray --
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: date --
+
+-- Query: drawing --
+
+-- Query: his hair --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: mans face --
+0.60	man
+
+-- Query: motifs --
+
+-- Query: no other objects --
+
+-- Query: prominent nose --
+
+-- Query: realistic style --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_17256z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+
+== Keywords for Emotion ==
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: few branches --
+
+-- Query: few lines --
+
+-- Query: few trees --
+0.63	tree
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: hill --
+
+-- Query: image --
+
+-- Query: its elevation --
+
+-- Query: key words --
+
+-- Query: landscape --
+
+-- Query: motifs --
+
+-- Query: sketch --
+
+-- Query: trees --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8928-910634z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: beige --
+
+-- Query: cohesive --
+
+-- Query: detailed --
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: identical --
+
+-- Query: key --
+
+-- Query: multiple --
+
+-- Query: natural --
+
+-- Query: neutral --
+
+-- Query: organized --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: rough --
+
+-- Query: similar --
+
+-- Query: small --
+
+-- Query: strong --
+
+-- Query: symmetrical --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: 2 leaves --
+
+-- Query: artist --
+
+-- Query: both sheets --
+
+-- Query: bottom sheet --
+
+-- Query: detailed sketches --
+
+-- Query: drawings --
+
+-- Query: flower bud --
+
+-- Query: flowers --
+
+-- Query: high level --
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: its layout --
+
+-- Query: key words --
+
+-- Query: leaves --
+0.51	coat, cloak
+
+-- Query: less detail --
+
+-- Query: motifs --
+
+-- Query: multiple detailed sketches --
+
+-- Query: natural elements --
+
+-- Query: natural forms --
+
+-- Query: neutral background --
+0.62	background
+
+-- Query: other intricate details --
+
+-- Query: other natural elements --
+
+-- Query: overall layout --
+
+-- Query: paper --
+
+-- Query: paper mirrors --
+
+-- Query: realistic style --
+
+-- Query: series --
+
+-- Query: sheets --
+
+-- Query: similar level --
+
+-- Query: small plant --
+
+-- Query: strong understanding --
+
+-- Query: symmetrical layout --
+
+-- Query: their layout --
+
+-- Query: their representation --
+
+-- Query: these sketches --
+
+-- Query: top sheet --
+
+-- Query: two sheets --
+
+-- Query: use --
+
+-- Query: various natural elements --
+
+-- Query: way --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_bib2472v21a_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: ancient --
+
+-- Query: architectural --
+
+-- Query: black --
+
+-- Query: central --
+
+-- Query: ceremonial --
+
+-- Query: classical --
+
+-- Query: clean --
+0.66	freshness
+
+-- Query: cursive --
+
+-- Query: elevated --
+
+-- Query: formal --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: long --
+
+-- Query: loose --
+
+-- Query: low --
+
+-- Query: medieval --
+
+-- Query: minimal --
+
+-- Query: realistic --
+
+-- Query: similar --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+-- Query: stylized --
+
+-- Query: typical --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: biblical --
+
+-- Query: european --
+
+-- Query: holy --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: likely --
+
+-- Query: religious --
+
+-- Query: significant --
+
+-- Query: symbolic --
+
+
+== Elements of the Picture ==
+-- Query: apostles --
+
+-- Query: background --
+0.85	background
+
+-- Query: balcony --
+
+-- Query: biblical scene --
+
+-- Query: bottom --
+
+-- Query: building --
+0.79	building
+
+-- Query: central figures --
+
+-- Query: cursive script --
+
+-- Query: depiction --
+
+-- Query: elevated ground --
+
+-- Query: event --
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: halo --
+
+-- Query: hill --
+
+-- Query: historical event --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: left --
+
+-- Query: light tone --
+0.61	light
+0.56	light reflection
+0.55	reflection (light)
+0.54	incident light
+
+-- Query: likely followers --
+
+-- Query: line --
+
+-- Query: location --
+
+-- Query: long robes --
+
+-- Query: loose lines --
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: meeting --
+0.58	meadow
+
+-- Query: minimal shading --
+
+-- Query: motifs --
+
+-- Query: name --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: presence --
+
+-- Query: realistic depiction --
+
+-- Query: religious ceremony --
+
+-- Query: religious figures --
+
+-- Query: right --
+
+-- Query: scene --
+
+-- Query: several people --
+0.66	group of people
+
+-- Query: significant event --
+
+-- Query: similar robes --
+
+-- Query: similar status --
+
+-- Query: simple elongated figures --
+
+-- Query: sketch --
+
+-- Query: sketchy style --
+
+-- Query: text --
+
+-- Query: these people --
+0.69	group of people
+
+-- Query: this image --
+
+-- Query: two men --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_67058d_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: circular --
+
+-- Query: cylindrical --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: flat --
+
+-- Query: horizontal --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: realistic --
+
+-- Query: round --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: vertical --
+
+
+== Keywords for Emotion ==
+-- Query: cathedral --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: blades --
+0.66	blurring
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: circular pattern --
+
+-- Query: drawing --
+
+-- Query: fine lines --
+
+-- Query: horizontal blades --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: large church --
+0.58	church tower
+
+-- Query: large tower --
+
+-- Query: maarten kindt --
+
+-- Query: motifs --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: realistic style --
+
+-- Query: round base --
+
+-- Query: series --
+
+-- Query: several buildings --
+0.53	building
+
+-- Query: several people --
+0.66	group of people
+
+-- Query: snowcovered area --
+
+-- Query: tall steeple --
+0.53	belt buckle
+
+-- Query: top --
+
+-- Query: tower --
+0.64	church tower
+
+-- Query: windmill --
+
+-- Query: winter clothing --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1253z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: curly --
+
+-- Query: detailed --
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: key --
+
+-- Query: long --
+
+-- Query: plain --
+
+-- Query: realistic --
+
+-- Query: short --
+
+-- Query: sketchy --
+
+-- Query: small --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: wide --
+
+
+== Keywords for Emotion ==
+-- Query: cheerful --
+
+-- Query: closed --
+
+-- Query: gray --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: cheerful expression --
+
+-- Query: closed eyes --
+
+-- Query: drawing --
+
+-- Query: front --
+0.53	figure seen from the back
+
+-- Query: hat --
+0.60	hat
+
+-- Query: high collar --
+0.68	stand-up collar
+0.59	necklace
+
+-- Query: image --
+
+-- Query: jacket --
+0.96	jacket
+
+-- Query: key words --
+
+-- Query: lines --
+
+-- Query: motifs --
+
+-- Query: pencil drawing --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: persons features --
+
+-- Query: persons hair --
+
+-- Query: plain background --
+0.61	background
+
+-- Query: realistic style --
+
+-- Query: shirt --
+0.80	shirt
+
+-- Query: small nose --
+
+-- Query: small ornament --
+
+-- Query: tall crown --
+
+-- Query: wide brim --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: black --
+
+-- Query: calm --
+0.98	calm
+
+-- Query: dark --
+
+-- Query: elaborate --
+
+-- Query: high --
+0.52	heaviness
+
+-- Query: key --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: skilled --
+
+-- Query: typical --
+
+-- Query: upper --
+
+-- Query: wealthy --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+-- Query: likely --
+
+-- Query: pearl --
+
+-- Query: ruffled --
+
+-- Query: serene --
+0.50	soothing, calming
+
+-- Query: significant --
+
+-- Query: special --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: 17th century --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: black dress --
+0.64	dress
+
+-- Query: bun --
+
+-- Query: calm demeanor --
+0.56	chimney, fireplace
+
+-- Query: chair --
+0.91	chair
+0.68	back of a chair
+
+-- Query: darker shade --
+0.63	darkness
+
+-- Query: details --
+
+-- Query: dress --
+0.91	dress
+
+-- Query: elaborate attire --
+
+-- Query: elaborate clothing --
+
+-- Query: fashion --
+
+-- Query: gradient --
+
+-- Query: her eyes --
+0.51	eye contact
+
+-- Query: her fingers --
+
+-- Query: her hands --
+
+-- Query: her head --
+
+-- Query: her lap --
+
+-- Query: high collar --
+0.68	stand-up collar
+0.59	necklace
+
+-- Query: high status --
+
+-- Query: highstatus setting --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: member --
+
+-- Query: motifs --
+
+-- Query: neckline --
+0.91	necklace
+
+-- Query: overall effect --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: pearl necklace --
+0.65	pearl
+
+-- Query: portrait --
+0.65	half-length portrait
+0.52	bust (portrait)
+
+-- Query: possibly a noblewoman --
+0.62	woman
+
+-- Query: realistic style --
+
+-- Query: right --
+
+-- Query: ruffled edge --
+
+-- Query: sense --
+
+-- Query: serene expression --
+
+-- Query: significant purpose --
+
+-- Query: simple design --
+
+-- Query: skilled artist --
+
+-- Query: special occasion --
+
+-- Query: style --
+
+-- Query: time --
+
+-- Query: upper class --
+
+-- Query: viewer --
+
+-- Query: wealth --
+
+-- Query: white cap --
+0.56	close-fitting cap
+
+-- Query: white lace --
+0.65	necklace
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+-- Query: womans clothing --
+
+-- Query: womans expression --
+
+-- Query: womans hair --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9779z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: essential --
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: minimalist --
+
+-- Query: rectangular --
+
+-- Query: slight --
+
+-- Query: small --
+
+
+== Keywords for Emotion ==
+-- Query: likely --
+
+-- Query: right --
+
+-- Query: rounded --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: castle --
+
+-- Query: drawing --
+
+-- Query: essential elements --
+
+-- Query: hill --
+
+-- Query: historical architecture --
+
+-- Query: historical building --
+
+-- Query: historical document --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: minimalist style --
+
+-- Query: motifs --
+
+-- Query: pencil drawing --
+
+-- Query: piece --
+
+-- Query: rectangular base --
+
+-- Query: right side --
+
+-- Query: rounded roof --
+0.65	straw roof
+
+-- Query: slight incline --
+0.56	light
+
+-- Query: small window --
+0.85	window
+
+-- Query: some trees --
+0.83	tree
+
+-- Query: structure --
+0.50	straw roof
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_10239z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: beige --
+
+-- Query: dark --
+
+-- Query: extended --
+
+-- Query: key --
+
+-- Query: muted --
+
+-- Query: open --
+
+-- Query: organic --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: simple --
+
+-- Query: undisturbed --
+
+-- Query: visible --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: human --
+
+-- Query: light --
+0.53	carefree
+
+
+== Elements of the Picture ==
+-- Query: another room --
+
+-- Query: artist --
+
+-- Query: chair --
+0.91	chair
+0.68	back of a chair
+
+-- Query: darker tones --
+0.68	darkness
+
+-- Query: debris --
+
+-- Query: depiction --
+
+-- Query: disrepair --
+
+-- Query: doorway --
+0.71	wooden door
+
+-- Query: effects --
+
+-- Query: extended period --
+
+-- Query: floor --
+
+-- Query: human activity --
+
+-- Query: image --
+
+-- Query: its contents --
+
+-- Query: key words --
+
+-- Query: lack --
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: muted colors --
+
+-- Query: no visible doors --
+
+-- Query: other organic debris --
+
+-- Query: overall atmosphere --
+
+-- Query: passage --
+
+-- Query: realistic style --
+
+-- Query: right --
+
+-- Query: room --
+
+-- Query: sense --
+
+-- Query: simple design --
+
+-- Query: some time --
+
+-- Query: state --
+
+-- Query: still life --
+
+-- Query: textures --
+
+-- Query: various materials --
+
+-- Query: visible signs --
+
+-- Query: walls --
+
+-- Query: window --
+0.93	window
+
+-- Query: window panes --
+0.74	window
+0.55	leaded glass
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg411_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: common --
+
+-- Query: deciduous --
+
+-- Query: expensive --
+
+-- Query: friendly --
+0.59	freshness
+
+-- Query: integral --
+
+-- Query: key --
+
+-- Query: modest --
+
+-- Query: natural --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: thick --
+
+-- Query: traditional --
+
+-- Query: typical --
+
+-- Query: unpaved --
+
+-- Query: urban --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: brown --
+
+-- Query: close --
+
+-- Query: expressive --
+
+-- Query: green --
+
+-- Query: painterly --
+
+-- Query: rural --
+
+-- Query: yellow --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: background --
+0.85	background
+
+-- Query: birds --
+0.80	bird
+
+-- Query: close connection --
+
+-- Query: common feature --
+
+-- Query: community --
+
+-- Query: conclusion --
+
+-- Query: day --
+
+-- Query: description --
+
+-- Query: dirt road --
+
+-- Query: either side --
+
+-- Query: either spring --
+
+-- Query: environment --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: houses --
+0.86	house
+0.71	farmhouse
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: life --
+
+-- Query: medium --
+
+-- Query: mix --
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: natural elements --
+
+-- Query: painterly style --
+0.53	half-length portrait
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: presence --
+
+-- Query: road --
+
+-- Query: roofs --
+0.87	roof
+0.66	roof tile
+
+-- Query: rural area --
+
+-- Query: rural areas --
+
+-- Query: rural communities --
+
+-- Query: rural landscape --
+
+-- Query: rural scene --
+
+-- Query: rural setting --
+
+-- Query: rural settings --
+
+-- Query: several houses --
+0.57	house
+
+-- Query: simple materials --
+
+-- Query: simplicity --
+
+-- Query: small community --
+
+-- Query: some birds --
+0.74	bird
+
+-- Query: these houses --
+0.78	house
+0.61	farmhouse
+
+-- Query: these trees --
+0.76	tree
+
+-- Query: thick expressive brushstrokes --
+
+-- Query: this painting --
+
+-- Query: traditional method --
+
+-- Query: urban areas --
+
+-- Query: variety --
+
+-- Query: village --
+0.92	village
+0.68	village street
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15733z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: dense --
+
+-- Query: detailed --
+
+-- Query: distant --
+
+-- Query: earthy --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: key --
+
+-- Query: muted --
+
+-- Query: natural --
+
+-- Query: open --
+
+-- Query: overall --
+
+-- Query: overcast --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: realistic --
+
+-- Query: rustic --
+
+-- Query: scattered --
+
+-- Query: serene --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: subtle --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: unspoiled --
+
+-- Query: vast --
+
+
+== Keywords for Emotion ==
+-- Query: lush --
+
+-- Query: verdant --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: cabin --
+
+-- Query: dense canopy --
+
+-- Query: dense shrubs --
+
+-- Query: earthy tones --
+
+-- Query: fine detailed brushstrokes --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: layer --
+
+-- Query: lush greenery --
+
+-- Query: motifs --
+
+-- Query: natural beauty --
+
+-- Query: natural elements --
+
+-- Query: natural materials --
+
+-- Query: other vegetation --
+
+-- Query: overall composition --
+
+-- Query: overall effect --
+
+-- Query: realistic manner --
+
+-- Query: realistic style --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: serene landscape --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: subtle nuances --
+
+-- Query: tall trees --
+0.69	tree
+
+-- Query: textures --
+
+-- Query: their branches --
+
+-- Query: tranquil atmosphere --
+
+-- Query: trees --
+
+-- Query: verdant forest --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11932z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: basic --
+
+-- Query: detailed --
+
+-- Query: key --
+
+-- Query: sketchy --
+
+
+== Keywords for Emotion ==
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: basic shapes --
+
+-- Query: buildings --
+0.76	building
+
+-- Query: cityscape --
+
+-- Query: drawing --
+
+-- Query: essence --
+
+-- Query: few lines --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: sketchy style --
+
+-- Query: white background --
+0.59	background
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_13181vz_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: different --
+
+-- Query: key --
+
+
+== Keywords for Emotion ==
+
+== Elements of the Picture ==
+-- Query: cloth --
+0.83	tablecloth
+0.55	coat, cloak
+
+-- Query: different objects --
+
+-- Query: different types --
+
+-- Query: group --
+0.68	group of people
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: people --
+0.78	group of people
+0.61	standing woman (standing people)
+
+-- Query: sketch --
+
+-- Query: table --
+0.85	table
+0.66	tablecloth
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1738z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: abstract --
+
+-- Query: central --
+
+-- Query: chaotic --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: loose --
+
+-- Query: muscular --
+
+-- Query: mythological --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: similar --
+
+-- Query: sketchy --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: dramatic --
+
+-- Query: dynamic --
+
+-- Query: intense --
+
+
+== Elements of the Picture ==
+-- Query: abstract shapes --
+
+-- Query: another person --
+0.62	person
+
+-- Query: background --
+0.85	background
+
+-- Query: battle --
+
+-- Query: battlefield --
+
+-- Query: central figure --
+
+-- Query: characters --
+
+-- Query: dramatic moment --
+
+-- Query: essence --
+
+-- Query: figures --
+0.59	figure seen from the back
+
+-- Query: fine details --
+
+-- Query: focus --
+
+-- Query: forest --
+
+-- Query: his back --
+0.77	figure seen from the back
+0.61	back of a chair
+
+-- Query: his posture --
+0.53	gesture
+
+-- Query: image --
+
+-- Query: intense action --
+
+-- Query: intense conflict --
+
+-- Query: key words --
+
+-- Query: lines --
+
+-- Query: loose lines --
+
+-- Query: man --
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+-- Query: moment --
+
+-- Query: motifs --
+
+-- Query: muscular man --
+0.71	musician (male)
+0.62	man
+0.60	standing man
+0.56	musical instrument
+
+-- Query: narrative --
+0.62	Inn, tavern
+
+-- Query: natural setting --
+
+-- Query: other person --
+0.56	person
+
+-- Query: overall composition --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: possibly a child --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: several other figures --
+
+-- Query: similar garment --
+
+-- Query: sketch --
+
+-- Query: sketchy style --
+
+-- Query: state --
+
+-- Query: their face --
+
+-- Query: these figures --
+
+-- Query: tunic --
+0.74	tunic (uniform)
+
+-- Query: use --
+
+-- Query: various abstract shapes --
+
+-- Query: various activities --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_12061z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: dense --
+
+-- Query: detailed --
+
+-- Query: effective --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: historical --
+
+-- Query: key --
+
+-- Query: overall --
+
+-- Query: plain --
+
+-- Query: realistic --
+
+-- Query: simple --
+
+-- Query: stark --
+
+-- Query: visible --
+
+
+== Keywords for Emotion ==
+-- Query: gray --
+
+-- Query: intricate --
+
+-- Query: lush --
+
+-- Query: significant --
+
+-- Query: varying --
+
+-- Query: vibrant --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: analysis --
+
+-- Query: artist --
+
+-- Query: artwork --
+
+-- Query: background --
+0.85	background
+
+-- Query: center --
+0.60	middle ground
+
+-- Query: conclusion --
+
+-- Query: detailed tree --
+0.78	tree
+
+-- Query: few branches --
+
+-- Query: frame --
+0.85	frame
+
+-- Query: historical context --
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: key words --
+
+-- Query: leaves --
+0.51	coat, cloak
+
+-- Query: motifs --
+
+-- Query: overall composition --
+
+-- Query: pencil sketch --
+
+-- Query: pencil stroke --
+
+-- Query: piece --
+
+-- Query: sense --
+
+-- Query: signature --
+
+-- Query: significant portion --
+
+-- Query: stark contrast --
+
+-- Query: this information --
+
+-- Query: top --
+
+-- Query: tree --
+0.94	tree
+
+-- Query: trunk --
+
+-- Query: variety --
+
+-- Query: varying shades --
+
+-- Query: viewer --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11800z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+-- Query: large --
+
+-- Query: small --
+
+-- Query: tall --
+0.58	heaviness
+
+
+== Keywords for Emotion ==
+
+== Elements of the Picture ==
+-- Query: church --
+0.66	church tower
+
+-- Query: cross --
+
+-- Query: drawing --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: large door --
+0.53	wooden door
+
+-- Query: motifs --
+
+-- Query: small window --
+0.85	window
+
+-- Query: steeple --
+0.52	belt buckle
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg2344z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: beige --
+
+-- Query: detailed --
+
+-- Query: fine --
+0.51	freshness
+
+-- Query: inclined --
+
+-- Query: intimate --
+
+-- Query: key --
+
+-- Query: main --
+
+-- Query: neutral --
+
+-- Query: peaceful --
+0.51	freshness
+
+-- Query: preliminary --
+
+-- Query: present --
+
+-- Query: realistic --
+
+-- Query: simple --
+
+-- Query: specific --
+
+
+== Keywords for Emotion ==
+-- Query: closed --
+
+-- Query: domestic --
+
+-- Query: faint --
+
+-- Query: gentle --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: likely --
+
+-- Query: sleepy --
+
+
+== Elements of the Picture ==
+-- Query: 2 subjects --
+
+-- Query: 3 expression --
+0.65	three-quarter profile
+
+-- Query: artist --
+
+-- Query: baby --
+
+-- Query: babys bodies --
+0.52	basket
+
+-- Query: babys body --
+0.62	basket
+
+-- Query: babys eyes --
+
+-- Query: babys head --
+
+-- Query: background --
+0.85	background
+
+-- Query: blanket --
+
+-- Query: contours --
+
+-- Query: drawing --
+
+-- Query: fine detailed lines --
+
+-- Query: focus --
+
+-- Query: folds --
+
+-- Query: fullcolor image --
+
+-- Query: her dress --
+0.63	dress
+
+-- Query: her eyes --
+0.51	eye contact
+
+-- Query: her head --
+
+-- Query: her lap --
+
+-- Query: image --
+
+-- Query: interaction --
+
+-- Query: its eyes --
+0.59	eye contact
+
+-- Query: key words --
+
+-- Query: longsleeved top --
+
+-- Query: main subjects --
+
+-- Query: motifs --
+
+-- Query: no other objects --
+
+-- Query: pencil drawing --
+
+-- Query: possibly a home --
+
+-- Query: preliminary work --
+
+-- Query: realistic style --
+
+-- Query: right --
+
+-- Query: seated position --
+0.59	seated man
+
+-- Query: setting --
+
+-- Query: simple dress --
+0.64	dress
+
+-- Query: sketch --
+
+-- Query: skirt --
+0.96	skirt
+
+-- Query: some faint lines --
+
+-- Query: specific setting --
+
+-- Query: subjects --
+
+-- Query: two figures --
+
+-- Query: woman --
+0.93	woman
+0.73	standing woman (standing people)
+
+-- Query: womans face --
+
+-- Query: womans hair --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8199z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: clear --
+
+-- Query: key --
+
+-- Query: tall --
+0.58	heaviness
+
+
+== Keywords for Emotion ==
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: few branches --
+
+-- Query: field --
+
+-- Query: ground --
+0.89	middle ground
+0.79	foreground
+
+-- Query: hat --
+0.60	hat
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: motifs --
+
+-- Query: person --
+0.76	person
+0.52	standing woman (standing people)
+
+-- Query: right side --
+
+-- Query: sketch --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: trees --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_5137z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: accurate --
+
+-- Query: architectural --
+
+-- Query: characteristic --
+
+-- Query: classic --
+
+-- Query: common --
+
+-- Query: detailed --
+
+-- Query: geometric --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: main --
+
+-- Query: overall --
+
+-- Query: protective --
+
+-- Query: rough --
+
+-- Query: secondary --
+
+-- Query: small --
+
+-- Query: tall --
+0.58	heaviness
+
+-- Query: traditional --
+
+
+== Keywords for Emotion ==
+-- Query: intricate --
+
+-- Query: islamic --
+
+-- Query: right --
+
+-- Query: visual --
+
+
+== Elements of the Picture ==
+-- Query: 25 jan --
+
+-- Query: architectural elements --
+0.77	archway
+
+-- Query: artist --
+
+-- Query: artists signature --
+
+-- Query: call --
+
+-- Query: common feature --
+
+-- Query: date --
+
+-- Query: design principles --
+
+-- Query: dome --
+0.50	Rome
+
+-- Query: drawing --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: image --
+
+-- Query: intricate details --
+
+-- Query: intricate geometric designs --
+
+-- Query: islamic architecture --
+
+-- Query: its creation date --
+
+-- Query: its grandeur --
+
+-- Query: key words --
+
+-- Query: large dome --
+0.68	Rome
+
+-- Query: less detail --
+
+-- Query: m imam schafai --
+
+-- Query: main mosque --
+
+-- Query: main structure --
+
+-- Query: minaret --
+
+-- Query: mosque --
+
+-- Query: motifs --
+
+-- Query: other buildings --
+
+-- Query: overall aesthetic --
+
+-- Query: protective barrier --
+
+-- Query: right --
+
+-- Query: rough texture --
+
+-- Query: series --
+
+-- Query: some trees --
+0.83	tree
+
+-- Query: structure --
+0.50	straw roof
+
+-- Query: surrounding wall --
+
+-- Query: tall tower --
+0.50	church tower
+
+-- Query: these structures --
+
+-- Query: this style --
+
+-- Query: wall --
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1325z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: additional --
+
+-- Query: artistic --
+
+-- Query: basic --
+
+-- Query: cursive --
+
+-- Query: elegant --
+
+-- Query: essential --
+
+-- Query: handwritten --
+
+-- Query: key --
+
+-- Query: large --
+
+-- Query: minimalist --
+
+-- Query: natural --
+
+-- Query: notable --
+
+-- Query: overgrown --
+
+-- Query: simple --
+
+-- Query: small --
+
+-- Query: textual --
+
+-- Query: unkempt --
+
+-- Query: wooden --
+
+
+== Keywords for Emotion ==
+-- Query: peaked --
+
+-- Query: personal --
+
+-- Query: right --
+
+
+== Elements of the Picture ==
+-- Query: 3 vegetation --
+
+-- Query: analysis --
+
+-- Query: artists notes --
+
+-- Query: background --
+0.85	background
+
+-- Query: bottom right --
+
+-- Query: climbing plants --
+0.55	chimney, fireplace
+0.53	wood cladding
+
+-- Query: cursive style --
+
+-- Query: description --
+
+-- Query: design --
+
+-- Query: drawing --
+
+-- Query: essential elements --
+
+-- Query: few steps --
+
+-- Query: few trees --
+0.63	tree
+
+-- Query: garden --
+
+-- Query: garden scene --
+
+-- Query: garden structure --
+
+-- Query: gazebo --
+
+-- Query: handwritten note --
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: minimalist aesthetic --
+
+-- Query: minimalist approach --
+
+-- Query: minimalist style --
+
+-- Query: mix --
+
+-- Query: motifs --
+
+-- Query: name apricus --
+
+-- Query: natural beauty --
+
+-- Query: note --
+
+-- Query: overgrown plants --
+
+-- Query: path --
+
+-- Query: peaked roof --
+0.55	straw roof
+
+-- Query: pencil drawing --
+
+-- Query: personal artistic practice --
+
+-- Query: plants --
+
+-- Query: possibly flowers --
+
+-- Query: railing --
+
+-- Query: roof --
+0.95	roof
+0.74	roof tile
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: simple lines --
+
+-- Query: sketchbook --
+
+-- Query: small pavilion --
+
+-- Query: some additional words --
+
+-- Query: some areas --
+
+-- Query: stairs --
+
+-- Query: structure --
+0.50	straw roof
+
+-- Query: text --
+
+-- Query: their basic shapes --
+
+-- Query: touch --
+0.53	physical contact
+
+-- Query: trees --
+
+-- Query: use --
+
+-- Query: various plants --
+
+-- Query: walls --
+
+-- Query: way --
+
+-- Query: wellcaredfor garden --
+
+-- Query: wellmaintained garden --
+
+-- Query: wooden beams --
+0.77	wood cladding
+0.69	wooden door
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1448z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: key --
+
+-- Query: simple --
+
+-- Query: sketchy --
+
+
+== Keywords for Emotion ==
+-- Query: light --
+0.53	carefree
+
+
+== Elements of the Picture ==
+-- Query: background --
+0.85	background
+
+-- Query: cane --
+0.95	cane
+
+-- Query: hat --
+0.60	hat
+
+-- Query: image --
+
+-- Query: key words --
+
+-- Query: light color --
+0.56	light reflection
+0.55	light
+0.53	incident light
+0.51	reflection (light)
+
+-- Query: motifs --
+
+-- Query: sketch --
+
+-- Query: two people --
+0.57	group of people
+
+
+
+Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg2372z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+-- Query: balanced --
+
+-- Query: clear --
+
+-- Query: distant --
+
+-- Query: harmonious --
+0.62	harmony
+
+-- Query: jagged --
+
+-- Query: key --
+
+-- Query: low --
+
+-- Query: middle --
+
+-- Query: mountainous --
+
+-- Query: muted --
+
+-- Query: natural --
+
+-- Query: overall --
+
+-- Query: realistic --
+
+-- Query: renowned --
+
+-- Query: serene --
+
+-- Query: steep --
+
+-- Query: uneven --
+
+
+== Keywords for Emotion ==
+-- Query: blue --
+
+-- Query: british --
+
+-- Query: brown --
+
+-- Query: gray --
+
+-- Query: green --
+
+-- Query: light --
+0.53	carefree
+
+-- Query: lush --
+
+-- Query: picturesque --
+
+-- Query: right --
+
+-- Query: rugged --
+
+-- Query: white --
+
+
+== Elements of the Picture ==
+-- Query: artist --
+
+-- Query: background --
+0.85	background
+
+-- Query: beauty --
+
+-- Query: city --
+
+-- Query: cityscape --
+
+-- Query: clear day --
+0.52	route
+
+-- Query: crevices --
+
+-- Query: distant cityscape --
+
+-- Query: few buildings --
+
+-- Query: focus --
+
+-- Query: foreground --
+0.92	foreground
+
+-- Query: gradient --
+
+-- Query: green vegetation --
+
+-- Query: hint --
+
+-- Query: his landscape paintings --
+
+-- Query: image --
+
+-- Query: its towering peaks --
+
+-- Query: jmw turner --
+
+-- Query: key words --
+
+-- Query: landscape painting --
+
+-- Query: lush greenery --
+
+-- Query: middle ground --
+0.98	middle ground
+
+-- Query: motifs --
+
+-- Query: mountainous landscape --
+0.59	Montserrat (mountain)
+
+-- Query: mountains --
+0.58	Montserrat (mountain)
+
+-- Query: muted colors --
+
+-- Query: natural frame --
+0.69	frame
+
+-- Query: natural landscape --
+
+-- Query: overall composition --
+
+-- Query: painting --
+0.53	half-length portrait
+
+-- Query: peaks --
+0.52	peasant, farmer (male)
+
+-- Query: realistic style --
+
+-- Query: river --
+0.86	river
+
+-- Query: river valley --
+0.64	river
+
+-- Query: rugged terrain --
+
+-- Query: scene --
+
+-- Query: sense --
+
+-- Query: signature --
+
+-- Query: sky --
+0.87	sky
+
+-- Query: some light clouds --
+0.67	cloud
+
+-- Query: steep slopes --
+
+-- Query: stream --
+
+-- Query: text --
+
+-- Query: valley --
+
+-- Query: various shades --
+
+
+

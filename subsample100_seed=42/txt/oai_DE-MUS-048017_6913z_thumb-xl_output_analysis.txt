@@ -21,6 +21,6 @@ atmospheric, bare, central, cold, dense, effective, key, leafless, main, meticul
 beautiful, evocative, intricate, light, powerful
 
 **Elements of the Picture:**
-a forest, a group, a layer, a meticulous attention, a pencil sketch, a sense, a suggestion, a touch, a way, a winter forest, any visible clouds, key words, more trees, other atmospheric elements, snowcovered ground, tall bare trees, the background, the central focus, the distance, the drawing, the essence, the ground, the image, the intricate patterns, the lack, the main subject, the motifs, the overall composition, the realism, the scene, the sky, the snow, the stark beauty, the texture, the trees, the use, the viewer, the winter forest, their bark, their branches, their trunks
+any visible clouds, background, central focus, distance, drawing, essence, forest, ground, group, image, intricate patterns, key words, lack, layer, main subject, meticulous attention, more trees, motifs, other atmospheric elements, overall composition, pencil sketch, realism, scene, sense, sky, snow, snowcovered ground, stark beauty, suggestion, tall bare trees, texture, their bark, their branches, their trunks, touch, trees, use, viewer, way, winter forest
 
 ----------------------------------------

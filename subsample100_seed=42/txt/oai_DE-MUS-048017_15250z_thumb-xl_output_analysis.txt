@@ -13,6 +13,6 @@ different, key, left, second
 right
 
 **Elements of the Picture:**
-a drawing, a stick, key words, the first figure, the image, the left side, the middle, the motifs, the right side, the second figure, the third figure, three different figures
+drawing, first figure, image, key words, left side, middle, motifs, right side, second figure, stick, third figure, three different figures
 
 ----------------------------------------

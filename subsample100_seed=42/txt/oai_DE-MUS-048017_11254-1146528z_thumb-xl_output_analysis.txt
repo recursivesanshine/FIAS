@@ -23,6 +23,6 @@ abstract, basic, beige, black, clean, common, consistent, cursive, detailed, han
 like
 
 **Elements of the Picture:**
-a beige color, a beigecolored background, a common choice, a date, a detailed drawing, a few branches, a few leaves, a focus, a name, a neutral background, a neutral contrast, a pen, a sansserif font, a simple drawing, a tree, a vertical direction, a vertical format, all three sketches, basic shapes, black ink, cursive handwriting, handwritten notes, its branches, key words, small simple shapes, some text, the background, the black ink, the bottom sketch, the center, the handwriting, the image, the linework, the middle sketch, the motifs, the overall aesthetic, the overall style, the sketch, the sketches, the text, the top one, the top sketch, the tree, the use, three handwritten sketches
+all three sketches, background, basic shapes, beige color, beigecolored background, black ink, bottom sketch, center, common choice, cursive handwriting, date, detailed drawing, few branches, few leaves, focus, handwriting, handwritten notes, image, its branches, key words, linework, middle sketch, motifs, name, neutral background, neutral contrast, overall aesthetic, overall style, pen, sansserif font, simple drawing, sketch, sketches, small simple shapes, some text, text, three handwritten sketches, top one, top sketch, tree, use, vertical direction, vertical format
 
 ----------------------------------------

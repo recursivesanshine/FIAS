@@ -23,6 +23,6 @@ ancient, architectural, black, central, ceremonial, classical, clean, cursive, e
 biblical, european, holy, light, likely, religious, significant, symbolic
 
 **Elements of the Picture:**
-a balcony, a biblical scene, a building, a cursive script, a depiction, a halo, a hill, a historical event, a light tone, a line, a realistic depiction, a religious ceremony, a scene, a significant event, a similar status, a sketch, a sketchy style, elevated ground, key words, likely followers, long robes, loose lines, minimal shading, religious figures, several people, similar robes, simple elongated figures, the apostles, the background, the bottom, the building, the central figures, the event, the figures, the foreground, the halo, the image, the left, the location, the man, the meeting, the motifs, the name, the people, the presence, the right, the sketch, the sketchy style, the text, these people, this image, two men
+apostles, background, balcony, biblical scene, bottom, building, central figures, cursive script, depiction, elevated ground, event, figures, foreground, halo, hill, historical event, image, key words, left, light tone, likely followers, line, location, long robes, loose lines, man, meeting, minimal shading, motifs, name, people, presence, realistic depiction, religious ceremony, religious figures, right, scene, several people, significant event, similar robes, similar status, simple elongated figures, sketch, sketchy style, text, these people, this image, two men
 
 ----------------------------------------

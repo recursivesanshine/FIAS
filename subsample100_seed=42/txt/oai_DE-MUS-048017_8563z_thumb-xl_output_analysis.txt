@@ -13,6 +13,6 @@ basic, key, main, minimalist, neutral, realistic, rectangular, simple, sketchy
 light
 
 **Elements of the Picture:**
-a bench, a drawing, a few branches, a few lines, a minimalist style, a realistic manner, a realistic style, key words, the background, the basic shapes, the bench, the drawing, the focus, the image, the main focus, the motifs, the trees
+background, basic shapes, bench, drawing, few branches, few lines, focus, image, key words, main focus, minimalist style, motifs, realistic manner, realistic style, trees
 
 ----------------------------------------

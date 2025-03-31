@@ -1,0 +1,119 @@
+
+Processing file: oai_DE-MUS-048017_1227_thumb-xl.csv
+=====================================================
+
+Total unique matches: 23
+
+== Elements of the Picture ==
+0.98	chimney
+0.93	woman
+0.92	foreground
+0.91	chimney, fireplace
+0.88	house
+0.87	sky
+0.85	background
+0.85	man
+0.78	group of people
+0.77	dancing couple
+0.77	dance
+0.75	straw roof
+0.73	standing woman (standing people)
+0.72	standing man
+0.68	old man
+0.68	hand gesture
+0.64	seated man
+0.60	shirt
+0.60	middle ground
+0.60	man dancing
+0.58	hat
+0.57	close-fitting cap
+0.56	woman dancing
+
+
+Processing file: oai_DE-MUS-048017_1712_thumb-xl.csv
+=====================================================
+
+Total unique matches: 7
+
+== Elements of the Picture ==
+0.79	suit of armour
+0.74	breastplate (armour)
+0.67	eye contact
+0.65	half-length portrait
+0.60	light
+0.59	armour
+0.56	fabric
+
+
+Processing file: oai_DE-MUS-048017_sg377_thumb-xl.csv
+======================================================
+
+Total unique matches: 7
+
+== Keywords for Atmosphere ==
+0.64	freshness
+
+== Elements of the Picture ==
+0.98	basket
+0.97	tablecloth
+0.90	apple
+0.88	doll
+0.85	table
+0.59	water
+
+
+Processing file: oai_DE-MUS-048017_1415_thumb-xl.csv
+=====================================================
+
+Total unique matches: 3
+
+== Keywords for Atmosphere ==
+0.77	thoughtfulness
+
+== Elements of the Picture ==
+0.85	man
+0.52	bust (portrait)
+
+
+Processing file: oai_DE-MUS-048017_alh91z_thumb-xl.csv
+=======================================================
+
+Total unique matches: 1
+
+== Elements of the Picture ==
+0.70	Montserrat (mountain)
+
+
+Processing file: oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv
+=====================================================================================================
+
+Total unique matches: 7
+
+== Keywords for Atmosphere ==
+0.98	calm
+0.52	heaviness
+
+== Elements of the Picture ==
+0.93	woman
+0.91	dress
+0.91	necklace
+0.68	back of a chair
+0.65	pearl
+
+
+Processing file: oai_DE-MUS-048017_sg411_thumb-xl.csv
+======================================================
+
+Total unique matches: 8
+
+== Keywords for Atmosphere ==
+0.59	freshness
+
+== Elements of the Picture ==
+0.92	village
+0.87	roof
+0.86	house
+0.76	tree
+0.71	farmhouse
+0.68	village street
+0.66	roof tile

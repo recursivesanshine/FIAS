@@ -23,6 +23,6 @@ central, clear, dense, great, key, minimalist, natural, peaceful, serene, slende
 delicate, intricate, overall
 
 **Elements of the Picture:**
-a blur, a cluster, a dense forest, a few knots, a few leaves, a few trunks, a forest, a forest scene, a minimalist style, a pencil drawing, a touch, great detail, key words, natural beauty, the artist, the background, the central focus, the drawing, the forest, the image, the impression, the leaves, the medium, the motifs, the natural beauty, the overall mood, the scene, the sense, the tranquil beauty, the trees, the trunks, their silhouettes
+artist, background, blur, central focus, cluster, dense forest, drawing, few knots, few leaves, few trunks, forest, forest scene, great detail, image, impression, key words, leaves, medium, minimalist style, motifs, natural beauty, overall mood, pencil drawing, scene, sense, their silhouettes, touch, tranquil beauty, trees, trunks
 
 ----------------------------------------

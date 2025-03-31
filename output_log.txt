@@ -1,2 +1,2 @@
 Output log:
-/home/alexsanlenz/fias/cumulated_results_violinplot.png
+/home/alexsanlenz/fias/cumulated_results_boxplot.png

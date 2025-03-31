@@ -21,6 +21,6 @@ classical, common, dark, elaborate, high, historical, indicative, key, long, old
 dramatic, intricate, noble, relaxed, white
 
 **Elements of the Picture:**
-a breastplate, a classical painting, a common accessory, a common attire, a focus, a helmet, a high level, a historical figure, a portrait, a prominent feature, a relaxed pose, a slight smile, a suit, a sword, a visor, a way, elaborate armor, elaborate attire, intricate designs, key words, long wavy curls, one hand, shoulder guards, similar patterns, the armor, the background, the breastplate, the dark background, the dramatic effect, the eyes, the face, the hair, the helmet, the hilt, the historical period, the image, the motifs, the overall aesthetic, the overall style, the period, the portrait, the setting, the shoulder guards, the subject, the subjects attire, the subjects face, the subjects hair, the sword, the viewer
+armor, background, breastplate, classical painting, common accessory, common attire, dark background, dramatic effect, elaborate armor, elaborate attire, eyes, face, focus, hair, helmet, high level, hilt, historical figure, historical period, image, intricate designs, key words, long wavy curls, motifs, one hand, overall aesthetic, overall style, period, portrait, prominent feature, relaxed pose, setting, shoulder guards, similar patterns, slight smile, subject, subjects attire, subjects face, subjects hair, suit, sword, viewer, visor, way
 
 ----------------------------------------

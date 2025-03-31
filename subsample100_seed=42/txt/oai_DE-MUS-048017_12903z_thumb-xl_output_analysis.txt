@@ -13,6 +13,6 @@ fine, key, realistic, simple, small, tall, visible
 gray, leafy, light, peaked
 
 **Elements of the Picture:**
-a few branches, a few clouds, a peaked roof, a pencil drawing, a realistic style, a small chimney, a small house, fine lines, key words, the artist, the background, the date, the drawing, the house, the image, the motifs, the sky, the trees
+artist, background, date, drawing, few branches, few clouds, fine lines, house, image, key words, motifs, peaked roof, pencil drawing, realistic style, sky, small chimney, small house, trees
 
 ----------------------------------------

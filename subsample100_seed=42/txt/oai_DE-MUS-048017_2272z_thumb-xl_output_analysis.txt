@@ -17,6 +17,6 @@ abstract, cloudy, dark, dense, detailed, effective, key, large, natural, overall
 grassy, light, nostalgic, warm, white
 
 **Elements of the Picture:**
-a drawing, a focus, a landscape, a realistic style, a sepia tone, key words, the background, the clouds, the darker tones, the drawing, the essence, the foreground, the forest, the grass, the image, the landscape, the motifs, the natural beauty, the overall composition, the overall impression, the shrubs, the sky, the trees, the use, their branches
+background, clouds, darker tones, drawing, essence, focus, foreground, forest, grass, image, key words, landscape, motifs, natural beauty, overall composition, overall impression, realistic style, sepia tone, shrubs, sky, their branches, trees, use
 
 ----------------------------------------

@@ -13,6 +13,6 @@ black, detailed, key, minimalist, overall, simple, sketchy
 light, white
 
 **Elements of the Picture:**
-a cityscape, a few buildings, a few details, a focus, a minimalist style, key words, simple lines, simple rectangles, the buildings, the cityscape, the drawing, the essence, the image, the motifs, the overall composition, the trees
+buildings, cityscape, drawing, essence, few buildings, few details, focus, image, key words, minimalist style, motifs, overall composition, simple lines, simple rectangles, trees
 
 ----------------------------------------

@@ -25,6 +25,6 @@ beige, dark, extended, key, muted, open, organic, overall, realistic, simple, un
 human, light
 
 **Elements of the Picture:**
-a chair, a moment, a realistic style, a room, a sense, a simple design, a state, a still life, a window, an extended period, another room, human activity, its contents, key words, muted colors, no visible doors, other organic debris, some time, the artist, the darker tones, the debris, the depiction, the disrepair, the doorway, the effects, the floor, the image, the lack, the motifs, the overall atmosphere, the passage, the right, the room, the textures, the walls, the window, the window panes, various materials, visible signs
+another room, artist, chair, darker tones, debris, depiction, disrepair, doorway, effects, extended period, floor, human activity, image, its contents, key words, lack, moment, motifs, muted colors, no visible doors, other organic debris, overall atmosphere, passage, realistic style, right, room, sense, simple design, some time, state, still life, textures, various materials, visible signs, walls, window, window panes
 
 ----------------------------------------

@@ -13,6 +13,6 @@ key
 None
 
 **Elements of the Picture:**
-a few branches, a few lines, a few trees, a hill, a landscape, a sketch, its elevation, key words, the background, the foreground, the hill, the image, the motifs, the trees
+background, few branches, few lines, few trees, foreground, hill, image, its elevation, key words, landscape, motifs, sketch, trees
 
 ----------------------------------------

@@ -44,6 +44,6 @@ additional, cursive, detailed, exact, foreign, handwritten, identifiable, key, l
 right
 
 **Elements of the Picture:**
-a book, a cursive script, a detailed description, a drawing, a foreign language, a handwritten note, a logo, a page, a passage, a quote, a small drawing, a symbol, additional context, an icon, bottom center, key words, middle center, middle left, middle right, the bottom, the drawing, the exact language, the image, the logo, the motifs, the page, the text, the top center, top center, top right corner, various words
+additional context, book, bottom, bottom center, cursive script, detailed description, drawing, exact language, foreign language, handwritten note, icon, image, key words, logo, middle center, middle left, middle right, motifs, page, passage, quote, small drawing, symbol, text, top center, top right corner, various words
 
 ----------------------------------------

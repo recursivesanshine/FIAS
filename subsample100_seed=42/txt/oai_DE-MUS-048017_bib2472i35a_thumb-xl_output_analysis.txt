@@ -13,6 +13,6 @@ additional, architectural, basic, key, plain, simple, sketchy
 likely
 
 **Elements of the Picture:**
-a column, a drawing, a section, a sequence, a wall, an arch, architectural elements, identification code, key words, no additional details, the architectural elements, the background, the basic shapes, the drawing, the image, the motifs, the numbers
+arch, architectural elements, background, basic shapes, column, drawing, identification code, image, key words, motifs, no additional details, numbers, section, sequence, wall
 
 ----------------------------------------

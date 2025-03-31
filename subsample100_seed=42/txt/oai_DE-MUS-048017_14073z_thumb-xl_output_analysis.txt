@@ -27,6 +27,6 @@ additional, black, central, clear, detailed, direct, effective, fine, flat, key,
 subject, white
 
 **Elements of the Picture:**
-a collar, a detailed sketch, a grid, a leisurely activity, a long coat, a person, a realistic style, a seated position, a small beard, a standard configuration, a table, any additional elements, fine lines, key words, other flat surface, other objects, the background, the board, the central focus, the chessboard, the coat, the essence, the focus, the image, the motifs, the neck, the overall composition, the person, the persons hair, the pieces, the simplicity, the squares, the subject matter, their body, their corresponding values, their eyes, their head
+any additional elements, background, board, central focus, chessboard, coat, collar, detailed sketch, essence, fine lines, focus, grid, image, key words, leisurely activity, long coat, motifs, neck, other flat surface, other objects, overall composition, person, persons hair, pieces, realistic style, seated position, simplicity, small beard, squares, standard configuration, subject matter, table, their body, their corresponding values, their eyes, their head
 
 ----------------------------------------

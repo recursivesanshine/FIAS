@@ -29,6 +29,6 @@ architectural, black, central, cursive, dark, devoid, key, large, left, middle, 
 human, light, monochromatic, peaked, rugged, white
 
 **Elements of the Picture:**
-a blackandwhite drawing, a building, a cursive style, a few branches, a few clouds, a few windows, a focus, a mountainous landscape, a peaked roof, a sense, a stark contrast, a touch, any human presence, black ink, darker areas, key words, lighter areas, several other mountains, several trees, sharp peaks, smaller mountains, the artist, the background, the building, the center, the central mountain, the clouds, the foreground, the image, the lowerleft corner, the middle ground, the motifs, the mountain, the mountainous landscape, the mountains, the mountains surface, the natural beauty, the overall style, the ruggedness, the scene, the signature, the sky, the trees, the use, these mountains, various shades
+any human presence, artist, background, black ink, blackandwhite drawing, building, center, central mountain, clouds, cursive style, darker areas, few branches, few clouds, few windows, focus, foreground, image, key words, lighter areas, lowerleft corner, middle ground, motifs, mountain, mountainous landscape, mountains, mountains surface, natural beauty, overall style, peaked roof, ruggedness, scene, sense, several other mountains, several trees, sharp peaks, signature, sky, smaller mountains, stark contrast, these mountains, touch, trees, use, various shades
 
 ----------------------------------------

@@ -27,6 +27,6 @@ balanced, clean, compacted, detailed, harmonious, key, large, muted, natural, ov
 brown, delicate, gray, intricate, lush, rugged, white
 
 **Elements of the Picture:**
-a dirt path, a forest scene, a larger mountain, a manmade path, a painting, a prominent feature, a sense, a serene forest, a variety, a way, a white border, analysis, compacted earth, intricate details, key words, natural beauty, possibly a part, the artist, the artwork, the background, the bark, the detailed depiction, the essence, the feeling, the foreground, the forest, the forest elements, the forest floor, the image, the landscape, the lush foliage, the medium, the motifs, the natural beauty, the natural elements, the natural grandeur, the overall composition, the painting, the path, the realism, the rock, the rocks, the scene, the texture, the trees, the underbrush, the use, their branches, various shades, various sizes
+analysis, artist, artwork, background, bark, compacted earth, detailed depiction, dirt path, essence, feeling, foreground, forest, forest elements, forest floor, forest scene, image, intricate details, key words, landscape, larger mountain, lush foliage, manmade path, medium, motifs, natural beauty, natural elements, natural grandeur, overall composition, painting, path, possibly a part, prominent feature, realism, rock, rocks, scene, sense, serene forest, texture, their branches, trees, underbrush, use, variety, various shades, various sizes, way, white border
 
 ----------------------------------------

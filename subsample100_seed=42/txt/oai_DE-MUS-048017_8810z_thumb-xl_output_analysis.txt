@@ -23,6 +23,6 @@ architectural, clear, corridor, decorative, detailed, elegant, far, flat, key, l
 individual, light, likely, visual
 
 **Elements of the Picture:**
-a detailed sketch, a focus, a large window, a lightcolored material, a long hallway, a rectangular opening, a reference, a reference point, a sense, a series, a simple frame, a sketch, another material, its architectural features, its length, key words, possibly marble, the arches, the architectural details, the architectural elements, the architectural firm, the bottom, the ceiling, the corridor, the decorative details, the design, the end, the far end, the floor, the hallway, the image, the light, the lighting, the motifs, the name, the overall structure, the overall style, the sketch, the text, the use, the viewer, the visual appeal, the walls, the window
+another material, arches, architectural details, architectural elements, architectural firm, bottom, ceiling, corridor, decorative details, design, detailed sketch, end, far end, floor, focus, hallway, image, its architectural features, its length, key words, large window, light, lightcolored material, lighting, long hallway, motifs, name, overall structure, overall style, possibly marble, rectangular opening, reference, reference point, sense, series, simple frame, sketch, text, use, viewer, visual appeal, walls, window
 
 ----------------------------------------

@@ -1,0 +1,3987 @@
+
+Processing file: oai_DE-MUS-048017_5160z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_4965z_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.51	edging
+
+From oai_DE-MUS-048017_4965z_thumb-xl.csv:
+0.50	Rome
+0.68	Rome
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+
+
+Processing file: oai_DE-MUS-048017_1227_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 43 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 12 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	shirt
+0.60	middle ground
+0.98	chimney
+0.73	chimney, fireplace
+0.68	dancing couple
+0.65	dance
+0.65	dance
+0.77	dancing couple
+0.77	dance
+0.77	dance
+0.60	man dancing
+0.56	woman dancing
+0.52	group of people
+0.52	group of people
+0.92	foreground
+0.68	group of people
+0.68	group of people
+0.88	house
+0.66	dance
+0.66	dance
+0.54	man dancing
+0.52	dancing couple
+0.51	woman dancing
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+0.66	house
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.58	hat
+0.57	close-fitting cap
+0.87	sky
+0.92	chimney
+0.91	chimney, fireplace
+0.75	straw roof
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+0.68	hand gesture
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.85	man
+0.85	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.60	shirt
+0.85	man
+0.85	man
+0.72	standing man
+0.53	half-length portrait
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	dress
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.97	joyful
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.98	chimney
+0.52	group of people
+0.68	group of people
+0.88	house
+0.74	farmhouse
+0.66	house
+0.78	group of people
+0.95	roof
+0.74	roof tile
+0.87	sky
+0.92	chimney
+
+
+
+Processing file: oai_DE-MUS-048017_sg141z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.60	middle ground
+0.82	cloud
+0.89	middle ground
+0.79	foreground
+0.87	sky
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	belt buckle
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.66	church tower
+0.82	cloud
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_9300z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 10 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building
+0.79	building
+0.53	straw roof
+0.71	wooden door
+0.62	background
+0.55	straw roof
+0.61	meadow
+0.85	window
+0.50	straw roof
+0.53	physical contact
+0.94	tree
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.62	harmony
+0.74	archway
+0.79	building
+0.74	archway
+0.95	roof
+0.74	roof tile
+0.61	meadow
+0.64	church tower
+0.94	tree
+
+
+
+Processing file: oai_DE-MUS-048017_14978z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	middle ground
+0.71	background
+0.63	tree
+0.92	foreground
+0.87	sky
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.65	cartwheel ruff
+0.66	dress
+0.51	dress
+0.54	cartwheel ruff
+0.59	cartwheel ruff
+0.67	dress
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.72	carefree
+0.98	basket
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.72	carefree
+0.63	tree
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_9737z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.88	house
+0.59	background
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.88	house
+0.74	farmhouse
+
+
+
+Processing file: oai_DE-MUS-048017_2306z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 15 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 15 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.65	tree
+0.63	tree
+0.92	foreground
+0.58	straw roof
+0.89	middle ground
+0.79	foreground
+0.88	house
+0.76	tree
+0.76	light
+0.61	light
+0.87	sky
+0.53	physical contact
+0.94	tree
+0.58	wooden door
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+0.70	light reflection
+0.69	incident light
+0.56	light reflection
+0.54	incident light
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.76	light
+0.70	light reflection
+0.68	reflection (light)
+0.61	light
+0.56	light reflection
+0.55	reflection (light)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.51	freshness
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.51	freshness
+0.53	carefree
+0.65	tree
+0.63	tree
+0.88	house
+0.74	farmhouse
+0.76	tree
+0.76	light
+0.70	light reflection
+0.61	light
+0.56	light reflection
+0.87	sky
+0.94	tree
+0.63	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_8928-910694z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building
+0.79	building
+0.50	straw roof
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.69	three-quarter profile
+0.57	three-quarter profile
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.69	three-quarter profile
+0.57	three-quarter profile
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness
+0.76	archway
+0.79	building
+0.95	roof
+0.74	roof tile
+
+
+
+Processing file: oai_DE-MUS-048017_11030z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building
+0.79	building
+0.71	wooden door
+0.51	light
+0.50	straw roof
+0.53	physical contact
+0.61	window
+0.93	window
+0.93	window
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.51	light
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness
+0.74	archway
+0.79	building
+0.70	archway
+0.51	light
+
+
+
+Processing file: oai_DE-MUS-048017_8668z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.54	carefree
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.54	carefree
+0.53	carefree
+
+
+
+Processing file: oai_DE-MUS-048017_bib2472i35a_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.75	archway
+0.77	archway
+
+
+
+Processing file: oai_DE-MUS-048017_8600z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building
+0.79	building
+0.64	wooden door
+0.50	building
+0.50	building
+0.52	standing woman (standing people)
+0.76	window
+0.54	leaded glass
+0.83	tree
+0.50	straw roof
+0.93	window
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.79	building
+0.50	building
+0.76	person
+0.83	tree
+
+
+
+Processing file: oai_DE-MUS-048017_sg537z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 12 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.59	figure seen from the back
+0.92	foreground
+0.68	group of people
+0.68	group of people
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.57	group of people
+0.57	group of people
+0.54	standing woman (standing people)
+0.51	standing man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.51	standing man
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.68	group of people
+0.78	group of people
+0.57	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_7335z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 15 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 10 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.59	figure seen from the back
+0.63	hand gesture
+0.70	hand gesture
+0.63	light
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+0.58	man
+0.58	man
+0.83	middle ground
+0.55	group of people
+0.55	group of people
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness
+0.57	light reflection
+0.85	man
+0.85	man
+0.58	man
+0.58	man
+0.83	suit
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.68	stand-up collar
+0.63	light
+0.57	light reflection
+0.55	reflection (light)
+0.85	man
+0.85	man
+0.72	standing man
+0.58	man
+0.58	man
+0.57	suit of armour
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness
+0.98	thoughtful
+0.59	necklace
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.63	light
+0.57	light reflection
+0.55	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_2432z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	figure seen from the back
+0.85	background
+0.55	light
+0.73	coat
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.56	light reflection
+0.53	incident light
+0.70	coat, cloak
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.56	light reflection
+0.55	light
+0.51	reflection (light)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.56	back of a chair
+0.55	lace cuff
+0.59	lace cuff
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+0.56	back of a chair
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.53	farmhouse
+0.56	light reflection
+0.55	light
+
+
+
+Processing file: oai_DE-MUS-048017_bib2472ii152f_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.89	middle ground
+0.62	middle ground
+0.71	middle ground
+
+
+
+Processing file: oai_DE-MUS-048017_2934z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.54	Montserrat (mountain)
+
+
+
+Processing file: oai_DE-MUS-048017_alh79z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.91	chair
+0.58	gesture
+0.64	figure seen from the back
+0.54	skirt
+0.96	skirt
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness
+0.50	flesh colour
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.78	stand-up collar
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness
+0.68	back of a chair
+0.91	dress
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+0.68	back of a chair
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+
+
+
+Processing file: oai_DE-MUS-048017_10903z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.51	blouse
+0.54	foreground
+0.53	physical contact
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+0.51	coat, cloak
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.75	blurring
+
+
+
+Processing file: oai_DE-MUS-048017_sg392z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.92	foreground
+0.87	sky
+0.67	cloud
+0.71	water
+0.70	body of water
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm
+0.58	heaviness
+0.69	darkness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm
+0.58	heaviness
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.54	Montserrat (mountain)
+0.58	Montserrat (mountain)
+0.56	Montserrat (mountain)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+0.71	water
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm
+0.51	freshness
+0.53	carefree
+0.87	sky
+0.67	cloud
+
+
+
+Processing file: oai_DE-MUS-048017_11774z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.92	foreground
+0.54	cloud
+0.86	river
+0.87	sky
+0.76	tree
+0.69	tree
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.54	cloud
+0.87	sky
+0.76	tree
+0.69	tree
+
+
+
+Processing file: oai_DE-MUS-048017_8102z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	middle ground
+0.66	tree
+0.62	background
+0.54	foreground
+0.94	tree
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.51	coat, cloak
+0.57	eye contact
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame
+0.63	edging
+0.57	eye contact
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.62	harmony
+0.66	tree
+0.94	tree
+
+
+
+Processing file: oai_DE-MUS-048017_33763d_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.66	hand gesture
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.68	stand-up collar
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness
+0.59	necklace
+0.66	dress
+0.93	woman
+0.93	woman
+
+
+
+Processing file: oai_DE-MUS-048017_1712_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.71	background
+0.76	hand gesture
+0.74	smile
+0.60	light
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness
+0.72	darkness
+0.67	eye contact
+0.52	bust (portrait)
+0.83	suit
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.79	suit of armour
+0.59	armour
+0.74	breastplate (armour)
+0.63	suit of armour
+0.67	eye contact
+0.56	fabric
+0.65	half-length portrait
+0.60	light
+0.57	suit of armour
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.60	light
+
+
+
+Processing file: oai_DE-MUS-048017_8810z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 9 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.71	far distance
+0.78	window
+0.76	light
+0.50	light
+0.93	window
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.70	light reflection
+0.69	incident light
+0.52	light reflection
+0.67	incident light
+0.51	light reflection
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.76	light
+0.70	light reflection
+0.68	reflection (light)
+0.52	light reflection
+0.50	light
+0.64	reflection (light)
+0.51	light reflection
+0.86	frame
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.74	archway
+0.77	archway
+0.79	archway
+0.76	light
+0.70	light reflection
+0.52	light reflection
+0.50	light
+0.51	light reflection
+
+
+
+Processing file: oai_DE-MUS-048017_15828cz_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 16 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.59	figure seen from the back
+0.66	hand gesture
+0.70	hand gesture
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+0.52	standing woman (standing people)
+0.61	peasant, farmer (male)
+0.59	peasant, farmer (female)
+0.80	shirt
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness
+0.85	man
+0.85	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.74	breastplate (armour)
+0.85	man
+0.85	man
+0.72	standing man
+0.80	shirt
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness
+0.91	dress
+0.59	ostrich feather
+0.80	necklace
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.76	person
+
+
+
+Processing file: oai_DE-MUS-048017_9286z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.67	window
+0.76	light
+0.61	background
+0.61	meadow
+0.93	window
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.70	light reflection
+0.69	incident light
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame
+0.76	light
+0.70	light reflection
+0.68	reflection (light)
+0.69	frame
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.62	harmony
+0.76	light
+0.70	light reflection
+0.74	archway
+0.61	meadow
+
+
+
+Processing file: oai_DE-MUS-048017_11254-1146528z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	middle ground
+0.63	middle ground
+0.62	background
+0.94	tree
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness
+0.94	tree
+
+
+
+Processing file: oai_DE-MUS-048017_801vz_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.60	figure seen from the back
+0.85	background
+0.78	Inn, tavern
+0.60	middle ground
+0.68	group of people
+0.68	group of people
+0.52	standing woman (standing people)
+0.57	group of people
+0.57	group of people
+0.55	group of people
+0.55	group of people
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.50	soothing, calming
+0.66	three-quarter profile
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.66	three-quarter profile
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.98	basket
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.50	soothing, calming
+0.68	group of people
+0.76	person
+0.57	group of people
+0.55	group of people
+0.65	person
+
+
+
+Processing file: oai_DE-MUS-048017_16235z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+
+
+Processing file: oai_DE-MUS-048017_bib2472iv10a_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.75	close-fitting cap
+0.84	facial expression
+0.65	facial expression
+0.51	smile
+0.56	standing man
+0.51	man
+0.51	man
+0.52	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	calm
+0.51	man
+0.51	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.56	standing man
+0.51	man
+0.51	man
+0.50	patrician (male)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	calm
+0.50	patrician (male)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.64	freshness
+0.75	carefree
+0.53	carefree
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.64	freshness
+0.52	calm
+0.75	carefree
+0.53	carefree
+0.53	carefree
+0.76	person
+
+
+
+Processing file: oai_DE-MUS-048017_2499z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.64	middle ground
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.59	goatee
+
+
+
+Processing file: oai_DE-MUS-048017_9861z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 10 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 7 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.79	building
+0.79	building
+0.98	chimney
+0.73	chimney, fireplace
+0.73	wooden door
+0.50	straw roof
+0.70	window
+0.93	window
+0.69	wooden door
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+0.79	building
+0.98	chimney
+0.95	roof
+0.74	roof tile
+0.77	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_11863z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.70	tree
+0.59	background
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.70	tree
+
+
+
+Processing file: oai_DE-MUS-048017_15156z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 17 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 12 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.62	full beard
+0.60	middle ground
+0.73	wooden door
+0.60	hat
+0.66	hand gesture
+0.63	hand gesture
+0.82	full beard
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+0.94	tree
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness
+0.85	man
+0.85	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.95	belt
+0.86	belt buckle
+0.55	belt
+0.53	sheath
+0.53	sheath
+0.53	sheath
+0.53	sheath
+0.68	stand-up collar
+0.85	man
+0.85	man
+0.72	standing man
+0.56	stand-up collar
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness
+0.75	dress
+0.69	necklace
+0.59	necklace
+0.66	dress
+0.95	necklace
+0.55	lace cuff
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.50	sunspots
+0.94	tree
+
+
+
+Processing file: oai_DE-MUS-048017_sg1721z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 19 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.62	full beard
+0.53	bonnet
+0.52	gesture
+0.91	gesture
+0.58	hand gesture
+0.66	hand gesture
+0.55	facial expression
+0.63	hand gesture
+0.53	gesture
+0.70	hand gesture
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm
+0.85	man
+0.85	man
+0.60	three-quarter profile
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.57	stand-up collar
+0.85	frame
+0.67	tunic (uniform)
+0.85	man
+0.85	man
+0.72	standing man
+0.53	half-length portrait
+0.60	three-quarter profile
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm
+0.80	gold chain
+0.53	bonnet
+0.71	dress
+0.93	woman
+0.93	woman
+0.65	dress
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm
+
+
+
+Processing file: oai_DE-MUS-048017_14673vz_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	hat
+0.52	standing woman (standing people)
+0.71	hand gesture
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.76	person
+
+
+
+Processing file: oai_DE-MUS-048017_3438z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.89	middle ground
+0.79	foreground
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.66	dress
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+
+
+
+Processing file: oai_DE-MUS-048017_2272z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.82	cloud
+0.92	foreground
+0.87	sky
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.68	darkness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.82	cloud
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_13702z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 20 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	figure seen from the back
+0.85	background
+0.50	standing woman (standing people)
+0.50	standing man
+0.53	figure seen from the back
+0.68	group of people
+0.68	group of people
+0.60	hat
+0.73	coat
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.50	soothing, calming
+0.66	coat, cloak
+0.85	man
+0.85	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.50	standing man
+0.85	man
+0.85	man
+0.72	standing man
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.56	back of a chair
+0.78	dress
+0.66	dress
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.56	back of a chair
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.50	soothing, calming
+0.68	group of people
+0.78	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_17313z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 14 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 9 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.54	chimney, fireplace
+0.59	figure seen from the back
+0.92	foreground
+0.78	river
+0.51	middle ground
+0.72	group of people
+0.72	group of people
+0.86	river
+0.70	tree
+0.87	sky
+0.71	water
+0.70	body of water
+0.62	wooden door
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm
+0.80	calm
+0.52	heaviness
+0.63	darkness
+0.74	light reflection
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.74	light reflection
+0.67	reflection (light)
+0.70	glove
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm
+0.80	calm
+0.52	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+0.71	water
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm
+0.80	calm
+0.51	freshness
+0.53	carefree
+0.74	light reflection
+0.72	group of people
+0.70	tree
+0.87	sky
+0.81	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_11716-1187944z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.83	tree
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.73	three-quarter profile
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.73	three-quarter profile
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+0.95	roof
+0.74	roof tile
+0.83	tree
+0.64	church tower
+
+
+
+Processing file: oai_DE-MUS-048017_6913z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 8 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.57	cloud
+0.85	background
+0.72	far distance
+0.89	middle ground
+0.79	foreground
+0.68	group of people
+0.68	group of people
+0.71	tree
+0.87	sky
+0.66	tree
+0.53	physical contact
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.54	carefree
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.54	carefree
+0.53	carefree
+0.58	longing
+0.57	cloud
+0.68	group of people
+0.71	tree
+0.87	sky
+0.66	tree
+
+
+
+Processing file: oai_DE-MUS-048017_sg1743z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.58	physical contact
+0.63	group of people
+0.63	group of people
+0.66	group of people
+0.66	group of people
+0.71	water
+0.70	body of water
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.71	water
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm
+0.78	group of people
+0.63	group of people
+0.66	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_sg377_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 14 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.83	middle ground
+0.53	physical contact
+0.59	water
+0.50	body of water
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	calm
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	calm
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.64	freshness
+0.90	apple
+0.98	basket
+0.88	doll
+0.76	doll
+0.70	doll
+0.73	apple
+0.88	basket
+0.85	table
+0.66	tablecloth
+0.97	tablecloth
+0.62	table
+0.56	doll
+0.59	water
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.62	harmony
+0.64	freshness
+0.52	calm
+
+
+
+Processing file: oai_DE-MUS-048017_11465z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.55	pitcher
+0.87	sky
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.73	eye contact
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.73	eye contact
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.59	Montserrat (mountain)
+0.58	Montserrat (mountain)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_10373z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.76	building
+0.76	building
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.76	building
+
+
+
+Processing file: oai_DE-MUS-048017_12903z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 9 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.54	cloud
+0.88	house
+0.55	straw roof
+0.87	sky
+0.92	chimney
+0.91	chimney, fireplace
+0.74	house
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+0.54	cloud
+0.88	house
+0.74	farmhouse
+0.87	sky
+0.92	chimney
+0.74	house
+0.64	farmhouse
+
+
+
+Processing file: oai_DE-MUS-048017_9360z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	middle ground
+0.73	wooden door
+0.63	tree
+0.89	middle ground
+0.79	foreground
+0.88	house
+0.94	tree
+0.93	window
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.63	tree
+0.88	house
+0.74	farmhouse
+0.94	tree
+
+
+
+Processing file: oai_DE-MUS-048017_9421z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 7 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.52	route
+0.87	sky
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+0.51	coat, cloak
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame
+0.53	frame
+0.53	half-length portrait
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.54	carefree
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.62	harmony
+0.51	freshness
+0.54	carefree
+0.53	carefree
+0.52	route
+0.87	sky
+0.63	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_4965z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+
+
+
+Processing file: oai_DE-MUS-048017_16462z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.56	woman
+0.56	woman
+0.87	sky
+0.93	window
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.59	armour
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.56	woman
+0.56	woman
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_15130z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.62	full beard
+0.50	facial expression
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.59	eye contact
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.59	eye contact
+0.59	skin fold
+
+
+
+Processing file: oai_DE-MUS-048017_5195z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame
+
+
+
+Processing file: oai_DE-MUS-048017_8674z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.64	building
+0.64	building
+0.58	background
+0.58	straw roof
+0.93	window
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	light reflection
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.52	light reflection
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.64	building
+0.52	light reflection
+
+
+
+Processing file: oai_DE-MUS-048017_6020z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 33 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 13 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 13 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.58	standing woman (standing people)
+0.52	route
+0.54	cloud
+0.63	tree
+0.92	foreground
+0.89	middle ground
+0.79	foreground
+0.68	group of people
+0.68	group of people
+0.76	light
+0.83	middle ground
+0.75	woman
+0.75	woman
+0.53	standing woman (standing people)
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.86	river
+0.87	sky
+0.52	body of water
+0.57	standing woman (standing people)
+0.50	woman
+0.50	woman
+0.71	water
+0.70	body of water
+0.54	water
+0.51	body of water
+0.69	body of water
+0.69	water
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm
+0.58	calm
+0.52	heaviness
+0.52	calm
+0.58	heaviness
+0.70	light reflection
+0.69	incident light
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.76	light
+0.70	light reflection
+0.68	reflection (light)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm
+0.58	calm
+0.52	heaviness
+0.52	calm
+0.58	heaviness
+0.66	dress
+0.75	woman
+0.75	woman
+0.63	dress
+0.50	woman
+0.50	woman
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.69	Montserrat (mountain)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.60	freshness
+0.64	freshness
+0.98	basket
+0.71	water
+0.54	water
+0.69	water
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm
+0.60	freshness
+0.58	calm
+0.64	freshness
+0.52	calm
+0.52	route
+0.54	cloud
+0.63	tree
+0.68	group of people
+0.76	light
+0.70	light reflection
+0.78	group of people
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_14282z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.68	group of people
+0.68	group of people
+0.55	facial expression
+0.51	standing man
+0.63	facial expression
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.77	thoughtfulness
+0.51	eye contact
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame
+0.51	eye contact
+0.51	standing man
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.68	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_1415_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.78	facial expression
+0.52	smile
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.77	thoughtfulness
+0.85	man
+0.85	man
+0.52	bust (portrait)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	man
+0.85	man
+0.72	standing man
+0.53	half-length portrait
+0.65	half-length portrait
+
+
+
+Processing file: oai_DE-MUS-048017_alh91z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 13 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.79	building
+0.79	building
+0.60	middle ground
+0.82	cloud
+0.54	cloud
+0.64	window
+0.92	foreground
+0.98	middle ground
+0.55	straw roof
+0.70	tree
+0.87	sky
+0.53	physical contact
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.77	darkness
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.70	Montserrat (mountain)
+0.69	Montserrat (mountain)
+0.59	Montserrat (mountain)
+0.58	Montserrat (mountain)
+0.54	Montserrat (mountain)
+0.51	Montserrat (mountain)
+0.56	Montserrat (mountain)
+0.64	Montserrat (mountain)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.79	building
+0.82	cloud
+0.54	cloud
+0.70	tree
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_1717z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 20 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 20 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.52	route
+0.92	foreground
+0.89	middle ground
+0.79	foreground
+0.77	tree
+0.88	house
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.62	house
+0.66	group of people
+0.66	group of people
+0.58	house
+0.87	sky
+0.67	cloud
+0.75	straw roof
+0.57	group of people
+0.57	group of people
+0.68	wooden door
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	calm
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	calm
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.60	freshness
+0.51	freshness
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.60	freshness
+0.58	calm
+0.51	freshness
+0.53	carefree
+0.52	route
+0.77	tree
+0.88	house
+0.74	farmhouse
+0.73	person
+0.56	person
+0.78	group of people
+0.94	farmhouse
+0.62	house
+0.66	group of people
+0.58	house
+0.87	sky
+0.67	cloud
+0.57	group of people
+0.63	wood cladding
+0.84	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_9279z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.77	middle ground
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.74	archway
+0.65	archway
+0.66	archway
+
+
+
+Processing file: oai_DE-MUS-048017_67993ad_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	hat
+0.70	hand gesture
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.85	man
+0.85	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	man
+0.85	man
+0.72	standing man
+
+
+
+Processing file: oai_DE-MUS-048017_167633z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.53	bonnet
+0.52	gesture
+0.66	figure seen from the back
+0.59	figure seen from the back
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.57	stand-up collar
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.80	gold chain
+0.53	bonnet
+
+
+
+Processing file: oai_DE-MUS-048017_11066-1125360z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.70	figure seen from the back
+0.91	chair
+0.62	background
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.68	back of a chair
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness
+0.68	back of a chair
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness
+0.76	archway
+
+
+
+Processing file: oai_DE-MUS-048017_1738z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.82	cloud
+0.59	figure seen from the back
+0.92	foreground
+0.89	middle ground
+0.79	foreground
+0.86	house
+0.83	middle ground
+0.52	standing woman (standing people)
+0.87	sky
+0.75	straw roof
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.82	three-quarter profile
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	half-length portrait
+0.82	three-quarter profile
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.77	dress
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.69	abundance
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.82	cloud
+0.86	house
+0.71	farmhouse
+0.76	person
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_3749z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 15 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 10 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.57	body of water
+0.82	cloud
+0.66	sky
+0.65	cloud
+0.92	foreground
+0.76	light
+0.83	middle ground
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.87	sky
+0.53	physical contact
+0.71	water
+0.70	body of water
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm
+0.70	light reflection
+0.69	incident light
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.76	light
+0.70	light reflection
+0.68	reflection (light)
+0.53	half-length portrait
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.54	carefree
+0.71	water
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm
+0.51	freshness
+0.54	carefree
+0.82	cloud
+0.66	sky
+0.65	cloud
+0.76	light
+0.70	light reflection
+0.78	group of people
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_7058z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.92	foreground
+0.53	man
+0.53	man
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.53	man
+0.53	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	man
+0.53	man
+0.53	half-length portrait
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.69	Montserrat (mountain)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness
+0.62	harmony
+
+
+
+Processing file: oai_DE-MUS-048017_9720z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 13 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building
+0.79	building
+0.60	middle ground
+0.73	wooden door
+0.53	figure seen from the back
+0.53	wooden door
+0.58	physical contact
+0.71	window
+0.55	leaded glass
+0.74	window
+0.52	building
+0.52	building
+0.93	window
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.87	edging
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.79	building
+0.52	building
+
+
+
+Processing file: oai_DE-MUS-048017_3170z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 12 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.59	figure seen from the back
+0.57	standing woman (standing people)
+0.50	woman
+0.50	woman
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+0.79	woman
+0.79	woman
+0.73	standing woman (standing people)
+0.53	wooden door
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.50	woman
+0.50	woman
+0.93	woman
+0.93	woman
+0.79	woman
+0.79	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.53	carefree
+0.64	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_5146z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 14 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.71	window
+0.79	building
+0.79	building
+0.71	building
+0.71	building
+0.78	building
+0.78	building
+0.58	straw roof
+0.53	straw roof
+0.61	building
+0.61	building
+0.85	window
+0.50	straw roof
+0.93	window
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.74	archway
+0.79	building
+0.71	building
+0.78	building
+0.61	building
+
+
+
+Processing file: oai_DE-MUS-048017_3459z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 10 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 8 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.76	building
+0.76	building
+0.54	cloud
+0.89	middle ground
+0.79	foreground
+0.72	window
+0.53	building
+0.53	building
+0.87	sky
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.56	belt buckle
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.62	harmony
+0.70	archway
+0.76	building
+0.98	church tower
+0.54	cloud
+0.53	building
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_8563z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+
+
+
+Processing file: oai_DE-MUS-048017_3252z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 18 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 15 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.54	cloud
+0.92	foreground
+0.89	middle ground
+0.79	foreground
+0.86	house
+0.76	tree
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.86	river
+0.87	sky
+0.76	village
+0.75	straw roof
+0.57	group of people
+0.57	group of people
+0.92	village
+0.68	wooden door
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.51	freshness
+0.53	carefree
+0.98	basket
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.51	freshness
+0.53	carefree
+0.54	cloud
+0.86	house
+0.71	farmhouse
+0.76	tree
+0.78	group of people
+0.87	sky
+0.76	village
+0.62	village street
+0.57	group of people
+0.92	village
+0.68	village street
+0.84	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_7184z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.52	standing woman (standing people)
+0.57	group of people
+0.57	group of people
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.56	person
+0.76	person
+0.57	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_7377z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 15 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 17 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.52	blouse
+0.82	cloud
+0.92	foreground
+0.88	house
+0.57	light
+0.72	body of water
+0.64	water
+0.70	tree
+0.87	sky
+0.75	straw roof
+0.71	water
+0.70	body of water
+0.62	wooden door
+0.73	wooden door
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm
+0.68	soothing, calming
+0.52	light reflection
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.57	light
+0.52	light reflection
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.51	freshness
+0.53	carefree
+0.73	carefree
+0.51	joyful
+0.64	water
+0.71	water
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm
+0.51	freshness
+0.51	freshness
+0.53	carefree
+0.73	carefree
+0.68	soothing, calming
+0.66	blurring
+0.82	cloud
+0.88	house
+0.74	farmhouse
+0.57	light
+0.52	light reflection
+0.70	tree
+0.87	sky
+0.63	wood cladding
+0.68	wood cladding
+0.79	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_14073z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.91	coat
+0.73	coat
+0.52	standing woman (standing people)
+0.59	seated man
+0.56	full beard
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.86	coat, cloak
+0.66	coat, cloak
+0.56	eye contact
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.78	stand-up collar
+0.56	eye contact
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.92	necklace
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.85	table
+0.66	tablecloth
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.76	person
+
+
+
+Processing file: oai_DE-MUS-048017_15250z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.52	figure seen from the back
+0.83	middle ground
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.80	three-quarter profile
+0.65	three-quarter profile
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.80	three-quarter profile
+0.65	three-quarter profile
+
+
+
+Processing file: oai_DE-MUS-048017_11880-1196036z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.53	light
+0.51	hat
+0.69	building
+0.69	building
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	light
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness
+0.53	light
+0.69	building
+
+
+
+Processing file: oai_DE-MUS-048017_3885z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	man
+0.60	man
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.60	man
+0.60	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.60	man
+0.60	man
+
+
+
+Processing file: oai_DE-MUS-048017_17256z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.63	tree
+0.92	foreground
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.63	tree
+
+
+
+Processing file: oai_DE-MUS-048017_8928-910634z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.62	background
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness
+0.51	coat, cloak
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+
+
+
+Processing file: oai_DE-MUS-048017_bib2472v21a_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 19 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 9 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.79	building
+0.79	building
+0.59	figure seen from the back
+0.92	foreground
+0.61	light
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+0.58	meadow
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.66	group of people
+0.66	group of people
+0.69	group of people
+0.69	group of people
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.56	light reflection
+0.54	incident light
+0.85	man
+0.85	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.61	light
+0.56	light reflection
+0.55	reflection (light)
+0.85	man
+0.85	man
+0.72	standing man
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness
+0.53	carefree
+0.79	building
+0.61	light
+0.56	light reflection
+0.58	meadow
+0.78	group of people
+0.66	group of people
+0.69	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_67058d_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 7 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	middle ground
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+0.53	building
+0.53	building
+0.66	group of people
+0.66	group of people
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	belt buckle
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.66	blurring
+0.58	church tower
+0.78	group of people
+0.53	building
+0.66	group of people
+0.64	church tower
+
+
+
+Processing file: oai_DE-MUS-048017_1253z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.53	figure seen from the back
+0.60	hat
+0.52	standing woman (standing people)
+0.61	background
+0.80	shirt
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness
+0.58	heaviness
+0.96	jacket
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.68	stand-up collar
+0.80	shirt
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness
+0.58	heaviness
+0.59	necklace
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.76	person
+
+
+
+Processing file: oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 13 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.56	chimney, fireplace
+0.91	chair
+0.62	woman
+0.62	woman
+0.56	close-fitting cap
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm
+0.52	heaviness
+0.50	soothing, calming
+0.63	darkness
+0.51	eye contact
+0.52	bust (portrait)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.51	eye contact
+0.68	stand-up collar
+0.53	half-length portrait
+0.65	half-length portrait
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm
+0.52	heaviness
+0.64	dress
+0.68	back of a chair
+0.91	dress
+0.59	necklace
+0.91	necklace
+0.65	pearl
+0.62	woman
+0.62	woman
+0.65	necklace
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+0.68	back of a chair
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm
+0.53	carefree
+0.50	soothing, calming
+
+
+
+Processing file: oai_DE-MUS-048017_9779z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.65	straw roof
+0.56	light
+0.85	window
+0.83	tree
+0.50	straw roof
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.56	light
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.56	light
+0.83	tree
+
+
+
+Processing file: oai_DE-MUS-048017_10239z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.91	chair
+0.71	wooden door
+0.93	window
+0.74	window
+0.55	leaded glass
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.68	darkness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.68	back of a chair
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+0.68	back of a chair
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+
+
+
+Processing file: oai_DE-MUS-048017_sg411_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 12 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.80	bird
+0.92	foreground
+0.89	middle ground
+0.79	foreground
+0.86	house
+0.57	house
+0.74	bird
+0.78	house
+0.76	tree
+0.92	village
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	half-length portrait
+0.53	half-length portrait
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.59	freshness
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.59	freshness
+0.51	freshness
+0.86	house
+0.71	farmhouse
+0.87	roof
+0.66	roof tile
+0.57	house
+0.78	house
+0.61	farmhouse
+0.76	tree
+0.92	village
+0.68	village street
+
+
+
+Processing file: oai_DE-MUS-048017_15733z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.89	middle ground
+0.79	foreground
+0.87	sky
+0.69	tree
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.62	harmony
+0.51	freshness
+0.87	sky
+0.69	tree
+
+
+
+Processing file: oai_DE-MUS-048017_11932z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.76	building
+0.76	building
+0.59	background
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.76	building
+
+
+
+Processing file: oai_DE-MUS-048017_13181vz_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.68	group of people
+0.68	group of people
+0.78	group of people
+0.78	group of people
+0.61	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.55	coat, cloak
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.83	tablecloth
+0.85	table
+0.66	tablecloth
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.68	group of people
+0.78	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_sg1738z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 19 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.59	figure seen from the back
+0.77	figure seen from the back
+0.53	gesture
+0.85	man
+0.85	man
+0.72	standing man
+0.68	old man
+0.64	seated man
+0.71	musician (male)
+0.62	man
+0.62	man
+0.60	standing man
+0.56	musical instrument
+0.62	Inn, tavern
+0.52	standing woman (standing people)
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.85	man
+0.85	man
+0.62	man
+0.62	man
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	man
+0.85	man
+0.72	standing man
+0.62	man
+0.62	man
+0.60	standing man
+0.74	tunic (uniform)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.61	back of a chair
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.61	back of a chair
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.62	person
+0.56	person
+0.76	person
+
+
+
+Processing file: oai_DE-MUS-048017_12061z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	middle ground
+0.78	tree
+0.94	tree
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.51	coat, cloak
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.78	tree
+0.94	tree
+
+
+
+Processing file: oai_DE-MUS-048017_11800z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.53	wooden door
+0.85	window
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.52	belt buckle
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	church tower
+
+
+
+Processing file: oai_DE-MUS-048017_sg2344z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.59	seated man
+0.96	skirt
+0.93	woman
+0.93	woman
+0.73	standing woman (standing people)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.65	three-quarter profile
+0.51	eye contact
+0.59	eye contact
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.65	three-quarter profile
+0.51	eye contact
+0.59	eye contact
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.63	dress
+0.64	dress
+0.93	woman
+0.93	woman
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness
+0.51	freshness
+0.53	carefree
+0.52	basket
+0.62	basket
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness
+0.51	freshness
+0.53	carefree
+
+
+
+Processing file: oai_DE-MUS-048017_8199z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.89	middle ground
+0.79	foreground
+0.60	hat
+0.52	standing woman (standing people)
+0.87	sky
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.76	person
+0.87	sky
+
+
+
+Processing file: oai_DE-MUS-048017_5137z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_4965z_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.92	foreground
+0.83	tree
+0.50	straw roof
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_4965z_thumb-xl.csv:
+0.50	Rome
+0.68	Rome
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.77	archway
+0.83	tree
+0.50	church tower
+
+
+
+Processing file: oai_DE-MUS-048017_sg1325z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.55	chimney, fireplace
+0.63	tree
+0.55	straw roof
+0.50	straw roof
+0.53	physical contact
+0.69	wooden door
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	wood cladding
+0.63	tree
+0.95	roof
+0.74	roof tile
+0.77	wood cladding
+
+
+
+Processing file: oai_DE-MUS-048017_sg1448z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.60	hat
+0.55	light
+0.57	group of people
+0.57	group of people
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.56	light reflection
+0.53	incident light
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.95	cane
+0.56	light reflection
+0.55	light
+0.51	reflection (light)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree
+0.56	light reflection
+0.55	light
+0.57	group of people
+
+
+
+Processing file: oai_DE-MUS-048017_sg2372z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background
+0.52	route
+0.92	foreground
+0.98	middle ground
+0.52	peasant, farmer (male)
+0.86	river
+0.64	river
+0.87	sky
+0.67	cloud
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.69	frame
+0.53	half-length portrait
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.59	Montserrat (mountain)
+0.58	Montserrat (mountain)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.62	harmony
+0.53	carefree
+0.52	route
+0.87	sky
+0.67	cloud
+

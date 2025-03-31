@@ -13,6 +13,6 @@ key, large, pointed, realistic, round, square, tall
 None
 
 **Elements of the Picture:**
-a cemetery, a large dome, a mosque, a pencil drawing, a pointed top, a realistic style, a square base, a tall minaret, key words, the artist, the dome, the drawing, the image, the minaret, the mosque, the motifs
+artist, cemetery, dome, drawing, image, key words, large dome, minaret, mosque, motifs, pencil drawing, pointed top, realistic style, square base, tall minaret
 
 ----------------------------------------

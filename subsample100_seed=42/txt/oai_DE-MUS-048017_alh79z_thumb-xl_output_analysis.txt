@@ -13,6 +13,6 @@ black, detailed, high, key, limited, minimalist, simple, solid
 light, pleated, relaxed, white
 
 **Elements of the Picture:**
-a chair, a collar, a drawing, a dress, a high back, a light brown, a limited number, a minimalist style, a pleated skirt, a relaxed position, a serious expression, a simple design, a skirt, a solid color, a woman, her face, her hands, her relaxed posture, key words, simple lines, the artist, the background, the chair, the drawing, the dress, the essence, the image, the motifs, the woman, the womans figure
+artist, background, chair, collar, drawing, dress, essence, her face, her hands, her relaxed posture, high back, image, key words, light brown, limited number, minimalist style, motifs, pleated skirt, relaxed position, serious expression, simple design, simple lines, skirt, solid color, woman, womans figure
 
 ----------------------------------------

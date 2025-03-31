@@ -13,6 +13,6 @@ high, key, large, left, long, open, realistic, small
 right
 
 **Elements of the Picture:**
-a beard, a belt, a candle, a door, a hat, a headdress, a high collar, a lamp, a large object, a large vase, a long beard, a long dress, a long robe, a long skirt, a man, a necklace, a pencil drawing, a pot, a realistic style, a small object, a tree, a wall, a woman, her hair, her neck, her right, her right hand, her waist, his left hand, key words, the artist, the background, the center, the door, the image, the man, the motifs, the viewer, the woman
+artist, background, beard, belt, candle, center, door, hat, headdress, her hair, her neck, her right, her right hand, her waist, high collar, his left hand, image, key words, lamp, large object, large vase, long beard, long dress, long robe, long skirt, man, motifs, necklace, pencil drawing, pot, realistic style, small object, tree, viewer, wall, woman
 
 ----------------------------------------

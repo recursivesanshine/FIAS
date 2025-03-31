@@ -21,6 +21,6 @@ cursive, dense, detailed, good, key, minimalist, natural, overall, realistic, si
 beautiful, delicate, evocative, light, right
 
 **Elements of the Picture:**
-a few leaves, a forest, a forest scene, a good example, a lightcolored paper, a minimalist approach, a minimalist style, a natural scene, a pencil drawing, a sense, a testament, key words, simple lines, the artist, the artists ability, the artists signature, the artists skill, the background, the date, the drawing, the essence, the image, the lines, the motifs, the outline, the overall composition, the trees, the use, the viewer, their branches, thin delicate lines, this date
+artist, artists ability, artists signature, artists skill, background, date, drawing, essence, few leaves, forest, forest scene, good example, image, key words, lightcolored paper, lines, minimalist approach, minimalist style, motifs, natural scene, outline, overall composition, pencil drawing, sense, simple lines, testament, their branches, thin delicate lines, this date, trees, use, viewer
 
 ----------------------------------------

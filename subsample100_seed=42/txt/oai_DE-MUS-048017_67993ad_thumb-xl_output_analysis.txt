@@ -13,6 +13,6 @@ black, key, plain
 right, white
 
 **Elements of the Picture:**
-a cigarette, a hat, a man, a serious expression, his face, his right hand, key words, no other object, the background, the image, the man, the motifs
+background, cigarette, hat, his face, his right hand, image, key words, man, motifs, no other object, serious expression
 
 ----------------------------------------

@@ -13,6 +13,6 @@ black, bold, dark, detailed, focal, key, open, overall, plain, sinister, thick, 
 white
 
 **Elements of the Picture:**
-a beard, a demons face, a mouth, a scream, a screaming expression, a sense, its eyes, its mouth, key words, no other objects, the background, the beard, the demon, the demons expression, the demons face, the face, the focal point, the fur, the image, the lines, the motifs, the overall style, the skin, the texture
+background, beard, demon, demons expression, demons face, face, focal point, fur, image, its eyes, its mouth, key words, lines, motifs, mouth, no other objects, overall style, scream, screaming expression, sense, skin, texture
 
 ----------------------------------------

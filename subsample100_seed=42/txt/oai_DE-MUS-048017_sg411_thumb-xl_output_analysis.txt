@@ -31,6 +31,6 @@ common, deciduous, expensive, friendly, integral, key, modest, natural, peaceful
 brown, close, expressive, green, painterly, rural, yellow
 
 **Elements of the Picture:**
-a common feature, a community, a day, a dirt road, a mix, a moment, a painterly style, a rural area, a rural scene, a rural setting, a small community, a traditional method, a variety, analysis, conclusion, description, either side, either spring, key words, natural elements, rural areas, rural communities, rural settings, several houses, simple materials, some birds, the background, the birds, the close connection, the community, the dirt road, the environment, the foreground, the ground, the houses, the image, the life, the medium, the motifs, the painting, the presence, the road, the roofs, the rural landscape, the rural setting, the simplicity, the village, these houses, these trees, thick expressive brushstrokes, this painting, urban areas
+analysis, background, birds, close connection, common feature, community, conclusion, day, description, dirt road, either side, either spring, environment, foreground, ground, houses, image, key words, life, medium, mix, moment, motifs, natural elements, painterly style, painting, presence, road, roofs, rural area, rural areas, rural communities, rural landscape, rural scene, rural setting, rural settings, several houses, simple materials, simplicity, small community, some birds, these houses, these trees, thick expressive brushstrokes, this painting, traditional method, urban areas, variety, village
 
 ----------------------------------------

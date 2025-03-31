@@ -13,6 +13,6 @@ key, simple, sketchy
 light
 
 **Elements of the Picture:**
-a cane, a hat, a light color, a sketch, key words, the background, the image, the motifs, the sketch, two people
+background, cane, hat, image, key words, light color, motifs, sketch, two people
 
 ----------------------------------------

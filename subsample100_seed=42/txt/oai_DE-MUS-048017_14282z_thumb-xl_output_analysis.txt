@@ -29,6 +29,6 @@ central, circular, effective, key, left, loose, medium, neutral, overall, rough,
 contemplative, expressive, facial, human, intricate, male, overall, semi, unique
 
 **Elements of the Picture:**
-a collection, a gathering, a group, a male face, a range, a semicircular formation, a serious expression, an artist, analysis, conclusion, his expression, his eyes, human faces, intricate details, key words, several other faces, the background, the central figure, the essence, the face, the faces, the frame, the hair, the image, the left side, the medium, the motifs, the nose, the overall composition, the overall expression, the sketches, the subjects, the surrounding faces, the viewer, the viewers attention, these faces, unique expressions, various expressions, visible facial features
+analysis, artist, background, central figure, collection, conclusion, essence, face, faces, frame, gathering, group, hair, his expression, his eyes, human faces, image, intricate details, key words, left side, male face, medium, motifs, nose, overall composition, overall expression, range, semicircular formation, serious expression, several other faces, sketches, subjects, surrounding faces, these faces, unique expressions, various expressions, viewer, viewers attention, visible facial features
 
 ----------------------------------------

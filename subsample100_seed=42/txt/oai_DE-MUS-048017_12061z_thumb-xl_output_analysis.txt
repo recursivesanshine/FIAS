@@ -27,6 +27,6 @@ dense, detailed, effective, fine, historical, key, overall, plain, realistic, si
 gray, intricate, lush, significant, varying, vibrant, white
 
 **Elements of the Picture:**
-a few branches, a historical context, a pencil stroke, a sense, a significant portion, a stark contrast, a tree, a variety, analysis, conclusion, key words, the artist, the artwork, the background, the center, the detailed tree, the frame, the image, the intricate details, the leaves, the motifs, the overall composition, the pencil sketch, the piece, the signature, the top, the tree, the trunk, the viewer, this information, varying shades
+analysis, artist, artwork, background, center, conclusion, detailed tree, few branches, frame, historical context, image, intricate details, key words, leaves, motifs, overall composition, pencil sketch, pencil stroke, piece, sense, signature, significant portion, stark contrast, this information, top, tree, trunk, variety, varying shades, viewer
 
 ----------------------------------------

@@ -1,0 +1,3987 @@
+
+Processing file: oai_DE-MUS-048017_5160z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_4965z_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.51	edging (Elements of the Picture)
+
+From oai_DE-MUS-048017_4965z_thumb-xl.csv:
+0.50	Rome (Elements of the Picture)
+0.68	Rome (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+
+
+Processing file: oai_DE-MUS-048017_1227_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 43 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 12 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	shirt (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.98	chimney (Elements of the Picture)
+0.73	chimney, fireplace (Elements of the Picture)
+0.68	dancing couple (Elements of the Picture)
+0.65	dance (Elements of the Picture)
+0.65	dance (Elements of the Picture)
+0.77	dancing couple (Elements of the Picture)
+0.77	dance (Elements of the Picture)
+0.77	dance (Elements of the Picture)
+0.60	man dancing (Elements of the Picture)
+0.56	woman dancing (Elements of the Picture)
+0.52	group of people (Elements of the Picture)
+0.52	group of people (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.66	dance (Elements of the Picture)
+0.66	dance (Elements of the Picture)
+0.54	man dancing (Elements of the Picture)
+0.52	dancing couple (Elements of the Picture)
+0.51	woman dancing (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.66	house (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.58	hat (Elements of the Picture)
+0.57	close-fitting cap (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.92	chimney (Elements of the Picture)
+0.91	chimney, fireplace (Elements of the Picture)
+0.75	straw roof (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+0.68	hand gesture (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.60	shirt (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	dress (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.97	joyful (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.98	chimney (Elements of the Picture)
+0.52	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.74	farmhouse (Elements of the Picture)
+0.66	house (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.95	roof (Elements of the Picture)
+0.74	roof tile (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.92	chimney (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg141z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.60	middle ground (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	belt buckle (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.66	church tower (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_9300z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 10 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.53	straw roof (Elements of the Picture)
+0.71	wooden door (Elements of the Picture)
+0.62	background (Elements of the Picture)
+0.55	straw roof (Elements of the Picture)
+0.61	meadow (Elements of the Picture)
+0.85	window (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.62	harmony (Keywords for Atmosphere)
+0.74	archway (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.74	archway (Elements of the Picture)
+0.95	roof (Elements of the Picture)
+0.74	roof tile (Elements of the Picture)
+0.61	meadow (Elements of the Picture)
+0.64	church tower (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_14978z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.71	background (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.65	cartwheel ruff (Elements of the Picture)
+0.66	dress (Elements of the Picture)
+0.51	dress (Elements of the Picture)
+0.54	cartwheel ruff (Elements of the Picture)
+0.59	cartwheel ruff (Elements of the Picture)
+0.67	dress (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.72	carefree (Keywords for Emotion)
+0.98	basket (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.72	carefree (Keywords for Emotion)
+0.63	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_9737z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.88	house (Elements of the Picture)
+0.59	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.88	house (Elements of the Picture)
+0.74	farmhouse (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_2306z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 15 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 15 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.65	tree (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.58	straw roof (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.61	light (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+0.58	wooden door (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+0.70	light reflection (Elements of the Picture)
+0.69	incident light (Elements of the Picture)
+0.56	light reflection (Elements of the Picture)
+0.54	incident light (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.68	reflection (light) (Elements of the Picture)
+0.61	light (Elements of the Picture)
+0.56	light reflection (Elements of the Picture)
+0.55	reflection (light) (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.65	tree (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.74	farmhouse (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.61	light (Elements of the Picture)
+0.56	light reflection (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+0.63	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_8928-910694z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.69	three-quarter profile (Elements of the Picture)
+0.57	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.69	three-quarter profile (Elements of the Picture)
+0.57	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.76	archway (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.95	roof (Elements of the Picture)
+0.74	roof tile (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11030z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.71	wooden door (Elements of the Picture)
+0.51	light (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+0.61	window (Elements of the Picture)
+0.93	window (Elements of the Picture)
+0.93	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.51	light (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.74	archway (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.70	archway (Elements of the Picture)
+0.51	light (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_8668z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.54	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.54	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+
+
+
+Processing file: oai_DE-MUS-048017_bib2472i35a_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.75	archway (Elements of the Picture)
+0.77	archway (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_8600z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.64	wooden door (Elements of the Picture)
+0.50	building (Elements of the Picture)
+0.50	building (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.76	window (Elements of the Picture)
+0.54	leaded glass (Elements of the Picture)
+0.83	tree (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+0.93	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.79	building (Elements of the Picture)
+0.50	building (Elements of the Picture)
+0.76	person (Elements of the Picture)
+0.83	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg537z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 12 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.54	standing woman (standing people) (Elements of the Picture)
+0.51	standing man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.51	standing man (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.68	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_7335z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 15 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 10 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+0.63	hand gesture (Elements of the Picture)
+0.70	hand gesture (Elements of the Picture)
+0.63	light (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.58	man (Elements of the Picture)
+0.58	man (Elements of the Picture)
+0.83	middle ground (Elements of the Picture)
+0.55	group of people (Elements of the Picture)
+0.55	group of people (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.57	light reflection (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.58	man (Elements of the Picture)
+0.58	man (Elements of the Picture)
+0.83	suit (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.68	stand-up collar (Elements of the Picture)
+0.63	light (Elements of the Picture)
+0.57	light reflection (Elements of the Picture)
+0.55	reflection (light) (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.58	man (Elements of the Picture)
+0.58	man (Elements of the Picture)
+0.57	suit of armour (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.98	thoughtful (Keywords for Emotion)
+0.59	necklace (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.63	light (Elements of the Picture)
+0.57	light reflection (Elements of the Picture)
+0.55	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_2432z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	figure seen from the back (Elements of the Picture)
+0.85	background (Elements of the Picture)
+0.55	light (Elements of the Picture)
+0.73	coat (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.56	light reflection (Elements of the Picture)
+0.53	incident light (Elements of the Picture)
+0.70	coat, cloak (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.56	light reflection (Elements of the Picture)
+0.55	light (Elements of the Picture)
+0.51	reflection (light) (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.56	back of a chair (Elements of the Picture)
+0.55	lace cuff (Elements of the Picture)
+0.59	lace cuff (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.56	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.53	farmhouse (Elements of the Picture)
+0.56	light reflection (Elements of the Picture)
+0.55	light (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_bib2472ii152f_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.89	middle ground (Elements of the Picture)
+0.62	middle ground (Elements of the Picture)
+0.71	middle ground (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_2934z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.54	Montserrat (mountain) (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_alh79z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.91	chair (Elements of the Picture)
+0.58	gesture (Elements of the Picture)
+0.64	figure seen from the back (Elements of the Picture)
+0.54	skirt (Elements of the Picture)
+0.96	skirt (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.50	flesh colour (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.78	stand-up collar (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.68	back of a chair (Elements of the Picture)
+0.91	dress (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.68	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+
+
+Processing file: oai_DE-MUS-048017_10903z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.51	blouse (Elements of the Picture)
+0.54	foreground (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+0.51	coat, cloak (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.75	blurring (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg392z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.67	cloud (Elements of the Picture)
+0.71	water (Elements of the Picture)
+0.70	body of water (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.58	heaviness (Keywords for Atmosphere)
+0.69	darkness (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.54	Montserrat (mountain) (Elements of the Picture)
+0.58	Montserrat (mountain) (Elements of the Picture)
+0.56	Montserrat (mountain) (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.71	water (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.87	sky (Elements of the Picture)
+0.67	cloud (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11774z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.86	river (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.69	tree (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.54	cloud (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.69	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_8102z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.66	tree (Elements of the Picture)
+0.62	background (Elements of the Picture)
+0.54	foreground (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.51	coat, cloak (Elements of the Picture)
+0.57	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame (Elements of the Picture)
+0.63	edging (Elements of the Picture)
+0.57	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.62	harmony (Keywords for Atmosphere)
+0.66	tree (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_33763d_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.66	hand gesture (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.68	stand-up collar (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.59	necklace (Elements of the Picture)
+0.66	dress (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_1712_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.71	background (Elements of the Picture)
+0.76	hand gesture (Elements of the Picture)
+0.74	smile (Elements of the Picture)
+0.60	light (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.72	darkness (Elements of the Picture)
+0.67	eye contact (Elements of the Picture)
+0.52	bust (portrait) (Elements of the Picture)
+0.83	suit (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.79	suit of armour (Elements of the Picture)
+0.59	armour (Elements of the Picture)
+0.74	breastplate (armour) (Elements of the Picture)
+0.63	suit of armour (Elements of the Picture)
+0.67	eye contact (Elements of the Picture)
+0.56	fabric (Elements of the Picture)
+0.65	half-length portrait (Elements of the Picture)
+0.60	light (Elements of the Picture)
+0.57	suit of armour (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.60	light (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_8810z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 9 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.71	far distance (Elements of the Picture)
+0.78	window (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.50	light (Elements of the Picture)
+0.93	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.70	light reflection (Elements of the Picture)
+0.69	incident light (Elements of the Picture)
+0.52	light reflection (Elements of the Picture)
+0.67	incident light (Elements of the Picture)
+0.51	light reflection (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.68	reflection (light) (Elements of the Picture)
+0.52	light reflection (Elements of the Picture)
+0.50	light (Elements of the Picture)
+0.64	reflection (light) (Elements of the Picture)
+0.51	light reflection (Elements of the Picture)
+0.86	frame (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.74	archway (Elements of the Picture)
+0.77	archway (Elements of the Picture)
+0.79	archway (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.52	light reflection (Elements of the Picture)
+0.50	light (Elements of the Picture)
+0.51	light reflection (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_15828cz_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 16 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+0.66	hand gesture (Elements of the Picture)
+0.70	hand gesture (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.61	peasant, farmer (male) (Elements of the Picture)
+0.59	peasant, farmer (female) (Elements of the Picture)
+0.80	shirt (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.74	breastplate (armour) (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.80	shirt (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.91	dress (Elements of the Picture)
+0.59	ostrich feather (Elements of the Picture)
+0.80	necklace (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.76	person (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_9286z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.67	window (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.61	background (Elements of the Picture)
+0.61	meadow (Elements of the Picture)
+0.93	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.70	light reflection (Elements of the Picture)
+0.69	incident light (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.68	reflection (light) (Elements of the Picture)
+0.69	frame (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.62	harmony (Keywords for Atmosphere)
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.74	archway (Elements of the Picture)
+0.61	meadow (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11254-1146528z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.63	middle ground (Elements of the Picture)
+0.62	background (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.94	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_801vz_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.60	figure seen from the back (Elements of the Picture)
+0.85	background (Elements of the Picture)
+0.78	Inn, tavern (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.55	group of people (Elements of the Picture)
+0.55	group of people (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.50	soothing, calming (Keywords for Emotion)
+0.66	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.66	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.98	basket (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.50	soothing, calming (Keywords for Emotion)
+0.68	group of people (Elements of the Picture)
+0.76	person (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.55	group of people (Elements of the Picture)
+0.65	person (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_16235z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+
+
+Processing file: oai_DE-MUS-048017_bib2472iv10a_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.75	close-fitting cap (Elements of the Picture)
+0.84	facial expression (Elements of the Picture)
+0.65	facial expression (Elements of the Picture)
+0.51	smile (Elements of the Picture)
+0.56	standing man (Elements of the Picture)
+0.51	man (Elements of the Picture)
+0.51	man (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	calm (Keywords for Atmosphere)
+0.51	man (Elements of the Picture)
+0.51	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.56	standing man (Elements of the Picture)
+0.51	man (Elements of the Picture)
+0.51	man (Elements of the Picture)
+0.50	patrician (male) (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	calm (Keywords for Atmosphere)
+0.50	patrician (male) (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.64	freshness (Keywords for Atmosphere)
+0.75	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.64	freshness (Keywords for Atmosphere)
+0.52	calm (Keywords for Atmosphere)
+0.75	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+0.76	person (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_2499z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.64	middle ground (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.59	goatee (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_9861z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 10 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 7 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.98	chimney (Elements of the Picture)
+0.73	chimney, fireplace (Elements of the Picture)
+0.73	wooden door (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+0.70	window (Elements of the Picture)
+0.93	window (Elements of the Picture)
+0.69	wooden door (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.79	building (Elements of the Picture)
+0.98	chimney (Elements of the Picture)
+0.95	roof (Elements of the Picture)
+0.74	roof tile (Elements of the Picture)
+0.77	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11863z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.70	tree (Elements of the Picture)
+0.59	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.70	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_15156z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 17 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 12 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.62	full beard (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.73	wooden door (Elements of the Picture)
+0.60	hat (Elements of the Picture)
+0.66	hand gesture (Elements of the Picture)
+0.63	hand gesture (Elements of the Picture)
+0.82	full beard (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.95	belt (Elements of the Picture)
+0.86	belt buckle (Elements of the Picture)
+0.55	belt (Elements of the Picture)
+0.53	sheath (Elements of the Picture)
+0.53	sheath (Elements of the Picture)
+0.53	sheath (Elements of the Picture)
+0.53	sheath (Elements of the Picture)
+0.68	stand-up collar (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.56	stand-up collar (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.75	dress (Elements of the Picture)
+0.69	necklace (Elements of the Picture)
+0.59	necklace (Elements of the Picture)
+0.66	dress (Elements of the Picture)
+0.95	necklace (Elements of the Picture)
+0.55	lace cuff (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.50	sunspots (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg1721z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 19 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.62	full beard (Elements of the Picture)
+0.53	bonnet (Elements of the Picture)
+0.52	gesture (Elements of the Picture)
+0.91	gesture (Elements of the Picture)
+0.58	hand gesture (Elements of the Picture)
+0.66	hand gesture (Elements of the Picture)
+0.55	facial expression (Elements of the Picture)
+0.63	hand gesture (Elements of the Picture)
+0.53	gesture (Elements of the Picture)
+0.70	hand gesture (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.60	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.57	stand-up collar (Elements of the Picture)
+0.85	frame (Elements of the Picture)
+0.67	tunic (uniform) (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+0.60	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.80	gold chain (Elements of the Picture)
+0.53	bonnet (Elements of the Picture)
+0.71	dress (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.65	dress (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+
+
+
+Processing file: oai_DE-MUS-048017_14673vz_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	hat (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.71	hand gesture (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.76	person (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_3438z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.66	dress (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+
+
+Processing file: oai_DE-MUS-048017_2272z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.68	darkness (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.82	cloud (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_13702z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 20 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	figure seen from the back (Elements of the Picture)
+0.85	background (Elements of the Picture)
+0.50	standing woman (standing people) (Elements of the Picture)
+0.50	standing man (Elements of the Picture)
+0.53	figure seen from the back (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.60	hat (Elements of the Picture)
+0.73	coat (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.50	soothing, calming (Keywords for Emotion)
+0.66	coat, cloak (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.50	standing man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.56	back of a chair (Elements of the Picture)
+0.78	dress (Elements of the Picture)
+0.66	dress (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.56	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.50	soothing, calming (Keywords for Emotion)
+0.68	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_17313z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 14 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 9 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.54	chimney, fireplace (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.78	river (Elements of the Picture)
+0.51	middle ground (Elements of the Picture)
+0.72	group of people (Elements of the Picture)
+0.72	group of people (Elements of the Picture)
+0.86	river (Elements of the Picture)
+0.70	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.71	water (Elements of the Picture)
+0.70	body of water (Elements of the Picture)
+0.62	wooden door (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.80	calm (Keywords for Atmosphere)
+0.52	heaviness (Keywords for Atmosphere)
+0.63	darkness (Elements of the Picture)
+0.74	light reflection (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.74	light reflection (Elements of the Picture)
+0.67	reflection (light) (Elements of the Picture)
+0.70	glove (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.80	calm (Keywords for Atmosphere)
+0.52	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.71	water (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.80	calm (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.74	light reflection (Elements of the Picture)
+0.72	group of people (Elements of the Picture)
+0.70	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.81	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11716-1187944z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.83	tree (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.73	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.73	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.95	roof (Elements of the Picture)
+0.74	roof tile (Elements of the Picture)
+0.83	tree (Elements of the Picture)
+0.64	church tower (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_6913z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 8 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.57	cloud (Elements of the Picture)
+0.85	background (Elements of the Picture)
+0.72	far distance (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.71	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.66	tree (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.54	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.54	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+0.58	longing (Keywords for Emotion)
+0.57	cloud (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.71	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.66	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg1743z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.58	physical contact (Elements of the Picture)
+0.63	group of people (Elements of the Picture)
+0.63	group of people (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.71	water (Elements of the Picture)
+0.70	body of water (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.71	water (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.78	group of people (Elements of the Picture)
+0.63	group of people (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg377_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 14 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.83	middle ground (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+0.59	water (Elements of the Picture)
+0.50	body of water (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	calm (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	calm (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.64	freshness (Keywords for Atmosphere)
+0.90	apple (Elements of the Picture)
+0.98	basket (Elements of the Picture)
+0.88	doll (Elements of the Picture)
+0.76	doll (Elements of the Picture)
+0.70	doll (Elements of the Picture)
+0.73	apple (Elements of the Picture)
+0.88	basket (Elements of the Picture)
+0.85	table (Elements of the Picture)
+0.66	tablecloth (Elements of the Picture)
+0.97	tablecloth (Elements of the Picture)
+0.62	table (Elements of the Picture)
+0.56	doll (Elements of the Picture)
+0.59	water (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.62	harmony (Keywords for Atmosphere)
+0.64	freshness (Keywords for Atmosphere)
+0.52	calm (Keywords for Atmosphere)
+
+
+
+Processing file: oai_DE-MUS-048017_11465z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.55	pitcher (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.73	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.73	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.59	Montserrat (mountain) (Elements of the Picture)
+0.58	Montserrat (mountain) (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_10373z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.76	building (Elements of the Picture)
+0.76	building (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.76	building (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_12903z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 9 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.55	straw roof (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.92	chimney (Elements of the Picture)
+0.91	chimney, fireplace (Elements of the Picture)
+0.74	house (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.54	cloud (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.74	farmhouse (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.92	chimney (Elements of the Picture)
+0.74	house (Elements of the Picture)
+0.64	farmhouse (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_9360z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.73	wooden door (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+0.93	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.63	tree (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.74	farmhouse (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_9421z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 7 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.52	route (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+0.51	coat, cloak (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame (Elements of the Picture)
+0.53	frame (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.54	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.62	harmony (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.54	carefree (Keywords for Emotion)
+0.53	carefree (Keywords for Emotion)
+0.52	route (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.63	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_4965z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_16462z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.56	woman (Elements of the Picture)
+0.56	woman (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.93	window (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.59	armour (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.56	woman (Elements of the Picture)
+0.56	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_15130z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.62	full beard (Elements of the Picture)
+0.50	facial expression (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.59	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.59	eye contact (Elements of the Picture)
+0.59	skin fold (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_5195z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_8674z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.64	building (Elements of the Picture)
+0.64	building (Elements of the Picture)
+0.58	background (Elements of the Picture)
+0.58	straw roof (Elements of the Picture)
+0.93	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	light reflection (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.52	light reflection (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.64	building (Elements of the Picture)
+0.52	light reflection (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_6020z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 33 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 13 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 13 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.58	standing woman (standing people) (Elements of the Picture)
+0.52	route (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.83	middle ground (Elements of the Picture)
+0.75	woman (Elements of the Picture)
+0.75	woman (Elements of the Picture)
+0.53	standing woman (standing people) (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.86	river (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.52	body of water (Elements of the Picture)
+0.57	standing woman (standing people) (Elements of the Picture)
+0.50	woman (Elements of the Picture)
+0.50	woman (Elements of the Picture)
+0.71	water (Elements of the Picture)
+0.70	body of water (Elements of the Picture)
+0.54	water (Elements of the Picture)
+0.51	body of water (Elements of the Picture)
+0.69	body of water (Elements of the Picture)
+0.69	water (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.58	calm (Keywords for Atmosphere)
+0.52	heaviness (Keywords for Atmosphere)
+0.52	calm (Keywords for Atmosphere)
+0.58	heaviness (Keywords for Atmosphere)
+0.70	light reflection (Elements of the Picture)
+0.69	incident light (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.68	reflection (light) (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.58	calm (Keywords for Atmosphere)
+0.52	heaviness (Keywords for Atmosphere)
+0.52	calm (Keywords for Atmosphere)
+0.58	heaviness (Keywords for Atmosphere)
+0.66	dress (Elements of the Picture)
+0.75	woman (Elements of the Picture)
+0.75	woman (Elements of the Picture)
+0.63	dress (Elements of the Picture)
+0.50	woman (Elements of the Picture)
+0.50	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.69	Montserrat (mountain) (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.60	freshness (Keywords for Atmosphere)
+0.64	freshness (Keywords for Atmosphere)
+0.98	basket (Elements of the Picture)
+0.71	water (Elements of the Picture)
+0.54	water (Elements of the Picture)
+0.69	water (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.60	freshness (Keywords for Atmosphere)
+0.58	calm (Keywords for Atmosphere)
+0.64	freshness (Keywords for Atmosphere)
+0.52	calm (Keywords for Atmosphere)
+0.52	route (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_14282z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.55	facial expression (Elements of the Picture)
+0.51	standing man (Elements of the Picture)
+0.63	facial expression (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.77	thoughtfulness (Keywords for Atmosphere)
+0.51	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame (Elements of the Picture)
+0.51	eye contact (Elements of the Picture)
+0.51	standing man (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.68	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_1415_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.78	facial expression (Elements of the Picture)
+0.52	smile (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.77	thoughtfulness (Keywords for Atmosphere)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.52	bust (portrait) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+0.65	half-length portrait (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_alh91z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 13 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.64	window (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.98	middle ground (Elements of the Picture)
+0.55	straw roof (Elements of the Picture)
+0.70	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.77	darkness (Elements of the Picture)
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.70	Montserrat (mountain) (Elements of the Picture)
+0.69	Montserrat (mountain) (Elements of the Picture)
+0.59	Montserrat (mountain) (Elements of the Picture)
+0.58	Montserrat (mountain) (Elements of the Picture)
+0.54	Montserrat (mountain) (Elements of the Picture)
+0.51	Montserrat (mountain) (Elements of the Picture)
+0.56	Montserrat (mountain) (Elements of the Picture)
+0.64	Montserrat (mountain) (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.79	building (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.70	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_1717z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 20 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 20 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.52	route (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.77	tree (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.62	house (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.58	house (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.67	cloud (Elements of the Picture)
+0.75	straw roof (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.68	wooden door (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	calm (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	calm (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.60	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.60	freshness (Keywords for Atmosphere)
+0.58	calm (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.52	route (Elements of the Picture)
+0.77	tree (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.74	farmhouse (Elements of the Picture)
+0.73	person (Elements of the Picture)
+0.56	person (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.94	farmhouse (Elements of the Picture)
+0.62	house (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.58	house (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.67	cloud (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.63	wood cladding (Elements of the Picture)
+0.84	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_9279z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.77	middle ground (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.74	archway (Elements of the Picture)
+0.65	archway (Elements of the Picture)
+0.66	archway (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_67993ad_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 8 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	hat (Elements of the Picture)
+0.70	hand gesture (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_167633z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.53	bonnet (Elements of the Picture)
+0.52	gesture (Elements of the Picture)
+0.66	figure seen from the back (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.57	stand-up collar (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.80	gold chain (Elements of the Picture)
+0.53	bonnet (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11066-1125360z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.70	figure seen from the back (Elements of the Picture)
+0.91	chair (Elements of the Picture)
+0.62	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.68	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.68	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.76	archway (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_1738z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.86	house (Elements of the Picture)
+0.83	middle ground (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.75	straw roof (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.82	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	half-length portrait (Elements of the Picture)
+0.82	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.77	dress (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.69	abundance (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.82	cloud (Elements of the Picture)
+0.86	house (Elements of the Picture)
+0.71	farmhouse (Elements of the Picture)
+0.76	person (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_3749z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 15 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 10 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.57	body of water (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.66	sky (Elements of the Picture)
+0.65	cloud (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.83	middle ground (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+0.71	water (Elements of the Picture)
+0.70	body of water (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.70	light reflection (Elements of the Picture)
+0.69	incident light (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.68	reflection (light) (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.54	carefree (Keywords for Emotion)
+0.71	water (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.54	carefree (Keywords for Emotion)
+0.82	cloud (Elements of the Picture)
+0.66	sky (Elements of the Picture)
+0.65	cloud (Elements of the Picture)
+0.76	light (Elements of the Picture)
+0.70	light reflection (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_7058z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.53	man (Elements of the Picture)
+0.53	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.53	man (Elements of the Picture)
+0.53	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	man (Elements of the Picture)
+0.53	man (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.69	Montserrat (mountain) (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.62	harmony (Keywords for Atmosphere)
+
+
+
+Processing file: oai_DE-MUS-048017_9720z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 13 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.73	wooden door (Elements of the Picture)
+0.53	figure seen from the back (Elements of the Picture)
+0.53	wooden door (Elements of the Picture)
+0.58	physical contact (Elements of the Picture)
+0.71	window (Elements of the Picture)
+0.55	leaded glass (Elements of the Picture)
+0.74	window (Elements of the Picture)
+0.52	building (Elements of the Picture)
+0.52	building (Elements of the Picture)
+0.93	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.87	edging (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.79	building (Elements of the Picture)
+0.52	building (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_3170z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 12 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+0.57	standing woman (standing people) (Elements of the Picture)
+0.50	woman (Elements of the Picture)
+0.50	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+0.79	woman (Elements of the Picture)
+0.79	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+0.53	wooden door (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.50	woman (Elements of the Picture)
+0.50	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.79	woman (Elements of the Picture)
+0.79	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.64	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_5146z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 14 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 6 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.71	window (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.71	building (Elements of the Picture)
+0.71	building (Elements of the Picture)
+0.78	building (Elements of the Picture)
+0.78	building (Elements of the Picture)
+0.58	straw roof (Elements of the Picture)
+0.53	straw roof (Elements of the Picture)
+0.61	building (Elements of the Picture)
+0.61	building (Elements of the Picture)
+0.85	window (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+0.93	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.74	archway (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.71	building (Elements of the Picture)
+0.78	building (Elements of the Picture)
+0.61	building (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_3459z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 10 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 8 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.76	building (Elements of the Picture)
+0.76	building (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.72	window (Elements of the Picture)
+0.53	building (Elements of the Picture)
+0.53	building (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.56	belt buckle (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.62	harmony (Keywords for Atmosphere)
+0.70	archway (Elements of the Picture)
+0.76	building (Elements of the Picture)
+0.98	church tower (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.53	building (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_8563z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+
+
+Processing file: oai_DE-MUS-048017_3252z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 18 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 15 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.54	cloud (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.86	house (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.86	river (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.76	village (Elements of the Picture)
+0.75	straw roof (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.92	village (Elements of the Picture)
+0.68	wooden door (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.98	basket (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.54	cloud (Elements of the Picture)
+0.86	house (Elements of the Picture)
+0.71	farmhouse (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.76	village (Elements of the Picture)
+0.62	village street (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.92	village (Elements of the Picture)
+0.68	village street (Elements of the Picture)
+0.84	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_7184z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.52	standing woman (standing people) (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.56	person (Elements of the Picture)
+0.76	person (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_7377z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 15 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 17 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.52	blouse (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.57	light (Elements of the Picture)
+0.72	body of water (Elements of the Picture)
+0.64	water (Elements of the Picture)
+0.70	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.75	straw roof (Elements of the Picture)
+0.71	water (Elements of the Picture)
+0.70	body of water (Elements of the Picture)
+0.62	wooden door (Elements of the Picture)
+0.73	wooden door (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.68	soothing, calming (Keywords for Emotion)
+0.52	light reflection (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.57	light (Elements of the Picture)
+0.52	light reflection (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.73	carefree (Keywords for Emotion)
+0.51	joyful (Keywords for Emotion)
+0.64	water (Elements of the Picture)
+0.71	water (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.73	carefree (Keywords for Emotion)
+0.68	soothing, calming (Keywords for Emotion)
+0.66	blurring (Elements of the Picture)
+0.82	cloud (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.74	farmhouse (Elements of the Picture)
+0.57	light (Elements of the Picture)
+0.52	light reflection (Elements of the Picture)
+0.70	tree (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.63	wood cladding (Elements of the Picture)
+0.68	wood cladding (Elements of the Picture)
+0.79	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_14073z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.91	coat (Elements of the Picture)
+0.73	coat (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.59	seated man (Elements of the Picture)
+0.56	full beard (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.86	coat, cloak (Elements of the Picture)
+0.66	coat, cloak (Elements of the Picture)
+0.56	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.78	stand-up collar (Elements of the Picture)
+0.56	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.92	necklace (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.85	table (Elements of the Picture)
+0.66	tablecloth (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.76	person (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_15250z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.52	figure seen from the back (Elements of the Picture)
+0.83	middle ground (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.80	three-quarter profile (Elements of the Picture)
+0.65	three-quarter profile (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.80	three-quarter profile (Elements of the Picture)
+0.65	three-quarter profile (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11880-1196036z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.53	light (Elements of the Picture)
+0.51	hat (Elements of the Picture)
+0.69	building (Elements of the Picture)
+0.69	building (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	light (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.53	light (Elements of the Picture)
+0.69	building (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_3885z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	man (Elements of the Picture)
+0.60	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.60	man (Elements of the Picture)
+0.60	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.60	man (Elements of the Picture)
+0.60	man (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_17256z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.63	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_8928-910634z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.62	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.51	coat, cloak (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+
+
+Processing file: oai_DE-MUS-048017_bib2472v21a_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 19 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 9 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.79	building (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.61	light (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.58	meadow (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.69	group of people (Elements of the Picture)
+0.69	group of people (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.56	light reflection (Elements of the Picture)
+0.54	incident light (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.61	light (Elements of the Picture)
+0.56	light reflection (Elements of the Picture)
+0.55	reflection (light) (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.79	building (Elements of the Picture)
+0.61	light (Elements of the Picture)
+0.56	light reflection (Elements of the Picture)
+0.58	meadow (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.69	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_67058d_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 7 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+0.53	building (Elements of the Picture)
+0.53	building (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	belt buckle (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.66	blurring (Elements of the Picture)
+0.58	church tower (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.53	building (Elements of the Picture)
+0.66	group of people (Elements of the Picture)
+0.64	church tower (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_1253z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.53	figure seen from the back (Elements of the Picture)
+0.60	hat (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.61	background (Elements of the Picture)
+0.80	shirt (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.58	heaviness (Keywords for Atmosphere)
+0.96	jacket (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.68	stand-up collar (Elements of the Picture)
+0.80	shirt (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.52	heaviness (Keywords for Atmosphere)
+0.58	heaviness (Keywords for Atmosphere)
+0.59	necklace (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.76	person (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 13 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.56	chimney, fireplace (Elements of the Picture)
+0.91	chair (Elements of the Picture)
+0.62	woman (Elements of the Picture)
+0.62	woman (Elements of the Picture)
+0.56	close-fitting cap (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.52	heaviness (Keywords for Atmosphere)
+0.50	soothing, calming (Keywords for Emotion)
+0.63	darkness (Elements of the Picture)
+0.51	eye contact (Elements of the Picture)
+0.52	bust (portrait) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.51	eye contact (Elements of the Picture)
+0.68	stand-up collar (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+0.65	half-length portrait (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.52	heaviness (Keywords for Atmosphere)
+0.64	dress (Elements of the Picture)
+0.68	back of a chair (Elements of the Picture)
+0.91	dress (Elements of the Picture)
+0.59	necklace (Elements of the Picture)
+0.91	necklace (Elements of the Picture)
+0.65	pearl (Elements of the Picture)
+0.62	woman (Elements of the Picture)
+0.62	woman (Elements of the Picture)
+0.65	necklace (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.68	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.98	calm (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.50	soothing, calming (Keywords for Emotion)
+
+
+
+Processing file: oai_DE-MUS-048017_9779z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.65	straw roof (Elements of the Picture)
+0.56	light (Elements of the Picture)
+0.85	window (Elements of the Picture)
+0.83	tree (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.56	light (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.56	light (Elements of the Picture)
+0.83	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_10239z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.91	chair (Elements of the Picture)
+0.71	wooden door (Elements of the Picture)
+0.93	window (Elements of the Picture)
+0.74	window (Elements of the Picture)
+0.55	leaded glass (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.68	darkness (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.68	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.68	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+
+
+Processing file: oai_DE-MUS-048017_sg411_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 11 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 12 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.80	bird (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.86	house (Elements of the Picture)
+0.57	house (Elements of the Picture)
+0.74	bird (Elements of the Picture)
+0.78	house (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.92	village (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.53	half-length portrait (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.59	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.59	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.86	house (Elements of the Picture)
+0.71	farmhouse (Elements of the Picture)
+0.87	roof (Elements of the Picture)
+0.66	roof tile (Elements of the Picture)
+0.57	house (Elements of the Picture)
+0.78	house (Elements of the Picture)
+0.61	farmhouse (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.92	village (Elements of the Picture)
+0.68	village street (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_15733z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.69	tree (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.62	harmony (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.87	sky (Elements of the Picture)
+0.69	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11932z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.76	building (Elements of the Picture)
+0.76	building (Elements of the Picture)
+0.59	background (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.76	building (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_13181vz_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.68	group of people (Elements of the Picture)
+0.68	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.61	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.55	coat, cloak (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.83	tablecloth (Elements of the Picture)
+0.85	table (Elements of the Picture)
+0.66	tablecloth (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.68	group of people (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg1738z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 19 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.59	figure seen from the back (Elements of the Picture)
+0.77	figure seen from the back (Elements of the Picture)
+0.53	gesture (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.71	musician (male) (Elements of the Picture)
+0.62	man (Elements of the Picture)
+0.62	man (Elements of the Picture)
+0.60	standing man (Elements of the Picture)
+0.56	musical instrument (Elements of the Picture)
+0.62	Inn, tavern (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.62	man (Elements of the Picture)
+0.62	man (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	man (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.62	man (Elements of the Picture)
+0.62	man (Elements of the Picture)
+0.60	standing man (Elements of the Picture)
+0.74	tunic (uniform) (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.61	back of a chair (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.61	back of a chair (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.62	person (Elements of the Picture)
+0.56	person (Elements of the Picture)
+0.76	person (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_12061z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.78	tree (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.51	coat, cloak (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.85	frame (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.78	tree (Elements of the Picture)
+0.94	tree (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_11800z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 1 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.53	wooden door (Elements of the Picture)
+0.85	window (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.52	belt buckle (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.66	church tower (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg2344z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 6 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.59	seated man (Elements of the Picture)
+0.96	skirt (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.65	three-quarter profile (Elements of the Picture)
+0.51	eye contact (Elements of the Picture)
+0.59	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.65	three-quarter profile (Elements of the Picture)
+0.51	eye contact (Elements of the Picture)
+0.59	eye contact (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.63	dress (Elements of the Picture)
+0.64	dress (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.52	basket (Elements of the Picture)
+0.62	basket (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.51	freshness (Keywords for Atmosphere)
+0.51	freshness (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+
+
+
+Processing file: oai_DE-MUS-048017_8199z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 2 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.89	middle ground (Elements of the Picture)
+0.79	foreground (Elements of the Picture)
+0.60	hat (Elements of the Picture)
+0.52	standing woman (standing people) (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.76	person (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_5137z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 3 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_4965z_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 3 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.92	foreground (Elements of the Picture)
+0.83	tree (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_4965z_thumb-xl.csv:
+0.50	Rome (Elements of the Picture)
+0.68	Rome (Elements of the Picture)
+
+From oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv:
+0.58	heaviness (Keywords for Atmosphere)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.77	archway (Elements of the Picture)
+0.83	tree (Elements of the Picture)
+0.50	church tower (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg1325z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 7 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.55	chimney, fireplace (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.55	straw roof (Elements of the Picture)
+0.50	straw roof (Elements of the Picture)
+0.53	physical contact (Elements of the Picture)
+0.69	wooden door (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	wood cladding (Elements of the Picture)
+0.63	tree (Elements of the Picture)
+0.95	roof (Elements of the Picture)
+0.74	roof tile (Elements of the Picture)
+0.77	wood cladding (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg1448z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 5 matches
+- oai_DE-MUS-048017_1415_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 4 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 4 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.60	hat (Elements of the Picture)
+0.55	light (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+
+From oai_DE-MUS-048017_1415_thumb-xl.csv:
+0.56	light reflection (Elements of the Picture)
+0.53	incident light (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.95	cane (Elements of the Picture)
+0.56	light reflection (Elements of the Picture)
+0.55	light (Elements of the Picture)
+0.51	reflection (light) (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+0.56	light reflection (Elements of the Picture)
+0.55	light (Elements of the Picture)
+0.57	group of people (Elements of the Picture)
+
+
+
+Processing file: oai_DE-MUS-048017_sg2372z_thumb-xl.csv
+==================================================
+
+Summary of matches:
+- oai_DE-MUS-048017_1227_thumb-xl.csv: 9 matches
+- oai_DE-MUS-048017_1712_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_alh91z_thumb-xl.csv: 2 matches
+- oai_DE-MUS-048017_sg377_thumb-xl.csv: 1 matches
+- oai_DE-MUS-048017_sg411_thumb-xl.csv: 5 matches
+
+Detailed matches:
+
+From oai_DE-MUS-048017_1227_thumb-xl.csv:
+0.85	background (Elements of the Picture)
+0.52	route (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.98	middle ground (Elements of the Picture)
+0.52	peasant, farmer (male) (Elements of the Picture)
+0.86	river (Elements of the Picture)
+0.64	river (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.67	cloud (Elements of the Picture)
+
+From oai_DE-MUS-048017_1712_thumb-xl.csv:
+0.69	frame (Elements of the Picture)
+0.53	half-length portrait (Elements of the Picture)
+
+From oai_DE-MUS-048017_alh91z_thumb-xl.csv:
+0.59	Montserrat (mountain) (Elements of the Picture)
+0.58	Montserrat (mountain) (Elements of the Picture)
+
+From oai_DE-MUS-048017_sg377_thumb-xl.csv:
+0.53	carefree (Keywords for Emotion)
+
+From oai_DE-MUS-048017_sg411_thumb-xl.csv:
+0.62	harmony (Keywords for Atmosphere)
+0.53	carefree (Keywords for Emotion)
+0.52	route (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.67	cloud (Elements of the Picture)
+

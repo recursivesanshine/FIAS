@@ -13,6 +13,6 @@ black, key, short, slender, tall
 rounded, white
 
 **Elements of the Picture:**
-a brush, a sense, a variety, brush strokes, key words, the artist, the drawing, the image, the motifs, the trees
+artist, brush, brush strokes, drawing, image, key words, motifs, sense, trees, variety
 
 ----------------------------------------

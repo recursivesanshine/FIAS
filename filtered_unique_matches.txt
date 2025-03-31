@@ -1,0 +1,111 @@
+
+Processing file: oai_DE-MUS-048017_1227_thumb-xl.csv
+=====================================================
+
+Unique matches: 23
+
+Detailed matches (highest percentage for each keyword):
+0.98	chimney (Elements of the Picture)
+0.93	woman (Elements of the Picture)
+0.92	foreground (Elements of the Picture)
+0.91	chimney, fireplace (Elements of the Picture)
+0.88	house (Elements of the Picture)
+0.87	sky (Elements of the Picture)
+0.85	background (Elements of the Picture)
+0.85	man (Elements of the Picture)
+0.78	group of people (Elements of the Picture)
+0.77	dancing couple (Elements of the Picture)
+0.77	dance (Elements of the Picture)
+0.75	straw roof (Elements of the Picture)
+0.73	standing woman (standing people) (Elements of the Picture)
+0.72	standing man (Elements of the Picture)
+0.68	old man (Elements of the Picture)
+0.68	hand gesture (Elements of the Picture)
+0.64	seated man (Elements of the Picture)
+0.60	shirt (Elements of the Picture)
+0.60	middle ground (Elements of the Picture)
+0.60	man dancing (Elements of the Picture)
+0.58	hat (Elements of the Picture)
+0.57	close-fitting cap (Elements of the Picture)
+0.56	woman dancing (Elements of the Picture)
+
+
+Processing file: oai_DE-MUS-048017_1712_thumb-xl.csv
+=====================================================
+
+Unique matches: 7
+
+Detailed matches (highest percentage for each keyword):
+0.79	suit of armour (Elements of the Picture)
+0.74	breastplate (armour) (Elements of the Picture)
+0.67	eye contact (Elements of the Picture)
+0.65	half-length portrait (Elements of the Picture)
+0.60	light (Elements of the Picture)
+0.59	armour (Elements of the Picture)
+0.56	fabric (Elements of the Picture)
+
+
+Processing file: oai_DE-MUS-048017_sg377_thumb-xl.csv
+======================================================
+
+Unique matches: 7
+
+Detailed matches (highest percentage for each keyword):
+0.98	basket (Elements of the Picture)
+0.97	tablecloth (Elements of the Picture)
+0.90	apple (Elements of the Picture)
+0.88	doll (Elements of the Picture)
+0.85	table (Elements of the Picture)
+0.64	freshness (Keywords for Atmosphere)
+0.59	water (Elements of the Picture)
+
+
+Processing file: oai_DE-MUS-048017_1415_thumb-xl.csv
+=====================================================
+
+Unique matches: 3
+
+Detailed matches (highest percentage for each keyword):
+0.85	man (Elements of the Picture)
+0.77	thoughtfulness (Keywords for Atmosphere)
+0.52	bust (portrait) (Elements of the Picture)
+
+
+Processing file: oai_DE-MUS-048017_alh91z_thumb-xl.csv
+=======================================================
+
+Unique matches: 1
+
+Detailed matches (highest percentage for each keyword):
+0.70	Montserrat (mountain) (Elements of the Picture)
+
+
+Processing file: oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv
+=====================================================================================================
+
+Unique matches: 7
+
+Detailed matches (highest percentage for each keyword):
+0.98	calm (Keywords for Atmosphere)
+0.93	woman (Elements of the Picture)
+0.91	dress (Elements of the Picture)
+0.91	necklace (Elements of the Picture)
+0.68	back of a chair (Elements of the Picture)
+0.65	pearl (Elements of the Picture)
+0.52	heaviness (Keywords for Atmosphere)
+
+
+Processing file: oai_DE-MUS-048017_sg411_thumb-xl.csv
+======================================================
+
+Unique matches: 8
+
+Detailed matches (highest percentage for each keyword):
+0.92	village (Elements of the Picture)
+0.87	roof (Elements of the Picture)
+0.86	house (Elements of the Picture)
+0.76	tree (Elements of the Picture)
+0.71	farmhouse (Elements of the Picture)
+0.68	village street (Elements of the Picture)
+0.66	roof tile (Elements of the Picture)
+0.59	freshness (Keywords for Atmosphere)

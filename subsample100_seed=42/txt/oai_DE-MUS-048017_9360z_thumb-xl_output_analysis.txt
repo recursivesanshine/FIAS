@@ -13,6 +13,6 @@ key, main, minimalist, overall, rectangular, similar, simple, sketchy, unclutter
 light
 
 **Elements of the Picture:**
-a door, a few details, a few lines, a few trees, a house, a minimalist style, a similar surface, a simple drawing, a tree, a window, key words, simple lines, the background, the center, the door, the drawing, the essence, the ground, the house, the image, the main elements, the motifs, the overall composition, the overall impression, the scene, the trees, the window
+background, center, door, drawing, essence, few details, few lines, few trees, ground, house, image, key words, main elements, minimalist style, motifs, overall composition, overall impression, scene, similar surface, simple drawing, simple lines, tree, trees, window
 
 ----------------------------------------

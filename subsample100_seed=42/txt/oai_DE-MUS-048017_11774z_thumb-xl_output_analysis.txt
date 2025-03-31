@@ -13,6 +13,6 @@ black, fine, flat, key, large, outcrop, realistic, rocky, simple, small, straigh
 likely, white
 
 **Elements of the Picture:**
-a few branches, a forest, a landscape, a realistic style, a river, a thin line, a valley, a variety, fine lines, key words, no clouds, other details, small trees, tall straight trees, the artist, the background, the date, the drawing, the foreground, the image, the motifs, the outcrop, the river, the sky, the trees
+artist, background, date, drawing, few branches, fine lines, foreground, forest, image, key words, landscape, motifs, no clouds, other details, outcrop, realistic style, river, sky, small trees, tall straight trees, thin line, trees, valley, variety
 
 ----------------------------------------

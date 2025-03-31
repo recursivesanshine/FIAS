@@ -19,6 +19,6 @@ architectural, detailed, fine, historical, key, lifelike, low, medieval, realist
 grand, likely, right, rural, semi, valuable
 
 **Elements of the Picture:**
-a glimpse, a hill, a historical representation, a level surface, a low wall, a medieval building, a pencil drawing, a raised area, a realistic style, a simple design, a valuable piece, fine lines, historical documentation, its architectural style, key words, many historical buildings, medieval architecture, several windows, small panes, some trees, the artist, the artwork, the building, the details, the doors, the drawing, the essence, the image, the motifs, the name, the past, the person, the presence, the signature, the structure, the surrounding area, the time, the walls, the windows, this embankment
+artist, artwork, building, details, doors, drawing, essence, fine lines, glimpse, hill, historical documentation, historical representation, image, its architectural style, key words, level surface, low wall, many historical buildings, medieval architecture, medieval building, motifs, name, past, pencil drawing, person, presence, raised area, realistic style, several windows, signature, simple design, small panes, some trees, structure, surrounding area, this embankment, time, valuable piece, walls, windows
 
 ----------------------------------------

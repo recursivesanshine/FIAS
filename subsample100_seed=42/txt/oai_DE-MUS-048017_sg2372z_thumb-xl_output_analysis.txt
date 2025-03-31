@@ -23,6 +23,6 @@ balanced, clear, distant, harmonious, jagged, key, low, middle, mountainous, mut
 blue, british, brown, gray, green, light, lush, picturesque, right, rugged, white
 
 **Elements of the Picture:**
-a cityscape, a clear day, a distant cityscape, a few buildings, a focus, a gradient, a hint, a landscape painting, a mountainous landscape, a natural frame, a painting, a realistic style, a river, a river valley, a rugged terrain, a sense, a stream, a valley, green vegetation, his landscape paintings, its towering peaks, jmw turner, key words, lush greenery, muted colors, some light clouds, steep slopes, the artist, the background, the beauty, the city, the cityscape, the crevices, the foreground, the image, the middle ground, the motifs, the mountains, the natural landscape, the overall composition, the painting, the peaks, the river, the scene, the signature, the sky, the text, the valley, various shades
+artist, background, beauty, city, cityscape, clear day, crevices, distant cityscape, few buildings, focus, foreground, gradient, green vegetation, hint, his landscape paintings, image, its towering peaks, jmw turner, key words, landscape painting, lush greenery, middle ground, motifs, mountainous landscape, mountains, muted colors, natural frame, natural landscape, overall composition, painting, peaks, realistic style, river, river valley, rugged terrain, scene, sense, signature, sky, some light clouds, steep slopes, stream, text, valley, various shades
 
 ----------------------------------------

@@ -13,6 +13,6 @@ black, circular, cylindrical, fine, flat, horizontal, key, large, realistic, rou
 cathedral, white
 
 **Elements of the Picture:**
-a circular pattern, a large church, a large tower, a realistic style, a round base, a series, a tall steeple, a windmill, fine lines, horizontal blades, key words, maarten kindt, several buildings, several people, the artist, the background, the blades, the center, the drawing, the image, the motifs, the people, the snowcovered area, the top, the tower, the windmill, winter clothing
+artist, background, blades, center, circular pattern, drawing, fine lines, horizontal blades, image, key words, large church, large tower, maarten kindt, motifs, people, realistic style, round base, series, several buildings, several people, snowcovered area, tall steeple, top, tower, windmill, winter clothing
 
 ----------------------------------------

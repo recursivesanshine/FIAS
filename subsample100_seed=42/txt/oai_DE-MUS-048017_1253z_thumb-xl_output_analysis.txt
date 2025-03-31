@@ -13,6 +13,6 @@ curly, detailed, high, key, long, plain, realistic, short, sketchy, small, tall,
 cheerful, closed, gray, light, white
 
 **Elements of the Picture:**
-a cheerful expression, a hat, a high collar, a pencil drawing, a person, a plain background, a realistic style, a shirt, a small nose, a small ornament, a tall crown, a wide brim, closed eyes, key words, the drawing, the front, the hat, the image, the jacket, the lines, the motifs, the person, the persons features, the persons hair, the shirt
+cheerful expression, closed eyes, drawing, front, hat, high collar, image, jacket, key words, lines, motifs, pencil drawing, person, persons features, persons hair, plain background, realistic style, shirt, small nose, small ornament, tall crown, wide brim
 
 ----------------------------------------

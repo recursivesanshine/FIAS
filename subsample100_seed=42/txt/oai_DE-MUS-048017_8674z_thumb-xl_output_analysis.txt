@@ -13,6 +13,6 @@ castle, central, handwritten, key, large, rectangular, simple, sketchy, small, s
 light, right
 
 **Elements of the Picture:**
-a canvas, a central tower, a few details, a hill, a lightcolored background, a pencil drawing, a piece, key words, large building, several smaller towers, simple lines, steep roofs, the artist, the castle, the date, the drawing, the image, the motifs, the walls, the windows, their shape
+artist, canvas, castle, central tower, date, drawing, few details, hill, image, key words, large building, lightcolored background, motifs, pencil drawing, piece, several smaller towers, simple lines, steep roofs, their shape, walls, windows
 
 ----------------------------------------

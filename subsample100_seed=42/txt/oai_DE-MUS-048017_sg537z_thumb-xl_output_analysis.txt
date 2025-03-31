@@ -13,6 +13,6 @@ detailed, key, loose, neutral, overall, present, simple, sketchy
 None
 
 **Elements of the Picture:**
-a focus, a group, a pencil drawing, a sketchy style, key words, loose lines, some standing, the animals, the background, the details, the drawing, the essence, the figures, the foreground, the image, the motifs, the overall composition, the people, the scene, various poses
+animals, background, details, drawing, essence, figures, focus, foreground, group, image, key words, loose lines, motifs, overall composition, pencil drawing, people, scene, sketchy style, some standing, various poses
 
 ----------------------------------------

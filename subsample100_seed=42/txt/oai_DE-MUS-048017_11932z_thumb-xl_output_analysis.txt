@@ -13,6 +13,6 @@ basic, detailed, key, sketchy
 white
 
 **Elements of the Picture:**
-a cityscape, a drawing, a few lines, a sketchy style, a white background, key words, the artist, the basic shapes, the buildings, the cityscape, the drawing, the essence, the image, the motifs
+artist, basic shapes, buildings, cityscape, drawing, essence, few lines, image, key words, motifs, sketchy style, white background
 
 ----------------------------------------

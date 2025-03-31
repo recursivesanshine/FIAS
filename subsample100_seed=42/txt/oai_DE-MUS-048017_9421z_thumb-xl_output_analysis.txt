@@ -19,6 +19,6 @@ artistic, clear, dense, different, early, framed, harmonious, key, late, long, l
 beautiful, blue, green, leafy, light, likely, lush, ornate, pleasing, right, tranquil, valuable, welcome
 
 **Elements of the Picture:**
-a clear day, a dense cluster, a framed painting, a natural landscape, a realistic style, a still life, a valuable piece, a variety, a way, a welcome addition, a wooden fence, any home, either early morning, green shades, key words, late afternoon, no people, one side, the artist, the bark, the beauty, the depiction, the different textures, the focus, the frame, the grass, the image, the leaves, the motifs, the natural beauty, the natural colors, the natural elements, the overall atmosphere, the overall effect, the painting, the path, the scene, the signature, the sky, the trees
+any home, artist, bark, beauty, clear day, dense cluster, depiction, different textures, either early morning, focus, frame, framed painting, grass, green shades, image, key words, late afternoon, leaves, motifs, natural beauty, natural colors, natural elements, natural landscape, no people, one side, overall atmosphere, overall effect, painting, path, realistic style, scene, signature, sky, still life, trees, valuable piece, variety, way, welcome addition, wooden fence
 
 ----------------------------------------

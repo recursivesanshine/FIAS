@@ -13,6 +13,6 @@ architectural, circular, classical, decorative, horizontal, key, large, left, mi
 close, right, semi
 
 **Elements of the Picture:**
-a classical style, a focus, a pencil drawing, a row, a series, decorative capitals, horizontal beams, key words, the arches, the architectural details, the artist, the columns, the drawing, the image, the left edge, the leftmost arch, the leftmost column, the middle arch, the motifs, the right edge, the rightmost, the rightmost column, three arches
+arches, architectural details, artist, classical style, columns, decorative capitals, drawing, focus, horizontal beams, image, key words, left edge, leftmost arch, leftmost column, middle arch, motifs, pencil drawing, right edge, rightmost, rightmost column, row, series, three arches
 
 ----------------------------------------

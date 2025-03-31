@@ -13,6 +13,6 @@ black, circular, high, key, long, plain
 right, white
 
 **Elements of the Picture:**
-a candle, a circular platform, a high collar, a long dress, a woman, a wreath, her head, her right hand, key words, the background, the candle, the image, the motifs, the woman
+background, candle, circular platform, her head, her right hand, high collar, image, key words, long dress, motifs, woman, wreath
 
 ----------------------------------------

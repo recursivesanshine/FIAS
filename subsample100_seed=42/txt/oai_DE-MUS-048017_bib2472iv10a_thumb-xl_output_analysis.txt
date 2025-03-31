@@ -21,6 +21,6 @@ abstract, additional, black, clear, difficult, flat, fluid, key, large, minimali
 brown, careful, facial, human, light, standalone
 
 **Elements of the Picture:**
-a canvas, a cap, a flat surface, a larger work, a minimalist drawing, a minimalist style, a part, a persons face, a realistic style, a sketch, a standalone piece, a study, additional elements, any specific context, black lines, human facial features, key words, likely a male, no clear indication, no other objects, possibly a piece, the background, the black lines, the cap, the drawing, the facial features, the focus, the image, the lack, the lines, the minimalist style, the motifs, the person, the persons expression, the persons face, the persons hair, the persons head, the right, their ears, their face, their forehead
+additional elements, any specific context, background, black lines, canvas, cap, drawing, facial features, flat surface, focus, human facial features, image, key words, lack, larger work, likely a male, lines, minimalist drawing, minimalist style, motifs, no clear indication, no other objects, part, person, persons expression, persons face, persons hair, persons head, possibly a piece, realistic style, right, sketch, standalone piece, study, their ears, their face, their forehead
 
 ----------------------------------------

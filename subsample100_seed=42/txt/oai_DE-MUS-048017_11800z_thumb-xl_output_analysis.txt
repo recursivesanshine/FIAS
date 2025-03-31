@@ -13,6 +13,6 @@ key, large, small, tall
 None
 
 **Elements of the Picture:**
-a church, a cross, a drawing, a large door, a small window, a steeple, key words, the church, the image, the motifs, the steeple
+church, cross, drawing, image, key words, large door, motifs, small window, steeple
 
 ----------------------------------------

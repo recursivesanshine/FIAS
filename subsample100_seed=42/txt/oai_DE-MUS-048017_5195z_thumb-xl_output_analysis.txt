@@ -52,6 +52,6 @@ abstract, black, complex, detailed, different, diverse, geometric, interconnecte
 intricate, red, right, white, yellow
 
 **Elements of the Picture:**
-a detailed description, a page, a series, a sketchbook, a star, a stylized representation, a symmetrical pattern, bottom center section, bottom left section, different sections, interconnected geometric shapes, interconnected shapes, key words, multiple points, some elements, the colors, the frame, the image, the motif, the motifs, the page, the shapes, the star, various motifs
+bottom center section, bottom left section, colors, detailed description, different sections, frame, image, interconnected geometric shapes, interconnected shapes, key words, motif, motifs, multiple points, page, series, shapes, sketchbook, some elements, star, stylized representation, symmetrical pattern, various motifs
 
 ----------------------------------------

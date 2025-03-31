@@ -13,6 +13,6 @@ central, decorative, detailed, key, linear, plain, thin, unadorned
 delicate, floral, illustrative, intricate
 
 **Elements of the Picture:**
-a book, a decorative piece, a drawing, a floral pattern, a linear style, a triangular figure, a variety, key words, other decorative elements, the animal figures, the background, the bottom, the drawing, the floral motif, the image, the lines, the motifs, the triangular figure, their legs, two animal figures
+animal figures, background, book, bottom, decorative piece, drawing, floral motif, floral pattern, image, key words, linear style, lines, motifs, other decorative elements, their legs, triangular figure, two animal figures, variety
 
 ----------------------------------------
