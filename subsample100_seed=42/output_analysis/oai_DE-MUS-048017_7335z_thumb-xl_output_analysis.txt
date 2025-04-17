@@ -1,0 +1,30 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a sketch of two men, drawn in a simple, cartoonish style. The man on the left is depicted with a large, bulbous nose, a mustache, and a wide-open mouth. He is wearing a suit with a high collar and a large, ornate coat. He is standing with his left hand raised, seemingly in the middle of a conversation. The man on the right is depicted with a more traditional, upright posture, wearing a suit with a high collar and a large, ornate coat. He is sitting down, with his right hand resting on his lap, and his left hand is holding a book. He is looking down at the book, with a thoughtful expression on his face.
+
+The background of the image is plain, with no additional details or scenery. The image is drawn in black ink, with a few simple lines to indicate the outlines of the figures and their clothing. The overall style of the image is simple and straightforward, with a focus on the two men and their interactions.
+
+The text at the top of the image reads "Schitzy gutlaus (Hentait)" and "Kastere", which translates to "Schitzy girl (Hentait)" and "Kastere". These words are written in a cursive script, which adds to the cartoonish and whimsical feel of the image.
+
+The image is likely intended to be humorous, as the exaggerated features of the men and their expressions suggest a light-hearted tone. The overall composition of the image is simple and straightforward, with the focus on the two men and their interactions.
+
+Output:
+Summary:
+"the image is a sketch of two men, drawn in a simple, cartoonish style . the text at the top of the image reads "Schitzy gutla."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+hearted, thoughtful
+
+**Elements of the Picture:**
+background, black ink, book, conversation, cursive script, exaggerated features, figures, focus, high collar, his face, his lap, his left hand, his right hand, image, key words, left, lighthearted tone, man, men, middle, motifs, mustache, no additional details, outlines, overall composition, overall style, right, schitzy girl, schitzy gutlaus, sketch, suit, text, their clothing, their expressions, their interactions, these words, thoughtful expression, top, two men, wideopen mouth
+
+**Keywords for Motive:**
+humorous, key, upright
+
+**Keywords for Association:**
+None
+
+----------------------------------------

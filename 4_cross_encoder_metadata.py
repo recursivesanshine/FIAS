@@ -31,6 +31,7 @@ def extract_keywords_from_sections(file_path, sections):
 def extract_corpus_from_csv(csv_file_path, keyword_category):
     """
     Given the CSV metadata file and a keyword category, returns the list of English keywords.
+    Converts certain category names to expected CSV values.
     """
     corpus = []
     keyword_category = keyword_category.lower()
@@ -38,6 +39,10 @@ def extract_corpus_from_csv(csv_file_path, keyword_category):
         keyword_category = "atmosphäre"
     elif keyword_category == "elements":
         keyword_category = "bildelement"
+    elif keyword_category == "association":
+        keyword_category = "assoziation"
+    elif keyword_category == "motive":
+        keyword_category = "motiv"
     
     with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
@@ -56,6 +61,10 @@ def get_category_from_headline(headline):
         return "atmosphere"
     elif "emotion" in low:
         return "emotion"
+    elif "association" in low:
+        return "association"
+    elif "motive" in low:
+        return "motive"
     elif "element" in low or "picture" in low:
         return "elements"
     else:
@@ -73,12 +82,14 @@ def main():
     # Initialize the cross encoder model.
     model = CrossEncoder("cross-encoder/stsb-distilroberta-base")
 
-    # Define potential section header variants.
+    # Define potential section header variants including the new categories.
     sections = [
         "Keywords for Atmosphere", 
         "Keywords for Emotion", 
         "Picture Elements", 
-        "Elements of the Picture"
+        "Elements of the Picture",
+        "Keywords for Association",
+        "Keywords for Motive"
     ]
     
     # Open the output file with tab as the delimiter.

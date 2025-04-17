@@ -1,0 +1,24 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a pencil drawing of a group of people and animals. The drawing is done in a sketchy style, with loose lines and a focus on the overall composition rather than the details. The people are depicted in various poses, some standing, some sitting, and some lying down. The animals are also present in the drawing, though they are not as detailed as the people. The background is a simple, neutral color, which helps to focus attention on the figures in the foreground. The drawing is not overly detailed, but it captures the essence of the scene.
+
+Output:
+Summary:
+"the drawing is done in a sketchy style, with loose lines and a focus on the overall composition . the people are depicted in."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+animals, background, details, drawing, essence, figures, focus, foreground, group, image, key words, loose lines, motifs, overall composition, pencil drawing, people, scene, sketchy style, some standing, various poses
+
+**Keywords for Motive:**
+key, present
+
+**Keywords for Association:**
+None
+
+----------------------------------------

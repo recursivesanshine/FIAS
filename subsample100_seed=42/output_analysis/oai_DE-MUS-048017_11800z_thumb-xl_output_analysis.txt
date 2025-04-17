@@ -1,0 +1,24 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a drawing of a church. The church is tall and has a steeple. The steeple is pointed and has a cross on top. The church has a large door and a small window. The church is surrounded by trees.
+
+Output:
+Summary:
+"user:imageDescribe the image with details and give key words to describe the motifs . the image is a drawing of a church. the."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+church, cross, drawing, image, key words, large door, motifs, small window, steeple
+
+**Keywords for Motive:**
+key
+
+**Keywords for Association:**
+None
+
+----------------------------------------

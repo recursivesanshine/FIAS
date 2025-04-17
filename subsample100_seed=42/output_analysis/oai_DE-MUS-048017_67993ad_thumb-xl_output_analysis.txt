@@ -1,0 +1,24 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a black and white drawing of a man. The man is wearing a hat and has a serious expression on his face. He is holding a cigarette in his right hand. The background is plain and there is no other object in the image.
+
+Output:
+Summary:
+"the image is a black and white drawing of a man . the man is wearing a hat and has a serious expression on his face ."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+background, cigarette, hat, his face, his right hand, image, key words, man, motifs, no other object, serious expression
+
+**Keywords for Motive:**
+key
+
+**Keywords for Association:**
+None
+
+----------------------------------------

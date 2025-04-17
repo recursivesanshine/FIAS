@@ -15,9 +15,10 @@ def extract_current_csv(processing_line):
 
 def process_summary_file(input_file, output_file):
     """Processes the summary file with all requested filters and grouping."""
+    # Make sure the regex pattern is entirely on one line.
     pattern = re.compile(r'^(?P<perc>\s*\d+\.\d+)\s+(?P<keyword>.*?)\s+\[Found:\s*(?P<found>.*?)\]$')
     
-    # {csv: {category: {keyword: max_perc}}}
+    # Dictionary structure: {csv: {category: {keyword: max_perc}}}
     results = defaultdict(lambda: defaultdict(dict))
     current_csv = None
     current_category = None
@@ -26,15 +27,18 @@ def process_summary_file(input_file, output_file):
         for line in fin:
             line = line.rstrip('\n')
             
+            # Update current CSV from processing file lines.
             if line.startswith("Processing file:"):
                 current_csv = extract_current_csv(line)
                 current_category = None
                 continue
             
+            # Set the current category based on section headers.
             if line.startswith("== "):
                 current_category = line.strip("= ").strip()
                 continue
             
+            # Skip query lines.
             if line.startswith("-- Query:"):
                 continue
             
@@ -44,14 +48,14 @@ def process_summary_file(input_file, output_file):
                 found_text = m.group("found").strip()
                 perc = float(m.group("perc"))
                 
-                # Only process matches from same file
+                # Process only matches originating from the same file.
                 if any(current_csv == item.strip() for item in found_text.split(",")):
-                    # Keep only highest percentage for each keyword
+                    # Keep only the highest percentage for each keyword.
                     if (keyword not in results[current_csv][current_category] or 
                         perc > results[current_csv][current_category][keyword]):
                         results[current_csv][current_category][keyword] = perc
     
-    # Generate the report
+    # Generate the report.
     output_lines = []
     for csv, categories in results.items():
         output_lines.append(f"\nProcessing file: {csv}")
@@ -60,16 +64,18 @@ def process_summary_file(input_file, output_file):
         total_matches = sum(len(keywords) for keywords in categories.values())
         output_lines.append(f"\nTotal unique matches: {total_matches}")
         
-        # Process categories in original order
+        # Process categories in the specified order (all 5 categories).
         category_order = [
             "Keywords for Atmosphere",
             "Keywords for Emotion", 
-            "Elements of the Picture"
+            "Elements of the Picture",
+            "Keywords for Association",
+            "Keywords for Motive"
         ]
         
         for category in category_order:
             if category in categories:
-                # Sort keywords by percentage (highest first)
+                # Sort keywords by percentage (highest first).
                 sorted_keywords = sorted(
                     categories[category].items(),
                     key=lambda x: x[1],

@@ -104,7 +104,7 @@ def process_xml_files(input_path: str) -> None:
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        logging.error("Usage: metadata_keyword_extract.py path_to_folder")
+        logging.error("Usage: metadata_keyword_extract_single.py path_to_folder")
         sys.exit(1)
     
     input_path = sys.argv[1]

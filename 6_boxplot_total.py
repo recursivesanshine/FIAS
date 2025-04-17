@@ -8,7 +8,7 @@ def parse_data(file_path):
     """
     Parse the input file, capturing headers and data lines.
     Returns a DataFrame with columns:
-    - main_category (e.g., Atmosphere, Emotion, or Picture Elements)
+    - main_category (e.g., Atmosphere, Emotion, Picture Elements, Association, or Motive)
     - subcategory (the complete section header)
     - percentage (the numeric value)
     - keyword (the associated word)
@@ -20,19 +20,23 @@ def parse_data(file_path):
         lines = file.readlines()
         for line in lines:
             line = line.strip()
-            # Detect section headers like "== Keywords for Atmosphere =="
+            # Detect section headers like "== Keywords for Atmosphere ==" or similar variants.
             if line.startswith("==") and line.endswith("=="):
                 category = line.strip("=").strip()
                 if 'Atmosphere' in category:
                     main_category = 'Atmosphere'
                 elif 'Emotion' in category:
                     main_category = 'Emotion'
-                # Handle variations for picture elements
+                elif 'Association' in category:
+                    main_category = 'Association'
+                elif 'Motive' in category:
+                    main_category = 'Motive'
+                # Handle variations for picture elements.
                 elif 'Picture Elements' in category or 'Elements of the Picture' in category:
                     main_category = 'Picture Elements'
                 else:
-                    main_category = None  # Skip if section is not one of the expected ones
-            # Process data lines only when a main_category is set and line contains a tab
+                    main_category = None  # Skip if section is not one of the expected ones.
+            # Process data lines only when a main_category is set and line contains a tab.
             elif main_category and "\t" in line:
                 try:
                     value, keyword = line.split('\t')
@@ -54,10 +58,12 @@ def visualize_distribution(df, category):
 
 def create_plot(df):
     """
-    Create a boxplot showing the overall distribution of percentage values across main categories.
+    Create a boxplot showing the overall distribution of percentage values across all main categories.
+    The plot will include all five categories: Atmosphere, Emotion, Picture Elements, Association, and Motive.
     """
+    desired_categories = ["Atmosphere", "Emotion", "Picture Elements", "Association", "Motive"]
     plt.figure(figsize=(12, 8))
-    sns.boxplot(x="percentage", y="main_category", data=df, palette="vlag")
+    sns.boxplot(x="percentage", y="main_category", data=df, order=desired_categories, palette="vlag")
     plt.xticks([i * 0.10 for i in range(11)], [f"{i * 0.10:.2f}" for i in range(11)])
     plt.xlim(0, 1)
     plt.grid(True, linestyle='--', alpha=0.7)
@@ -81,9 +87,9 @@ def save_and_log_plot(df, log_file):
 def process_files(csv_files, log_file):
     """
     Process all CSV files provided:
-    - Parse each file and combine their data
-    - Create and save the overall boxplot
-    - Visualize the distribution for "Picture Elements"
+    - Parse each file and combine their data.
+    - Create and save the overall boxplot showing all five categories.
+    - Additionally, visualize the distribution for "Picture Elements".
     """
     combined_df = pd.DataFrame(columns=['main_category', 'subcategory', 'percentage', 'keyword'])
     for csv_file in csv_files:
@@ -106,7 +112,7 @@ def main():
         f.write('Output log:\n')
 
     csv_files = []
-    # Check if the provided input is a CSV file or a folder containing CSV files
+    # Check if the provided input is a CSV file or a folder containing CSV files.
     if os.path.isfile(args.input_path) and args.input_path.lower().endswith(".csv"):
         csv_files = [args.input_path]
     elif os.path.isdir(args.input_path):

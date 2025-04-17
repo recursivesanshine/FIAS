@@ -1,0 +1,34 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image depicts a detailed architectural drawing of a mosque, likely created using pen and ink. The drawing is primarily composed of lines and shading, giving it a classic and traditional look. The mosque is depicted with a large dome, which is a common feature in Islamic architecture. The dome is supported by a series of arches and columns, with intricate details and patterns adorning the structure. The mosque also has a minaret, which is a tall tower used for the call to prayer.
+
+The minaret is positioned to the right of the main structure, and it is adorned with intricate geometric designs and patterns. The mosque is surrounded by a wall, which adds to its grandeur and serves as a protective barrier. The wall is made of stone and has a rough texture, adding to the overall aesthetic of the drawing.
+
+In the foreground of the image, there are some trees and other buildings, which are smaller in scale compared to the mosque. These structures are drawn with less detail, suggesting they are secondary in importance to the main mosque.
+
+The drawing is signed by the artist, "M. Imam Schafai," and dated "25 Jan 2020," indicating the date it was created. The artist's signature is located at the bottom right corner of the drawing, and the date is written below it.
+
+The drawing is a detailed and accurate representation of a traditional Islamic mosque, showcasing the architectural elements and design principles that are characteristic of this style. The artist has used shading to create depth and dimension, enhancing the overall visual appeal of the drawing.
+
+In summary, the image depicts a detailed architectural drawing of a mosque, featuring a large dome, minaret, and surrounding wall. The drawing is signed by the artist and dated, indicating its creation date. The mosque is surrounded by trees and other buildings, and the artist has used shading to add depth and detail to the structure.
+
+Output:
+Summary:
+"image depicts a detailed architectural drawing of a mosque, likely created using pen and ink . the drawing is signed by the a."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+25 jan, architectural elements, artist, artists signature, call, common feature, date, design principles, dome, drawing, foreground, image, intricate details, intricate geometric designs, islamic architecture, its creation date, its grandeur, key words, large dome, less detail, m imam schafai, main mosque, main structure, minaret, mosque, motifs, other buildings, overall aesthetic, protective barrier, right, rough texture, series, some trees, structure, surrounding wall, tall tower, these structures, this style, wall
+
+**Keywords for Motive:**
+classic, intricate, islamic, key, main, secondary
+
+**Keywords for Association:**
+None
+
+----------------------------------------

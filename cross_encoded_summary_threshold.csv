@@ -1,24 +1,9 @@
 Cross Encoded Summary
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_5160z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_5160z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
 == Keywords for Atmosphere ==
--- Query: key --
-
--- Query: large --
-
--- Query: pointed --
-
--- Query: realistic --
-
--- Query: round --
-
--- Query: square --
-
--- Query: tall --
-0.58	heaviness
-
 
 == Keywords for Emotion ==
 
@@ -57,80 +42,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: tall minaret --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1227_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: bygone --
-
--- Query: central --
-
--- Query: cloudy --
-
--- Query: common --
-
--- Query: daily --
-
--- Query: dark --
-
--- Query: detailed --
-
--- Query: everyday --
-
--- Query: historical --
-
--- Query: integral --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: lively --
 
--- Query: modest --
 
--- Query: natural --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_1227_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: overall --
-
--- Query: realistic --
-
--- Query: rustic --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: thatched --
-
--- Query: traditional --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: blue --
-
--- Query: charming --
-
 -- Query: joyful --
 0.97	joyful
 
--- Query: light --
-0.53	carefree
-
 -- Query: overall --
-
--- Query: pink --
-
--- Query: red --
-
--- Query: right --
-
--- Query: rural --
-
--- Query: white --
 
 
 == Elements of the Picture ==
@@ -287,37 +215,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.68	hand gesture
 
 
+== Keywords for Association ==
+-- Query: connection --
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg141z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
 
-== Keywords for Atmosphere ==
--- Query: detailed --
-
--- Query: fine --
-0.51	freshness
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
-
--- Query: main --
-
--- Query: overall --
-
--- Query: realistic --
-
--- Query: simple --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: uncluttered --
-
-
-== Keywords for Emotion ==
 -- Query: rural --
 
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg141z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+
+== Keywords for Emotion ==
 
 == Elements of the Picture ==
 -- Query: center --
@@ -370,61 +284,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: trees --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9300z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: arched --
-
--- Query: architectural --
-
--- Query: common --
-
--- Query: conical --
-
--- Query: detailed --
-
--- Query: fine --
-0.51	freshness
-
--- Query: harmonious --
-0.62	harmony
-
--- Query: historical --
-
+== Keywords for Motive ==
 -- Query: key --
-
--- Query: large --
-
--- Query: lookout --
 
 -- Query: main --
 
--- Query: medieval --
+-- Query: rural --
 
--- Query: neutral --
 
--- Query: pointed --
 
--- Query: realistic --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9300z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: rectangular --
-
--- Query: small --
-
--- Query: sturdy --
-
--- Query: typical --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: dimensional --
-
--- Query: likely --
-
 -- Query: peaked --
 
 
@@ -535,52 +411,27 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: way --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_14978z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: common --
-
--- Query: connected --
-
--- Query: daytime --
-
--- Query: detailed --
-
--- Query: essential --
-
--- Query: everyday --
-
--- Query: historical --
-
--- Query: immediate --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
-
--- Query: long --
+-- Query: likely --
 
 -- Query: main --
 
--- Query: manual --
+-- Query: medieval --
 
--- Query: natural --
+-- Query: typical --
 
--- Query: simple --
 
--- Query: sketchy --
 
--- Query: traditional --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_14978z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: rural --
-
--- Query: single --
-0.72	carefree
-
 
 == Elements of the Picture ==
 -- Query: 2 characteristics --
@@ -717,17 +568,28 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	standing woman (standing people)
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9737z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: essential --
 
-== Keywords for Atmosphere ==
 -- Query: key --
 
+-- Query: main --
+
+-- Query: manual --
+0.58	man
+
+-- Query: rural --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9737z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: 10 juli --
@@ -748,92 +610,20 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.59	background
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2306z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: aesthetic --
-
--- Query: central --
-
--- Query: deciduous --
-
--- Query: detailed --
-
--- Query: diffused --
-
--- Query: early --
-
--- Query: earthy --
-
--- Query: essential --
-
--- Query: fine --
-0.51	freshness
-
--- Query: historical --
-
--- Query: horizontal --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
 
--- Query: late --
 
--- Query: natural --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_2306z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: neutral --
-
--- Query: overall --
-
--- Query: peaceful --
-0.51	freshness
-
--- Query: realistic --
-
--- Query: rustic --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: soft --
-
--- Query: sturdy --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: thick --
-
--- Query: traditional --
-
--- Query: visible --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: european --
-
--- Query: light --
-0.53	carefree
-
--- Query: likely --
-
--- Query: lush --
-
 -- Query: proud --
-
--- Query: relevant --
-
--- Query: rural --
-
--- Query: tranquil --
 
 
 == Elements of the Picture ==
@@ -967,48 +757,27 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.58	wooden door
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8928-910694z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: clean --
-0.66	freshness
-
--- Query: decorative --
-
--- Query: detailed --
-
--- Query: different --
-
--- Query: easy --
-
+== Keywords for Motive ==
 -- Query: essential --
 
 -- Query: key --
 
--- Query: minimal --
+-- Query: likely --
 
--- Query: minimalist --
+-- Query: relevant --
 
--- Query: overall --
+-- Query: rural --
 
--- Query: second --
 
--- Query: similar --
 
--- Query: simple --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8928-910694z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: uncluttered --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
--- Query: subject --
-
 
 == Elements of the Picture ==
 -- Query: architectural element --
@@ -1089,66 +858,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.57	three-quarter profile
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11030z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: essential --
 
-== Keywords for Atmosphere ==
--- Query: arched --
-
--- Query: architectural --
-
--- Query: basic --
-
--- Query: clean --
-0.66	freshness
-
--- Query: clear --
-
--- Query: handwritten --
-
--- Query: historical --
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: large --
+-- Query: subject --
 
--- Query: minimal --
 
--- Query: minimalist --
 
--- Query: natural --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11030z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: overall --
-
--- Query: precise --
-
--- Query: rectangular --
-
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: slight --
-
--- Query: small --
-
--- Query: solid --
-
--- Query: stylized --
-
--- Query: uncluttered --
-
--- Query: wild --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
--- Query: right --
-
--- Query: rounded --
-
 
 == Elements of the Picture ==
 -- Query: another room --
@@ -1244,52 +972,22 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.93	window
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8668z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: cursive --
-
--- Query: dense --
-
--- Query: detailed --
-
--- Query: good --
+== Keywords for Motive ==
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: minimalist --
 
--- Query: natural --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8668z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: realistic --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: soft --
-
--- Query: thin --
-
--- Query: uncluttered --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: beautiful --
-0.54	carefree
-
--- Query: delicate --
-
 -- Query: evocative --
-
--- Query: light --
-0.53	carefree
-
--- Query: right --
 
 
 == Elements of the Picture ==
@@ -1359,29 +1057,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: viewer --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_bib2472i35a_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: architectural --
-
--- Query: basic --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: plain --
 
--- Query: simple --
 
--- Query: sketchy --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_bib2472i35a_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: likely --
-
 
 == Elements of the Picture ==
 -- Query: arch --
@@ -1418,57 +1106,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: wall --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8600z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: detailed --
-
--- Query: fine --
-0.51	freshness
-
--- Query: historical --
-
+== Keywords for Motive ==
 -- Query: key --
-
--- Query: lifelike --
-
--- Query: low --
-
--- Query: medieval --
-
--- Query: realistic --
-
--- Query: rectangular --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: typical --
-
--- Query: visible --
-
-
-== Keywords for Emotion ==
--- Query: grand --
 
 -- Query: likely --
 
--- Query: right --
 
--- Query: rural --
 
--- Query: semi --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8600z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: valuable --
+== Keywords for Atmosphere ==
 
+== Keywords for Emotion ==
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -1562,27 +1214,31 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.93	window
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg537z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: detailed --
+== Keywords for Motive ==
+-- Query: grand --
 
 -- Query: key --
 
--- Query: loose --
+-- Query: lifelike --
 
--- Query: neutral --
+-- Query: likely --
 
--- Query: overall --
+-- Query: medieval --
 
--- Query: present --
+-- Query: rural --
 
--- Query: simple --
+-- Query: typical --
 
--- Query: sketchy --
+-- Query: valuable --
 
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg537z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
 
@@ -1637,60 +1293,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: various poses --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_7335z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: black --
-
--- Query: bulbous --
-
--- Query: cartoonish --
-
--- Query: cursive --
-
--- Query: high --
-0.52	heaviness
-
--- Query: humorous --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
+-- Query: present --
 
--- Query: left --
 
--- Query: open --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_7335z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: plain --
-
--- Query: simple --
-
--- Query: straightforward --
-
--- Query: traditional --
-
--- Query: upright --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: exaggerated --
-
 -- Query: hearted --
-
--- Query: ornate --
-
--- Query: right --
 
 -- Query: thoughtful --
 0.98	thoughtful
-
--- Query: whimsical --
 
 
 == Elements of the Picture ==
@@ -1793,76 +1414,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: wideopen mouth --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2432z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: clear --
-
--- Query: detailed --
-
--- Query: easy --
-
--- Query: herbivorous --
+== Keywords for Motive ==
+-- Query: humorous --
 
 -- Query: key --
 
--- Query: large --
-
--- Query: long --
-
--- Query: muscular --
-
--- Query: natural --
-
--- Query: notable --
-
--- Query: plain --
-
--- Query: pointed --
-
--- Query: prominent --
-
--- Query: realistic --
-
--- Query: round --
-
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: small --
-
--- Query: social --
-
--- Query: sturdy --
-
--- Query: thick --
-
--- Query: typical --
-
 -- Query: upright --
 
--- Query: visible --
 
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_2432z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: grassy --
-
--- Query: light --
-0.53	carefree
-
--- Query: like --
-
--- Query: particular --
-
--- Query: relevant --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -1962,39 +1530,33 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: visible hooves --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_bib2472ii152f_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: cursive --
-
--- Query: detailed --
-
--- Query: exact --
-
--- Query: foreign --
-
--- Query: handwritten --
-
--- Query: identifiable --
+== Keywords for Motive ==
+-- Query: herbivorous --
 
 -- Query: key --
 
--- Query: left --
+-- Query: muscular --
 
--- Query: middle --
+-- Query: notable --
 
--- Query: possible --
+-- Query: prominent --
 
--- Query: small --
+-- Query: relevant --
 
+-- Query: typical --
+
+-- Query: upright --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_bib2472ii152f_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: right --
-
 
 == Elements of the Picture ==
 -- Query: additional context --
@@ -2055,53 +1617,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: various words --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2934z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: adventurous --
-
--- Query: clear --
-
--- Query: cold --
-
--- Query: cultural --
-
--- Query: detailed --
-
--- Query: different --
-
--- Query: distinct --
-
--- Query: historical --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: modern --
+-- Query: possible --
 
--- Query: mountainous --
 
--- Query: multiple --
 
--- Query: muted --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_2934z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: natural --
-
--- Query: realistic --
-
--- Query: traditional --
-
--- Query: vast --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: dynamic --
-
--- Query: rugged --
-
 
 == Elements of the Picture ==
 -- Query: 17th century --
@@ -2129,38 +1659,26 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: conclusion --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_alh79z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: adventurous --
 
-== Keywords for Atmosphere ==
--- Query: black --
-
--- Query: detailed --
-
--- Query: high --
-0.52	heaviness
+-- Query: dynamic --
 
 -- Query: key --
 
--- Query: limited --
+-- Query: rugged --
 
--- Query: minimalist --
 
--- Query: simple --
 
--- Query: solid --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_alh79z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
 -- Query: pleated --
-
--- Query: relaxed --
-
--- Query: white --
 
 
 == Elements of the Picture ==
@@ -2229,181 +1747,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: womans figure --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_10903z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: central --
-
--- Query: clear --
-
--- Query: dense --
-
--- Query: great --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: minimalist --
-
--- Query: natural --
-
--- Query: peaceful --
-0.51	freshness
-
--- Query: serene --
-
--- Query: slender --
-
--- Query: small --
-
--- Query: soft --
-
--- Query: straight --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: textured --
-
--- Query: thick --
-
--- Query: vast --
-
--- Query: visible --
 
 
-== Keywords for Emotion ==
--- Query: delicate --
-
--- Query: intricate --
-
--- Query: overall --
-
-
-== Elements of the Picture ==
--- Query: artist --
-
--- Query: background --
-0.85	background
-
--- Query: blur --
-0.75	blurring
-0.51	blouse
-
--- Query: central focus --
-
--- Query: cluster --
-
--- Query: dense forest --
-0.54	foreground
-
--- Query: drawing --
-
--- Query: few knots --
-
--- Query: few leaves --
-
--- Query: few trunks --
-
--- Query: forest --
-
--- Query: forest scene --
-
--- Query: great detail --
-
--- Query: image --
-
--- Query: impression --
-
--- Query: key words --
-
--- Query: leaves --
-0.51	coat, cloak
-
--- Query: medium --
-
--- Query: minimalist style --
-
--- Query: motifs --
-
--- Query: natural beauty --
-
--- Query: overall mood --
-
--- Query: pencil drawing --
-
--- Query: scene --
-
--- Query: sense --
-
--- Query: their silhouettes --
-
--- Query: touch --
-0.53	physical contact
-
--- Query: tranquil beauty --
-
--- Query: trees --
-
--- Query: trunks --
-
-
-
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg392z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg392z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
 == Keywords for Atmosphere ==
--- Query: calm --
-0.98	calm
-
--- Query: cloudy --
-
--- Query: dark --
-
--- Query: earthy --
-
--- Query: grayish --
-
--- Query: key --
-
--- Query: left --
-
--- Query: minimalist --
-
--- Query: minimalistic --
-
--- Query: natural --
-
--- Query: overall --
-
--- Query: peaceful --
-0.51	freshness
-
--- Query: present --
-
--- Query: recreational --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: tall --
-0.58	heaviness
-
 
 == Keywords for Emotion ==
--- Query: brown --
-
--- Query: light --
-0.53	carefree
-
--- Query: rugged --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: 3 mountains --
@@ -2475,47 +1831,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.70	body of water
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11774z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: black --
-
--- Query: fine --
-0.51	freshness
-
--- Query: flat --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
+-- Query: present --
 
--- Query: outcrop --
+-- Query: recreational --
 
--- Query: realistic --
+-- Query: rugged --
 
--- Query: rocky --
 
--- Query: simple --
 
--- Query: small --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11774z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: straight --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: thin --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: likely --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -2574,54 +1908,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: variety --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8102z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: balanced --
-
--- Query: focal --
-
--- Query: harmonious --
-0.62	harmony
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: mature --
+-- Query: likely --
 
--- Query: middle --
+-- Query: rocky --
 
--- Query: natural --
 
--- Query: neutral --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8102z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: prominent --
-
--- Query: realistic --
-
--- Query: robust --
-
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: sturdy --
-
--- Query: thick --
-
--- Query: wide --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
--- Query: lush --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -2707,30 +2010,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.57	eye contact
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_33763d_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: black --
-
--- Query: circular --
-
--- Query: high --
-0.52	heaviness
+== Keywords for Motive ==
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: long --
+-- Query: prominent --
 
--- Query: plain --
 
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_33763d_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: right --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -2765,58 +2061,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: wreath --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1712_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: classical --
-
--- Query: common --
-
--- Query: dark --
-
--- Query: elaborate --
-
--- Query: high --
-0.52	heaviness
-
--- Query: historical --
-
--- Query: indicative --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: long --
 
--- Query: old --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_1712_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: prominent --
-
--- Query: serene --
-
--- Query: similar --
-
--- Query: slight --
-
--- Query: typical --
-
--- Query: wavy --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: dramatic --
-
--- Query: intricate --
-
--- Query: noble --
-
--- Query: relaxed --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: armor --
@@ -2924,66 +2181,29 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: way --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8810z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: indicative --
 
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: clear --
-
--- Query: corridor --
-
--- Query: decorative --
-
--- Query: detailed --
-
--- Query: elegant --
-
--- Query: far --
-
--- Query: flat --
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: large --
+-- Query: noble --
 
--- Query: legible --
+-- Query: prominent --
 
--- Query: long --
+-- Query: typical --
 
--- Query: minimalist --
 
--- Query: overall --
 
--- Query: polished --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8810z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: rectangular --
-
--- Query: responsible --
-
--- Query: similar --
-
--- Query: simple --
-
--- Query: soft --
-
--- Query: spaced --
-
--- Query: unadorned --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: individual --
-
--- Query: light --
-0.53	carefree
-
--- Query: likely --
-
--- Query: visual --
-
 
 == Elements of the Picture ==
 -- Query: another material --
@@ -3089,53 +2309,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.93	window
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15828cz_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: central --
-
--- Query: common --
-
--- Query: detailed --
-
--- Query: elaborate --
-
--- Query: fine --
-0.51	freshness
-
--- Query: high --
-0.52	heaviness
-
--- Query: historical --
+== Keywords for Motive ==
+-- Query: corridor --
 
 -- Query: key --
 
--- Query: large --
-
--- Query: left --
-
--- Query: low --
-
--- Query: military --
-
--- Query: plain --
-
--- Query: realistic --
-
-
-== Keywords for Emotion ==
--- Query: bent --
-
--- Query: feather --
+-- Query: legible --
 
 -- Query: likely --
 
--- Query: right --
 
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_15828cz_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+
+== Keywords for Emotion ==
 
 == Elements of the Picture ==
 -- Query: air --
@@ -3290,71 +2482,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	standing woman (standing people)
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9286z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: accurate --
-
--- Query: balanced --
-
--- Query: central --
-
--- Query: decorative --
-
--- Query: detailed --
-
--- Query: different --
-
--- Query: elaborate --
-
--- Query: fine --
-0.51	freshness
-
--- Query: focal --
-
--- Query: harmonious --
-0.62	harmony
+== Keywords for Motive ==
+-- Query: feather --
 
 -- Query: key --
 
--- Query: left --
+-- Query: likely --
 
--- Query: low --
+-- Query: military --
 
--- Query: multiple --
 
--- Query: overall --
 
--- Query: plain --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9286z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: pointed --
-
--- Query: realistic --
-
--- Query: rectangular --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: typical --
-
--- Query: vertical --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: floral --
-
--- Query: gothic --
-
--- Query: illegible --
-
--- Query: intricate --
-
--- Query: right --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -3447,62 +2593,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.93	window
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11254-1146528z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: abstract --
-
--- Query: basic --
-
--- Query: beige --
-
--- Query: black --
-
--- Query: clean --
-0.66	freshness
-
--- Query: common --
-
--- Query: consistent --
-
--- Query: cursive --
-
--- Query: detailed --
-
--- Query: handwritten --
+== Keywords for Motive ==
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: large --
+-- Query: typical --
 
--- Query: legible --
 
--- Query: middle --
 
--- Query: minimalistic --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11254-1146528z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: neat --
-
--- Query: neutral --
-
--- Query: overall --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: thick --
-
--- Query: vertical --
-
--- Query: wide --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: like --
-
 
 == Elements of the Picture ==
 -- Query: all three sketches --
@@ -3597,61 +2704,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: vertical format --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_801vz_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: central --
-
--- Query: detailed --
-
--- Query: different --
-
--- Query: digital --
-
--- Query: fitting --
-
--- Query: forested --
-
--- Query: handwritten --
-
+== Keywords for Motive ==
 -- Query: key --
-
--- Query: left --
 
 -- Query: legible --
 
--- Query: long --
 
--- Query: loose --
 
--- Query: natural --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_801vz_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: occupational --
-
--- Query: sketchy --
-
--- Query: small --
-
--- Query: social --
-
--- Query: textual --
-
--- Query: traditional --
-
--- Query: upper --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: personal --
-
--- Query: right --
-
--- Query: rural --
-
 -- Query: serene --
 0.50	soothing, calming
 
@@ -3782,28 +2849,27 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: various objects --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_16235z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: black --
+== Keywords for Motive ==
+-- Query: fitting --
 
 -- Query: key --
 
--- Query: short --
+-- Query: legible --
 
--- Query: slender --
+-- Query: occupational --
 
--- Query: tall --
-0.58	heaviness
+-- Query: rural --
 
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_16235z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: rounded --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -3827,64 +2893,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: variety --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_bib2472iv10a_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: abstract --
-
--- Query: additional --
-
--- Query: black --
-
--- Query: clear --
-
--- Query: difficult --
-
--- Query: flat --
-
--- Query: fluid --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
 
--- Query: minimalist --
 
--- Query: neutral --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_bib2472iv10a_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: realistic --
-
--- Query: simple --
-
--- Query: smooth --
-0.64	freshness
-0.52	calm
-
--- Query: solid --
-
--- Query: specific --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: brown --
-
--- Query: careful --
-0.75	carefree
-
--- Query: facial --
-
--- Query: human --
-
--- Query: light --
-0.53	carefree
-
--- Query: standalone --
-0.53	carefree
-
 
 == Elements of the Picture ==
 -- Query: additional elements --
@@ -3972,49 +2993,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: their forehead --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2499z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: aggressive --
-
--- Query: choppy --
-
--- Query: clear --
-
--- Query: easy --
+== Keywords for Motive ==
+-- Query: difficult --
 
 -- Query: key --
 
--- Query: legible --
 
--- Query: lively --
 
--- Query: main --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_2499z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: overall --
-
--- Query: plain --
-
--- Query: playful --
-
--- Query: short --
-
--- Query: simple --
-
--- Query: sketchy --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: dynamic --
-
--- Query: engaging --
-
--- Query: likely --
-
 
 == Elements of the Picture ==
 -- Query: air --
@@ -4087,57 +3080,29 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: way --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9861z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: aggressive --
 
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: central --
-
--- Query: detailed --
-
--- Query: fashioned --
-
--- Query: fine --
-0.51	freshness
-
--- Query: flat --
-
--- Query: historical --
+-- Query: dynamic --
 
 -- Query: key --
 
--- Query: large --
+-- Query: legible --
 
--- Query: neutral --
+-- Query: likely --
 
--- Query: old --
+-- Query: main --
 
--- Query: overall --
 
--- Query: realistic --
 
--- Query: rectangular --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9861z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: small --
-
--- Query: sturdy --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: ajar --
-
--- Query: light --
-0.53	carefree
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -4219,22 +3184,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.69	wooden door
 
 
+== Keywords for Association ==
+-- Query: ajar --
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11863z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
 
-== Keywords for Atmosphere ==
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: realistic --
 
--- Query: tall --
-0.58	heaviness
 
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11863z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -4266,32 +3230,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.59	background
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15156z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: high --
-0.52	heaviness
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
 
--- Query: left --
 
--- Query: long --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_15156z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: open --
-
--- Query: realistic --
-
--- Query: small --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: right --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -4396,80 +3347,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	standing woman (standing people)
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1721z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: aesthetic --
-
--- Query: calm --
-0.98	calm
-
--- Query: central --
-
--- Query: common --
-
--- Query: dark --
-
--- Query: decorative --
-
--- Query: determined --
-
--- Query: distinct --
-
--- Query: historical --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: left --
 
--- Query: medieval --
 
--- Query: natural --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg1721z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: overall --
-
--- Query: possible --
-
--- Query: social --
-
--- Query: specific --
-
--- Query: violent --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: blue --
-
--- Query: brown --
-
--- Query: defensive --
-
--- Query: domestic --
-
--- Query: floral --
-
--- Query: green --
-
--- Query: human --
-
--- Query: intense --
-
--- Query: likely --
-
--- Query: noble --
-
--- Query: religious --
-
--- Query: right --
-
--- Query: valuable --
-
--- Query: vivid --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -4612,19 +3502,35 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.65	dress
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_14673vz_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: determined --
 
-== Keywords for Atmosphere ==
 -- Query: key --
 
+-- Query: likely --
+
+-- Query: medieval --
+
+-- Query: noble --
+
+-- Query: possible --
+
+-- Query: religious --
+
+-- Query: valuable --
+
+-- Query: violent --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_14673vz_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: right --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -4651,24 +3557,17 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.71	hand gesture
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3438z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: fine --
-0.51	freshness
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: long --
 
--- Query: realistic --
 
--- Query: simple --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_3438z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: small --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
 
@@ -4710,59 +3609,22 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	standing woman (standing people)
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_2272z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: abstract --
-
--- Query: cloudy --
-
--- Query: dark --
-
--- Query: dense --
-
--- Query: detailed --
-
--- Query: effective --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
 
--- Query: natural --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_2272z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
+== Keywords for Atmosphere ==
 -- Query: overcast --
-
--- Query: realistic --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: untamed --
-
--- Query: visible --
-
--- Query: wild --
 
 
 == Keywords for Emotion ==
--- Query: grassy --
-
--- Query: light --
-0.53	carefree
-
 -- Query: nostalgic --
-
--- Query: warm --
-
--- Query: white --
 
 
 == Elements of the Picture ==
@@ -4818,33 +3680,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: use --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_13702z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: cartoonish --
-
--- Query: humorous --
+== Keywords for Motive ==
+-- Query: effective --
 
 -- Query: key --
 
--- Query: long --
 
--- Query: loose --
 
--- Query: satirical --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_13702z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: unadorned --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: exaggerated --
-
 -- Query: serene --
 0.50	soothing, calming
 
@@ -4921,60 +3771,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	standing woman (standing people)
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_17313z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: calm --
-0.98	calm
-
--- Query: calming --
-0.80	calm
-
--- Query: dark --
-
--- Query: diverse --
-
--- Query: evident --
-
--- Query: high --
-0.52	heaviness
+== Keywords for Motive ==
+-- Query: humorous --
 
 -- Query: key --
 
--- Query: moderate --
+-- Query: satirical --
 
--- Query: muted --
 
--- Query: natural --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_17313z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: peaceful --
-0.51	freshness
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: soft --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: dynamic --
-
--- Query: light --
-0.53	carefree
-
--- Query: tranquil --
-
--- Query: warm --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -5110,63 +3923,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.62	wooden door
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11716-1187944z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: architectural --
-
--- Query: bygone --
-
--- Query: detailed --
-
--- Query: flat --
-
--- Query: historical --
+== Keywords for Motive ==
+-- Query: dynamic --
 
 -- Query: key --
 
--- Query: large --
 
--- Query: medium --
 
--- Query: natural --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11716-1187944z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: outcrop --
-
--- Query: peaceful --
-0.51	freshness
-
--- Query: preliminary --
-
--- Query: rectangular --
-
--- Query: rocky --
-
--- Query: ruined --
-
--- Query: serene --
-
--- Query: sketchy --
-
--- Query: small --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
--- Query: likely --
-
--- Query: rural --
-
--- Query: subject --
-
 
 == Elements of the Picture ==
 -- Query: 3 details --
@@ -5233,62 +4004,30 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: walls --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_6913z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: key --
+
+-- Query: likely --
+
+-- Query: rocky --
+
+-- Query: rural --
+
+-- Query: subject --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_6913z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
 == Keywords for Atmosphere ==
 -- Query: atmospheric --
 
--- Query: bare --
-
--- Query: central --
-
--- Query: cold --
-
--- Query: dense --
-
--- Query: effective --
-
--- Query: key --
-
--- Query: leafless --
-
--- Query: main --
-
--- Query: meticulous --
-
--- Query: minimalist --
-
--- Query: muted --
-
--- Query: overall --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: stark --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: visible --
-
 
 == Keywords for Emotion ==
--- Query: beautiful --
-0.54	carefree
-
 -- Query: evocative --
-
--- Query: intricate --
-
--- Query: light --
-0.53	carefree
-
--- Query: powerful --
-0.58	longing
 
 
 == Elements of the Picture ==
@@ -5383,56 +4122,29 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: winter forest --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1743z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: effective --
 
-== Keywords for Atmosphere ==
--- Query: active --
-
--- Query: adventurous --
-
--- Query: calm --
-0.98	calm
-
--- Query: common --
-
--- Query: cultural --
-
--- Query: detailed --
-
--- Query: handwritten --
-
--- Query: historical --
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: large --
+-- Query: main --
 
--- Query: mythological --
+-- Query: powerful --
 
--- Query: rocky --
+-- Query: stark --
 
--- Query: serene --
 
--- Query: simple --
 
--- Query: small --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg1743z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: traditional --
-
--- Query: visible --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
--- Query: personal --
-
--- Query: right --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -5522,77 +4234,31 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.70	body of water
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg377_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: active --
 
-== Keywords for Atmosphere ==
--- Query: alive --
-
--- Query: casual --
-
--- Query: cylindrical --
-
--- Query: diffused --
-
--- Query: everyday --
-
--- Query: glossy --
-
--- Query: harmonious --
-0.62	harmony
-
--- Query: key --
-
--- Query: metallic --
-
--- Query: overall --
-
--- Query: round --
-
--- Query: similar --
-
--- Query: small --
-
--- Query: smooth --
-0.64	freshness
-0.52	calm
-
--- Query: soft --
-
--- Query: traditional --
-
-
-== Keywords for Emotion ==
--- Query: blue --
-
--- Query: bright --
-
--- Query: colorful --
-
--- Query: floral --
-
--- Query: green --
+-- Query: adventurous --
 
 -- Query: intricate --
 
--- Query: japanese --
+-- Query: key --
 
--- Query: likely --
+-- Query: mythological --
+0.72	mythological representation
 
--- Query: pink --
+-- Query: rocky --
 
--- Query: pleasing --
 
--- Query: red --
 
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg377_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+
+== Keywords for Emotion ==
 -- Query: unique --
-
--- Query: vibrant --
-
--- Query: visual --
-
--- Query: white --
 
 
 == Elements of the Picture ==
@@ -5700,52 +4366,28 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.50	body of water
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11465z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: clear --
-
--- Query: cursive --
-
--- Query: detailed --
-
--- Query: effective --
-
--- Query: formal --
-
--- Query: good --
+== Keywords for Motive ==
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: limited --
+-- Query: likely --
 
--- Query: loose --
+-- Query: metallic --
 
--- Query: low --
 
--- Query: minimalistic --
 
--- Query: mountainous --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11465z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: overall --
-
+== Keywords for Atmosphere ==
 -- Query: overcast --
-
--- Query: quick --
-
--- Query: similar --
-
--- Query: simple --
 
 
 == Keywords for Emotion ==
 -- Query: expressive --
-
--- Query: pleasing --
-
--- Query: right --
 
 
 == Elements of the Picture ==
@@ -5821,32 +4463,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: use --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_10373z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: black --
-
--- Query: detailed --
+== Keywords for Motive ==
+-- Query: effective --
 
 -- Query: key --
 
--- Query: minimalist --
 
--- Query: overall --
 
--- Query: simple --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_10373z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: sketchy --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: buildings --
@@ -5881,36 +4512,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: trees --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_12903z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: fine --
-0.51	freshness
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: realistic --
 
--- Query: simple --
 
--- Query: small --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_12903z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: tall --
-0.58	heaviness
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: gray --
-
--- Query: leafy --
-
--- Query: light --
-0.53	carefree
-
 -- Query: peaked --
 
 
@@ -5962,34 +4576,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: trees --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9360z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: main --
+-- Query: leafy --
 
--- Query: minimalist --
 
--- Query: overall --
 
--- Query: rectangular --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9360z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: similar --
-
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: uncluttered --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -6051,94 +4652,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.93	window
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9421z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: artistic --
-
--- Query: clear --
-
--- Query: dense --
-
--- Query: different --
-
--- Query: early --
-
--- Query: framed --
-
--- Query: harmonious --
-0.62	harmony
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: late --
+-- Query: main --
 
--- Query: long --
 
--- Query: low --
 
--- Query: narrow --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9421z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: natural --
-
--- Query: outdoor --
-
--- Query: overall --
-
--- Query: pale --
-
--- Query: peaceful --
-0.51	freshness
-
--- Query: present --
-
--- Query: realistic --
-
--- Query: scattered --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: beautiful --
-0.54	carefree
-
--- Query: blue --
-
--- Query: green --
-
--- Query: leafy --
-
--- Query: light --
-0.53	carefree
-
--- Query: likely --
-
--- Query: lush --
-
--- Query: ornate --
-
--- Query: pleasing --
-
--- Query: right --
-
--- Query: tranquil --
-
--- Query: valuable --
-
--- Query: welcome --
-
 
 == Elements of the Picture ==
 -- Query: any home --
@@ -6229,37 +4757,29 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.63	wood cladding
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_4965z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: central --
-
--- Query: decorative --
-
--- Query: detailed --
+== Keywords for Motive ==
+-- Query: framed --
 
 -- Query: key --
 
--- Query: linear --
+-- Query: leafy --
 
--- Query: plain --
+-- Query: likely --
 
--- Query: thin --
+-- Query: present --
 
--- Query: unadorned --
+-- Query: valuable --
 
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_4965z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: delicate --
-
--- Query: floral --
-
--- Query: illustrative --
-
--- Query: intricate --
-
 
 == Elements of the Picture ==
 -- Query: animal figures --
@@ -6300,29 +4820,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: variety --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_16462z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: illustrative --
 
-== Keywords for Atmosphere ==
--- Query: cloudy --
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: nude --
 
--- Query: open --
 
--- Query: realistic --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_16462z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: thin --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: relaxed --
-
 
 == Elements of the Picture ==
 -- Query: 19th century --
@@ -6375,39 +4889,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	standing woman (standing people)
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15130z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: black --
-
--- Query: bold --
-
--- Query: dark --
-
--- Query: detailed --
-
--- Query: focal --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: open --
 
--- Query: overall --
 
--- Query: plain --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_15130z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: sinister --
-
--- Query: thick --
-
--- Query: wide --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -6460,49 +4954,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: texture --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_5195z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: abstract --
-
--- Query: black --
-
--- Query: complex --
-
--- Query: detailed --
-
--- Query: different --
-
--- Query: diverse --
-
--- Query: geometric --
-
--- Query: interconnected --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: left --
+-- Query: sinister --
 
--- Query: middle --
 
--- Query: multiple --
 
--- Query: symmetrical --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_5195z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
--- Query: red --
-
--- Query: right --
-
--- Query: white --
-
--- Query: yellow --
-
 
 == Elements of the Picture ==
 -- Query: bottom center section --
@@ -6551,40 +5017,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: various motifs --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8674z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: complex --
 
-== Keywords for Atmosphere ==
--- Query: castle --
-
--- Query: central --
-
--- Query: handwritten --
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: large --
 
--- Query: rectangular --
 
--- Query: simple --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8674z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: sketchy --
-
--- Query: small --
-
--- Query: steep --
-
--- Query: thick --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
--- Query: right --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -6635,76 +5084,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.93	window
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_6020z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: calm --
-0.98	calm
-
--- Query: clear --
-
--- Query: dense --
-
--- Query: healthy --
-0.60	freshness
-0.58	calm
-
--- Query: high --
-0.52	heaviness
+== Keywords for Motive ==
+-- Query: castle --
 
 -- Query: key --
 
--- Query: left --
+-- Query: steep --
 
--- Query: long --
 
--- Query: mature --
 
--- Query: natural --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_6020z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: overall --
-
--- Query: primary --
-
--- Query: serene --
-
--- Query: shallow --
-
--- Query: short --
-
--- Query: small --
-
--- Query: smooth --
-0.64	freshness
-0.52	calm
-
--- Query: tall --
-0.58	heaviness
-
--- Query: thriving --
-
--- Query: typical --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: dynamic --
-
--- Query: gentle --
-
--- Query: green --
-
--- Query: lush --
-
--- Query: picturesque --
-
--- Query: terri --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -6859,61 +5255,32 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	standing woman (standing people)
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_14282z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: central --
-
--- Query: circular --
-
--- Query: effective --
+== Keywords for Motive ==
+-- Query: dynamic --
 
 -- Query: key --
 
--- Query: left --
+-- Query: primary --
 
--- Query: loose --
+-- Query: thriving --
 
--- Query: medium --
+-- Query: typical --
 
--- Query: neutral --
 
--- Query: overall --
 
--- Query: rough --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_14282z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: short --
-
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: thoughtful --
-0.77	thoughtfulness
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: contemplative --
-
 -- Query: expressive --
-
--- Query: facial --
-
--- Query: human --
-
--- Query: intricate --
 
 -- Query: male --
 
 -- Query: overall --
-
--- Query: semi --
-
--- Query: unique --
 
 
 == Elements of the Picture ==
@@ -7003,53 +5370,26 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.63	facial expression
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1415_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: dark --
-
+== Keywords for Motive ==
 -- Query: effective --
 
--- Query: formal --
-
--- Query: indistinct --
-
--- Query: introspective --
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: overall --
+-- Query: unique --
 
--- Query: primary --
 
--- Query: refined --
 
--- Query: simple --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_1415_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: textured --
-
--- Query: thoughtful --
-0.77	thoughtfulness
-
--- Query: typical --
-
--- Query: visible --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: contemplative --
-
 -- Query: facial --
-
--- Query: likely --
-
--- Query: rich --
 
 
 == Elements of the Picture ==
@@ -7114,67 +5454,32 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: subjects face --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_alh91z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: black --
-
--- Query: central --
-
--- Query: cursive --
-
--- Query: dark --
-
--- Query: devoid --
+== Keywords for Motive ==
+-- Query: effective --
 
 -- Query: key --
 
--- Query: large --
+-- Query: likely --
 
--- Query: left --
+-- Query: primary --
 
--- Query: middle --
+-- Query: refined --
 
--- Query: minimalistic --
+-- Query: rich --
 
--- Query: mountainous --
+-- Query: typical --
 
--- Query: natural --
 
--- Query: overall --
 
--- Query: rocky --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_alh91z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: rough --
-
--- Query: sharp --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: stark --
-
--- Query: uneven --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: human --
-
--- Query: light --
-0.53	carefree
-
--- Query: monochromatic --
-
 -- Query: peaked --
-
--- Query: rugged --
-
--- Query: white --
 
 
 == Elements of the Picture ==
@@ -7288,85 +5593,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: various shades --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1717z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: agricultural --
-
--- Query: clear --
-
--- Query: fed --
-
--- Query: healthy --
-0.60	freshness
-0.58	calm
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
+-- Query: rocky --
 
--- Query: modest --
+-- Query: rugged --
 
--- Query: overall --
+-- Query: stark --
 
--- Query: peaceful --
-0.51	freshness
 
--- Query: productive --
 
--- Query: rustic --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_1717z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: temperate --
-
--- Query: thatched --
-
--- Query: thriving --
-
--- Query: traditional --
-
--- Query: typical --
-
--- Query: visible --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: blue --
-
--- Query: brown --
-
--- Query: close --
-
--- Query: grassy --
-
--- Query: green --
-
--- Query: light --
-0.53	carefree
-
--- Query: likely --
-
--- Query: lush --
-
--- Query: relevant --
-
--- Query: rural --
-
--- Query: semi --
-
--- Query: white --
-
--- Query: yellow --
-
 
 == Elements of the Picture ==
 -- Query: agricultural purposes --
@@ -7523,39 +5768,35 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.68	wooden door
 
 
+== Keywords for Association ==
+-- Query: close connection --
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9279z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
 
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: circular --
-
--- Query: classical --
-
--- Query: decorative --
-
--- Query: horizontal --
+== Keywords for Motive ==
+-- Query: agricultural --
 
 -- Query: key --
 
--- Query: large --
+-- Query: likely --
 
--- Query: left --
+-- Query: productive --
 
--- Query: middle --
+-- Query: relevant --
 
--- Query: small --
+-- Query: rural --
 
+-- Query: thriving --
+
+-- Query: typical --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9279z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: close --
-
--- Query: right --
-
--- Query: semi --
-
 
 == Elements of the Picture ==
 -- Query: arches --
@@ -7609,23 +5850,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: three arches --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_67993ad_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: black --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: plain --
 
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_67993ad_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: right --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -7658,49 +5895,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: serious expression --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_167633z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: abstract --
-
--- Query: black --
-
--- Query: curved --
-
--- Query: detailed --
-
--- Query: different --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
 
--- Query: left --
 
--- Query: long --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_167633z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: overall --
-
--- Query: quick --
-
--- Query: round --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: squatting --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: bent --
-
--- Query: recognizable --
-
--- Query: right --
-
 
 == Elements of the Picture ==
 -- Query: black ink --
@@ -7756,48 +5963,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: various figures --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11066-1125360z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: additional --
-
--- Query: architectural --
-
--- Query: beige --
-
--- Query: classical --
-
--- Query: clean --
-0.66	freshness
-
--- Query: detailed --
-
--- Query: elegant --
-
--- Query: essential --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: minimalist --
 
--- Query: neutral --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11066-1125360z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: primary --
-
--- Query: second --
-
--- Query: small --
-
--- Query: thin --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
 
 == Elements of the Picture ==
 -- Query: additional information --
@@ -7872,71 +6050,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: use --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1738z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: essential --
 
-== Keywords for Atmosphere ==
--- Query: abundant --
-0.69	abundance
-
--- Query: classical --
-
--- Query: cloudy --
-
--- Query: dark --
-
--- Query: effective --
-
--- Query: historical --
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: long --
+-- Query: primary --
 
--- Query: modest --
 
--- Query: muted --
 
--- Query: natural --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_1738z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: old --
-
--- Query: overall --
-
--- Query: realistic --
-
--- Query: similar --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: soft --
-
--- Query: subtle --
-
--- Query: temperate --
-
--- Query: thatched --
-
--- Query: traditional --
-
--- Query: typical --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: human --
-
--- Query: light --
-0.53	carefree
-
--- Query: rural --
-
--- Query: semi --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -8076,66 +6208,27 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: way --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3749z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: calm --
-0.98	calm
-
--- Query: clear --
-
--- Query: cloudy --
-
--- Query: common --
-
--- Query: conducive --
-
--- Query: different --
-
--- Query: fair --
-
--- Query: good --
+== Keywords for Motive ==
+-- Query: effective --
 
 -- Query: key --
 
--- Query: muted --
+-- Query: rural --
 
--- Query: natural --
+-- Query: typical --
 
--- Query: overall --
 
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_3749z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 -- Query: overcast --
-
--- Query: peaceful --
-0.51	freshness
-
--- Query: realistic --
-
--- Query: recreational --
-
--- Query: serene --
-
--- Query: small --
-
--- Query: visible --
 
 
 == Keywords for Emotion ==
--- Query: beautiful --
-0.54	carefree
-
--- Query: fluffy --
-
--- Query: gentle --
-
--- Query: human --
-
--- Query: relevant --
-
--- Query: tranquil --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -8267,63 +6360,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: world --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_7058z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: balanced --
-
--- Query: clean --
-0.66	freshness
-
--- Query: compacted --
-
--- Query: detailed --
-
--- Query: harmonious --
-0.62	harmony
+== Keywords for Motive ==
+-- Query: conducive --
 
 -- Query: key --
 
--- Query: large --
+-- Query: recreational --
 
--- Query: muted --
+-- Query: relevant --
 
--- Query: natural --
 
--- Query: overall --
 
--- Query: polished --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_7058z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: prominent --
-
--- Query: realistic --
-
--- Query: serene --
-
--- Query: soft --
-
--- Query: uneven --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: brown --
-
--- Query: delicate --
-
--- Query: gray --
-
--- Query: intricate --
-
--- Query: lush --
-
--- Query: rugged --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -8428,50 +6483,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: white border --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9720z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: beige --
-
--- Query: cursive --
-
--- Query: detailed --
+== Keywords for Motive ==
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: large --
-
--- Query: overall --
-
 -- Query: prominent --
 
--- Query: realistic --
+-- Query: rugged --
 
--- Query: rectangular --
 
--- Query: simple --
 
--- Query: sketchy --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9720z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: spaced --
-
--- Query: thin --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
--- Query: personal --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: 11th month --
@@ -8563,66 +6593,22 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: year --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3170z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: characteristic --
-
--- Query: clear --
-
--- Query: detailed --
-
--- Query: dutch --
-
--- Query: earthy --
-
--- Query: easy --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: loose --
+-- Query: prominent --
 
--- Query: neutral --
 
--- Query: overall --
 
--- Query: peaceful --
-0.51	freshness
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_3170z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: quiet --
-
--- Query: serene --
-
--- Query: sewing --
-
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: traditional --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: blue --
-
--- Query: brown --
-
--- Query: domestic --
-
 -- Query: expressive --
-
--- Query: light --
-0.53	carefree
-
--- Query: pink --
-
--- Query: right --
-
--- Query: yellow --
 
 
 == Elements of the Picture ==
@@ -8713,71 +6699,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.53	wooden door
 
 
+== Keywords for Association ==
+-- Query: connection --
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_5146z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
 
-== Keywords for Atmosphere ==
--- Query: arched --
-
--- Query: architectural --
-
--- Query: conical --
-
--- Query: decorative --
-
--- Query: fine --
-0.51	freshness
-
--- Query: future --
-
--- Query: historical --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
 
--- Query: main --
 
--- Query: minimal --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_5146z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: overall --
-
--- Query: realistic --
-
--- Query: rectangular --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: spaced --
-
--- Query: spherical --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: traditional --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
--- Query: likely --
-
--- Query: minaret --
-
--- Query: religious --
-
--- Query: right --
-
--- Query: semi --
-
--- Query: visual --
-
 
 == Elements of the Picture ==
 -- Query: arched windows --
@@ -8896,58 +6832,31 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.93	window
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3459z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: future --
 
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: balanced --
-
--- Query: clear --
-
--- Query: fashioned --
-
--- Query: fine --
-0.51	freshness
-
--- Query: focal --
-
--- Query: harmonious --
-0.62	harmony
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: large --
+-- Query: likely --
 
--- Query: natural --
+-- Query: main --
 
--- Query: old --
+-- Query: minaret --
 
--- Query: overall --
+-- Query: religious --
 
--- Query: pleasant --
 
--- Query: pointed --
 
--- Query: prominent --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_3459z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: realistic --
-
--- Query: serene --
-
--- Query: tall --
-0.58	heaviness
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: european --
-
--- Query: rural --
-
--- Query: semi --
-
 
 == Elements of the Picture ==
 -- Query: architectural styles --
@@ -9020,34 +6929,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: viewer --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8563z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: basic --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: main --
+-- Query: prominent --
 
--- Query: minimalist --
+-- Query: rural --
 
--- Query: neutral --
 
--- Query: realistic --
 
--- Query: rectangular --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8563z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: simple --
-
--- Query: sketchy --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -9082,65 +6980,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: trees --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3252z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: clear --
-
--- Query: effective --
-
--- Query: everyday --
-
--- Query: fine --
-0.51	freshness
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
+-- Query: main --
 
--- Query: natural --
 
--- Query: notable --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_3252z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: peaceful --
-0.51	freshness
-
--- Query: realistic --
-
--- Query: rustic --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: soft --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: thatched --
-
--- Query: traditional --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: airy --
-
--- Query: leafy --
-
--- Query: light --
-0.53	carefree
-
--- Query: rural --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -9251,13 +7105,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.68	wooden door
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_7184z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: effective --
 
-== Keywords for Atmosphere ==
 -- Query: key --
 
+-- Query: leafy --
+
+-- Query: notable --
+
+-- Query: rural --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_7184z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
 
@@ -9283,83 +7149,27 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.57	group of people
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_7377z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: bare --
-
--- Query: calm --
-0.98	calm
-
--- Query: deep --
-
--- Query: distant --
-
--- Query: early --
-
--- Query: fine --
-0.51	freshness
-
--- Query: flat --
-
--- Query: harsh --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: late --
 
--- Query: left --
 
--- Query: modern --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_7377z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: muted --
-
--- Query: natural --
-
+== Keywords for Atmosphere ==
 -- Query: overcast --
-
--- Query: peaceful --
-0.51	freshness
-
--- Query: realistic --
-
--- Query: rustic --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: soft --
-
--- Query: thatched --
-
--- Query: twisted --
-
--- Query: wooden --
 
 
 == Keywords for Emotion ==
--- Query: blue --
-
--- Query: contemplative --
-
--- Query: fluffy --
-
--- Query: light --
-0.53	carefree
-
 -- Query: overall --
 
 -- Query: peaceful --
 0.73	carefree
 0.68	soothing, calming
 0.51	joyful
-
--- Query: rural --
 
 
 == Elements of the Picture ==
@@ -9511,58 +7321,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	wooden door
 
 
+== Keywords for Association ==
+-- Query: connection --
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_14073z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+-- Query: deep connection --
 
-== Keywords for Atmosphere ==
--- Query: additional --
 
--- Query: black --
-
--- Query: central --
-
--- Query: clear --
-
--- Query: detailed --
-
--- Query: direct --
-
--- Query: effective --
-
--- Query: fine --
-0.51	freshness
-
--- Query: flat --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: leisurely --
+-- Query: rural --
 
--- Query: long --
 
--- Query: neutral --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_14073z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: realistic --
-
--- Query: short --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: standard --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: subject --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: any additional elements --
@@ -9652,23 +7429,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: their head --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15250z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: direct --
 
-== Keywords for Atmosphere ==
--- Query: different --
+-- Query: effective --
 
 -- Query: key --
 
--- Query: left --
+-- Query: subject --
 
--- Query: second --
 
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_15250z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: right --
-
 
 == Elements of the Picture ==
 -- Query: drawing --
@@ -9700,78 +7479,21 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.65	three-quarter profile
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11880-1196036z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: architectural --
-
--- Query: clean --
-0.66	freshness
-
--- Query: clear --
-
--- Query: complex --
-
--- Query: consistent --
-
--- Query: curved --
-
--- Query: detailed --
-
--- Query: different --
-
--- Query: industrial --
-
--- Query: interior --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
 
--- Query: minimal --
 
--- Query: minimalist --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11880-1196036z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: minimalistic --
-
--- Query: natural --
-
--- Query: neutral --
-
--- Query: overall --
-
--- Query: plain --
-
--- Query: second --
-
--- Query: separate --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: straight --
-
--- Query: traditional --
-
--- Query: uncluttered --
-
+== Keywords for Atmosphere ==
 -- Query: urban --
-
--- Query: useful --
-
--- Query: varied --
 
 
 == Keywords for Emotion ==
--- Query: reminiscent --
-
--- Query: rural --
-
--- Query: subject --
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -9875,29 +7597,29 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: various contexts --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_3885z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: complex --
 
-== Keywords for Atmosphere ==
--- Query: bushy --
+-- Query: industrial --
 
 -- Query: key --
 
--- Query: long --
+-- Query: rural --
 
--- Query: old --
+-- Query: subject --
 
--- Query: plain --
+-- Query: useful --
 
--- Query: prominent --
 
--- Query: realistic --
 
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_3885z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: gray --
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -9925,13 +7647,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: realistic style --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_17256z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
+== Keywords for Motive ==
 -- Query: key --
 
+-- Query: prominent --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_17256z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
 
@@ -9966,55 +7694,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: trees --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8928-910634z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: beige --
-
--- Query: cohesive --
-
--- Query: detailed --
-
--- Query: high --
-0.52	heaviness
-
--- Query: identical --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: multiple --
 
--- Query: natural --
 
--- Query: neutral --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8928-910634z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: organized --
-
--- Query: overall --
-
--- Query: realistic --
-
--- Query: rough --
-
--- Query: similar --
-
--- Query: small --
-
--- Query: strong --
-
--- Query: symmetrical --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
--- Query: light --
-0.53	carefree
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: 2 leaves --
@@ -10100,79 +7792,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: way --
 
 
+== Keywords for Association ==
+-- Query: cohesive --
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_bib2472v21a_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
 
-== Keywords for Atmosphere ==
--- Query: ancient --
-
--- Query: architectural --
-
--- Query: black --
-
--- Query: central --
-
--- Query: ceremonial --
-
--- Query: classical --
-
--- Query: clean --
-0.66	freshness
-
--- Query: cursive --
-
--- Query: elevated --
-
--- Query: formal --
-
--- Query: historical --
+== Keywords for Motive ==
+-- Query: intricate --
 
 -- Query: key --
 
--- Query: long --
 
--- Query: loose --
 
--- Query: low --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_bib2472v21a_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: medieval --
-
--- Query: minimal --
-
--- Query: realistic --
-
--- Query: similar --
-
--- Query: simple --
-
--- Query: sketchy --
-
--- Query: stylized --
-
--- Query: typical --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: biblical --
-
--- Query: european --
-
--- Query: holy --
-
--- Query: light --
-0.53	carefree
-
--- Query: likely --
-
--- Query: religious --
-
--- Query: significant --
-
--- Query: symbolic --
-
 
 == Elements of the Picture ==
 -- Query: apostles --
@@ -10289,43 +7925,38 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: two men --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_67058d_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: biblical --
+0.69	Biblical portrayal
 
-== Keywords for Atmosphere ==
--- Query: black --
+-- Query: elevated --
 
--- Query: circular --
-
--- Query: cylindrical --
-
--- Query: fine --
-0.51	freshness
-
--- Query: flat --
-
--- Query: horizontal --
+-- Query: holy --
 
 -- Query: key --
 
--- Query: large --
+-- Query: likely --
 
--- Query: realistic --
+-- Query: medieval --
 
--- Query: round --
+-- Query: religious --
 
--- Query: tall --
-0.58	heaviness
+-- Query: significant --
 
--- Query: vertical --
+-- Query: symbolic --
 
+-- Query: typical --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_67058d_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: cathedral --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -10391,49 +8022,20 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: winter clothing --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_1253z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: curly --
-
--- Query: detailed --
-
--- Query: high --
-0.52	heaviness
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: long --
 
--- Query: plain --
 
--- Query: realistic --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_1253z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: short --
-
--- Query: sketchy --
-
--- Query: small --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: wide --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
 -- Query: cheerful --
-
--- Query: closed --
-
--- Query: gray --
-
--- Query: light --
-0.53	carefree
-
--- Query: white --
 
 
 == Elements of the Picture ==
@@ -10491,60 +8093,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: wide brim --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: black --
-
--- Query: calm --
-0.98	calm
-
--- Query: dark --
-
--- Query: elaborate --
-
--- Query: high --
-0.52	heaviness
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: overall --
 
--- Query: realistic --
 
--- Query: serene --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: simple --
-
--- Query: skilled --
-
--- Query: typical --
-
--- Query: upper --
-
--- Query: wealthy --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
--- Query: likely --
-
--- Query: pearl --
-
 -- Query: ruffled --
 
 -- Query: serene --
 0.50	soothing, calming
-
--- Query: significant --
-
--- Query: special --
-
--- Query: white --
 
 
 == Elements of the Picture ==
@@ -10673,33 +8238,27 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: womans hair --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_9779z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: essential --
-
--- Query: historical --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: minimalist --
-
--- Query: rectangular --
-
--- Query: slight --
-
--- Query: small --
-
-
-== Keywords for Emotion ==
 -- Query: likely --
 
--- Query: right --
+-- Query: significant --
 
--- Query: rounded --
+-- Query: typical --
 
+-- Query: wealthy --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_9779z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
+
+== Keywords for Emotion ==
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -10750,44 +8309,23 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.50	straw roof
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_10239z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: beige --
-
--- Query: dark --
-
--- Query: extended --
+== Keywords for Motive ==
+-- Query: essential --
 
 -- Query: key --
 
--- Query: muted --
+-- Query: likely --
 
--- Query: open --
 
--- Query: organic --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_10239z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: realistic --
-
--- Query: simple --
-
--- Query: undisturbed --
-
--- Query: visible --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: human --
-
--- Query: light --
-0.53	carefree
-
 
 == Elements of the Picture ==
 -- Query: another room --
@@ -10872,64 +8410,24 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.55	leaded glass
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg411_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: common --
-
--- Query: deciduous --
-
--- Query: expensive --
-
--- Query: friendly --
-0.59	freshness
-
--- Query: integral --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: modest --
+-- Query: organic --
 
--- Query: natural --
 
--- Query: peaceful --
-0.51	freshness
 
--- Query: serene --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg411_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: simple --
-
--- Query: small --
-
--- Query: thick --
-
--- Query: traditional --
-
--- Query: typical --
-
--- Query: unpaved --
-
+== Keywords for Atmosphere ==
 -- Query: urban --
-
--- Query: wooden --
 
 
 == Keywords for Emotion ==
--- Query: brown --
-
--- Query: close --
-
 -- Query: expressive --
-
--- Query: green --
-
--- Query: painterly --
-
--- Query: rural --
-
--- Query: yellow --
 
 
 == Elements of the Picture ==
@@ -11050,67 +8548,27 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.68	village street
 
 
+== Keywords for Association ==
+-- Query: close connection --
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_15733z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
 
-== Keywords for Atmosphere ==
--- Query: dense --
-
--- Query: detailed --
-
--- Query: distant --
-
--- Query: earthy --
-
--- Query: fine --
-0.51	freshness
-
--- Query: harmonious --
-0.62	harmony
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: muted --
+-- Query: rural --
 
--- Query: natural --
+-- Query: typical --
 
--- Query: open --
 
--- Query: overall --
 
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_15733z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 -- Query: overcast --
-
--- Query: peaceful --
-0.51	freshness
-
--- Query: realistic --
-
--- Query: rustic --
-
--- Query: scattered --
-
--- Query: serene --
-
--- Query: simple --
-
--- Query: small --
-
--- Query: subtle --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: unspoiled --
-
--- Query: vast --
 
 
 == Keywords for Emotion ==
--- Query: lush --
-
--- Query: verdant --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -11185,23 +8643,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: verdant forest --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11932z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: basic --
-
--- Query: detailed --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: sketchy --
 
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11932z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -11231,15 +8685,17 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.59	background
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_13181vz_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: different --
-
+== Keywords for Motive ==
 -- Query: key --
 
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_13181vz_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
 
@@ -11272,48 +8728,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.66	tablecloth
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1738z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: abstract --
-
--- Query: central --
-
--- Query: chaotic --
-
--- Query: fine --
-0.51	freshness
-
--- Query: historical --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: loose --
 
--- Query: muscular --
 
--- Query: mythological --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg1738z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: natural --
-
--- Query: overall --
-
--- Query: similar --
-
--- Query: sketchy --
-
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: dramatic --
-
--- Query: dynamic --
-
--- Query: intense --
-
 
 == Elements of the Picture ==
 -- Query: abstract shapes --
@@ -11428,52 +8855,26 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.73	standing woman (standing people)
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_12061z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: dense --
-
--- Query: detailed --
-
--- Query: effective --
-
--- Query: fine --
-0.51	freshness
-
--- Query: historical --
+== Keywords for Motive ==
+-- Query: dynamic --
 
 -- Query: key --
 
--- Query: overall --
+-- Query: muscular --
 
--- Query: plain --
+-- Query: mythological --
+0.72	mythological representation
 
--- Query: realistic --
 
--- Query: simple --
 
--- Query: stark --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_12061z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: visible --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: gray --
-
--- Query: intricate --
-
--- Query: lush --
-
--- Query: significant --
-
--- Query: varying --
-
--- Query: vibrant --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: analysis --
@@ -11543,20 +8944,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: viewer --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_11800z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: effective --
 
-== Keywords for Atmosphere ==
+-- Query: intricate --
+
 -- Query: key --
 
--- Query: large --
+-- Query: significant --
 
--- Query: small --
+-- Query: stark --
 
--- Query: tall --
-0.58	heaviness
 
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_11800z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
 
@@ -11584,58 +8990,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.52	belt buckle
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg2344z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: beige --
-
--- Query: detailed --
-
--- Query: fine --
-0.51	freshness
-
--- Query: inclined --
-
--- Query: intimate --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: main --
 
--- Query: neutral --
 
--- Query: peaceful --
-0.51	freshness
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg2344z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: preliminary --
-
--- Query: present --
-
--- Query: realistic --
-
--- Query: simple --
-
--- Query: specific --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: closed --
-
--- Query: domestic --
-
--- Query: faint --
-
--- Query: gentle --
-
--- Query: light --
-0.53	carefree
-
--- Query: likely --
-
--- Query: sleepy --
-
 
 == Elements of the Picture ==
 -- Query: 2 subjects --
@@ -11741,22 +9108,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: womans hair --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_8199z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: clear --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: tall --
-0.58	heaviness
+-- Query: likely --
 
+-- Query: main --
+
+-- Query: present --
+
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_8199z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: right --
-
 
 == Elements of the Picture ==
 -- Query: few branches --
@@ -11790,56 +9160,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: trees --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_5137z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: accurate --
-
--- Query: architectural --
-
--- Query: characteristic --
-
--- Query: classic --
-
--- Query: common --
-
--- Query: detailed --
-
--- Query: geometric --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: large --
 
--- Query: main --
 
--- Query: overall --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_5137z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: protective --
-
--- Query: rough --
-
--- Query: secondary --
-
--- Query: small --
-
--- Query: tall --
-0.58	heaviness
-
--- Query: traditional --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: intricate --
-
--- Query: islamic --
-
--- Query: right --
-
--- Query: visual --
-
 
 == Elements of the Picture ==
 -- Query: 25 jan --
@@ -11928,54 +9261,30 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: wall --
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1325z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: classic --
 
-== Keywords for Atmosphere ==
--- Query: additional --
+-- Query: intricate --
 
--- Query: artistic --
-
--- Query: basic --
-
--- Query: cursive --
-
--- Query: elegant --
-
--- Query: essential --
-
--- Query: handwritten --
+-- Query: islamic --
 
 -- Query: key --
 
--- Query: large --
+-- Query: main --
 
--- Query: minimalist --
+-- Query: secondary --
 
--- Query: natural --
 
--- Query: notable --
 
--- Query: overgrown --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg1325z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: simple --
-
--- Query: small --
-
--- Query: textual --
-
--- Query: unkempt --
-
--- Query: wooden --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
 -- Query: peaked --
-
--- Query: personal --
-
--- Query: right --
 
 
 == Elements of the Picture ==
@@ -12105,22 +9414,25 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.69	wooden door
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg1448z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
+== Keywords for Motive ==
+-- Query: essential --
 
-== Keywords for Atmosphere ==
 -- Query: key --
 
--- Query: simple --
+-- Query: notable --
 
--- Query: sketchy --
+-- Query: unkempt --
 
+
+
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg1448z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
+
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: light --
-0.53	carefree
-
 
 == Elements of the Picture ==
 -- Query: background --
@@ -12150,71 +9462,19 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 0.57	group of people
 
 
+== Keywords for Association ==
 
-Processing file: subsample100_seed=42/txt/oai_DE-MUS-048017_sg2372z_thumb-xl_output_analysis.txt
-Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_complete.csv
-
-== Keywords for Atmosphere ==
--- Query: balanced --
-
--- Query: clear --
-
--- Query: distant --
-
--- Query: harmonious --
-0.62	harmony
-
--- Query: jagged --
-
+== Keywords for Motive ==
 -- Query: key --
 
--- Query: low --
 
--- Query: middle --
 
--- Query: mountainous --
+Processing file: subsample100_seed=42/output_analysis/oai_DE-MUS-048017_sg2372z_thumb-xl_output_analysis.txt
+Using CSV metadata file: subsample100_seed=42/metadata_keyword_extract_complete.csv
 
--- Query: muted --
-
--- Query: natural --
-
--- Query: overall --
-
--- Query: realistic --
-
--- Query: renowned --
-
--- Query: serene --
-
--- Query: steep --
-
--- Query: uneven --
-
+== Keywords for Atmosphere ==
 
 == Keywords for Emotion ==
--- Query: blue --
-
--- Query: british --
-
--- Query: brown --
-
--- Query: gray --
-
--- Query: green --
-
--- Query: light --
-0.53	carefree
-
--- Query: lush --
-
--- Query: picturesque --
-
--- Query: right --
-
--- Query: rugged --
-
--- Query: white --
-
 
 == Elements of the Picture ==
 -- Query: artist --
@@ -12319,6 +9579,18 @@ Using CSV metadata file: subsample100_seed=42/metadata/metadata_keyword_extract_
 -- Query: valley --
 
 -- Query: various shades --
+
+
+== Keywords for Association ==
+
+== Keywords for Motive ==
+-- Query: key --
+
+-- Query: renowned --
+
+-- Query: rugged --
+
+-- Query: steep --
 
 
 

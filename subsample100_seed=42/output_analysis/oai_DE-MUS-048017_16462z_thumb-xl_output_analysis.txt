@@ -1,0 +1,24 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a pencil drawing of a nude woman lying on a bed. The woman is lying on her side, with her head resting on her arm. She is wearing a thin nightgown. The bed is covered with a blanket. The woman is lying in a relaxed pose. The background of the image is a window. The window is covered with a curtain. The curtain is made of a thin fabric. The window is open. The sky is visible through the window. The sky is cloudy. The image is drawn in a realistic style. The artist has used shading to create depth and texture. The image is not dated, but it appears to be from the 19th century.
+
+Output:
+Summary:
+"the image is a pencil drawing of a nude woman lying on a bed . the woman is wearing a thin nightgown and lying in a relaxed p."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+19th century, artist, background, bed, blanket, curtain, her arm, her head, her side, image, key words, motifs, nude woman, pencil drawing, realistic style, relaxed pose, sky, thin fabric, thin nightgown, window, woman
+
+**Keywords for Motive:**
+key
+
+**Keywords for Association:**
+None
+
+----------------------------------------

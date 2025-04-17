@@ -1,0 +1,87 @@
+Keyword,Concept ID,German Term,English Term
+motiv,Motivgattung,Genre,genre
+motiv,Motiv,Tanz,dance
+motiv,Motiv,Paar,couple
+motiv,Motiv,Frau,woman
+motiv,Motiv,Mann,man
+motiv,Motiv,Personengruppe,group of people
+motiv,Motiv,Gebäude,building
+motiv,Motiv,Tier,animal
+bildelement,Bildelement,Personengruppe,group of people
+bildelement,Bildelement,Frau,woman
+bildelement,Bildelement,Mann,man
+bildelement,Bildelement,Gebäude,building
+bildelement,Bildelement,Paar,couple
+bildelement,Bildelement,Tanz,dance
+bildelement,Bildelement,Musikinstrument,musical instrument
+bildelement,Bildelement,Musiker,musician (male)
+bildelement,Bildelement,Stehende,standing woman (standing people)
+bildelement,Bildelement,Stehender,standing man
+bildelement,Bildelement,Sitzender,seated man
+bildelement,Bildelement,Rückenfigur,figure seen from the back
+bildelement,Bildelement,Tanzender,man dancing
+bildelement,Bildelement,Tanzende,woman dancing
+bildelement,Bildelement,Tanzpaar,dancing couple
+bildelement,Bildelement,Bauer,"peasant, farmer (male)"
+bildelement,Bildelement,Bäuerin,"peasant, farmer (female)"
+bildelement,Bildelement,Wirtshaus,"Inn, tavern"
+bildelement,Bildelement,Haus,house
+bildelement,Bildelement,Strohdach,straw roof
+bildelement,Bildelement,Sackpfeife,bagpipes
+bildelement,Bildelement,Dudelsackspieler,bagpipe player
+bildelement,Bildelement,Weg,route
+bildelement,Bildelement,Vollbart,full beard
+bildelement,Bildelement,Greis,old man
+bildelement,Bildelement,Hut,hat
+bildelement,Bildelement,Kniebundhose,"knickerbockers, knee breeches"
+bildelement,Bildelement,Hose,trousers
+bildelement,Bildelement,Wams,doublet
+bildelement,Bildelement,Hemd,shirt
+bildelement,Bildelement,Kniestrumpf,knee sock
+bildelement,Bildelement,Jacke,coat
+bildelement,Bildelement,Messer,knife
+bildelement,Bildelement,Herrenschuh,man's shoe
+bildelement,Bildelement,Damenschuh,woman's shoe
+bildelement,Bildelement,Stiefel,boot
+bildelement,Bildelement,Haube (Kopfbedeckung),bonnet
+bildelement,Bildelement,Bluse,blouse
+bildelement,Bildelement,Schürze,apron
+bildelement,Bildelement,Rock,skirt
+bildelement,Bildelement,Mieder,bodice
+bildelement,Bildelement,Mütze,close-fitting cap
+bildelement,Bildelement,Geste,gesture
+bildelement,Bildelement,Handgeste,hand gesture
+bildelement,Bildelement,Holztür,wooden door
+bildelement,Bildelement,Schornstein,chimney
+bildelement,Bildelement,Kamin,"chimney, fireplace"
+bildelement,Bildelement,Rauch,smoke
+bildelement,Bildelement,Licht,light
+bildelement,Bildelement,Schatten,shadow
+bildelement,Bildelement,Kartenspiel,card game
+bildelement,Bildelement,Spielkarte,playing card
+bildelement,Bildelement,Gastwirtin,hostess
+bildelement,Bildelement,Krug,pitcher
+bildelement,Bildelement,Gefäß,vessel
+bildelement,Bildelement,Lächeln,smile
+bildelement,Bildelement,Mimik,facial expression
+bildelement,Bildelement,Gewässer,body of water
+bildelement,Bildelement,Fluss,river
+bildelement,Bildelement,Wasser,water
+bildelement,Bildelement,Ufer,shore
+bildelement,Bildelement,Himmel,sky
+bildelement,Bildelement,Wolke,cloud
+bildelement,Bildelement,Vogel,bird
+bildelement,Bildelement,Baum,tree
+bildelement,Bildelement,Wiese,meadow
+bildelement,Bildelement,Vordergrund,foreground
+bildelement,Bildelement,Mittelgrund,middle ground
+bildelement,Bildelement,Hintergrund,background
+bildelement,Bildelement,Fenster,window
+bildelement,Bildelement,Bleiverglasung,leaded glass
+bildelement,Bildelement,Stuhl,chair
+bildelement,Bildelement,Hocker,stool
+bildelement,Bildelement,Ferne,far distance
+bildelement,Bildelement,Körperkontakt,physical contact
+bildelement,Bildelement,Musizierender,music-maker
+assoziation,Assoziation,Dorf,village
+assoziation,Assoziation,Volkstanz,folk dance

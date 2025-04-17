@@ -1,0 +1,24 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a drawing of architectural elements, including a column, an arch, and a section of a wall. The drawing is labeled with the numbers 153 and 154, which are likely part of a sequence or identification code. The drawing is done in a simple, sketchy style, with lines indicating the basic shapes and proportions of the architectural elements. The background is plain, with no additional details or shading.
+
+Output:
+Summary:
+"the image is a drawing of architectural elements, including a column, an arch, and a section of a wall . the drawing is label."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+arch, architectural elements, background, basic shapes, column, drawing, identification code, image, key words, motifs, no additional details, numbers, section, sequence, wall
+
+**Keywords for Motive:**
+key, likely
+
+**Keywords for Association:**
+None
+
+----------------------------------------

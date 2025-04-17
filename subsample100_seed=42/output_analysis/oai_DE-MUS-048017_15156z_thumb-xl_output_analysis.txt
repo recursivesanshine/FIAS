@@ -1,0 +1,24 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a pencil drawing of a woman and a man. The woman is standing in the center of the image, facing the viewer. She is wearing a long dress with a high collar and a long skirt. She has a necklace around her neck and a belt around her waist. Her hair is long and flowing, and she is wearing a headdress. She is holding a small object in her right hand, which appears to be a candle or a lamp. The man is standing behind the woman, to her right. He is wearing a long robe and a hat. He has a beard and a long beard. He is holding a large object in his left hand, which appears to be a large vase or a pot. The background of the image is a wall with a door. The door is open, and there is a tree behind the door. The image is drawn in a realistic style, and the artist has used shading to create depth and dimension.
+
+Output:
+Summary:
+"the image is a pencil drawing of a woman and a man . the woman is standing in the center of the image, facing the viewer . ma."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+artist, background, beard, belt, candle, center, door, hat, headdress, her hair, her neck, her right, her right hand, her waist, high collar, his left hand, image, key words, lamp, large object, large vase, long beard, long dress, long robe, long skirt, man, motifs, necklace, pencil drawing, pot, realistic style, small object, tree, viewer, wall, woman
+
+**Keywords for Motive:**
+key
+
+**Keywords for Association:**
+None
+
+----------------------------------------

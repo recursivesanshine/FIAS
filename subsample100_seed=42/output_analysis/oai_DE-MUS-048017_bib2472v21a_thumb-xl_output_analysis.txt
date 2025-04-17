@@ -1,0 +1,34 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a sketch of a scene, likely depicting a religious or historical event. The central figures are two men, both dressed in long robes, with the man on the right wearing a halo, indicating a holy or significant figure. The man on the left is also wearing a halo, suggesting a similar status or role.
+
+The background includes a building with a balcony or terrace, which is partially visible. The building has a classical architectural style, with columns and arches, typical of ancient or medieval European architecture. The building is situated on a hill or elevated ground, which is indicated by the lower ground level depicted in the sketch.
+
+In the foreground, there are several people, likely followers or disciples, dressed in similar robes as the central figures. These people are standing in a line, suggesting a formal or ceremonial setting. The people are depicted with simple, elongated figures, which might indicate a stylized or symbolic representation rather than a realistic depiction.
+
+The image is drawn in a sketchy style, with loose lines and minimal shading. The figures are outlined in black, and the background is filled with a light tone, which gives the image a clean and airy feel.
+
+The text at the bottom of the image reads "Ebendanda," which is likely the name of the location or the event depicted in the sketch. The text is written in a cursive script, which adds to the historical or religious context of the image.
+
+Given the sketchy style and the historical or religious context, this image could be a depiction of a biblical scene, such as the meeting of Jesus and the apostles, or a historical event involving religious figures. The presence of the halo and the classical architectural setting suggests a significant event or a religious ceremony.
+
+Output:
+Summary:
+"sketch of a scene, likely depicting a religious or historical event . central figures are two men, both dressed in long robes."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+apostles, background, balcony, biblical scene, bottom, building, central figures, cursive script, depiction, elevated ground, event, figures, foreground, halo, hill, historical event, image, key words, left, light tone, likely followers, line, location, long robes, loose lines, man, meeting, minimal shading, motifs, name, people, presence, realistic depiction, religious ceremony, religious figures, right, scene, several people, significant event, similar robes, similar status, simple elongated figures, sketch, sketchy style, text, these people, this image, two men
+
+**Keywords for Motive:**
+biblical, elevated, holy, key, likely, medieval, religious, significant, symbolic, typical
+
+**Keywords for Association:**
+None
+
+----------------------------------------

@@ -1,0 +1,24 @@
+Input 1:
+User:<image>Describe the image with details and give key words to describe the motifs.
+Assistant: The image is a sketch of a group of people. The people are standing and sitting around a table. The people are wearing different types of clothing. The people are standing and sitting around a table. The table is made of wood. The table is decorated with a cloth. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding different objects. The people are holding
+
+Output:
+Summary:
+"people are standing and sitting around a table. the table is decorated with a cloth. the people are holding different objects."
+
+**Keywords for Atmosphere:**
+None
+
+**Keywords for Emotion:**
+None
+
+**Elements of the Picture:**
+cloth, different objects, different types, group, image, key words, motifs, people, sketch, table
+
+**Keywords for Motive:**
+key
+
+**Keywords for Association:**
+None
+
+----------------------------------------

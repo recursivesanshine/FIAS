@@ -48,10 +48,7 @@ Total unique matches: 7
 Processing file: oai_DE-MUS-048017_sg377_thumb-xl.csv
 ======================================================
 
-Total unique matches: 7
-
-== Keywords for Atmosphere ==
-0.64	freshness
+Total unique matches: 6
 
 == Elements of the Picture ==
 0.98	basket
@@ -65,10 +62,7 @@ Total unique matches: 7
 Processing file: oai_DE-MUS-048017_1415_thumb-xl.csv
 =====================================================
 
-Total unique matches: 3
-
-== Keywords for Atmosphere ==
-0.77	thoughtfulness
+Total unique matches: 2
 
 == Elements of the Picture ==
 0.85	man
@@ -84,14 +78,19 @@ Total unique matches: 1
 0.70	Montserrat (mountain)
 
 
+Processing file: oai_DE-MUS-048017_bib2472v21a_thumb-xl.csv
+============================================================
+
+Total unique matches: 1
+
+== Keywords for Motive ==
+0.69	Biblical portrayal
+
+
 Processing file: oai_DE-MUS-048017_703_johannes-verspronck-portrait-woman-armchair-703--thumb-xl.csv
 =====================================================================================================
 
-Total unique matches: 7
-
-== Keywords for Atmosphere ==
-0.98	calm
-0.52	heaviness
+Total unique matches: 5
 
 == Elements of the Picture ==
 0.93	woman
@@ -104,10 +103,7 @@ Total unique matches: 7
 Processing file: oai_DE-MUS-048017_sg411_thumb-xl.csv
 ======================================================
 
-Total unique matches: 8
-
-== Keywords for Atmosphere ==
-0.59	freshness
+Total unique matches: 7
 
 == Elements of the Picture ==
 0.92	village
